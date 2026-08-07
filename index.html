@@ -1048,7 +1048,7 @@ function open(c){
         </div>
         <div id="rankbox"></div>
         <p class="note">
-          ${c.name==="실시간" ? `<b>이 순위는 편집자가 직접 고른 것입니다.</b> 검색량 집계와 무관하며, 어떤 대가로도 순서를 바꾸지 않습니다. 각 항목의 내용과 출처는 아래 게시판에 적어둡니다.` : c.live ? `<b>집계 방식</b> · ${esc(c.live.source)}의 ${esc(c.live.targetDate.slice(0,4))}년 ${esc(c.live.targetDate.slice(4,6))}월 ${esc(c.live.targetDate.slice(6,8))}일 일별 관객수 기준입니다. 등락은 전일 대비 순위 변동입니다.` : `<b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
+          ${c.name==="실시간" ? `<b>이 순위는 편집자가 직접 고른 것입니다.</b> 검색량 집계와 무관하며, 어떤 대가로도 순서를 바꾸지 않습니다. 각 항목의 내용과 출처는 아래 게시판에 적어둡니다.` : c.live ? `<b>집계 방식</b> · ${esc(c.live.source)}의 ${esc(c.live.targetDate.slice(0,4))}년 ${esc(c.live.targetDate.slice(4,6))}월 ${esc(c.live.targetDate.slice(6,8))}일 일 ${esc(c.live.basis||"일별 관객수")} 기준입니다. 등락은 전일 대비 순위 변동입니다.` : `<b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
           등락은 지난주 같은 요일 순위와 비교한 값입니다. 가장 많이 검색된 순서로 보여줍니다.`}
         </p>
       </div>
