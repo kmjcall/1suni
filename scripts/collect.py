@@ -1,4 +1,4 @@
-import json, os, urllib.request, urllib.parse
+import json, os, time, urllib.request, urllib.parse
 from datetime import datetime, timedelta, timezone
 
 KST = timezone(timedelta(hours=9))
@@ -9,8 +9,20 @@ url = ("http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/"
        "searchDailyBoxOfficeList.json?"
        + urllib.parse.urlencode({"key": KEY, "targetDt": target}))
 
-with urllib.request.urlopen(url, timeout=20) as r:
-    raw = json.load(r)
+raw = None
+for attempt in range(1, 6):
+    try:
+        with urllib.request.urlopen(url, timeout=25) as r:
+            raw = json.load(r)
+        print(f"성공 (시도 {attempt}회)")
+        break
+    except Exception as e:
+        print(f"시도 {attempt} 실패: {e}")
+        if attempt < 5:
+            time.sleep(attempt * 5)
+
+if raw is None:
+    raise SystemExit("KOFIC 연결 실패 — 기존 데이터 유지")
 
 rows = raw["boxOfficeResult"]["dailyBoxOfficeList"][:10]
 if not rows:
@@ -29,6 +41,7 @@ for x in rows:
 
 out = {
     "source": "영화진흥위원회",
+    "basis": "일별 관객수",
     "targetDate": target,
     "updated": datetime.now(KST).isoformat(timespec="seconds"),
     "list": lst,
