@@ -1705,29 +1705,6 @@ async function removeComment(id){
   }catch(e){}
   busy = false;
 }
-/* ---- 실데이터 오버레이 ---- */
-async function loadLive(){
-  try{
-    const res = await fetch("./data/live.json?v=" + Date.now());
-    if(!res.ok) return;
-    const live = await res.json();
-    Object.entries(live.categories || {}).forEach(([catName, obj])=>{
-      const c = DATA.find(d => d.name === catName);
-      if(c && obj.list && obj.list.length){
-        c.list = obj.list;
-        c.live = true;
-        c.source = obj.source;
-      }
-    });
-    if(live.updated){
-      const d = new Date(live.updated);
-      $("#stamp").textContent =
-        `${d.getMonth()+1}월 ${d.getDate()}일 ${String(d.getHours()).padStart(2,"0")}:00`;
-    }
-    render();
-  }catch(e){ console.warn("live data 로드 실패, 샘플 유지", e); }
-}
-loadLive();
 </script>
 </body>
 </html>
