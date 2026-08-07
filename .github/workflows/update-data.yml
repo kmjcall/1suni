@@ -23,6 +23,9 @@ jobs:
           KOFIC_KEY: ${{ secrets.KOFIC_KEY }}
         run: python scripts/collect.py
 
+      - name: Collect apps
+        run: python scripts/collect_apps.py
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
