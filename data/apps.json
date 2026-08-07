@@ -1,0 +1,27 @@
+{
+ "updated": "2026-08-07T16:10:01+09:00",
+ "categories": {
+  "은행 앱": {
+   "source": "Apple App Store",
+   "basis": "iOS 앱 순위",
+   "targetDate": "20260807",
+   "list": [
+    {
+     "name": "하나원큐",
+     "idx": 100,
+     "mv": 0
+    },
+    {
+     "name": "NH올원",
+     "idx": 6,
+     "mv": 0
+    },
+    {
+     "name": "우리WON",
+     "idx": 4,
+     "mv": 0
+    }
+   ]
+  }
+ }
+}
