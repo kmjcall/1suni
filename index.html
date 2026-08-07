@@ -728,7 +728,21 @@ fetch("data/movies.json", {cache:"no-store"})
     render();
   })
   .catch(()=>{});
-
+fetch("data/apps.json", {cache:"no-store"})
+  .then(r=> r.ok ? r.json() : null)
+  .then(d=>{
+    if(!d || !d.categories) return;
+    let hit = false;
+    Object.entries(d.categories).forEach(([nm, o])=>{
+      if(!o || !Array.isArray(o.list) || o.list.length < 3) return;
+      const c = DATA.find(x=>x.name===nm); if(!c) return;
+      c.list = o.list.map(it=>({name:it.name, idx:it.idx, mv:it.mv}));
+      c.live = {source:o.source, basis:o.basis, targetDate:o.targetDate};
+      hit = true;
+    });
+    if(hit) render();
+  })
+  .catch(()=>{});
 /* ============================================================
    2-1. 실시간으로 집계되는 효과
    화면에 보이는 카드 하나를 골라 순위를 한 칸씩 바꿔 보여줍니다.
