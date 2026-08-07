@@ -13,6 +13,9 @@ with urllib.request.urlopen(url, timeout=20) as r:
     raw = json.load(r)
 
 rows = raw["boxOfficeResult"]["dailyBoxOfficeList"][:10]
+if not rows:
+    raise SystemExit("no data for " + target)
+
 top = max(int(x["audiCnt"]) for x in rows)
 
 lst = []
@@ -24,20 +27,15 @@ for x in rows:
         "mv": mv,
     })
 
-os.makedirs("data", exist_ok=True)
-try:
-    with open("data/live.json", encoding="utf-8") as f:
-        out = json.load(f)
-except (FileNotFoundError, json.JSONDecodeError):
-    out = {"categories": {}}
-
-out["updated"] = datetime.now(KST).isoformat(timespec="seconds")
-out.setdefault("categories", {})["영화"] = {
-    "source": f"영화진흥위원회 일별 박스오피스 · {target}",
+out = {
+    "source": "영화진흥위원회",
+    "targetDate": target,
+    "updated": datetime.now(KST).isoformat(timespec="seconds"),
     "list": lst,
 }
 
-with open("data/live.json", "w", encoding="utf-8") as f:
+os.makedirs("data", exist_ok=True)
+with open("data/movies.json", "w", encoding="utf-8") as f:
     json.dump(out, f, ensure_ascii=False, indent=1)
 
 print("OK", target, [i["name"] for i in lst])
