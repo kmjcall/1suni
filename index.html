@@ -3,21 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>검색지수 랭킹 — 지금 가장 많이 검색된 것들</title>
+<title>1순위 닷컴 — 세상의 모든 순위</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 :root{
-  --paper:#E7E9F0;
+  --paper:#F6F1E1;
   --card:#FFFFFF;
   --ink:#101320;
-  --muted:#6E7488;
-  --line:#D2D6E2;
+  --muted:#6F6A5B;
+  --line:#E0D9C3;
   --up:#E2342A;
   --down:#1E5BD6;
-  --flat:#9AA0B1;
+  --flat:#A69F8B;
   --kr:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
 }
@@ -26,7 +26,7 @@ html{-webkit-text-size-adjust:100%}
 body{
   background:var(--paper);color:var(--ink);font-family:var(--kr);
   font-size:15px;line-height:1.5;letter-spacing:-.01em;
-  padding-bottom:64px;
+  padding-bottom:0;
 }
 button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 :focus-visible{outline:2px solid var(--down);outline-offset:2px;border-radius:2px}
@@ -36,13 +36,17 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
   position:sticky;top:0;z-index:40;background:rgba(231,233,240,.88);
   backdrop-filter:blur(12px);border-bottom:1px solid var(--line);
 }
-.top-in{max-width:1240px;margin:0 auto;padding:14px 20px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
-.brand{font-weight:800;font-size:19px;letter-spacing:-.03em}
+.top-in{max-width:1240px;margin:0 auto;padding:11px 20px 13px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;position:relative}
+.brand{font-weight:800;font-size:18px;letter-spacing:-.035em;white-space:nowrap}
 .brand em{font-style:normal;color:var(--up)}
-.stamp{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:0}
-.live{display:inline-flex;align-items:center;gap:5px}
-.dot{width:6px;height:6px;border-radius:50%;background:var(--up);animation:pulse 2.4s infinite}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.wordmark{
+  position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);
+  font-family:var(--kr);font-size:19px;font-weight:900;
+  letter-spacing:-.03em;line-height:1;color:var(--ink);white-space:nowrap;
+  padding:14px 32px;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='20 15 220 130' preserveAspectRatio='none'%3E%3Cg fill='%23d7e6fb'%3E%3Ccircle cx='55' cy='90' r='32'/%3E%3Ccircle cx='105' cy='58' r='40'/%3E%3Ccircle cx='163' cy='62' r='34'/%3E%3Ccircle cx='205' cy='90' r='30'/%3E%3Ccircle cx='95' cy='100' r='38'/%3E%3Ccircle cx='152' cy='102' r='34'/%3E%3C/g%3E%3C/svg%3E") center/100% 100% no-repeat;
+  filter:drop-shadow(0 5px 8px rgba(70,74,88,.34)) drop-shadow(0 2px 2px rgba(70,74,88,.26));
+}
 
 /* ---------- ticker ---------- */
 .ticker{
@@ -51,20 +55,22 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 }
 .ticker-in{display:flex;align-items:center;gap:0}
 .ticker-tag{
-  flex:none;padding:9px 14px;background:var(--up);color:#fff;
-  font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.08em;
+  flex:none;padding:5px 15px;background:var(--up);color:#fff;
+  font-family:var(--kr);font-size:14px;font-weight:800;letter-spacing:.02em;
 }
 .ticker-track{overflow:hidden;flex:1;position:relative;mask-image:linear-gradient(90deg,transparent,#000 24px,#000 92%,transparent)}
-.ticker-run{display:flex;gap:34px;white-space:nowrap;padding:9px 24px;animation:slide 46s linear infinite}
+.ticker-run{display:flex;gap:34px;white-space:nowrap;padding:5px 24px;animation:slide 6s linear infinite}
 .ticker:hover .ticker-run{animation-play-state:paused}
 @keyframes slide{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-.tk{font-size:13px;display:inline-flex;align-items:baseline;gap:7px}
+.tk{font-size:13px;display:inline-flex;align-items:baseline;gap:7px;cursor:pointer}
+.tk:hover b{text-decoration:underline;text-underline-offset:3px}
+.tk:focus-visible{outline:2px solid #fff;outline-offset:3px;border-radius:3px}
 .tk .cat{color:#8C93A8;font-family:var(--mono);font-size:11px}
 .tk .up{color:#FF8A80;font-family:var(--mono);font-size:11.5px}
 
 /* ---------- controls ---------- */
 .wrap{max-width:1240px;margin:0 auto;padding:0 20px}
-.controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:22px 0 6px}
+.controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:22px 0 18px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;flex:1}
 .chip{
   font-size:12.5px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;
@@ -72,90 +78,288 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 }
 .chip:hover{border-color:var(--ink);color:var(--ink)}
 .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.search{position:relative;display:flex;align-items:center;flex:1;min-width:180px;max-width:294px;margin-left:auto}
+.search .mag{position:absolute;left:14px;color:var(--muted);display:flex;pointer-events:none}
+.search:focus-within .mag{color:var(--ink)}
 .find{
-  border:1px solid var(--line);background:var(--card);border-radius:8px;
-  padding:8px 12px;font-size:13.5px;width:210px;font-family:var(--kr);
+  width:100%;border:1.5px solid var(--line);background:var(--card);border-radius:10px;
+  padding:10px 14px 10px 40px;font-size:14.5px;font-family:var(--kr);color:var(--ink);
+  letter-spacing:-.01em;transition:border-color .15s,box-shadow .15s;
 }
 .find::placeholder{color:var(--flat)}
-.count{font-family:var(--mono);font-size:11px;color:var(--muted);padding:4px 0 18px}
+.find:hover{border-color:#CFC6AC}
+.find:focus{outline:none;border-color:var(--ink);box-shadow:0 0 0 3px rgba(16,19,32,.08)}
 
 /* ---------- grid ---------- */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(302px,1fr));gap:12px}
+.card .row:last-child{border-bottom:0}
 .card{
   background:var(--card);border:1px solid var(--line);border-radius:12px;
-  padding:16px 16px 12px;text-align:left;width:100%;display:block;
+  padding:9px 16px 10px;text-align:left;width:100%;display:block;position:relative;
   transition:border-color .16s,transform .16s;
 }
-.card:hover{border-color:var(--ink);transform:translateY(-2px)}
-.card-hd{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:9px}
-.grp{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase}
-.hotmark{font-family:var(--mono);font-size:10px;color:var(--up);letter-spacing:.04em}
-.cat-name{font-size:17.5px;font-weight:700;letter-spacing:-.03em;margin-bottom:13px}
+.card:hover{border-color:var(--ink)}
+.card.rise{border-color:var(--up)}
+.cat-name.pulse{font-size:18px;animation:catPulse 1.6s ease-in-out infinite}
+@keyframes catPulse{0%,8%{color:var(--ink)}26%,80%{color:var(--up)}100%{color:var(--ink)}}
+.hotmark{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.06em;color:var(--up);margin-left:7px;vertical-align:2px}
+.cat-name{font-size:17px;font-weight:700;letter-spacing:-.03em;line-height:1.25;margin-bottom:6px;color:#4E5468}
 
 /* rank rows */
-.row{display:grid;grid-template-columns:15px 1fr 40px 34px;align-items:center;gap:9px;padding:5px 0}
+.row{display:grid;grid-template-columns:15px 1fr 46px;align-items:center;gap:9px;padding:2px 0;line-height:1.35;border-bottom:1px solid #F2F3F7;background:var(--card);position:relative;transform-origin:center center;backface-visibility:hidden}
 .rk{font-family:var(--mono);font-size:12px;font-weight:600;color:var(--flat)}
 .row.first .rk{color:var(--up)}
-.nm{font-size:14px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rows{perspective:620px}
+.row.flip{animation:flap .66s cubic-bezier(.35,.02,.25,1);z-index:2;border-radius:5px;box-shadow:0 2px 7px rgba(16,19,32,.11)}
+@keyframes flap{
+  0%{transform:rotateX(0deg)}
+  49%{transform:rotateX(90deg)}
+  50%{transform:rotateX(270deg)}
+  100%{transform:rotateX(360deg)}
+}
+.nm{font-size:13.5px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .row.first .nm{font-weight:700}
 .idx{font-family:var(--mono);font-size:11.5px;color:var(--muted);text-align:right}
 .mv{font-family:var(--mono);font-size:11px;text-align:right}
 .mv.u{color:var(--up)}.mv.d{color:var(--down)}.mv.f{color:var(--flat)}
-.mv.n{color:var(--up);font-weight:600}
-.bar{grid-column:2 / -1;height:3px;background:#EDEFF4;border-radius:2px;overflow:hidden;margin:-3px 0 3px}
-.bar i{display:block;height:100%;background:var(--flat);width:0;border-radius:2px;transition:width .8s cubic-bezier(.2,.8,.2,1)}
-.row.first + .bar i{background:var(--up)}
-.more{
-  font-family:var(--mono);font-size:10.5px;color:var(--muted);letter-spacing:.04em;
-  border-top:1px solid #EDEFF4;margin-top:8px;padding-top:9px;display:block;
+.mv.n{color:var(--up);font-weight:600;font-size:10px;letter-spacing:-.02em}
+.row.first + .card:hover .nm{color:var(--ink)}
+.foot{border-top:1px solid var(--line);margin-top:48px;padding:26px 0 44px}
+.foot-in{max-width:1240px;margin:0 auto;padding:0 20px}
+.foot-brand{font-size:13px;font-weight:900;letter-spacing:-.02em;color:var(--ink);margin-bottom:16px}
+.foot-cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(228px,1fr));gap:18px 28px}
+.foot h4{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--flat);font-weight:600;margin-bottom:5px}
+.foot p{font-size:11.5px;line-height:1.75;color:var(--muted)}
+.foot-tail{margin-top:20px;padding-top:14px;border-top:1px solid var(--line);font-size:11px;color:var(--flat)}
+.signup{display:none;padding:0 20px}
+.signup.on{display:block}
+body.signing .top,body.signing .ticker,body.signing main.wrap,body.signing .scrim{display:none}
+.signup-in{
+  background:var(--card);max-width:560px;margin:22px auto 44px;border:1px solid var(--line);
+  border-radius:14px;padding:24px 24px 20px;animation:rise .22s cubic-bezier(.2,.8,.2,1);
 }
-.card:hover .more{color:var(--ink)}
-
+.fld{margin-bottom:13px}
+.fld2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.fld label{display:block;font-size:12px;font-weight:600;color:var(--ink);margin-bottom:5px;letter-spacing:-.02em}
+.fld label em{font-style:normal;font-family:var(--mono);font-size:9.5px;color:var(--up);margin-left:4px}
+.fld label span{font-family:var(--mono);font-size:9.5px;color:var(--flat);margin-left:4px}
+.fld input{
+  width:100%;border:1px solid var(--line);background:var(--card);border-radius:9px;
+  padding:10px 12px;font-family:var(--kr);font-size:14px;color:var(--ink);
+}
+.fld input::placeholder{color:var(--flat)}
+.fld input:focus{outline:none;border-color:var(--ink)}
+.fld-note{font-size:11.5px;line-height:1.7;color:var(--muted);margin:4px 0 14px}
+.fld-note.err{color:var(--up)}
+.agree{display:flex;gap:8px;align-items:flex-start;font-size:12px;line-height:1.6;color:var(--muted);margin-bottom:9px;cursor:pointer}
+.agree input{margin-top:2px;accent-color:var(--ink);flex:none}
+.agree em{font-style:normal;font-family:var(--mono);font-size:9.5px;color:var(--up)}
+.agree span span{font-family:var(--mono);font-size:9.5px;color:var(--flat)}
+.send.wide{width:100%;padding:12px;font-size:14px;border-radius:9px;margin-top:8px}
+@media (max-width:520px){ .fld2{grid-template-columns:1fr} }
 /* ---------- detail ---------- */
-.scrim{position:fixed;inset:0;background:rgba(16,19,32,.55);z-index:50;display:none;padding:20px;overflow-y:auto}
+.scrim{display:none;padding:0 20px}
 .scrim.on{display:block}
+body.viewing .top,body.viewing .ticker,body.viewing main.wrap{display:none}
 .sheet{
-  background:var(--card);max-width:600px;margin:6vh auto;border-radius:14px;
+  background:var(--card);max-width:1240px;margin:22px auto 44px;border:1px solid var(--line);border-radius:14px;
   padding:24px 24px 20px;animation:rise .22s cubic-bezier(.2,.8,.2,1);
 }
 @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 .sheet-hd{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:4px}
 .sheet h2{font-size:24px;font-weight:800;letter-spacing:-.04em}
 .sheet .sub{font-family:var(--mono);font-size:11px;color:var(--muted);margin-bottom:18px}
-.x{font-size:22px;line-height:1;color:var(--muted);padding:2px 6px}
-.x:hover{color:var(--ink)}
+.x{
+  flex:none;display:flex;align-items:center;justify-content:center;
+  width:34px;height:34px;font-size:24px;line-height:1;color:var(--ink);
+  background:none;border:0;transition:transform .15s;
+}
+.x:hover{transform:scale(1.45)}
+.nmwrap{display:flex;align-items:baseline;gap:8px;min-width:0}
+.vrank{font-family:var(--mono);font-size:10px;color:var(--flat);white-space:nowrap;flex:none}
+.vrank.medal{font-size:10.5px;font-weight:600;padding:1px 6px;border-radius:4px;background:#EDE6D2;color:var(--muted)}
+.vrank.gap{font-weight:600;padding:1px 6px;border-radius:4px}
+.vrank.gapU{color:var(--up);background:rgba(226,52,42,.11)}
+.vrank.gapD{color:var(--down);background:rgba(30,91,214,.11)}
+.nmbtn{text-align:left;color:inherit;display:inline-flex;align-items:baseline;gap:6px;min-width:0}
+.nmbtn:hover{text-decoration:underline;text-underline-offset:3px}
+.nmbtn .cv{font-size:9px;color:var(--flat);transition:transform .15s}
+.nmbtn.on .cv{transform:rotate(180deg)}
+.fitem{position:relative}
+.linkbox{
+  display:none;position:absolute;left:30px;top:100%;z-index:6;
+  gap:6px;background:var(--card);border:1px solid var(--line);
+  border-radius:9px;padding:7px 8px;box-shadow:0 6px 16px rgba(16,19,32,.15);margin-top:-6px;
+  white-space:nowrap;
+}
+.fitem:hover .linkbox,.linkbox.open{display:flex}
+.linkbox a{
+  font-family:var(--mono);font-size:10.5px;color:var(--muted);text-decoration:none;
+  border:1px solid var(--line);border-radius:6px;padding:4px 9px;transition:.15s;
+}
+.linkbox a:hover{border-color:var(--down);color:var(--down)}
+.linkbox.wide{flex-direction:column;gap:5px;max-width:420px;white-space:normal}
+.linkbox.wide a{display:flex;align-items:baseline;gap:7px}
+.linkbox .at{font-family:var(--kr);font-size:12.5px;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:290px}
+.linkbox .ap{font-family:var(--mono);font-size:9.5px;color:var(--flat);flex:none}
+.linkbox.wide a:hover .at{color:var(--down)}
+.rtabs{display:flex;gap:5px;margin-bottom:10px}
+.rtab{font-family:var(--mono);font-size:10.5px;padding:4px 12px;border:1px solid var(--line);border-radius:999px;color:var(--muted);transition:.15s}
+.rtab:hover{border-color:var(--ink);color:var(--ink)}
+.rtab[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.vbtn{
+  font-family:var(--mono);font-size:10px;padding:4px 8px;border:1px solid var(--line);
+  border-radius:6px;color:var(--muted);background:var(--card);transition:.15s;justify-self:end;
+}
+.vbtn:hover:not(:disabled){border-color:var(--up);color:var(--up)}
+.vbtn:disabled{opacity:.4;cursor:default}
+.vbtn.done{border-color:var(--up);color:var(--up);opacity:1}
+.vnote{font-size:11.5px;color:var(--muted);line-height:1.7;margin-top:12px}
+.vnote b{color:var(--ink);font-weight:600}
 .full{border-top:1px solid var(--line)}
-.frow{display:grid;grid-template-columns:22px 1fr 52px 42px;align-items:center;gap:10px;padding:11px 0 4px}
-.fbar{grid-column:2 / -1;height:4px;background:#EDEFF4;border-radius:2px;overflow:hidden;margin-bottom:11px;border-bottom:0}
+.frow{display:grid;grid-template-columns:22px 1fr 52px 50px;align-items:center;gap:10px;padding:11px 0 4px}
+.fbar{grid-column:2 / -1;height:4px;background:#EDE6D2;border-radius:2px;overflow:hidden;margin-bottom:11px;border-bottom:0}
 .fbar i{display:block;height:100%;background:var(--flat);border-radius:2px}
 .frow.first .rk,.frow.first .nm{color:var(--ink)}
 .frow.first .rk{color:var(--up);font-size:14px}
 .frow.first .nm{font-weight:700;font-size:16px}
-.frow + .fbar{border-bottom:1px solid #F1F2F6}
+.wlink{color:inherit;text-decoration:none;display:inline-flex;align-items:baseline;gap:5px}
+.wlink:hover{text-decoration:underline;text-underline-offset:3px}
+.wlink .out{font-family:var(--mono);font-size:9.5px;color:var(--flat);opacity:0;transition:opacity .15s}
+.wlink:hover .out{opacity:1}
+.frow + .fbar{border-bottom:1px solid #EFE9D8}
 .frow.first + .fbar i{background:var(--up)}
 .note{font-size:11.5px;color:var(--muted);line-height:1.65;border-top:1px solid var(--line);padding-top:14px;margin-top:6px}
 .note b{color:var(--ink);font-weight:600}
 
-.foot{max-width:1240px;margin:44px auto 0;padding:20px;border-top:1px solid var(--line);font-size:11.5px;color:var(--muted);line-height:1.7}
+/* ---------- sheet body: 순위 | 게시판 ---------- */
+.sheet-body{display:grid;grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr);gap:0 22px;align-items:start}
+.col-rank{padding-right:4px}
+.col-board{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:16px 18px 14px}
 
+/* ---------- board ---------- */
+.board{padding-bottom:2px}
+.board-hd{
+  display:flex;align-items:center;justify-content:space-between;gap:10px;
+  margin-bottom:12px;padding:2px 0 10px;flex-wrap:wrap;
+}
+.tabs{display:flex;gap:5px;margin-left:auto}
+.tab{font-family:var(--mono);font-size:10.5px;padding:4px 10px;border:1px solid var(--line);border-radius:999px;color:var(--muted);transition:.15s}
+.tab:hover{border-color:var(--ink);color:var(--ink)}
+.tab[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+
+.authslot{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.whoin{font-size:13px;font-weight:700;letter-spacing:-.02em}
+.mini{
+  width:104px;border:1px solid var(--line);background:var(--card);border-radius:7px;
+  padding:7px 10px;font-family:var(--kr);font-size:12.5px;color:var(--ink);
+}
+.mini::placeholder{color:var(--flat)}
+.mini:focus{outline:none;border-color:var(--ink)}
+.linkbtn{font-family:var(--mono);font-size:10.5px;color:var(--muted);text-decoration:underline;text-underline-offset:2px}
+.linkbtn:hover{color:var(--ink)}
+
+.compose{margin-bottom:16px}
+.compose textarea{
+  width:100%;border:1px solid var(--line);background:var(--card);border-radius:9px;
+  padding:10px 12px;font-family:var(--kr);font-size:13.5px;line-height:1.6;resize:vertical;
+  min-height:74px;color:var(--ink);
+}
+.compose textarea:focus{outline:none;border-color:var(--ink)}
+.compose textarea::placeholder{color:var(--flat)}
+.cbar{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:8px}
+.cnt{font-family:var(--mono);font-size:10.5px;color:var(--flat)}
+.send{background:var(--ink);color:#fff;padding:7px 15px;border-radius:8px;font-size:12.5px;font-weight:600;letter-spacing:-.02em}
+.send:disabled{opacity:.35;cursor:default}
+.send.sm{padding:6px 11px;font-size:12px;border-radius:7px}
+.send.ghost{background:transparent;border:1px solid var(--line);color:var(--ink)}
+.send.ghost:hover{border-color:var(--ink)}
+
+.replies{margin:-3px 0 7px 22px;display:flex;flex-direction:column;gap:6px}
+.cmt.rep{background:var(--paper);border-color:#E6DFC9;padding:8px 12px 9px}
+.cmt.rep p{font-size:13px}
+.repmark{font-family:var(--mono);font-size:11px;color:var(--flat);margin-right:-3px}
+.replybox[hidden]{display:none}
+.replybox{display:flex;gap:7px;align-items:flex-start;margin:-2px 0 9px 22px}
+.replybox textarea{
+  flex:1;border:1px solid var(--line);background:var(--card);border-radius:8px;padding:8px 11px;
+  font-family:var(--kr);font-size:13px;line-height:1.5;resize:vertical;min-height:38px;color:var(--ink);
+}
+.replybox textarea:focus{outline:none;border-color:var(--ink)}
+.cmt{cursor:pointer}
+.cmt:hover{border-color:#D8D0B8}
+.tagc{cursor:pointer;transition:.15s}
+.tagc:hover{border-color:var(--ink);color:var(--ink)}
+.cmt{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 13px 10px;margin-bottom:7px}
+.cmt-hd{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;row-gap:4px}
+.cmt-hd .nick{font-size:12.5px;font-weight:700;letter-spacing:-.02em}
+.cmt-hd .ago{font-family:var(--mono);font-size:10px;color:var(--flat)}
+.tagc{font-family:var(--mono);font-size:9.5px;letter-spacing:.04em;color:var(--muted);border:1px solid var(--line);border-radius:3px;padding:1px 5px}
+.cmt p{font-size:13.5px;line-height:1.55;margin-top:3px;white-space:pre-wrap;word-break:break-word}
+.cmt-ft{display:flex;gap:12px;margin-left:auto;flex:none}
+.act{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+.act:hover{color:var(--ink)}
+.act.on{color:var(--up)}
+.pager{display:flex;justify-content:center;gap:5px;margin-top:14px;flex-wrap:wrap}
+.pg{
+  min-width:29px;height:29px;padding:0 7px;border:1px solid var(--line);border-radius:7px;
+  background:var(--card);font-family:var(--mono);font-size:11.5px;color:var(--muted);transition:.15s;
+}
+.pg:hover:not(:disabled){border-color:var(--ink);color:var(--ink)}
+.pg[aria-current="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.pg:disabled{opacity:.3;cursor:default}
+.empty{font-family:var(--mono);font-size:11px;color:var(--muted);padding:20px 0;text-align:center;background:var(--card);border:1px dashed var(--line);border-radius:10px}
+
+.cmt.masked{opacity:.55}
+.cmt.masked .nick{color:var(--muted);font-weight:600}
+.masked-note{
+  font-family:var(--mono);font-size:11.5px;color:var(--muted);margin-top:5px;
+  border:1px dashed var(--line);border-radius:7px;padding:9px 11px;background:var(--paper);
+  user-select:none;
+}
+.toast{
+  position:fixed;left:50%;bottom:26px;transform:translateX(-50%) translateY(10px);
+  background:var(--ink);color:#F2F3F7;font-size:13px;letter-spacing:-.02em;
+  padding:11px 17px;border-radius:9px;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .18s,transform .18s;
+}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
+
+
+@media (max-width:1080px){
+  .wordmark{position:static;top:auto;transform:none;font-size:17px;padding:13px 28px}
+}
+@media (max-width:880px){
+  .sheet-body{grid-template-columns:1fr;gap:0}
+  .col-board{margin-top:18px;padding:14px 14px 12px}
+}
 @media (max-width:640px){
   .brand{font-size:17px}
-  .find{width:100%}
-  .sheet{padding:20px 16px 16px;margin:0 auto}
+  .search{max-width:none;margin-left:0;min-width:100%}
+  .wordmark{position:static;top:auto;transform:none;font-size:15px;padding:12px 24px}
+  .find{font-size:14px;padding:10px 12px 10px 38px}
+  .sheet{padding:20px 16px 16px;margin:14px auto 24px}
   .grid{grid-template-columns:1fr}
 }
 @media (prefers-reduced-motion:reduce){
   *{animation:none!important;transition:none!important}
-  .bar i{transition:none}
-}
+  }
 </style>
 </head>
 <body>
 
 <header class="top">
   <div class="top-in">
-    <span class="brand">검색지수 <em>랭킹</em></span>
-    <span class="stamp live"><span class="dot"></span><span id="stamp"></span> 기준 · 최근 7일 검색지수</span>
+    <span class="brand">1등만 기억하는 더러운 세상, <em>1순위</em> 닷컴</span>
+    <span class="wordmark">1SUNI.COM</span>
+    <div class="search">
+      <span class="mag" aria-hidden="true">
+        <svg viewBox="0 0 20 20" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.9">
+          <circle cx="8.6" cy="8.6" r="5.4"/><path d="M12.6 12.6 17 17" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <input class="find" id="find" type="search" placeholder="분야별 1순위 검색" aria-label="분야 검색">
+    </div>
   </div>
 </header>
 
@@ -169,33 +373,106 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 <main class="wrap">
   <div class="controls">
     <div class="chips" id="chips"></div>
-    <input class="find" id="find" type="search" placeholder="분야 검색 (예: 노트북)" aria-label="분야 검색">
   </div>
-  <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
 </main>
-
-<footer class="foot">
-  순위는 검색량 지수를 기준으로 자동 집계됩니다. 검색량이 많다는 것이 품질·선호·평판이 높다는 뜻은 아닙니다.<br>
-  현재 화면의 수치는 UI 확인용 <b>샘플 데이터</b>입니다.
-</footer>
 
 <div class="scrim" id="scrim" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
   <div class="sheet" id="sheet"></div>
 </div>
+
+
+<section class="signup" id="signup">
+  <div class="signup-in">
+    <div class="sheet-hd">
+      <div>
+        <h2>가입</h2>
+        <div class="sub">닉네임과 비밀번호만 있으면 됩니다</div>
+      </div>
+      <button class="x" id="suClose" aria-label="닫기">×</button>
+    </div>
+
+    <div class="fld">
+      <label for="suNick">닉네임 <em>필수</em></label>
+      <input id="suNick" maxlength="12" placeholder="2~12자, 글에 그대로 표시됩니다" autocomplete="username">
+    </div>
+    <div class="fld2">
+      <div class="fld">
+        <label for="suPw">비밀번호 <em>필수</em></label>
+        <input id="suPw" type="password" maxlength="32" placeholder="4자 이상" autocomplete="new-password">
+      </div>
+      <div class="fld">
+        <label for="suPw2">비밀번호 확인 <em>필수</em></label>
+        <input id="suPw2" type="password" maxlength="32" placeholder="한 번 더" autocomplete="new-password">
+      </div>
+    </div>
+    <div class="fld">
+      <label for="suMail">이메일 <span>선택</span></label>
+      <input id="suMail" type="email" maxlength="60" placeholder="비밀번호를 잊었을 때만 사용합니다" autocomplete="email">
+    </div>
+
+    <p class="fld-note">아래 두 항목은 없어도 가입됩니다. 넣지 않으셔도 모든 기능을 쓸 수 있습니다.</p>
+    <div class="fld2">
+      <div class="fld">
+        <label for="suName">이름 <span>선택</span></label>
+        <input id="suName" maxlength="20">
+      </div>
+      <div class="fld">
+        <label for="suTel">전화번호 <span>선택</span></label>
+        <input id="suTel" type="tel" maxlength="20">
+      </div>
+    </div>
+
+    <label class="agree"><input type="checkbox" id="agree1"><span>이용약관과 개인정보처리방침에 동의합니다. <em>필수</em></span></label>
+    <label class="agree"><input type="checkbox" id="agree2"><span>이름·전화번호 수집에 동의합니다. 문의 답변과 본인 확인에만 쓰고 탈퇴 시 지웁니다. <span>선택</span></span></label>
+
+    <button class="send wide" id="suGo">가입하기</button>
+    <p class="fld-note" id="suMsg">비밀번호는 일방향 암호화해 보관하며, 저희도 원래 값을 알 수 없습니다.</p>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="foot-in">
+    <p class="foot-brand">1SUNI.COM · 세상의 모든 순위</p>
+    <div class="foot-cols">
+      <section>
+        <h4>순위 기준</h4>
+        <p>모든 순위는 검색량 지수를 기준으로 자동 집계한 결과이며, 가장 많이 검색된 순서를 보여줍니다. 검색량이 많다는 것이 품질·선호·평판이 높다는 뜻은 아닙니다. 부정적인 이슈로도 검색량은 늘어납니다.</p>
+      </section>
+      <section>
+        <h4>집계와 출처</h4>
+        <p>네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다. 등락은 지난주 같은 요일 순위와 비교한 값입니다. 현재 화면의 수치와 의견은 모두 UI 확인용 샘플입니다.</p>
+      </section>
+      <section>
+        <h4>게시판 운영</h4>
+        <p>의견 게시판은 분야별로 나뉘지 않은 통합 게시판이며, 올린 글은 이 사이트를 여는 모든 사람에게 공개됩니다. 글에 대한 책임은 작성자에게 있습니다. 권리 침해를 이유로 삭제를 요청하시면 정보통신망법 제44조의2에 따라 지체 없이 필요한 조치를 하고, 침해 여부를 판단하기 어렵거나 다툼이 예상되면 30일 이내의 임시조치로 접근을 차단합니다. 조치 사실은 작성자와 신청인에게 알리며, 작성자는 이의신청으로 복원을 요청할 수 있습니다.</p>
+      </section>
+      <section>
+        <h4>개인정보와 상표</h4>
+        <p>가입 시 닉네임과 비밀번호만 받으며 비밀번호는 일방향 암호화해 보관합니다. 화면에 나오는 상호·브랜드·기관명은 각 권리자의 상표이고, 이 사이트는 해당 권리자와 제휴하거나 후원받는 관계가 아닙니다. 순위는 어떤 대가로도 조정되지 않습니다.</p>
+      </section>
+    </div>
+    <p class="foot-tail">게시물 신고 및 이의신청 · 문의 : kmjcall@gmail.com &nbsp;·&nbsp; 이용약관 &nbsp;·&nbsp; 개인정보처리방침</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 
 <script>
 /* ============================================================
    1. 데이터 레이어 — 실제 서비스에서는 이 부분만 fetch로 교체
    ============================================================ */
 const RAW = [
+  ["빅이슈","뉴스",["황정민","검찰 수사권 폐지","2026 세제개편안","폭염 중대본","김부장","종부세 20억","광복절 81주년","코레일·SR 통합","윤석열 선고","영화 호프"]],
+  ["실시간","뉴스",["택배 상자에 붙어 있던 손편지","지하철 노약자석 할아버지의 한마디","회사 탕비실 냉장고 대참사","편의점 알바생이 붙여둔 안내문","3년 만에 돌아온 유기견","수능 날 교문 앞 경찰관","아파트 승강기에 붙은 사과문","치킨집 사장님의 계산 실수","출근길 버스에서 벌어진 일","어머니 휴대폰 속 사진 폴더"]],
+
   ["대학교","교육",["연세대학교","서울대학교","고려대학교","성균관대학교","한양대학교","서강대학교","중앙대학교","경희대학교","KAIST","이화여자대학교"]],
   ["대학원 MBA","교육",["서울대 MBA","KAIST MBA","연세대 MBA","고려대 MBA","성균관대 MBA","한양대 MBA","서강대 MBA","중앙대 MBA","이화여대 MBA","건국대 MBA"]],
   ["어학원","교육",["파고다","YBM","해커스","시원스쿨","윤선생","청담어학원","정상어학원","민병철","케임브리지","EF"]],
   ["코딩 부트캠프","교육",["코드스테이츠","패스트캠퍼스","우아한테크코스","SSAFY","엘리스","스파르타코딩","42서울","멋쟁이사자처럼","네이버 부스트캠프","드림코딩"]],
   ["자격증","교육",["정보처리기사","컴활 1급","한국사능력검정","토익","전기기사","공인중개사","산업안전기사","사회복지사","건축기사","투자자산운용사"]],
 
-  ["스마트폰","IT·전자",["갤럭시 S25","아이폰 17","갤럭시 Z 폴드","아이폰 17 Pro","갤럭시 Z 플립","갤럭시 A 시리즈","아이폰 16","픽셀 10","샤오미 15","갤럭시 S24"]],
+  ["스마트폰","IT·전자",["갤럭시 S26 울트라","아이폰 17 프로","갤럭시 S26","갤럭시 Z 폴드8","아이폰 18 프로","갤럭시 Z 플립8","아이폰 17","갤럭시 S25","아이폰 폴드","갤럭시 A 시리즈"]],
   ["노트북","IT·전자",["맥북 에어","갤럭시 북","LG 그램","맥북 프로","ASUS 젠북","레노버 요가","델 XPS","HP 스펙터","ASUS ROG","MSI 게이밍"]],
   ["무선이어폰","IT·전자",["에어팟 프로","갤럭시 버즈","소니 WF","보스 QC","젠하이저","QCY","앤커 사운드코어","자브라","베이어다이나믹","AKG"]],
   ["스마트워치","IT·전자",["애플워치","갤럭시 워치","가민","핏빗","샤오미 밴드","화웨이 워치","위딩스","어메이즈핏","폴라","순토"]],
@@ -230,10 +507,14 @@ const RAW = [
   ["미국 주식","금융",["엔비디아","테슬라","애플","마이크로소프트","팔란티어","알파벳","아마존","브로드컴","메타","AMD"]],
   ["ETF","금융",["KODEX 200","TIGER 미국S&P500","SCHD","QQQ","KODEX 레버리지","TIGER 나스닥100","KODEX 미국채","SOXL","TIGER 차이나전기차","ACE 금현물"]],
 
-  ["아이돌 그룹","엔터",["BTS","블랙핑크","세븐틴","뉴진스","에스파","아이브","스트레이키즈","르세라핌","투바투","트와이스"]],
-  ["드라마","엔터",["폭싹 속았수다","오징어게임","무빙","더 글로리","선재 업고 튀어","눈물의 여왕","재벌집 막내아들","슬기로운 의사생활","나의 아저씨","모범택시"]],
-  ["영화","엔터",["파묘","서울의 봄","범죄도시","베테랑","기생충","외계+인","콘크리트 유토피아","한산","밀수","노량"]],
-  ["예능","엔터",["나 혼자 산다","런닝맨","무한도전","놀면 뭐하니","흑백요리사","피지컬:100","환승연애","솔로지옥","유퀴즈","1박 2일"]],
+  ["걸그룹","음악",["리센느","에스파","하츠투하츠","아일릿","아이브","트와이스","르세라핌","(여자)아이들","아이오아이","블랙핑크","뉴진스","키키","엔믹스","키스오브라이프","베이비몬스터","STAYC","프로미스나인","izna","아이칠린","우주소녀"]],
+  ["보이그룹","음악",["코르티스","라이즈","에이티즈","TWS","DAY6","방탄소년단","세븐틴","스트레이 키즈","엔하이픈","투모로우바이투게더"]],
+  ["솔로 가수","음악",["한로로","태연","제니","아이유","임영웅","지드래곤","정국","로제","지민","이영지"]],
+  ["음원 차트","음악",["LOVE ATTACK","갑자기","REDRED","LEMONADE","It's Me","Pretty Girl","캐치 캐치","BANG BANG","RUDE!","404"]],
+  ["음악 스트리밍","음악",["멜론","유튜브 뮤직","스포티파이","지니뮤직","플로","바이브","벅스","애플 뮤직","카카오뮤직","사운드클라우드"]],
+  ["드라마","엔터",["김부장","동궁","참교육","멋진 신세계","신입사원 강회장","21세기 대군부인","내일도 출근!","판사 이한영","맨 끝줄 소년","언더커버 미쓰홍"]],
+  ["영화","엔터",["군체","왕과 사는 남자","살목지","프로젝트 헤일메리","휴민트","눈동자","마티 슈프림","끝장수사","토이스토리 5","극장판 도라에몽"]],
+  ["예능","엔터",["피의 게임 X","전지적 참견시점","모솔연애 시즌2","하트시그널 시즌5","나 혼자 산다","냉장고를 부탁해","도깨비 10주년 여행","런닝맨","유퀴즈 온 더 블럭","놀면 뭐하니"]],
   ["웹툰","엔터",["나 혼자만 레벨업","외모지상주의","화산귀환","전지적 독자 시점","여신강림","입학용병","마루는 강쥐","김부장","싸움독학","약한영웅"]],
   ["OTT","엔터",["넷플릭스","티빙","쿠팡플레이","디즈니+","웨이브","왓챠","애플TV+","라프텔","시리즈온","U+모바일tv"]],
   ["모바일 게임","엔터",["로블록스","브롤스타즈","리니지M","오딘","원신","쿠키런","메이플M","붕괴 스타레일","프리코네","전략적 팀 전투"]],
@@ -255,22 +536,98 @@ const RAW = [
   ["캠핑 브랜드","라이프",["스노우피크","코베아","헬리녹스","콜맨","노르디스크","네이처하이크","미니멀웍스","제드","버팔로","일본 DOD"]]
 ];
 
+/* 분야별 검색 규모 가중치 (0~100)
+   실서비스에서는 검색광고 API의 월간 검색수 합계를 로그로 눌러 이 값을 대체합니다. */
+const VOL = {
+  "빅이슈":99,
+  "실시간":98,
+  "걸그룹":96,"보이그룹":94,"음원 차트":92,"솔로 가수":88,"음악 스트리밍":76,
+  "드라마":93,"영화":90,"예능":84,"웹툰":82,"OTT":80,"PC·콘솔 게임":79,"모바일 게임":78,"유튜브 채널":75,
+  "스마트폰":91,"대학교":87,"AI 서비스":83,"노트북":85,"무선이어폰":74,"스마트워치":68,"TV":66,
+  "그래픽카드":64,"로봇청소기":62,"모니터":60,"생성형 이미지 툴":58,
+  "국내 주식":89,"미국 주식":86,"은행 앱":72,"신용카드":70,"증권 앱":65,"ETF":63,
+  "국내 여행지":80,"해외 여행지":78,"항공사":67,
+  "프랜차이즈 커피":81,"치킨 브랜드":79,"배달 앱":72,"라면":67,"편의점":64,"베이커리":59,
+  "자격증":77,"어학원":56,"코딩 부트캠프":48,"대학원 MBA":45,
+  "국산차":73,"전기차":71,"수입차":69,"SUV":61,
+  "KBO 구단":76,"러닝화":63,"골프 브랜드":58,"헬스장 체인":44,
+  "화장품 브랜드":74,"취업 선호 기업":70,"아파트 브랜드":66,"서울 아파트 단지":62,
+  "부동산 앱":57,"신도시":55,"반려동물 사료":54,"캠핑 브랜드":47
+};
+
+/* 목록 자체가 자주 바뀌는 분야 — 여기에만 '재진입' 표시가 붙습니다.
+   대학·항공사·구단처럼 구성원이 고정된 분야에는 붙지 않습니다. */
+const CHURN = new Set(["빅이슈","실시간","드라마","영화","예능","웹툰","음원 차트",
+  "걸그룹","보이그룹","솔로 가수","모바일 게임","PC·콘솔 게임","유튜브 채널"]);
+
 /* 샘플 지수/등락 생성 (실서비스에서는 서버 집계값 사용) */
 function seeded(s){let x=(s*2654435761)>>>0;return()=>{x=(x*1664525+1013904223)>>>0;return x/4294967296}}
-const DATA = RAW.map(([name,group,items],ci)=>{
+/* ------------------------------------------------------------
+   자동 수집 분야 — 실서비스에서는 네이버 쇼핑인사이트 카테고리 트리를 받아
+   이 두 상수를 통째로 교체합니다. 항목은 검색광고 키워드도구의 연관키워드로 채웁니다.
+   ------------------------------------------------------------ */
+const AUTO_TREE = [
+ ["패션의류",["여성 원피스","여성 니트","여성 코트","여성 청바지","여성 블라우스","여성 트레이닝복","남성 셔츠","남성 정장","남성 코트","남성 청바지","남성 니트","남성 아우터","캐주얼 티셔츠","맨투맨","후드티","레깅스","홈웨어","수영복","등산복","골프웨어","유아동복","임부복","커플룩","빅사이즈 의류","패딩"]],
+ ["패션잡화",["여성 가방","남성 가방","백팩","크로스백","토트백","지갑","벨트","여성 운동화","남성 운동화","구두","부츠","샌들","슬리퍼","모자","캡모자","머플러","장갑","양말","선글라스","안경테","손목시계","주얼리","귀걸이","목걸이","반지"]],
+ ["화장품·미용",["스킨케어","선크림","클렌징","마스크팩","앰플","에센스","페이스크림","토너","파운데이션","쿠션","립스틱","아이섀도","마스카라","아이라이너","향수","바디로션","바디워시","샴푸","트리트먼트","헤어에센스","염색약","네일","제모기","헤어드라이어","고데기"]],
+ ["디지털·가전",["냉장고","세탁기","건조기","식기세척기","에어컨","공기청정기","제습기","가습기","전자레인지","에어프라이어","인덕션","커피머신","정수기","무선청소기","스팀다리미","블루투스 스피커","헤드폰","키보드","마우스","웹캠","태블릿","외장하드","공유기","프린터","게이밍 의자"]],
+ ["식품",["쌀","제철 과일","채소","정육","수산물","계란","우유","요거트","치즈","커피 원두","티백","생수","탄산음료","이온음료","과자","초콜릿","아이스크림","즉석밥","밀키트","냉동만두","김치","장류","견과류","단백질보충제","비타민"]],
+ ["생활·건강",["물티슈","화장지","세탁세제","섬유유연제","주방세제","살균소독제","방향제","수건","침구","베개","매트리스","커튼","러그","수납장","책상","사무용 의자","조명","화분","반려동물 간식","고양이 모래","마스크","반창고","영양제","홍삼","유산균"]],
+ ["스포츠·레저",["트레일러닝화","등산화","등산배낭","텐트","침낭","캠핑의자","아이스박스","자전거","자전거 헬멧","인라인","요가매트","덤벨","헬스장갑","골프클럽","골프공","골프백","테니스라켓","배드민턴","축구화","농구공","야구글러브","낚싯대","서핑보드","스키","스노보드"]],
+ ["육아·취미",["기저귀","분유","이유식","젖병","유모차","카시트","아기띠","아기침대","유아 장난감","보드게임","퍼즐","피규어","블록완구","다이어리","필기구","만년필","노트","베스트셀러 도서","전자책","악기","통기타","디지털피아노","캘리그라피","뜨개질","홈카페 용품"]]
+];
+const AUTO_POOL = {
+ "패션의류":["무신사 스탠다드","유니클로","자라","H&M","스파오","탑텐","에잇세컨즈","지오다노","폴로","라코스테","커버낫","마리떼","마르디메크르디","널디","디스이즈네버댓","앤더슨벨","로우클래식","시스템","미쏘","로엠","지컷","빈폴","헤지스","코오롱스포츠"],
+ "패션잡화":["나이키","아디다스","뉴발란스","컨버스","반스","크록스","버켄스탁","살로몬","아식스","호카","프라이탁","코치","마이클코어스","투미","쌤소나이트","오클리","레이밴","젠틀몬스터","다니엘웰링턴","카시오","세이코","로이드","제이에스티나","스톤헨지"],
+ "화장품·미용":["올리브영","이니스프리","설화수","헤라","라네즈","닥터자르트","아누아","조선미녀","라운드랩","토리든","롬앤","클리오","페리페라","에스쁘아","마녀공장","코스알엑스","넘버즈인","티르티르","바이오더마","아벤느","려","미쟝센","다이슨","유닉스"],
+ "디지털·가전":["삼성전자","LG전자","다이슨","필립스","쿠쿠","쿠첸","위니아","캐리어","신일","한일","발뮤다","브라운","샤오미","로지텍","레이저","앤커","소니","보스","젠하이저","에이수스","레노버","HP","캐논","엡손"],
+ "식품":["농심","오뚜기","삼양식품","CJ제일제당","풀무원","동원","대상","매일유업","남양유업","서울우유","빙그레","롯데웰푸드","해태","오리온","크라운","하림","사조","청정원","종가집","노브랜드","곰곰","자연드림","한살림","프레시지"],
+ "생활·건강":["LG생활건강","애경","유한킴벌리","크리넥스","깨끗한나라","피죤","다우니","옥시","홈스타","3M","이케아","한샘","리바트","시디즈","퍼시스","지누스","코웨이","청호나이스","정관장","종근당건강","뉴트리원","고려은단","일동제약","대웅제약"],
+ "스포츠·레저":["나이키","아디다스","데상트","안다르","젝시믹스","뮬라웨어","네파","블랙야크","K2","노스페이스","콜핑","스노우피크","코베아","헬리녹스","콜맨","삼천리자전거","알톤","자이언트","트렉","타이틀리스트","캘러웨이","요넥스","윌슨","미즈노"],
+ "육아·취미":["하기스","팸퍼스","보솜이","앱솔루트","임페리얼","압타밀","일동후디스","그린핑거","스토케","부가부","잉글레시나","리안","다이치","브라이택스","레고","반다이","타카라토미","몰펀","콩순이","모나미","제브라","파이롯트","라미","카카오프렌즈"]
+};
+const AUTO_ROWS = [];
+AUTO_TREE.forEach(([group,subs],gi)=>{
+  subs.forEach((sub,si)=>{
+    const r = seeded(gi*131+si+13), pool = AUTO_POOL[group].slice();
+    for(let i=pool.length-1;i>0;i--){ const j=Math.floor(r()*(i+1)); [pool[i],pool[j]]=[pool[j],pool[i]]; }
+    AUTO_ROWS.push([sub, group, pool.slice(0,10), "auto"]);
+  });
+});
+
+const SRC = RAW.map(row=>[row[0],row[1],row[2],"pick"]).concat(AUTO_ROWS);
+const DATA = SRC.map(([name,group,items,tier],ci)=>{
   const r = seeded(ci+7);
   let v = 100, list = [];
   items.forEach((nm,i)=>{
     if(i) v = Math.max(6, v*(0.70+0.26*r()));
     const q = r();
     let mv;
-    if(q>0.94) mv = "NEW";
-    else mv = Math.round((r()-0.5)*7);
+    if(q>0.94 && CHURN.has(name)) mv = "NEW";
+    else {
+      mv = Math.round((r()-0.5)*7);
+      /* 하락폭은 지난주 순위가 1위보다 위일 수 없으므로 현재 순위-1을 넘지 못합니다.
+         상승폭은 지난주 15위 밖에서 들어온 경우까지만 허용합니다. */
+      if(mv < 0) mv = Math.max(mv, -i);
+      if(mv > 0) mv = Math.min(mv, 14-i);
+    }
     list.push({name:nm, idx:Math.round(v), mv});
   });
   const lead = list[0].mv === "NEW" ? 9 : Math.abs(list[0].mv);
-  return {id:"c"+ci, name, group, list, heat: lead*10 + r()*10};
-}).sort((a,b)=>b.heat-a.heat);
+  const vol = tier==="pick" ? (VOL[name] != null ? VOL[name] : 50) : 24 + (ci*37)%46;
+  /* 검색 규모가 앞자리를 정하고, 1위가 크게 흔들린 분야가 그 안에서 조금 앞당겨집니다 */
+  const talk = Math.round(30 + vol*1.2 + r()*60);   /* 최근 7일 새 의견 수 (실서비스에서는 DB 집계값) */
+  return {id:"c"+ci, name, group, tier, list, vol, lead, talk, hot:false, score: vol + lead*1.2 + r()*2};
+}).sort((a,b)=> a.tier===b.tier ? b.score-a.score : (a.tier==="pick" ? -1 : 1));
+
+/* HOT은 최근 7일 동안 의견이 가장 많이 달린 분야 5개에 붙습니다.
+   누적이 아니라 최근 7일치를 세기 때문에 오래된 인기 분야가 자리를 굳히지 않습니다. */
+const WEEK = 7*24*3600*1000;
+function markHot(counts){
+  DATA.forEach(c=>{ c.hot = false; if(counts) c.talk = counts[c.id] || 0; });
+  [...DATA].sort((a,b)=> b.talk - a.talk).slice(0,5).forEach(c=> c.hot = true);
+}
+markHot(null);   /* 게시판을 열기 전에는 예상치로 표시합니다 */
 
 /* ============================================================
    2. 렌더링
@@ -278,20 +635,28 @@ const DATA = RAW.map(([name,group,items],ci)=>{
 const $ = s=>document.querySelector(s);
 const esc = s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
-const now = new Date();
-$("#stamp").textContent = `${now.getMonth()+1}월 ${now.getDate()}일 ${String(now.getHours()).padStart(2,"0")}:00`;
 
 function mvHTML(mv){
-  if(mv==="NEW") return `<span class="mv n">NEW</span>`;
+  if(mv==="NEW") return `<span class="mv n">재진입</span>`;
   if(mv>0) return `<span class="mv u">▲${mv}</span>`;
   if(mv<0) return `<span class="mv d">▼${-mv}</span>`;
   return `<span class="mv f">–</span>`;
 }
 
 /* 급상승 티커 */
-const hot = DATA.filter(c=>c.list[0].mv==="NEW"||c.list[0].mv>=2).slice(0,14)
-  .map(c=>`<span class="tk"><span class="cat">${esc(c.group)}</span> ${esc(c.name)} 1위 <b>${esc(c.list[0].name)}</b> <span class="up">${c.list[0].mv==="NEW"?"NEW":"▲"+c.list[0].mv}</span></span>`).join("");
+const hot = DATA.filter(c=>c.tier==="pick" && (c.list[0].mv==="NEW"||c.list[0].mv>=2)).slice(0,20)
+  .map(c=>`<span class="tk" data-id="${c.id}" role="link" tabindex="0"><span class="cat">${esc(c.group)}</span> <b>${esc(c.list[0].name)}</b> <span class="up">${c.list[0].mv==="NEW"?"재진입":"▲"+c.list[0].mv}</span></span>`).join("");
 $("#ticker").innerHTML = hot + hot;
+document.querySelector(".ticker").addEventListener("click", e=>{
+  const t = e.target.closest(".tk"); if(!t) return;
+  const c = DATA.find(x=>x.id===t.dataset.id); if(c) open(c);
+});
+document.querySelector(".ticker").addEventListener("keydown", e=>{
+  if(e.key!=="Enter" && e.key!==" ") return;
+  const t = e.target.closest(".tk"); if(!t) return;
+  e.preventDefault();
+  const c = DATA.find(x=>x.id===t.dataset.id); if(c) open(c);
+});
 
 /* 그룹 필터 */
 const GROUPS = ["전체", ...[...new Set(DATA.map(c=>c.group))]];
@@ -306,32 +671,360 @@ $("#chips").addEventListener("click", e=>{
 });
 $("#find").addEventListener("input", e=>{ query = e.target.value.trim(); render(); });
 
+function setMv(el, mv){
+  const cls = mv==="NEW" ? "n" : mv>0 ? "u" : mv<0 ? "d" : "f";
+  el.className = "mv " + cls;
+  el.textContent = mv==="NEW" ? "재진입" : mv>0 ? "▲"+mv : mv<0 ? "▼"+(-mv) : "–";
+}
+
+function rowsHTML(c){
+  return c.list.slice(0,3).map((it,i)=>`
+      <div class="row${i===0?" first":""}">
+        <span class="rk">${i+1}</span>
+        <span class="nm">${esc(it.name)}</span>
+        ${mvHTML(it.mv)}
+      </div>`).join("");
+}
+
 function render(){
   const list = DATA.filter(c=>
     (active==="전체"||c.group===active) &&
     (!query || c.name.includes(query) || c.list.some(i=>i.name.includes(query)))
   );
-  $("#count").textContent = `${list.length}개 분야 · 화제성 높은 순`;
-  $("#grid").innerHTML = list.map(c=>{
-    const top = c.list.slice(0,3);
-    const rows = top.map((it,i)=>`
-      <div class="row${i===0?" first":""}">
-        <span class="rk">${i+1}</span>
-        <span class="nm">${esc(it.name)}</span>
-        <span class="idx">${it.idx}</span>
-        ${mvHTML(it.mv)}
-      </div>
-      <div class="bar"><i data-w="${it.idx}"></i></div>`).join("");
+  const picks = list.filter(c=>c.tier==="pick"), autos = list.filter(c=>c.tier==="auto");
+
+  const card = c=>{
+    const mark = c.hot ? '<span class="hotmark">HOT</span>' : "";
     return `<button class="card" data-id="${c.id}">
-      <div class="card-hd"><span class="grp">${esc(c.group)}</span>${c.heat>60?'<span class="hotmark">HOT</span>':""}</div>
-      <div class="cat-name">${esc(c.name)}</div>
-      ${rows}
-      <span class="more">10위까지 보기 →</span>
+      <div class="cat-name${c.name==="빅이슈"?" pulse":""}">${esc(c.name)}${mark}</div>
+      <div class="rows">${rowsHTML(c)}</div>
     </button>`;
-  }).join("");
-  requestAnimationFrame(()=>document.querySelectorAll(".bar i").forEach(b=>b.style.width=b.dataset.w+"%"));
+  };
+
+  $("#grid").innerHTML = picks.concat(autos).map(card).join("");
 }
 render();
+
+/* ------------------------------------------------------------
+   영화 분야는 KOBIS 일별 박스오피스로 매일 자동 갱신됩니다.
+   data/movies.json 이 있으면 그 값으로 갈아끼우고, 없으면 샘플을 그대로 씁니다.
+   ------------------------------------------------------------ */
+fetch("data/news.json", {cache:"no-store"})
+  .then(r=> r.ok ? r.json() : null)
+  .then(d=>{
+    if(!d || !d.news) return;
+    const c = DATA.find(x=>x.name==="빅이슈"); if(!c) return;
+    c.list.forEach(it=>{ if(d.news[it.name]) it.news = d.news[it.name]; });
+  })
+  .catch(()=>{});
+
+fetch("data/movies.json", {cache:"no-store"})
+  .then(r=> r.ok ? r.json() : null)
+  .then(d=>{
+    if(!d || !Array.isArray(d.list) || !d.list.length) return;
+    const c = DATA.find(x=>x.name==="영화"); if(!c) return;
+    c.list = d.list.map(it=>({name:it.name, idx:it.idx, mv:it.mv}));
+    c.live = d;
+    render();
+  })
+  .catch(()=>{});
+
+/* ============================================================
+   2-1. 실시간으로 집계되는 효과
+   화면에 보이는 카드 하나를 골라 순위를 한 칸씩 바꿔 보여줍니다.
+   실서비스에서는 서버에서 새 집계를 받아 같은 방식으로 다시 그리면 됩니다.
+   ============================================================ */
+const REDUCED = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+const FLIP = 660;   /* 한 줄이 한 바퀴 도는 데 걸리는 시간 (CSS .row.flip과 같아야 합니다) */
+const GAP  = 100;   /* 앞줄이 다 돌고 다음 줄이 돌기까지 쉬는 시간 */
+const CYCLE = 1200; /* 카드 한 장을 다 돌린 뒤 다음 카드까지 쉬는 시간 */
+
+function onScreenCards(){
+  return [...document.querySelectorAll(".card")].filter(el=>{
+    const r = el.getBoundingClientRect();
+    return r.bottom > 70 && r.top < window.innerHeight - 20;
+  });
+}
+
+/* 화면 효과만 줍니다. 순위와 등락은 그대로 두고 판만 한 바퀴 돌립니다.
+   실제 집계를 붙일 때는 돌리기 직전에 c.list를 새 순위로 갈아끼우면
+   날이 옆으로 선 순간에 새 내용이 나타납니다. */
+function flipOne(el){
+  const c = DATA.find(x=>x.id===el.dataset.id); if(!c) return;
+  const box = el.querySelector(".rows"); if(!box) return;
+  const rows = box.querySelectorAll(".row");
+  [0,1,2].forEach(k=>{
+    const row = rows[k]; if(!row) return;
+    const nm = row.querySelector(".nm"), mvEl = row.querySelector(".mv");
+    if(!nm || !mvEl) return;
+    setTimeout(()=>{
+      row.classList.remove("flip");
+      void row.offsetWidth;
+      row.classList.add("flip");
+      setTimeout(()=>{ nm.textContent = c.list[k].name; setMv(mvEl, c.list[k].mv); }, FLIP*0.48);
+      setTimeout(()=>{ row.classList.remove("flip"); }, FLIP+40);
+    }, k*(FLIP+GAP));
+  });
+}
+
+function flipBoard(){
+  if(REDUCED || document.body.classList.contains("viewing")) return;
+  const els = onScreenCards(); if(!els.length) return;
+  /* 한 번에 카드 두 장을 돌립니다 */
+  const picked = [];
+  while(picked.length < Math.min(2, els.length)){
+    const el = els[Math.floor(Math.random()*els.length)];
+    if(!picked.includes(el)) picked.push(el);
+  }
+  picked.forEach((el,n)=> setTimeout(()=>flipOne(el), n*260));
+}
+setInterval(flipBoard, FLIP*3 + GAP*2 + CYCLE);   /* 3줄을 차례로 돌린 뒤 다음 카드로 */
+
+/* ------------------------------------------------------------
+   분야 자리바꿈 — 5초마다 아래쪽 카드 하나가 위로 올라오고
+   그 사이 카드들이 한 칸씩 뒤로 밀립니다. 빅이슈는 항상 맨 앞에 고정합니다.
+   ------------------------------------------------------------ */
+function promoteOne(){
+  if(REDUCED || document.body.classList.contains("viewing")) return;
+  const grid = $("#grid");
+  const cards = [...grid.children];
+  if(cards.length < 4) return;
+
+  /* 화면에 보이는 카드 중에서 고릅니다 (맨 앞 자리는 건드리지 않습니다) */
+  const seen = cards.map((el,i)=>({el,i})).filter(({el,i})=>{
+    if(i < 2) return false;   /* 빅이슈·실시간은 항상 앞자리 고정 */
+    const r = el.getBoundingClientRect();
+    return r.bottom > 80 && r.top < window.innerHeight - 20;
+  });
+  if(!seen.length) return;
+
+  const pick = seen[Math.floor(Math.random()*seen.length)];
+  const c = DATA.find(x=>x.id===pick.el.dataset.id); if(!c) return;
+  const from = DATA.indexOf(c);
+  const step = 1 + Math.floor(Math.random()*3);          /* 한 번에 1~3칸 */
+  const to = Math.max(2, from - step);
+  if(to === from) return;
+
+  /* 자리를 기억해 두고 → 순서를 바꾸고 → 원래 자리에서 새 자리로 미끄러지게 합니다 */
+  const before = new Map();
+  cards.forEach(el=> before.set(el.dataset.id, el.getBoundingClientRect()));
+
+  DATA.splice(from,1);
+  DATA.splice(to,0,c);
+  render();
+
+  const after = [...grid.children];
+  after.forEach(el=>{
+    const b = before.get(el.dataset.id); if(!b) return;
+    const a = el.getBoundingClientRect();
+    const dx = b.left - a.left, dy = b.top - a.top;
+    if(!dx && !dy) return;
+    el.style.transition = "none";
+    el.style.transform = `translate(${dx}px, ${dy}px)`;
+  });
+  requestAnimationFrame(()=>{
+    after.forEach(el=>{
+      el.style.transition = "transform .62s cubic-bezier(.2,.8,.2,1)";
+      el.style.transform = "";
+    });
+    const moved = grid.querySelector(`.card[data-id="${c.id}"]`);
+    if(moved){
+      moved.classList.add("rise");
+      setTimeout(()=>moved.classList.remove("rise"), 900);
+    }
+  });
+  setTimeout(()=>after.forEach(el=>{ el.style.transition=""; el.style.transform=""; }), 700);
+}
+setInterval(promoteOne, 5000);
+
+/* 가입 화면 */
+let BACK_TO_DETAIL = false;
+function openSignup(){
+  BACK_TO_DETAIL = document.body.classList.contains("viewing");
+  document.body.classList.remove("viewing");
+  document.body.classList.add("signing");
+  $("#signup").classList.add("on");
+  window.scrollTo(0,0);
+  ["suNick","suPw","suPw2","suMail","suName","suTel"].forEach(id=>{ const e=document.getElementById(id); if(e) e.value=""; });
+  ["agree1","agree2"].forEach(id=>{ const e=document.getElementById(id); if(e) e.checked=false; });
+  const m = $("#suMsg");
+  m.classList.remove("err");
+  m.textContent = "비밀번호는 일방향 암호화해 보관하며, 저희도 원래 값을 알 수 없습니다.";
+  document.getElementById("suNick").focus();
+}
+function closeSignup(){
+  $("#signup").classList.remove("on");
+  document.body.classList.remove("signing");
+  if(BACK_TO_DETAIL){ document.body.classList.add("viewing"); }
+  window.scrollTo(0, BACK_TO_DETAIL ? 0 : LAST_Y);
+}
+$("#suClose").onclick = closeSignup;
+$("#suGo").onclick = async ()=>{
+  if(busy) return;
+  const m = $("#suMsg");
+  const fail = t=>{ m.textContent = t; m.classList.add("err"); };
+  const nick = $("#suNick").value.trim(), pw = $("#suPw").value, pw2 = $("#suPw2").value;
+  const mail = $("#suMail").value.trim(), name = $("#suName").value.trim(), tel = $("#suTel").value.trim();
+  if(nick.length<2 || nick.length>12) return fail("닉네임은 2~12자로 입력하세요");
+  if(pw.length<4) return fail("비밀번호는 4자 이상 입력하세요");
+  if(pw !== pw2) return fail("비밀번호가 서로 다릅니다");
+  if(!$("#agree1").checked) return fail("이용약관과 개인정보처리방침 동의가 필요합니다");
+  if((name||tel) && !$("#agree2").checked) return fail("이름·전화번호를 넣으셨다면 수집 동의가 필요합니다");
+  const btn = $("#suGo");
+  busy = true; btn.disabled = true; btn.textContent = "가입 중";
+  const res = await signUp(nick, pw, $("#agree2").checked ? {mail, name, tel} : {mail});
+  busy = false; btn.disabled = false; btn.textContent = "가입하기";
+  if(res.err) return fail(res.err);
+  closeSignup();
+  drawCompose(); drawList();
+  toast(nick + "님, 가입됐습니다");
+};
+
+/* ------------------------------------------------------------
+   이용자 투표 — 검색량 순위와 섞지 않고 별도 탭으로 나란히 둡니다.
+   ------------------------------------------------------------ */
+const VKEY="board:votes", MVKEY="myvotes";
+let RANKMODE="search", VOTES=null, STOREDV=null, MYV=null, DEMOV=null;
+
+function today(){ const d=new Date(); return `${d.getFullYear()}-${d.getMonth()+1}-${d.getDate()}`; }
+
+/* 예시 득표 — 실서비스에서는 이 함수를 지우세요 */
+function demoVotes(){
+  if(DEMOV) return DEMOV;
+  DEMOV = {};
+  DATA.forEach((c,ci)=>{
+    const r = seeded(ci*613+91), m = {};
+    c.list.forEach((it,i)=>{ m[it.name] = Math.round((130 - i*10) * (0.35 + r())); });
+    DEMOV[c.id] = m;
+  });
+  return DEMOV;
+}
+async function getVotes(force){
+  if(VOTES && !force) return VOTES;
+  try{ const r = await window.storage.get(VKEY,true); STOREDV = r ? JSON.parse(r.value) : {}; }
+  catch(e){ STOREDV = {}; }
+  const d = demoVotes(); VOTES = {};
+  Object.keys(d).forEach(cid=>{ VOTES[cid] = Object.assign({}, d[cid]); });
+  Object.keys(STOREDV).forEach(cid=>{
+    VOTES[cid] = VOTES[cid] || {};
+    Object.keys(STOREDV[cid]).forEach(n=> VOTES[cid][n] = (VOTES[cid][n]||0) + STOREDV[cid][n]);
+  });
+  return VOTES;
+}
+async function getMyVotes(){
+  if(MYV) return MYV;
+  try{ const r = await window.storage.get(MVKEY); MYV = r ? JSON.parse(r.value) : {}; }
+  catch(e){ MYV = {}; }
+  return MYV;
+}
+async function castVote(name){
+  if(!ME) return toast("로그인 후 투표할 수 있습니다");
+  if(busy || !CUR) return;
+  await getMyVotes();
+  const rec = MYV[CUR.id];
+  if(rec && rec.d === today()) return toast("이 분야는 오늘 이미 투표하셨습니다");
+  busy = true;
+  try{
+    STOREDV = STOREDV || {};
+    STOREDV[CUR.id] = STOREDV[CUR.id] || {};
+    STOREDV[CUR.id][name] = (STOREDV[CUR.id][name]||0) + 1;
+    await window.storage.set(VKEY, JSON.stringify(STOREDV), true);
+    VOTES[CUR.id] = VOTES[CUR.id] || {};
+    VOTES[CUR.id][name] = (VOTES[CUR.id][name]||0) + 1;
+    MYV[CUR.id] = {d:today(), n:name};
+    await window.storage.set(MVKEY, JSON.stringify(MYV));
+    drawRank(); toast(`${name}에 투표했습니다`);
+  }catch(e){ toast("투표를 저장하지 못했습니다"); }
+  busy = false;
+}
+
+/* 항목 이름을 누르면 펼쳐지는 링크 — 수집기가 it.news = [{t:제목, u:주소}, ...] 를
+   넣어주면 관련 기사 자리에 실제 기사 제목이 들어갑니다. */
+function linkBox(it){
+  const q = encodeURIComponent(it.name);
+  const wiki = `<a href="https://namu.wiki/Search?q=${q}" target="_blank" rel="noopener noreferrer">나무위키 ↗</a>`;
+  /* 기사는 제목과 언론사만 표시하고 누르면 원문으로 갑니다. 본문은 옮기지 않습니다. */
+  const arts = (it.news && it.news.length)
+    ? it.news.slice(0,3).map(n=>
+        `<a class="art" href="${n.u}" target="_blank" rel="noopener noreferrer" title="${esc(n.t)}">
+           <span class="at">${esc(n.t)}</span><span class="ap">${esc(n.press||"기사")}</span> ↗
+         </a>`).join("")
+    : `<a href="https://search.naver.com/search.naver?where=news&query=${q}" target="_blank" rel="noopener noreferrer">관련 기사 ↗</a>`;
+  const wide = (it.news && it.news.length) ? " wide" : "";
+  return `<div class="linkbox${wide}">${wiki}${arts}</div>`;
+}
+
+/* 다른 쪽 순위를 표시하고, 3계단 이상 벌어지면 색으로 강조합니다 */
+function otherRank(label, other, here){
+  const gap = here - other;                 /* 양수면 다른 쪽 순위가 더 높음 */
+  const cls = Math.abs(gap) < 3 ? "" : (gap > 0 ? " gap gapU" : " gap gapD");
+  return `<span class="vrank${cls}">${label} ${other}위</span>`;
+}
+
+/* 투표 1~3위는 메달로 표시합니다 */
+function medalTag(vrank, srank){
+  const m = ["🥇","🥈","🥉"][vrank-1];
+  const gap = srank - vrank;
+  const cls = Math.abs(gap) < 3 ? "" : (gap > 0 ? " gap gapU" : " gap gapD");
+  return `<span class="vrank medal${cls}" title="투표 ${vrank}위">${m} 투표 ${vrank}위</span>`;
+}
+
+function voteRankMap(c){
+  if(!VOTES || !VOTES[c.id]) return null;
+  const v = VOTES[c.id];
+  const m = {};
+  c.list.map(it=>({n:it.name, v:v[it.name]||0}))
+        .sort((a,b)=>b.v-a.v)
+        .forEach((x,i)=> m[x.n] = i+1);
+  return m;
+}
+function searchRows(c){
+  const vr = voteRankMap(c);
+  return c.list.slice(0,20).map((it,i)=>`
+    <div class="fitem">
+    <div class="frow${i===0?" first":""}">
+      <span class="rk">${i+1}</span>
+      <span class="nmwrap">
+        <button class="nm nmbtn" data-open="1">${esc(it.name)}<span class="cv">▾</span></button>
+        ${(vr && vr[it.name]<=3) ? medalTag(vr[it.name], i+1) : ""}
+      </span>
+      <span class="idx">${it.idx}</span>
+      ${mvHTML(it.mv)}
+    </div>
+    <div class="fbar"><i style="width:${it.idx}%"></i></div>
+    ${linkBox(it)}
+    </div>`).join("");
+}
+function voteRows(c){
+  const v = (VOTES && VOTES[c.id]) || {};
+  const rows = c.list.map(it=>({name:it.name, n:v[it.name]||0})).sort((a,b)=>b.n-a.n).slice(0,20);
+  const total = rows.reduce((a,b)=>a+b.n, 0);
+  const top = rows[0] ? Math.max(1, rows[0].n) : 1;
+  const mine = (MYV && MYV[c.id] && MYV[c.id].d===today()) ? MYV[c.id].n : null;
+  const sr = {};
+  c.list.forEach((it,i)=> sr[it.name] = i+1);
+  const list = rows.map((it,i)=>`
+    <div class="fitem">
+    <div class="frow${i===0?" first":""}">
+      <span class="rk">${i+1}</span>
+      <span class="nmwrap">
+        <button class="nm nmbtn" data-open="1">${esc(it.name)}<span class="cv">▾</span></button>
+        ${otherRank("검색", sr[it.name], i+1)}
+      </span>
+      <span class="idx">${it.n}표</span>
+      <button class="vbtn${mine===it.name?" done":""}" data-vote="${esc(it.name)}"${mine?" disabled":""}>${mine===it.name?"완료":"투표"}</button>
+    </div>
+    <div class="fbar"><i style="width:${Math.round(it.n/top*100)}%"></i></div>
+    ${linkBox({name:it.name})}
+    </div>`).join("");
+  return `<div class="full">${list}</div>
+    <p class="vnote">총 ${total}표 · <b>이용자 투표 결과</b>이며 검색량 순위와 섞지 않습니다. 한 분야에 하루 한 표씩 넣을 수 있습니다.${total<50?" 아직 표가 적어 순위가 자주 바뀝니다.":""}</p>`;
+}
+function drawRank(){
+  const box = document.getElementById("rankbox"); if(!box || !CUR) return;
+  $("#sheet").querySelectorAll(".rtab").forEach(t=> t.setAttribute("aria-pressed", t.dataset.mode===RANKMODE));
+  box.innerHTML = RANKMODE==="search" ? `<div class="full">${searchRows(CUR)}</div>` : voteRows(CUR);
+}
 
 /* 상세 */
 $("#grid").addEventListener("click", e=>{
@@ -347,28 +1040,671 @@ function open(c){
       </div>
       <button class="x" id="close" aria-label="닫기">×</button>
     </div>
-    <div class="full">
-      ${c.list.map((it,i)=>`
-        <div class="frow${i===0?" first":""}">
-          <span class="rk">${i+1}</span>
-          <span class="nm">${esc(it.name)}</span>
-          <span class="idx">${it.idx}</span>
-          ${mvHTML(it.mv)}
+    <div class="sheet-body">
+      <div class="col-rank">
+        <div class="rtabs">
+          <button class="rtab" data-mode="search" aria-pressed="true">검색순위</button>
+          <button class="rtab" data-mode="vote" aria-pressed="false">투표순위</button>
         </div>
-        <div class="fbar"><i style="width:${it.idx}%"></i></div>`).join("")}
-    </div>
-    <p class="note">
-      <b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
-      등락은 지난주 같은 요일 순위와 비교한 값입니다.<br><br>
-      <b>검색량은 인기·품질과 다릅니다.</b> 부정적 이슈로도 검색량은 급증합니다. 이 표는 "가장 많이 검색된 순서"만 보여줍니다.
-    </p>`;
+        <div id="rankbox"></div>
+        <p class="note">
+          ${c.name==="실시간" ? `<b>이 순위는 편집자가 직접 고른 것입니다.</b> 검색량 집계와 무관하며, 어떤 대가로도 순서를 바꾸지 않습니다. 각 항목의 내용과 출처는 아래 게시판에 적어둡니다.` : c.live ? `<b>집계 방식</b> · ${esc(c.live.source)}의 ${esc(c.live.targetDate.slice(0,4))}년 ${esc(c.live.targetDate.slice(4,6))}월 ${esc(c.live.targetDate.slice(6,8))}일 일별 관객수 기준입니다. 등락은 전일 대비 순위 변동입니다.` : `<b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
+          등락은 지난주 같은 요일 순위와 비교한 값입니다. 가장 많이 검색된 순서로 보여줍니다.`}
+        </p>
+      </div>
+      <aside class="col-board">
+        <section class="board">
+          <div class="board-hd">
+            <div class="authslot" id="auth"></div>
+            <div class="tabs">
+              <button class="tab" data-scope="cat" aria-pressed="true">이 분야</button>
+              <button class="tab" data-scope="all" aria-pressed="false">전체</button>
+            </div>
+          </div>
+          <div id="compose"></div>
+          <div id="list"><p class="empty">불러오는 중</p></div>
+        </section>
+      </aside>
+    </div>`;
+  if(!document.body.classList.contains("viewing")) LAST_Y = window.scrollY;
   $("#scrim").classList.add("on");
-  document.body.style.overflow="hidden";
+  document.body.classList.add("viewing");
+  window.scrollTo(0,0);
+  $("#close").onclick = close;
   $("#close").focus();
+  mountBoard(c);
 }
-function close(){ $("#scrim").classList.remove("on"); document.body.style.overflow=""; }
-$("#scrim").addEventListener("click", e=>{ if(e.target.id==="scrim"||e.target.id==="close") close(); });
-document.addEventListener("keydown", e=>{ if(e.key==="Escape") close(); });
+let LAST_Y = 0;
+function close(){
+  $("#scrim").classList.remove("on");
+  document.body.classList.remove("viewing");
+  CUR = null;
+  window.scrollTo(0, LAST_Y);
+}
+$("#scrim").addEventListener("click", e=>{ if(e.target.closest("#close")) close(); });
+document.addEventListener("keydown", e=>{
+  if(e.key!=="Escape") return;
+  const t = e.target;
+  if(t && (t.tagName==="TEXTAREA"||t.tagName==="INPUT") && t.value){ t.blur(); return; }
+  close();
+});
+
+/* ============================================================
+   3. 통합 의견 게시판
+   게시판은 분야마다 따로 있지 않고 하나입니다.
+   글에 어느 분야에서 썼는지가 태그로 붙고, 상세창에서 '이 분야'/'전체'로 걸러 봅니다.
+   ============================================================ */
+
+/* 저장소가 없는 환경(로컬 파일 등)에서도 UI가 돌아가도록 하는 임시 대체 */
+if(!window.storage){
+  const mem = {};
+  window.storage = {
+    async get(k,s){ const key=(s?"s:":"p:")+k; if(!(key in mem)) throw new Error("no key"); return {key,value:mem[key],shared:!!s}; },
+    async set(k,v,s){ mem[(s?"s:":"p:")+k]=v; return {key:k,value:v,shared:!!s}; },
+    async delete(k,s){ delete mem[(s?"s:":"p:")+k]; return {key:k,deleted:true,shared:!!s}; },
+    async list(p,s){ return {keys:[],shared:!!s}; }
+  };
+}
+
+const CKEY="board:comments";  /* 공용 — 모든 방문자가 함께 봅니다 */
+const UKEY="board:users";     /* 공용 — 가입 계정 목록 */
+const SKEY="session";         /* 개인 — 이 브라우저의 로그인 상태 */
+const MAX=400, LIMIT=300;
+const HIDE_AT=1;   /* 신고 몇 건부터 가릴지. 실서비스에서는 3~5로 올리고 검토 큐를 두세요 */
+
+function isHidden(m){ return (m.reports||[]).length >= HIDE_AT; }
+
+let toastTimer;
+function toast(msg){
+  const t = $("#toast");
+  t.textContent = msg; t.classList.add("on");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=>t.classList.remove("on"), 2400);
+}
+
+/* 예시 의견 — 저장된 글이 하나도 없을 때만 보여줍니다. 실서비스에서는 이 블록을 지우세요. */
+const SEED = [
+ ["밤샘코더","노트북","그램 무게는 진짜 반칙임",3,12],
+ ["지나가던행인","걸그룹","1위 바뀌는 속도가 무섭다",1,7],
+ ["새벽두시","음원 차트","요즘 차트는 하루 만에 뒤집히네",5,4],
+ ["커피두잔","프랜차이즈 커피","메가 순위 올라온 거 체감됨",2,9],
+ ["라면연구원","라면","신라면 1위는 국룰이지",8,21],
+ ["취준생A","취업 선호 기업","이 순위 보고 자소서 방향 정했다",12,15],
+ ["무지성구매","스마트폰","폴드 검색량 왜 이렇게 높음?",4,3],
+ ["밈수집가","유튜브 채널","침착맨 은근 꾸준하다",6,11],
+ ["야구보는사람","KBO 구단","한화 검색량 요즘 대단하네",2,18],
+ ["퇴근길","드라마","이번 주 1위 바뀔 것 같은데",1,5],
+ ["데이터쟁이","국내 주식","검색량이랑 주가랑 별 상관 없더라",9,24],
+ ["초보투자자","미국 주식","엔비디아는 그냥 상수인 듯",3,6],
+ ["여행중독","해외 여행지","오사카 또 1위야?",7,8],
+ ["국내파","국내 여행지","제주 말고 다른 데도 좀",11,13],
+ ["편의점러버","편의점","GS랑 CU 순위 자주 바뀌네",5,2],
+ ["치킨은진리","치킨 브랜드","교촌 1위 인정합니다",4,16],
+ ["배달비아까움","배달 앱","요즘 앱 세 개 다 깔아둠",10,4],
+ ["신입1년차","AI 서비스","클로드 검색량 오르는 중",2,19],
+ ["그래픽덕후","노트북","맥북 에어로 충분하더라",14,7],
+ ["캠퍼스러","대학교","인기순위가 아니라 검색량이라는 거 이해했다",6,27],
+ ["수험생맘","자격증","정처기 시즌이라 그런가",13,5],
+ ["전기차오너","전기차","아이오닉5 아직 강하네",8,9],
+ ["차덕후","국산차","그랜저는 진짜 안 내려온다",3,12],
+ ["러닝크루","러닝화","호카 순위 많이 올라왔다",5,14],
+ ["뷰티관심","화장품 브랜드","조선미녀는 해외에서 더 유명함",7,10],
+ ["집구하는중","아파트 브랜드","래미안 검색량은 거의 고정",16,3],
+ ["캠핑초보","캠핑 브랜드","헬리녹스 의자 사려다 가격 보고 접음",9,6],
+ ["댕댕이집사","반려동물 사료","사료는 순위보다 기호성",12,11],
+ ["카드고수","신용카드","현대카드 마케팅 잘하긴 함",4,4],
+ ["웹툰정주행","웹툰","화산귀환 아직도 상위권",6,8],
+ ["넷플중독","OTT","티빙 많이 올라왔네",2,5],
+ ["겜돌이","PC·콘솔 게임","롤은 그냥 국민게임",5,13],
+ ["모바일겜","모바일 게임","로블록스는 애들이 다 하더라",8,3],
+ ["예능러버","예능","흑백요리사 다음 시즌 언제",3,17],
+ ["영화관죽순이","영화","파묘 아직도 검색되네",10,6],
+ ["아이돌팬1","보이그룹","세븐틴 컴백 효과 확실하다",1,22],
+ ["덕질중","걸그룹","뉴진스 검색량 회복했네",4,9],
+ ["노래방18번","솔로 가수","임영웅은 장르가 됐다",6,25],
+ ["음악스밍","음악 스트리밍","유튜브 뮤직으로 갈아탐",9,7],
+ ["지표덕후","음원 차트","차트랑 검색량은 다르게 움직인다",11,12],
+ ["조용한관찰자","드라마","순위 변동 보는 재미가 있다",2,4],
+ ["노트북고민","노트북","그램이랑 맥북 사이에서 3일째",7,5],
+ ["코스피존버","국내 주식","삼전 검색량은 늘 1위",5,8],
+ ["서울살이","국내 여행지","강릉 주말에 사람 진짜 많음",15,6],
+ ["헬스초보","러닝화","발볼 넓으면 뉴발란스",8,10],
+ ["학부모","대학교","검색량 순위라는 설명 더 잘 보이게 해주세요",20,31],
+ ["개발자J","AI 서비스","커서 쓰는 사람 많아진 듯",3,9],
+ ["라떼한잔","프랜차이즈 커피","스벅은 안 흔들리네",6,5],
+ ["야구팬2","KBO 구단","가을야구 시작하면 또 뒤집힌다",4,7],
+ ["눈팅만함","스마트폰","댓글 처음 남겨봅니다",1,2]
+];
+function buildSeed(){
+  const byName = {};
+  DATA.forEach(c=>{ if(!byName[c.name]) byName[c.name] = c; });
+  const t = Date.now();
+  return SEED.map(([nick,cat,text,h,likes],i)=>{
+    const c = byName[cat];
+    return c ? {id:"s"+i, uid:"seed"+i, nick, cid:c.id, cname:c.name,
+                text, ts:t - h*3600000, likes, reports:[], demo:true} : null;
+  }).filter(Boolean);
+}
+
+/* 분야마다 예시 의견 100개씩 자동 생성 — 실서비스에서는 이 블록을 통째로 지우세요 */
+const NICK_A = ["지나가던","야근하는","퇴근길","새벽감성","월급루팡","심심한","조용한","열정적인","냉정한","눈팅하던",
+  "커피중독","라면킬러","출근중인","주말없는","방구석","무심한","성실한","게으른","호기심많은","츤데레",
+  "솔직한","까칠한","다정한","반짝이는","우울한","신난","배고픈","졸린","바쁜","한가한",
+  "수줍은","용감한","엉뚱한","진지한","웃긴","느긋한","부지런한","건방진","순한","시끄러운"];
+const NICK_B = ["행인","직장인","대학생","고3","아재","이모","삼촌","덕후","관찰자","분석가",
+  "초보","고수","방랑자","수집가","일개미","백수","사장님","알바생","집사","견주",
+  "엄마","아빠","막내","팀장","인턴","프리랜서","개발자","디자이너","마케터","기자",
+  "학생","선생님","간호사","기사님","주부","군인","취준생","은퇴자","여행자","독자"];
+const PRE = ["","","","솔직히 ","개인적으로 ","음... ","와 ","헐 ","근데 ","아니 ","오 ","진짜 "];
+const TAIL = [""," ㅋㅋ"," ㅋㅋㅋ"," ㅜㅜ"," ㅠㅠ"," ^^;"," ㅎㅎ"," ㄷㄷ","!!","...","?"," ㅇㅈ"," ~"];
+/* 분야 성격에 따라 말투를 나눕니다 — 사람에게 "써봤어요", 뉴스에 "가성비" 같은 말이 붙지 않도록 */
+const TYPE_OF = {
+ "빅이슈":"news","실시간":"story",
+ "걸그룹":"person","보이그룹":"person","솔로 가수":"person","유튜브 채널":"person",
+ "드라마":"work","영화":"work","예능":"work","웹툰":"work","음원 차트":"work",
+ "모바일 게임":"work","PC·콘솔 게임":"work",
+ "국내 여행지":"place","해외 여행지":"place","신도시":"place","서울 아파트 단지":"place",
+ "OTT":"service","음악 스트리밍":"service","배달 앱":"service","증권 앱":"service","은행 앱":"service",
+ "부동산 앱":"service","AI 서비스":"service","항공사":"service","헬스장 체인":"service",
+ "편의점":"service","프랜차이즈 커피":"service","어학원":"service","코딩 부트캠프":"service",
+ "대학교":"org","대학원 MBA":"org","KBO 구단":"org","취업 선호 기업":"org","자격증":"org",
+ "국내 주식":"org","미국 주식":"org","ETF":"org","아파트 브랜드":"org"
+};
+function typeOf(name){ return TYPE_OF[name] || "product"; }
+
+/* 받침에 따라 조사를 고릅니다. 템플릿에서는 {1|는} {2|이} {c|는} 처럼 씁니다. */
+function hasJong(str){
+  const ch = [...String(str).trim()].pop() || "";
+  const code = ch.charCodeAt(0);
+  if(code>=0xAC00 && code<=0xD7A3) return (code-0xAC00)%28 !== 0;
+  if(/[0-9]/.test(ch)) return ["0","1","3","6","7","8"].indexOf(ch) >= 0;
+  if(/[a-zA-Z]/.test(ch)) return /[lmnrLMNR]/.test(ch);
+  return false;
+}
+function jongIsRieul(str){
+  const ch = [...String(str).trim()].pop() || "";
+  const code = ch.charCodeAt(0);
+  return code>=0xAC00 && code<=0xD7A3 && (code-0xAC00)%28 === 8;
+}
+const JOSA = {"는":["은","는"],"이":["이","가"],"을":["을","를"],"과":["과","와"],"랑":["이랑","랑"],"라":["이라","라"]};
+function fill(tpl, map){
+  return tpl.replace(/\{([123c])(?:\|(.))?\}/g, (_, k, j)=>{
+    const v = map[k];
+    if(!j) return v;
+    if(j === "로") return v + ((hasJong(v) && !jongIsRieul(v)) ? "으로" : "로");
+    const pair = JOSA[j];
+    return pair ? v + pair[hasJong(v) ? 0 : 1] : v;
+  });
+}
+
+const TPLS = {
+ product:[
+  "{1} 써봤는데 무난했어요","{2} 쓰다가 {1|로} 갈아탔어요","저는 {3} 씁니다","{1} 가성비는 괜찮더라고요",
+  "{2} 살까 고민 중인데 어떤가요","{1} 요즘 광고 많이 하던데","{3} 생각보다 쓸 만해요","{1} 1위 인정",
+  "{2} 곧 1위 갈 듯","{c} 고를 때 뭐 보세요","{1|이} 왜 1위인지 알겠네요","{2|는} 저평가된 느낌",
+  "1위랑 2위 차이가 꽤 크네","{3}까지가 사실상 3강","{c} 요즘 경쟁 심하네요","{1} 가격만 좀 내려가면",
+  "{2} 쓰시는 분 후기 궁금해요","{3} 이번에 처음 봤어요","{c} 순위 참고해서 사려고요","{1} 오래 썼는데 만족합니다"],
+ person:[
+  "{1} 요즘 진짜 잘나가네요","{2} 다음 활동 기다립니다","{3} 응원합니다","{1} 1위 인정",
+  "{2} 곧 1위 갈 듯","저는 {3} 쪽입니다","{1} 검색량 대단하다","{2} 저평가 아닌가요",
+  "{c} 순위 매일 보게 되네요","{1} 이번에 반응 좋더라고요","{2|랑} {3} 순서 바뀔 것 같은데",
+  "1위랑 2위 차이가 꽤 크네","{1} 보고 입덕했습니다","{3} 이번에 처음 알았어요","{c|는} 취향 차이가 크죠",
+  "{2} 다음 소식 언제 나오나요","{1} 계속 1위 갈 것 같음","{3}까지가 사실상 3강",
+  "{c} 여기 순위가 제일 빠르네요","{2} 조용히 잘하고 있죠"],
+ work:[
+  "{1} 재밌게 봤어요","{2} 아직 안 봤는데 볼만한가요","{3} 정주행 중입니다","{1} 1위 인정",
+  "{2} 곧 1위 갈 듯","{1} 후반부가 좀 아쉬웠어요","{3} 초반이 느리긴 해요","{c} 요즘 볼 게 많네요",
+  "{1} 화제성 대단하네요","{2|는} 저평가된 것 같아요","1위랑 2위 차이가 꽤 크네","{1} 다음 편 언제 나오죠",
+  "{3} 이번에 처음 봤어요","{2} 추천합니다","{c} 순위 자주 바뀌네요","{1} 입소문 타는 중이네요",
+  "{2} 보신 분 어떠셨어요","{3} 저는 취향이었어요","{c} 이번 주는 볼 게 많다","{1} 몰아보기 좋더라고요"],
+ place:[
+  "{1} 다녀왔는데 좋았어요","{2} 이번 휴가에 가려고요","{3} 사람 많던가요","{1} 주말엔 진짜 붐빕니다",
+  "{2} 숙소 잡기 어렵더라고요","{1} 1위 인정","{c} 이맘때 어디가 나을까요","{3} 다시 가고 싶네요",
+  "{2|는} 조용해서 좋아요","1위랑 2위 차이가 꽤 크네","{1} 요즘 뜨는 이유가 있네요","{3} 처음 들어봤어요",
+  "{c} 순위 참고할게요","{2} 교통이 좀 불편했어요","{1} 가을에 가면 더 좋아요","{2} 곧 1위 갈 듯",
+  "{3} 근처에 볼 것도 많아요","{1} 사진 찍기 좋더라고요","{c} 어디부터 가야 할까요","{2} 재작년에 갔었는데"],
+ service:[
+  "{1} 쓰는데 편하더라고요","{2}에서 {1|로} 갈아탔어요","{3}도 괜찮습니다","{1} 1위 인정",
+  "{2} 곧 1위 갈 듯","{c} 다들 뭐 쓰세요","{1} 요금이 좀 올랐죠","{3} 앱이 좀 무거워요",
+  "{2} 최근에 많이 좋아졌어요","1위랑 2위 차이가 꽤 크네","{1} 점유율 대단하네요","{3} 이번에 처음 써봤어요",
+  "{c} 갈아탈까 고민 중이에요","{2|는} 저평가된 느낌","{1} 오래 썼는데 만족합니다","{c} 순위 자주 바뀌네요",
+  "{2} 혜택은 더 나은 것 같은데","{3} 쓰다가 접었어요","{1} 요즘 개편되고 나서 낫네요","{c} 결국 하나로 정착하게 되죠"],
+ org:[
+  "{1} 이미지가 확실히 좋네요","{2} 요즘 분위기 어떤가요","{3} 관심 있게 보는 중입니다","{1} 1위 인정",
+  "{2} 곧 1위 갈 듯","{c} 순위는 매년 비슷하네요","{1} 검색량 대단하다","{2|는} 저평가된 느낌",
+  "1위랑 2위 차이가 꽤 크네","{3}까지가 사실상 3강","{1} 요즘 뉴스에 자주 나오더라","{c} 이거 기준이 뭔가요",
+  "{3} 이번에 많이 올라왔네요","{2} 응원합니다","{c} 매일 확인하게 되네요","{1} 계속 1위 갈 것 같음",
+  "{2} 예전보다 많이 달라졌죠","{3} 저는 여기 관심 많아요","{c} 이런 순위 처음 봅니다","{1} 이름값은 하네요"],
+ story:[
+  "이거 보고 웃었네요 ㅋㅋ","마음이 좀 그렇네요 ㅜㅜ","{1} 이거 실화인가요","{2} 저도 비슷한 일 있었어요",
+  "{1} 오늘의 힐링이네요","{3} 읽다가 눈물 났어요","{c} 매일 챙겨 봅니다","{1} 이건 진짜 명장면",
+  "{2} 저장했습니다","{1} 아침부터 훈훈하네요","{3} 뒷이야기가 궁금해요","{2} 공유하고 갑니다",
+  "{c} 여기 글은 늘 재밌네요","{1} 몇 번을 다시 봤어요","{2} 세상엔 좋은 사람이 많네요","{3} 저만 울컥했나요",
+  "{1} ㅋㅋㅋ 진짜 웃겨요","{c} 오늘 것도 좋네요","{2} 이런 글 더 올려주세요","{1} 하루가 괜찮아졌어요"],
+ news:[
+  "{1} 이거 어떻게 되는 건가요","{2} 계속 지켜봐야겠네요","{3}도 큰 이슈죠","{1} 오늘 하루 종일 이 얘기네요",
+  "{2} 저는 좀 다르게 봅니다","{c} 매일 바뀌는 게 신기하네요","{1} 검색량 폭발했네요","{3} 이건 처음 들었어요",
+  "{2} 기사 보고 왔습니다","1위랑 2위 차이가 꽤 크네","{1} 내일이면 또 바뀌겠죠","{c} 정리돼 있어서 보기 편하네요",
+  "{2} 조심스러운 주제네요","{3} 관심 가지고 봐야겠어요","{1} 결과 나오면 다시 볼게요","{c} 여기서 보는 게 제일 빠르네요",
+  "{3} 이게 왜 이렇게 화제죠","{2} 며칠째 계속 올라와 있네요","{1} 판단은 각자 하는 거죠","{c} 흐름 보기 좋네요"]
+};
+
+const REP = ["인정","ㄹㅇ 이거 맞아요","저도 그렇게 생각해요","ㅋㅋㅋ 맞아요","그건 좀 아닌 듯 ㅜㅜ",
+ "오 몰랐네요","동감입니다","저는 반대요 ^^;","정보 감사합니다","이거 진짜 궁금했는데",
+ "완전 공감 ㅎㅎ","음... 글쎄요","좋은 지적이네요","저만 그런 게 아니었군요 ㅠㅠ","다음 주에 또 봐야겠다",
+ "그러게요 ㄷㄷ","저는 다르게 봐요","한 표 드립니다","맞말이네요","아 그렇구나 ㅎㅎ"];
+let GEN = null;
+function demoAll(){
+  if(GEN) return GEN;
+  GEN = buildSeed();
+  DATA.forEach((c,ci)=>{
+    const r = seeded(ci*7919 + 31);
+    const n1 = c.list[0].name, n2 = c.list[1].name, n3 = c.list[2].name;
+    let t = Date.now() - Math.floor(r()*5400000);
+    const step = 12*86400000 / Math.max(1, c.talk);   /* 글이 많은 분야일수록 촘촘하게 */
+    for(let i=0;i<c.talk;i++){
+      const T = TPLS[typeOf(c.name)];
+      const body = fill(T[Math.floor(r()*T.length)], {"1":n1, "2":n2, "3":n3, "c":c.name});
+      const nick = NICK_A[Math.floor(r()*NICK_A.length)] + NICK_B[Math.floor(r()*NICK_B.length)]
+        + (r()<0.45 ? String(Math.floor(r()*98)+1) : "");
+      t -= Math.floor(r()*step*1.8) + 60000;
+      GEN.push({
+        id:"g"+ci+"_"+i, uid:"g"+ci+"_"+i, nick, cid:c.id, cname:c.name,
+        text: PRE[Math.floor(r()*PRE.length)] + body + TAIL[Math.floor(r()*TAIL.length)],
+        ts:t, likes:Math.floor(r()*r()*46), reports:[], demo:true
+      });
+    }
+  });
+  /* 대댓글 — 방금 만든 의견 중 일부에 답글을 답니다 */
+  const base = GEN.filter(m=>!m.demoReply);
+  const byCat = {};
+  base.forEach(m=>{ (byCat[m.cid] = byCat[m.cid] || []).push(m); });
+  let k = 0;
+  Object.keys(byCat).forEach(cid=>{
+    const pool = byCat[cid], r = seeded(cid.length*31 + pool.length + (k++));
+    const n = 10 + Math.floor(r()*6);
+    for(let i=0;i<n;i++){
+      const parent = pool[Math.floor(r()*pool.length)];
+      if(!parent) continue;
+      const nick = NICK_A[Math.floor(r()*NICK_A.length)] + NICK_B[Math.floor(r()*NICK_B.length)]
+        + (r()<0.4 ? String(Math.floor(r()*98)+1) : "");
+      const ts = Math.min(Date.now()-60000, parent.ts + Math.floor(r()*7200000) + 300000);
+      GEN.push({
+        id:"r"+cid+"_"+i, uid:"r"+cid+"_"+i, pid:parent.id, nick,
+        cid:parent.cid, cname:parent.cname,
+        text: REP[Math.floor(r()*REP.length)],
+        ts, likes:Math.floor(r()*r()*12), reports:[], demo:true, demoReply:true
+      });
+    }
+  });
+  GEN.sort((a,b)=>b.ts-a.ts);
+  return GEN;
+}
+
+let ME=null, MEloaded=false, USERS=null;
+let CUR=null, SCOPE="cat", CACHE=null, busy=false;
+const PER=50;      /* 한 페이지에 보여줄 의견 수 */
+let PAGE=1;
+
+async function getMe(){
+  if(MEloaded) return ME;
+  try{ const r = await window.storage.get(SKEY); ME = r ? JSON.parse(r.value) : null; }
+  catch(e){ ME = null; }
+  MEloaded = true; return ME;
+}
+async function saveMe(){ try{ await window.storage.set(SKEY, JSON.stringify(ME)); }catch(e){} }
+async function logout(){ ME = null; try{ await window.storage.delete(SKEY); }catch(e){} }
+
+async function getUsers(force){
+  if(USERS && !force) return USERS;
+  try{ const r = await window.storage.get(UKEY,true); USERS = r ? JSON.parse(r.value) : []; }
+  catch(e){ USERS = []; }
+  return USERS;
+}
+async function digest(pw, salt){
+  const data = new TextEncoder().encode(salt+"::"+pw);
+  if(window.crypto && crypto.subtle){
+    const b = await crypto.subtle.digest("SHA-256", data);
+    return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
+  }
+  let h = 5381; for(const c of data) h = ((h*33)^c)>>>0; return "x"+h.toString(16);
+}
+async function signUp(nick, pw, extra){
+  const users = await getUsers(true);
+  if(users.some(u=>u.nick.toLowerCase()===nick.toLowerCase())) return {err:"이미 쓰고 있는 닉네임입니다"};
+  const salt = Math.random().toString(36).slice(2,10);
+  const u = {
+    uid:"u"+Date.now().toString(36)+Math.random().toString(36).slice(2,6),
+    nick, salt, pw: await digest(pw, salt), ts: Date.now(),
+    mail:(extra&&extra.mail)||"", name:(extra&&extra.name)||"", tel:(extra&&extra.tel)||""
+  };
+  users.push(u); USERS = users;
+  await window.storage.set(UKEY, JSON.stringify(users), true);
+  ME = {uid:u.uid, nick:u.nick, liked:[]}; await saveMe();
+  return {ok:true};
+}
+async function signIn(nick, pw){
+  const users = await getUsers(true);
+  const u = users.find(x=>x.nick.toLowerCase()===nick.toLowerCase());
+  if(!u) return {err:"가입되지 않은 닉네임입니다"};
+  if(await digest(pw, u.salt) !== u.pw) return {err:"비밀번호가 맞지 않습니다"};
+  ME = {uid:u.uid, nick:u.nick, liked:[]}; await saveMe();
+  return {ok:true};
+}
+async function getComments(force){
+  if(CACHE && !force) return CACHE;
+  let arr = null;
+  try{ const r = await window.storage.get(CKEY,true); arr = r ? JSON.parse(r.value) : null; }
+  catch(e){ arr = null; }
+  /* 실제로 올라온 글 + 예시 의견을 합쳐 보여줍니다. 저장은 실제 글만 됩니다. */
+  CACHE = (arr||[]).concat(demoAll()).sort((a,b)=>b.ts-a.ts);
+
+  /* 최근 7일 안에 달린 의견만 세어 HOT을 다시 매깁니다 */
+  const since = Date.now() - WEEK, counts = {};
+  CACHE.forEach(m=>{ if(m.ts >= since) counts[m.cid] = (counts[m.cid]||0) + 1; });
+  markHot(counts);
+  render();
+
+  return CACHE;
+}
+async function putComments(next){
+  CACHE = next;
+  const real = next.filter(m=>!m.demo).slice(0,MAX);
+  await window.storage.set(CKEY, JSON.stringify(real), true);
+}
+function ago(ts){
+  const s = (Date.now()-ts)/1000;
+  if(s<60) return "방금";
+  if(s<3600) return Math.floor(s/60)+"분 전";
+  if(s<86400) return Math.floor(s/3600)+"시간 전";
+  if(s<604800) return Math.floor(s/86400)+"일 전";
+  const d = new Date(ts); return `${d.getMonth()+1}.${d.getDate()}`;
+}
+
+async function mountBoard(c){
+  CUR = c; SCOPE = "cat"; PAGE = 1;
+  const sheet = $("#sheet");
+  sheet.querySelectorAll(".tab").forEach(t=>{
+    t.addEventListener("click", ()=>{
+      SCOPE = t.dataset.scope; PAGE = 1;
+      sheet.querySelectorAll(".tab").forEach(x=>x.setAttribute("aria-pressed", x===t));
+      drawList();
+    });
+  });
+  document.getElementById("list").addEventListener("click", e=>{
+    const G = e.target.closest("[data-goto]");
+    if(G){
+      const c = DATA.find(x=>x.id===G.dataset.goto);
+      if(c && (!CUR || c.id!==CUR.id)){ open(c); return; }
+    }
+    const L = e.target.closest("[data-like]"),
+          D = e.target.closest("[data-del]"),
+          R = e.target.closest("[data-report]"),
+          P = e.target.closest("[data-page]");
+    if(P && !P.disabled){
+      PAGE = +P.dataset.page; drawList();
+      const top = document.querySelector(".col-board");
+      if(top) top.scrollIntoView({block:"start"});
+      return;
+    }
+    const RP = e.target.closest("[data-reply]"), SD = e.target.closest("[data-send]");
+    if(RP){
+      const box = document.getElementById("rb-"+RP.dataset.reply);
+      if(box){ box.hidden = !box.hidden; if(!box.hidden) box.querySelector("textarea").focus(); }
+      return;
+    }
+    if(SD) return postReply(SD.dataset.send);
+    /* 답글 버튼을 누르지 않고 의견 아무 곳이나 눌러도 답글창이 열립니다 */
+    const CM = e.target.closest(".cmt");
+    if(CM && !e.target.closest("button") && !e.target.closest("a")){
+      const box = document.getElementById("rb-" + (CM.dataset.pid || CM.dataset.id));
+      if(box){ box.hidden = !box.hidden; if(!box.hidden){ const t = box.querySelector("textarea"); if(t) t.focus(); } }
+      return;
+    }
+    if(L) toggleLike(L.dataset.like);
+    else if(D) removeComment(D.dataset.del);
+    else if(R && !R.disabled) reportComment(R.dataset.report);
+  });
+  RANKMODE = "search";
+  drawRank();
+  getVotes(true).then(getMyVotes).then(drawRank);
+  sheet.querySelectorAll(".rtab").forEach(t=>{
+    t.addEventListener("click", async ()=>{
+      RANKMODE = t.dataset.mode;
+      if(RANKMODE==="vote"){ await getVotes(true); await getMyVotes(); }
+      drawRank();
+    });
+  });
+  document.getElementById("rankbox").addEventListener("click", e=>{
+    const N = e.target.closest("[data-open]");
+    if(N){
+      const item = N.closest(".fitem");
+      const box = item && item.querySelector(".linkbox");
+      if(box){
+        const open = box.classList.toggle("open");
+        N.classList.toggle("on", open);
+      }
+      return;
+    }
+    const V = e.target.closest("[data-vote]");
+    if(V && !V.disabled) castVote(V.dataset.vote);
+  });
+
+  await getMe();
+  drawCompose();
+  await getComments(true);
+  drawList();
+}
+
+function drawCompose(){
+  const el = document.getElementById("compose"), slot = document.getElementById("auth");
+  if(!el || !slot) return;
+
+  if(!ME){
+    el.innerHTML = "";
+    slot.innerHTML = `
+      <input id="anick" class="mini" maxlength="12" placeholder="닉네임" aria-label="닉네임" autocomplete="username">
+      <input id="apw" class="mini" type="password" maxlength="32" placeholder="비밀번호" aria-label="비밀번호" autocomplete="current-password">
+      <button class="send sm" id="doLogin">로그인</button>
+      <button class="send sm ghost" id="doSignup">가입</button>`;
+
+    const go = async ()=>{
+      if(busy) return;
+      const nick = document.getElementById("anick").value.trim();
+      const pw = document.getElementById("apw").value;
+      if(nick.length<2 || nick.length>12) return toast("닉네임은 2~12자로 입력하세요");
+      if(pw.length<4) return toast("비밀번호는 4자 이상 입력하세요");
+      const btn = document.getElementById("doLogin");
+      busy = true; btn.disabled = true; btn.textContent = "…";
+      const res = await signIn(nick, pw);
+      busy = false;
+      if(res.err){
+        btn.disabled = false; btn.textContent = "로그인";
+        return toast(res.err);
+      }
+      drawCompose(); drawList();
+    };
+    document.getElementById("doLogin").onclick = go;
+    document.getElementById("doSignup").onclick = openSignup;
+    slot.querySelectorAll("input").forEach(i=>{ i.onkeydown = e=>{ if(e.key==="Enter") go(); }; });
+    return;
+  }
+
+  slot.innerHTML = `<b class="whoin">${esc(ME.nick)}</b><button class="linkbtn" id="out">로그아웃</button>`;
+  el.innerHTML = `
+    <div class="compose">
+      <textarea id="txt" maxlength="${LIMIT}" placeholder="${esc(CUR.name)} 순위에 대한 의견을 남겨보세요"></textarea>
+      <div class="cbar"><span class="cnt" id="cnt">0 / ${LIMIT}</span><button class="send" id="post" disabled>올리기</button></div>
+    </div>`;
+
+  const txt = document.getElementById("txt"), post = document.getElementById("post"), cnt = document.getElementById("cnt");
+  txt.addEventListener("input", ()=>{
+    cnt.textContent = `${txt.value.length} / ${LIMIT}`;
+    post.disabled = txt.value.trim().length < 2;
+  });
+  post.onclick = async ()=>{
+    if(busy) return;
+    busy = true; post.disabled = true; post.textContent = "올리는 중";
+    try{
+      const all = await getComments(true);
+      all.unshift({
+        id:"m"+Date.now().toString(36)+Math.random().toString(36).slice(2,6),
+        uid:ME.uid, nick:ME.nick, cid:CUR.id, cname:CUR.name,
+        text:txt.value.trim().slice(0,LIMIT), ts:Date.now(), likes:0
+      });
+      await putComments(all);
+      txt.value = ""; cnt.textContent = `0 / ${LIMIT}`;
+      PAGE = 1; drawList();
+    }catch(e){
+      cnt.textContent = "저장하지 못했습니다. 다시 시도해 주세요.";
+    }
+    post.textContent = "올리기"; busy = false;
+  };
+  document.getElementById("out").onclick = async ()=>{
+    await logout(); drawCompose(); drawList();
+  };
+}
+
+function drawList(){
+  const el = document.getElementById("list"); if(!el || !CUR) return;
+  const all = CACHE || [];
+  const parents = all.filter(m=>!m.pid);
+  const mine = parents.filter(m=>m.cid===CUR.id);
+  $("#sheet").querySelectorAll(".tab").forEach(t=>{
+    t.textContent = t.dataset.scope==="all" ? `전체 ${parents.length}` : `이 분야 ${mine.length}`;
+  });
+
+  const byParent = new Map();
+  all.forEach(m=>{ if(m.pid){ if(!byParent.has(m.pid)) byParent.set(m.pid, []); byParent.get(m.pid).push(m); } });
+
+  const rows = SCOPE==="cat" ? mine : parents;
+  if(!rows.length){
+    el.innerHTML = `<p class="empty">${SCOPE==="cat"?"이 분야 첫 의견을 남겨보세요":"아직 올라온 의견이 없습니다"}</p>`;
+    return;
+  }
+  const pages = Math.max(1, Math.ceil(rows.length/PER));
+  if(PAGE > pages) PAGE = pages;
+  const start = (PAGE-1)*PER;
+
+  el.innerHTML = rows.slice(start, start+PER).map(m=>{
+    const kids = (byParent.get(m.id) || []).sort((a,b)=>a.ts-b.ts);
+    return cmtHTML(m, false) +
+      (kids.length ? `<div class="replies">${kids.map(k=>cmtHTML(k, true)).join("")}</div>` : "") +
+      `<div class="replybox" id="rb-${m.id}" hidden>
+         <textarea id="rt-${m.id}" maxlength="200" placeholder="답글을 남겨보세요"></textarea>
+         <button class="send sm" data-send="${m.id}">등록</button>
+       </div>`;
+  }).join("") + pager(pages);
+}
+
+function cmtHTML(m, isRep){
+  const liked = !!(ME && ME.liked && ME.liked.indexOf(m.id)>=0);
+  const own = !!(ME && ME.uid===m.uid);
+  const hid = isHidden(m);
+  const reported = !!(ME && (m.reports||[]).indexOf(ME.uid)>=0);
+  const body = hid
+    ? `<p class="masked-note">신고처리되었습니다. 이 의견은 검토 전까지 가려집니다.</p>`
+    : `<p>${esc(m.text)}</p>`;
+  const acts = hid
+    ? (own?`<button class="act" data-del="${m.id}">삭제</button>`:"")
+    : `<button class="act${liked?" on":""}" data-like="${m.id}">공감 ${m.likes||0}</button>
+       ${isRep?"":`<button class="act" data-reply="${m.id}">답글</button>`}
+       ${own?`<button class="act" data-del="${m.id}">삭제</button>`
+             :`<button class="act" data-report="${m.id}"${reported?" disabled":""}>${reported?"신고함":"신고"}</button>`}`;
+  return `<article class="cmt${isRep?" rep":""}${hid?" masked":""}" data-id="${m.id}"${m.pid?` data-pid="${m.pid}"`:""} data-cid="${m.cid}">
+      <div class="cmt-hd">
+        ${isRep?`<span class="repmark">↳</span>`:""}
+        <span class="nick">${esc(m.nick)}</span>
+        <span class="ago">${ago(m.ts)}</span>
+        ${(!isRep && SCOPE==="all")?`<button class="tagc" data-goto="${m.cid}">${esc(m.cname)}</button>`:""}
+        <span class="cmt-ft">${acts}</span>
+      </div>
+      ${body}
+    </article>`;
+}
+
+function pager(pages){
+  if(pages < 2) return "";
+  let to = Math.min(pages, Math.max(PAGE+3, 7)), from = Math.max(1, to-6);
+  to = Math.min(pages, from+6);
+  let nums = "";
+  for(let i=from; i<=to; i++)
+    nums += `<button class="pg" data-page="${i}" aria-current="${i===PAGE}">${i}</button>`;
+  return `<div class="pager">
+    <button class="pg" data-page="${PAGE-1}"${PAGE===1?" disabled":""} aria-label="이전">‹</button>
+    ${nums}
+    <button class="pg" data-page="${PAGE+1}"${PAGE===pages?" disabled":""} aria-label="다음">›</button>
+  </div>`;
+}
+
+async function postReply(pid){
+  if(!ME) return toast("로그인 후 답글을 남길 수 있습니다");
+  if(busy) return;
+  const box = document.getElementById("rt-"+pid);
+  const text = box ? box.value.trim() : "";
+  if(text.length < 2) return toast("답글을 조금 더 적어주세요");
+  busy = true;
+  try{
+    const all = await getComments();
+    const parent = all.find(x=>x.id===pid);
+    all.unshift({
+      id:"m"+Date.now().toString(36)+Math.random().toString(36).slice(2,6),
+      uid:ME.uid, nick:ME.nick, pid,
+      cid:parent?parent.cid:CUR.id, cname:parent?parent.cname:CUR.name,
+      text:text.slice(0,200), ts:Date.now(), likes:0, reports:[]
+    });
+    await putComments(all);
+    drawList();
+  }catch(e){ toast("답글을 저장하지 못했습니다"); }
+  busy = false;
+}
+
+async function reportComment(id){
+  if(!ME){ toast("로그인 후 신고할 수 있습니다."); return; }
+  if(busy) return;
+  if(!confirm("이 의견을 신고할까요? 신고하면 내용이 가려집니다.")) return;
+  busy = true;
+  try{
+    const all = await getComments();
+    const m = all.find(x=>x.id===id);
+    if(m){
+      m.reports = m.reports || [];
+      if(m.reports.indexOf(ME.uid)<0) m.reports.push(ME.uid);
+      await putComments(all);
+      drawList();
+      toast("신고처리되었습니다.");
+    }
+  }catch(e){ toast("신고를 저장하지 못했습니다."); }
+  busy = false;
+}
+
+async function toggleLike(id){
+  if(!ME || busy) return;
+  busy = true;
+  try{
+    const all = await getComments();
+    const m = all.find(x=>x.id===id);
+    if(m){
+      ME.liked = ME.liked || [];
+      const i = ME.liked.indexOf(id);
+      if(i>=0){ ME.liked.splice(i,1); m.likes = Math.max(0,(m.likes||0)-1); }
+      else{ ME.liked.push(id); m.likes = (m.likes||0)+1; }
+      await putComments(all); await saveMe(); drawList();
+    }
+  }catch(e){}
+  busy = false;
+}
+
+async function removeComment(id){
+  if(!ME || busy) return;
+  busy = true;
+  try{
+    const all = await getComments();
+    await putComments(all.filter(x=>!(x.id===id && x.uid===ME.uid)));
+    drawList();
+  }catch(e){}
+  busy = false;
+}
 </script>
 </body>
 </html>
