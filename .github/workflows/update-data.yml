@@ -19,12 +19,18 @@ jobs:
           python-version: "3.12"
 
       - name: Collect data
+        continue-on-error: true
         env:
           KOFIC_KEY: ${{ secrets.KOFIC_KEY }}
         run: python scripts/collect.py
 
       - name: Collect apps
+        continue-on-error: true
         run: python scripts/collect_apps.py
+
+      - name: Collect news
+        continue-on-error: true
+        run: python scripts/collect_news.py
 
       - name: Commit
         run: |
