@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>검색지수 랭킹 — 지금 가장 많이 검색된 것들</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{
+  --paper:#E7E9F0;
+  --card:#FFFFFF;
+  --ink:#101320;
+  --muted:#6E7488;
+  --line:#D2D6E2;
+  --up:#E2342A;
+  --down:#1E5BD6;
+  --flat:#9AA0B1;
+  --kr:"Pretendard Variable",Pretendard,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{
+  background:var(--paper);color:var(--ink);font-family:var(--kr);
+  font-size:15px;line-height:1.5;letter-spacing:-.01em;
+  padding-bottom:64px;
+}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+:focus-visible{outline:2px solid var(--down);outline-offset:2px;border-radius:2px}
+
+/* ---------- header ---------- */
+.top{
+  position:sticky;top:0;z-index:40;background:rgba(231,233,240,.88);
+  backdrop-filter:blur(12px);border-bottom:1px solid var(--line);
+}
+.top-in{max-width:1240px;margin:0 auto;padding:14px 20px;display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.brand{font-weight:800;font-size:19px;letter-spacing:-.03em}
+.brand em{font-style:normal;color:var(--up)}
+.stamp{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:0}
+.live{display:inline-flex;align-items:center;gap:5px}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--up);animation:pulse 2.4s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+
+/* ---------- ticker ---------- */
+.ticker{
+  background:var(--ink);color:#F2F3F7;overflow:hidden;
+  border-bottom:1px solid var(--ink);
+}
+.ticker-in{display:flex;align-items:center;gap:0}
+.ticker-tag{
+  flex:none;padding:9px 14px;background:var(--up);color:#fff;
+  font-family:var(--mono);font-size:11px;font-weight:600;letter-spacing:.08em;
+}
+.ticker-track{overflow:hidden;flex:1;position:relative;mask-image:linear-gradient(90deg,transparent,#000 24px,#000 92%,transparent)}
+.ticker-run{display:flex;gap:34px;white-space:nowrap;padding:9px 24px;animation:slide 46s linear infinite}
+.ticker:hover .ticker-run{animation-play-state:paused}
+@keyframes slide{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tk{font-size:13px;display:inline-flex;align-items:baseline;gap:7px}
+.tk .cat{color:#8C93A8;font-family:var(--mono);font-size:11px}
+.tk .up{color:#FF8A80;font-family:var(--mono);font-size:11.5px}
+
+/* ---------- controls ---------- */
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+.controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding:22px 0 6px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+.chip{
+  font-size:12.5px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;
+  background:transparent;color:var(--muted);transition:.15s;
+}
+.chip:hover{border-color:var(--ink);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.find{
+  border:1px solid var(--line);background:var(--card);border-radius:8px;
+  padding:8px 12px;font-size:13.5px;width:210px;font-family:var(--kr);
+}
+.find::placeholder{color:var(--flat)}
+.count{font-family:var(--mono);font-size:11px;color:var(--muted);padding:4px 0 18px}
+
+/* ---------- grid ---------- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(302px,1fr));gap:12px}
+.card{
+  background:var(--card);border:1px solid var(--line);border-radius:12px;
+  padding:16px 16px 12px;text-align:left;width:100%;display:block;
+  transition:border-color .16s,transform .16s;
+}
+.card:hover{border-color:var(--ink);transform:translateY(-2px)}
+.card-hd{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:9px}
+.grp{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase}
+.hotmark{font-family:var(--mono);font-size:10px;color:var(--up);letter-spacing:.04em}
+.cat-name{font-size:17.5px;font-weight:700;letter-spacing:-.03em;margin-bottom:13px}
+
+/* rank rows */
+.row{display:grid;grid-template-columns:15px 1fr 40px 34px;align-items:center;gap:9px;padding:5px 0}
+.rk{font-family:var(--mono);font-size:12px;font-weight:600;color:var(--flat)}
+.row.first .rk{color:var(--up)}
+.nm{font-size:14px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row.first .nm{font-weight:700}
+.idx{font-family:var(--mono);font-size:11.5px;color:var(--muted);text-align:right}
+.mv{font-family:var(--mono);font-size:11px;text-align:right}
+.mv.u{color:var(--up)}.mv.d{color:var(--down)}.mv.f{color:var(--flat)}
+.mv.n{color:var(--up);font-weight:600}
+.bar{grid-column:2 / -1;height:3px;background:#EDEFF4;border-radius:2px;overflow:hidden;margin:-3px 0 3px}
+.bar i{display:block;height:100%;background:var(--flat);width:0;border-radius:2px;transition:width .8s cubic-bezier(.2,.8,.2,1)}
+.row.first + .bar i{background:var(--up)}
+.more{
+  font-family:var(--mono);font-size:10.5px;color:var(--muted);letter-spacing:.04em;
+  border-top:1px solid #EDEFF4;margin-top:8px;padding-top:9px;display:block;
+}
+.card:hover .more{color:var(--ink)}
+
+/* ---------- detail ---------- */
+.scrim{position:fixed;inset:0;background:rgba(16,19,32,.55);z-index:50;display:none;padding:20px;overflow-y:auto}
+.scrim.on{display:block}
+.sheet{
+  background:var(--card);max-width:600px;margin:6vh auto;border-radius:14px;
+  padding:24px 24px 20px;animation:rise .22s cubic-bezier(.2,.8,.2,1);
+}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.sheet-hd{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:4px}
+.sheet h2{font-size:24px;font-weight:800;letter-spacing:-.04em}
+.sheet .sub{font-family:var(--mono);font-size:11px;color:var(--muted);margin-bottom:18px}
+.x{font-size:22px;line-height:1;color:var(--muted);padding:2px 6px}
+.x:hover{color:var(--ink)}
+.full{border-top:1px solid var(--line)}
+.frow{display:grid;grid-template-columns:22px 1fr 52px 42px;align-items:center;gap:10px;padding:11px 0 4px}
+.fbar{grid-column:2 / -1;height:4px;background:#EDEFF4;border-radius:2px;overflow:hidden;margin-bottom:11px;border-bottom:0}
+.fbar i{display:block;height:100%;background:var(--flat);border-radius:2px}
+.frow.first .rk,.frow.first .nm{color:var(--ink)}
+.frow.first .rk{color:var(--up);font-size:14px}
+.frow.first .nm{font-weight:700;font-size:16px}
+.frow + .fbar{border-bottom:1px solid #F1F2F6}
+.frow.first + .fbar i{background:var(--up)}
+.note{font-size:11.5px;color:var(--muted);line-height:1.65;border-top:1px solid var(--line);padding-top:14px;margin-top:6px}
+.note b{color:var(--ink);font-weight:600}
+
+.foot{max-width:1240px;margin:44px auto 0;padding:20px;border-top:1px solid var(--line);font-size:11.5px;color:var(--muted);line-height:1.7}
+
+@media (max-width:640px){
+  .brand{font-size:17px}
+  .find{width:100%}
+  .sheet{padding:20px 16px 16px;margin:0 auto}
+  .grid{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important;transition:none!important}
+  .bar i{transition:none}
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="top-in">
+    <span class="brand">검색지수 <em>랭킹</em></span>
+    <span class="stamp live"><span class="dot"></span><span id="stamp"></span> 기준 · 최근 7일 검색지수</span>
+  </div>
+</header>
+
+<div class="ticker">
+  <div class="ticker-in">
+    <span class="ticker-tag">급상승</span>
+    <div class="ticker-track"><div class="ticker-run" id="ticker"></div></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="controls">
+    <div class="chips" id="chips"></div>
+    <input class="find" id="find" type="search" placeholder="분야 검색 (예: 노트북)" aria-label="분야 검색">
+  </div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer class="foot">
+  순위는 검색량 지수를 기준으로 자동 집계됩니다. 검색량이 많다는 것이 품질·선호·평판이 높다는 뜻은 아닙니다.<br>
+  현재 화면의 수치는 UI 확인용 <b>샘플 데이터</b>입니다.
+</footer>
+
+<div class="scrim" id="scrim" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+  <div class="sheet" id="sheet"></div>
+</div>
+
+<script>
+/* ============================================================
+   1. 데이터 레이어 — 실제 서비스에서는 이 부분만 fetch로 교체
+   ============================================================ */
+const RAW = [
+  ["대학교","교육",["연세대학교","서울대학교","고려대학교","성균관대학교","한양대학교","서강대학교","중앙대학교","경희대학교","KAIST","이화여자대학교"]],
+  ["대학원 MBA","교육",["서울대 MBA","KAIST MBA","연세대 MBA","고려대 MBA","성균관대 MBA","한양대 MBA","서강대 MBA","중앙대 MBA","이화여대 MBA","건국대 MBA"]],
+  ["어학원","교육",["파고다","YBM","해커스","시원스쿨","윤선생","청담어학원","정상어학원","민병철","케임브리지","EF"]],
+  ["코딩 부트캠프","교육",["코드스테이츠","패스트캠퍼스","우아한테크코스","SSAFY","엘리스","스파르타코딩","42서울","멋쟁이사자처럼","네이버 부스트캠프","드림코딩"]],
+  ["자격증","교육",["정보처리기사","컴활 1급","한국사능력검정","토익","전기기사","공인중개사","산업안전기사","사회복지사","건축기사","투자자산운용사"]],
+
+  ["스마트폰","IT·전자",["갤럭시 S25","아이폰 17","갤럭시 Z 폴드","아이폰 17 Pro","갤럭시 Z 플립","갤럭시 A 시리즈","아이폰 16","픽셀 10","샤오미 15","갤럭시 S24"]],
+  ["노트북","IT·전자",["맥북 에어","갤럭시 북","LG 그램","맥북 프로","ASUS 젠북","레노버 요가","델 XPS","HP 스펙터","ASUS ROG","MSI 게이밍"]],
+  ["무선이어폰","IT·전자",["에어팟 프로","갤럭시 버즈","소니 WF","보스 QC","젠하이저","QCY","앤커 사운드코어","자브라","베이어다이나믹","AKG"]],
+  ["스마트워치","IT·전자",["애플워치","갤럭시 워치","가민","핏빗","샤오미 밴드","화웨이 워치","위딩스","어메이즈핏","폴라","순토"]],
+  ["로봇청소기","IT·전자",["로보락","삼성 비스포크","LG 코드제로","드리미","에코백스","샤오미","나르왈","브라바","일렉트로룩스","유진로봇"]],
+  ["TV","IT·전자",["삼성 OLED","LG OLED","삼성 네오 QLED","LG QNED","TCL","하이센스","소니 브라비아","이스트라","더 프레임","샤오미 TV"]],
+  ["모니터","IT·전자",["LG 울트라기어","삼성 오디세이","한성컴퓨터","델 울트라샤프","벤큐","알파스캔","에이수스 프로아트","MSI","레노버","커세어"]],
+  ["그래픽카드","IT·전자",["RTX 5090","RTX 5080","RTX 5070","라데온 RX 9070","RTX 4060","인텔 아크","RTX 5060","라데온 RX 7800","RTX 4090","RTX 4070"]],
+  ["AI 서비스","IT·전자",["ChatGPT","클로드","제미나이","퍼플렉시티","코파일럿","뤼튼","미드저니","노션 AI","커서","딥엘"]],
+  ["생성형 이미지 툴","IT·전자",["미드저니","달리","스테이블 디퓨전","파이어플라이","캔바 AI","레오나르도","플럭스","이미젠","포토샵 AI","노벨AI"]],
+
+  ["국산차","자동차",["현대 그랜저","기아 쏘렌토","현대 싼타페","기아 카니발","제네시스 G80","현대 아반떼","기아 스포티지","제네시스 GV80","현대 팰리세이드","기아 K5"]],
+  ["수입차","자동차",["BMW 5시리즈","벤츠 E클래스","아우디 A6","볼보 XC60","렉서스 ES","포르쉐 카이엔","테슬라 모델Y","미니 쿠퍼","랜드로버 디펜더","폭스바겐 티구안"]],
+  ["전기차","자동차",["테슬라 모델Y","현대 아이오닉5","기아 EV6","테슬라 모델3","기아 EV9","현대 아이오닉6","BMW i4","벤츠 EQE","폴스타 2","볼보 EX30"]],
+  ["SUV","자동차",["기아 쏘렌토","현대 싼타페","기아 스포티지","현대 투싼","제네시스 GV70","볼보 XC60","BMW X5","벤츠 GLC","쉐보레 트랙스","르노 QM6"]],
+
+  ["프랜차이즈 커피","식음료",["스타벅스","메가커피","컴포즈커피","투썸플레이스","이디야","빽다방","할리스","폴바셋","블루보틀","커피빈"]],
+  ["치킨 브랜드","식음료",["교촌치킨","BBQ","BHC","굽네치킨","네네치킨","푸라닭","자담치킨","호식이두마리","60계치킨","처갓집"]],
+  ["라면","식음료",["신라면","불닭볶음면","진라면","짜파게티","안성탕면","너구리","열라면","비빔면","삼양라면","참깨라면"]],
+  ["편의점","식음료",["GS25","CU","세븐일레븐","이마트24","미니스톱","스토리웨이","씨스페이스","365플러스","하나로마트","노브랜드"]],
+  ["배달 앱","식음료",["배달의민족","쿠팡이츠","요기요","땡겨요","위메프오","배달특급","먹깨비","놀장","부르심","띵동"]],
+  ["베이커리","식음료",["파리바게뜨","뚜레쥬르","성심당","런던베이글","노티드","이성당","김진환제과","대전 하레하레","브레드05","아우어베이커리"]],
+
+  ["아파트 브랜드","부동산",["래미안","자이","힐스테이트","푸르지오","e편한세상","롯데캐슬","아이파크","더샵","위브","호반써밋"]],
+  ["서울 아파트 단지","부동산",["반포 래미안원베일리","압구정 현대","잠실 엘스","도곡 타워팰리스","반포자이","헬리오시티","목동 신시가지","마래푸","은마아파트","개포 디에이치"]],
+  ["신도시","부동산",["동탄","송도","위례","광교","마곡","다산","검단","운정","평택 고덕","별내"]],
+  ["부동산 앱","부동산",["호갱노노","네이버부동산","직방","다방","아실","부동산플래닛","리치고","밸류맵","디스코","알스퀘어"]],
+
+  ["증권 앱","금융",["토스증권","키움 영웅문","미래에셋 M-STOCK","삼성증권 mPOP","NH나무","KB M-able","한국투자 신한","신한 SOL","대신 크레온","이베스트"]],
+  ["은행 앱","금융",["토스","카카오뱅크","KB스타뱅킹","신한 SOL","우리WON","하나원큐","NH올원","케이뱅크","IBK i-ONE","SC제일"]],
+  ["신용카드","금융",["현대카드","삼성카드","신한카드","KB국민카드","롯데카드","하나카드","우리카드","NH농협","BC카드","토스뱅크 카드"]],
+  ["국내 주식","금융",["삼성전자","SK하이닉스","LG에너지솔루션","현대차","네이버","카카오","셀트리온","한화에어로스페이스","기아","POSCO홀딩스"]],
+  ["미국 주식","금융",["엔비디아","테슬라","애플","마이크로소프트","팔란티어","알파벳","아마존","브로드컴","메타","AMD"]],
+  ["ETF","금융",["KODEX 200","TIGER 미국S&P500","SCHD","QQQ","KODEX 레버리지","TIGER 나스닥100","KODEX 미국채","SOXL","TIGER 차이나전기차","ACE 금현물"]],
+
+  ["아이돌 그룹","엔터",["BTS","블랙핑크","세븐틴","뉴진스","에스파","아이브","스트레이키즈","르세라핌","투바투","트와이스"]],
+  ["드라마","엔터",["폭싹 속았수다","오징어게임","무빙","더 글로리","선재 업고 튀어","눈물의 여왕","재벌집 막내아들","슬기로운 의사생활","나의 아저씨","모범택시"]],
+  ["영화","엔터",["파묘","서울의 봄","범죄도시","베테랑","기생충","외계+인","콘크리트 유토피아","한산","밀수","노량"]],
+  ["예능","엔터",["나 혼자 산다","런닝맨","무한도전","놀면 뭐하니","흑백요리사","피지컬:100","환승연애","솔로지옥","유퀴즈","1박 2일"]],
+  ["웹툰","엔터",["나 혼자만 레벨업","외모지상주의","화산귀환","전지적 독자 시점","여신강림","입학용병","마루는 강쥐","김부장","싸움독학","약한영웅"]],
+  ["OTT","엔터",["넷플릭스","티빙","쿠팡플레이","디즈니+","웨이브","왓챠","애플TV+","라프텔","시리즈온","U+모바일tv"]],
+  ["모바일 게임","엔터",["로블록스","브롤스타즈","리니지M","오딘","원신","쿠키런","메이플M","붕괴 스타레일","프리코네","전략적 팀 전투"]],
+  ["PC·콘솔 게임","엔터",["리그 오브 레전드","배틀그라운드","발로란트","젤다의 전설","엘든링","스타듀밸리","FC 온라인","메이플스토리","로스트아크","디아블로4"]],
+  ["유튜브 채널","엔터",["침착맨","슈카월드","백종원","피식대학","보겸","빠니보틀","곽튜브","김계란","EBS 자이언트펭TV","런닝맨 채널"]],
+
+  ["KBO 구단","스포츠",["LG 트윈스","한화 이글스","KIA 타이거즈","삼성 라이온즈","롯데 자이언츠","두산 베어스","SSG 랜더스","KT 위즈","NC 다이노스","키움 히어로즈"]],
+  ["골프 브랜드","스포츠",["타이틀리스트","캘러웨이","테일러메이드","핑","혼마","젝시오","마제스티","코브라","클리브랜드","미즈노"]],
+  ["러닝화","스포츠",["나이키","아식스","호카","뉴발란스","아디다스","브룩스","온러닝","살로몬","사코니","미즈노"]],
+  ["헬스장 체인","스포츠",["에이블짐","스포애니","바디프렌즈짐","커브스","짐박스","더휘트니스","리복 크로스핏","필라테스원","저스트짐","크런치"]],
+
+  ["국내 여행지","여행",["제주도","부산","강릉","여수","경주","전주","속초","통영","춘천","가평"]],
+  ["해외 여행지","여행",["일본 오사카","베트남 다낭","일본 도쿄","태국 방콕","대만 타이베이","싱가포르","괌","하와이","파리","스페인"]],
+  ["항공사","여행",["대한항공","아시아나","제주항공","진에어","티웨이","에어부산","에어서울","이스타항공","에어프레미아","싱가포르항공"]],
+
+  ["취업 선호 기업","커리어",["삼성전자","네이버","카카오","현대자동차","SK하이닉스","LG전자","한국전력","쿠팡","토스","LG에너지솔루션"]],
+  ["화장품 브랜드","라이프",["올리브영","이니스프리","설화수","닥터자르트","롬앤","조선미녀","마녀공장","라네즈","아누아","티르티르"]],
+  ["반려동물 사료","라이프",["로얄캐닌","오리젠","네츄럴발란스","힐스","아카나","퓨리나","하림펫푸드","나우","웰니스","시저"]],
+  ["캠핑 브랜드","라이프",["스노우피크","코베아","헬리녹스","콜맨","노르디스크","네이처하이크","미니멀웍스","제드","버팔로","일본 DOD"]]
+];
+
+/* 샘플 지수/등락 생성 (실서비스에서는 서버 집계값 사용) */
+function seeded(s){let x=(s*2654435761)>>>0;return()=>{x=(x*1664525+1013904223)>>>0;return x/4294967296}}
+const DATA = RAW.map(([name,group,items],ci)=>{
+  const r = seeded(ci+7);
+  let v = 100, list = [];
+  items.forEach((nm,i)=>{
+    if(i) v = Math.max(6, v*(0.70+0.26*r()));
+    const q = r();
+    let mv;
+    if(q>0.94) mv = "NEW";
+    else mv = Math.round((r()-0.5)*7);
+    list.push({name:nm, idx:Math.round(v), mv});
+  });
+  const lead = list[0].mv === "NEW" ? 9 : Math.abs(list[0].mv);
+  return {id:"c"+ci, name, group, list, heat: lead*10 + r()*10};
+}).sort((a,b)=>b.heat-a.heat);
+
+/* ============================================================
+   2. 렌더링
+   ============================================================ */
+const $ = s=>document.querySelector(s);
+const esc = s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+const now = new Date();
+$("#stamp").textContent = `${now.getMonth()+1}월 ${now.getDate()}일 ${String(now.getHours()).padStart(2,"0")}:00`;
+
+function mvHTML(mv){
+  if(mv==="NEW") return `<span class="mv n">NEW</span>`;
+  if(mv>0) return `<span class="mv u">▲${mv}</span>`;
+  if(mv<0) return `<span class="mv d">▼${-mv}</span>`;
+  return `<span class="mv f">–</span>`;
+}
+
+/* 급상승 티커 */
+const hot = DATA.filter(c=>c.list[0].mv==="NEW"||c.list[0].mv>=2).slice(0,14)
+  .map(c=>`<span class="tk"><span class="cat">${esc(c.group)}</span> ${esc(c.name)} 1위 <b>${esc(c.list[0].name)}</b> <span class="up">${c.list[0].mv==="NEW"?"NEW":"▲"+c.list[0].mv}</span></span>`).join("");
+$("#ticker").innerHTML = hot + hot;
+
+/* 그룹 필터 */
+const GROUPS = ["전체", ...[...new Set(DATA.map(c=>c.group))]];
+let active = "전체", query = "";
+$("#chips").innerHTML = GROUPS.map(g=>
+  `<button class="chip" data-g="${esc(g)}" aria-pressed="${g==="전체"}">${esc(g)}</button>`).join("");
+$("#chips").addEventListener("click", e=>{
+  const b = e.target.closest(".chip"); if(!b) return;
+  active = b.dataset.g;
+  document.querySelectorAll(".chip").forEach(c=>c.setAttribute("aria-pressed", c===b));
+  render();
+});
+$("#find").addEventListener("input", e=>{ query = e.target.value.trim(); render(); });
+
+function render(){
+  const list = DATA.filter(c=>
+    (active==="전체"||c.group===active) &&
+    (!query || c.name.includes(query) || c.list.some(i=>i.name.includes(query)))
+  );
+  $("#count").textContent = `${list.length}개 분야 · 화제성 높은 순`;
+  $("#grid").innerHTML = list.map(c=>{
+    const top = c.list.slice(0,3);
+    const rows = top.map((it,i)=>`
+      <div class="row${i===0?" first":""}">
+        <span class="rk">${i+1}</span>
+        <span class="nm">${esc(it.name)}</span>
+        <span class="idx">${it.idx}</span>
+        ${mvHTML(it.mv)}
+      </div>
+      <div class="bar"><i data-w="${it.idx}"></i></div>`).join("");
+    return `<button class="card" data-id="${c.id}">
+      <div class="card-hd"><span class="grp">${esc(c.group)}</span>${c.heat>60?'<span class="hotmark">HOT</span>':""}</div>
+      <div class="cat-name">${esc(c.name)}</div>
+      ${rows}
+      <span class="more">10위까지 보기 →</span>
+    </button>`;
+  }).join("");
+  requestAnimationFrame(()=>document.querySelectorAll(".bar i").forEach(b=>b.style.width=b.dataset.w+"%"));
+}
+render();
+
+/* 상세 */
+$("#grid").addEventListener("click", e=>{
+  const card = e.target.closest(".card"); if(!card) return;
+  open(DATA.find(c=>c.id===card.dataset.id));
+});
+function open(c){
+  $("#sheet").innerHTML = `
+    <div class="sheet-hd">
+      <div>
+        <h2 id="sheetTitle">${esc(c.name)}</h2>
+        <div class="sub">${esc(c.group)} · 최근 7일 검색지수 · 1위 = 100 기준</div>
+      </div>
+      <button class="x" id="close" aria-label="닫기">×</button>
+    </div>
+    <div class="full">
+      ${c.list.map((it,i)=>`
+        <div class="frow${i===0?" first":""}">
+          <span class="rk">${i+1}</span>
+          <span class="nm">${esc(it.name)}</span>
+          <span class="idx">${it.idx}</span>
+          ${mvHTML(it.mv)}
+        </div>
+        <div class="fbar"><i style="width:${it.idx}%"></i></div>`).join("")}
+    </div>
+    <p class="note">
+      <b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
+      등락은 지난주 같은 요일 순위와 비교한 값입니다.<br><br>
+      <b>검색량은 인기·품질과 다릅니다.</b> 부정적 이슈로도 검색량은 급증합니다. 이 표는 "가장 많이 검색된 순서"만 보여줍니다.
+    </p>`;
+  $("#scrim").classList.add("on");
+  document.body.style.overflow="hidden";
+  $("#close").focus();
+}
+function close(){ $("#scrim").classList.remove("on"); document.body.style.overflow=""; }
+$("#scrim").addEventListener("click", e=>{ if(e.target.id==="scrim"||e.target.id==="close") close(); });
+document.addEventListener("keydown", e=>{ if(e.key==="Escape") close(); });
+</script>
+</body>
+</html>
