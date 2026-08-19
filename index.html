@@ -983,7 +983,7 @@ function searchRows(c){
       <span class="nmwrap">
         ${(it.news && it.news.length)
           ? `<a class="nm nmbtn" href="${it.news[0].u}" target="_blank" rel="noopener noreferrer" title="${esc(it.news[0].t)}">${esc(it.name)}<span class="cv">↗</span></a>`
-          : `<a class="nm nmbtn" href="https://search.naver.com/search.naver?where=news&query=${encodeURIComponent(it.name)}" target="_blank" rel="noopener noreferrer">${esc(it.name)}<span class="cv">↗</span></a>`}
+          : `<a class="nm nmbtn" href="https://search.naver.com/search.naver?where=news&amp;query=${encodeURIComponent(it.name)}" target="_blank" rel="noopener noreferrer">${esc(it.name)}<span class="cv">↗</span></a>`}
         ${(vr && vr[it.name]<=3) ? medalTag(vr[it.name], i+1) : ""}
       </span>
       <span class="idx">${it.idx}</span>
