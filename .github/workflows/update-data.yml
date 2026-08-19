@@ -28,9 +28,9 @@ jobs:
         continue-on-error: true
         run: python scripts/collect_apps.py
 
-      - name: Collect news
+      - name: Collect trends
         continue-on-error: true
-        run: python scripts/collect_news.py
+        run: python scripts/collect_trends.py
 
       - name: Commit
         run: |
