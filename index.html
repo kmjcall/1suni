@@ -697,6 +697,16 @@ render();
    영화 분야는 KOBIS 일별 박스오피스로 매일 자동 갱신됩니다.
    data/movies.json 이 있으면 그 값으로 갈아끼우고, 없으면 샘플을 그대로 씁니다.
    ------------------------------------------------------------ */
+fetch("data/bigissue.json", {cache:"no-store"})
+  .then(r=> r.ok ? r.json() : null)
+  .then(d=>{
+    if(!d || !Array.isArray(d.list) || d.list.length < 3) return;
+    const c = DATA.find(x=>x.name==="빅이슈"); if(!c) return;
+    c.list = d.list.map(it=>({name:it.name, idx:it.idx, mv:it.mv, news:it.news}));
+    c.live = {source:d.source, basis:d.basis, targetDate:d.targetDate};
+    render();
+  })
+  .catch(()=>{});
 fetch("data/news.json", {cache:"no-store"})
   .then(r=> r.ok ? r.json() : null)
   .then(d=>{
