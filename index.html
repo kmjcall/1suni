@@ -1124,7 +1124,7 @@ const CKEY="board:comments";  /* 공용 — 모든 방문자가 함께 봅니다
 const UKEY="board:users";     /* 공용 — 가입 계정 목록 */
 const SKEY="session";         /* 개인 — 이 브라우저의 로그인 상태 */
 const MAX=400, LIMIT=300;
-const HIDE_AT=1;   /* 신고 몇 건부터 가릴지. 실서비스에서는 3~5로 올리고 검토 큐를 두세요 */
+const HIDE_AT=3;   /* 신고 몇 건부터 가릴지. 실서비스에서는 3~5로 올리고 검토 큐를 두세요 */
 
 function isHidden(m){ return (m.reports||[]).length >= HIDE_AT; }
 
