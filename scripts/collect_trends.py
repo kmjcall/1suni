@@ -52,7 +52,8 @@ for item in root.iter("item"):
     rows.append({"name": html.unescape(title), "vol": vol, "news": arts})
     if len(rows) == 10:
         break
-
+        
+rows.sort(key=lambda x: -x["vol"])
 if len(rows) < 3:
     raise SystemExit("급상승 검색어를 충분히 받지 못했습니다")
 
