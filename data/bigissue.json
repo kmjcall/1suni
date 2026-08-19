@@ -2,34 +2,12 @@
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
  "targetDate": "20260819",
- "updated": "2026-08-19T16:41:13+09:00",
+ "updated": "2026-08-19T16:57:54+09:00",
  "list": [
-  {
-   "name": "혼다 마린",
-   "idx": 20,
-   "mv": 0,
-   "news": [
-    {
-     "t": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667",
-     "press": "머니투데이"
-    },
-    {
-     "t": "경악! 반바지 입고 다리 드러내니 선명한 노력의 흔적...日 피겨 스타 혼다 마린 깜짝 근황 \"멍으로 가득, 열심히 하고 있단 방증\"",
-     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553465658",
-     "press": "스포탈코리아"
-    },
-    {
-     "t": "차준환, '나 혼자만 레벨업' 막공 성료…새 가능성 입증",
-     "u": "https://v.daum.net/v/20260818102746887",
-     "press": "Daum"
-    }
-   ]
-  },
   {
    "name": "이호선 상담소",
    "idx": 100,
-   "mv": 0,
+   "mv": 1,
    "news": [
     {
      "t": "\"아이는 또 낳으면 되니까\"…물에 빠진 아들 구조하다 나와버린 엄마",
@@ -49,46 +27,68 @@
    ]
   },
   {
-   "name": "승무원",
-   "idx": 5,
-   "mv": 0,
+   "name": "기아",
+   "idx": 10,
+   "mv": "NEW",
    "news": [
     {
-     "t": "아이들과 케이크 만들고 웃음꽃...에어프레미아 승무원의 특별한 나눔",
-     "u": "https://www.econovill.com/news/articleView.html?idxno=748352",
-     "press": "ER 이코노믹리뷰"
+     "t": "기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원",
+     "u": "https://v.daum.net/v/20260819120529658",
+     "press": "Daum"
     },
     {
-     "t": "[나눔] 에어프레미아, 보육원 봉사·농심, 경남 호우 구호 外",
-     "u": "https://www.slist.kr/news/articleView.html?idxno=759677",
-     "press": "싱글리스트"
+     "t": "기아 전기차, 이동 약자 대상 전기차 지원 사업 전개",
+     "u": "https://daily.hankooki.com/news/articleView.html?idxno=1396971",
+     "press": "데일리한국"
     },
     {
-     "t": "에어프레미아, 아이들과 함께 만들고 나누는 사회공헌활동",
-     "u": "https://www.hankyung.com/article/202608198621P",
-     "press": "한국경제"
+     "t": "‘Kia Move & Connect 2기’ 공모… 아동·다문화·발달장애인·노인 돌봄기관에 전기차 17대 지원",
+     "u": "http://www.cbdaily.co.kr/news/article.html?no=63208",
+     "press": "충북데일리"
     }
    ]
   },
   {
-   "name": "band",
-   "idx": 5,
-   "mv": 0,
+   "name": "혼다 마린",
+   "idx": 10,
+   "mv": -2,
    "news": [
     {
-     "t": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-     "u": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-     "press": "The New York Times"
+     "t": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667",
+     "press": "머니투데이"
     },
     {
-     "t": "ZZ Top drummer Frank Beard exits tour after health issues",
-     "u": "https://www.usatoday.com/story/entertainment/music/2026/08/11/zz-top-frank-beard-health-issues-members/91253125007/",
-     "press": "USA Today"
+     "t": "경악! 반바지 입고 다리 드러내니 선명한 노력의 흔적...日 피겨 스타 혼다 마린 깜짝 근황 \"멍으로 가득, 열심히 하고 있단 방증\"",
+     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553465658",
+     "press": "스포탈코리아"
     },
     {
-     "t": "ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation",
-     "u": "https://www.rollingstone.com/music/music-news/zz-top-frank-beard-health-show-cancellation-1235606586/",
-     "press": "Rolling Stone"
+     "t": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\"",
+     "u": "https://v.daum.net/v/ZcpVWCKpWB?f=p",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "승무원",
+   "idx": 5,
+   "mv": -1,
+   "news": [
+    {
+     "t": "하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]",
+     "u": "https://www.donga.com/news/It/article/all/20260818/134495438/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "일반인보다 방사선 15배…항공 승무원·조종사의 '숨은 위험'",
+     "u": "https://www.hankyung.com/article/2026081900937",
+     "press": "한국경제"
+    },
+    {
+     "t": "항공기 조종사·승무원, 방사선 원인 암 잘 걸린다",
+     "u": "https://www.newsis.com/view/NISX20260819_0003753987",
+     "press": "뉴시스"
     }
    ]
   },
@@ -104,7 +104,7 @@
     },
     {
      "t": "\"160억 스마트도시 사업 왜 포기했나\"…박종철, 우성빈 군수에 공개 설명 촉구",
-     "u": "https://v.daum.net/v/20260818111501723",
+     "u": "https://v.daum.net/v/GvOplc3GO9",
      "press": "Daum"
     },
     {
@@ -125,21 +125,87 @@
      "press": "Daum"
     },
     {
-     "t": "명절선물 돌린 백성현 논산시장 ‘당선무효형’···1심 벌금 150만원",
-     "u": "https://www.khan.co.kr/article/202608191410001",
-     "press": "경향신문"
-    },
-    {
      "t": "설·추석 명절 선물에 '명함 동봉'한 백성현 논산시장, 벌금 150만원",
      "u": "https://www.newsis.com/view/NISX20260819_0003754470",
      "press": "뉴시스"
+    },
+    {
+     "t": "백성현 논산시장 1심 당선 무효형…유권자들에게 명절 선물 건넨 혐의",
+     "u": "https://www.hani.co.kr/arti/area/chungcheong/1273582.html",
+     "press": "한겨레"
+    }
+   ]
+  },
+  {
+   "name": "전국장애인차별철폐연대",
+   "idx": 5,
+   "mv": 1,
+   "news": [
+    {
+     "t": "전장연, 박홍근 장관과 면담하기로…\"정애인권리예산 반영 기대\"(종합)",
+     "u": "https://v.daum.net/v/20260819164001935",
+     "press": "Daum"
+    },
+    {
+     "t": "전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”",
+     "u": "https://www.khan.co.kr/article/202608191605001",
+     "press": "경향신문"
+    },
+    {
+     "t": "4호선 무정차 통과안내, 발길 돌리는 시민들",
+     "u": "https://www.yna.co.kr/view/PYH20260818026800013",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "조태용",
+   "idx": 5,
+   "mv": 1,
+   "news": [
+    {
+     "t": "‘비화폰 증거인멸·계엄 위증’ 조태용, 2심 징역 2년 6개월…형량 1년 늘어",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8640457",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "조태용 전 국정원장, 2심서 징역 2년 6개월...형량 1년 늘어",
+     "u": "https://www.ytn.co.kr/_ln/0103_202608191632571859",
+     "press": "YTN"
+    },
+    {
+     "t": "\"윤석열 탄핵 저지 위해 홍장원 거짓말 몰이\"... 조태용 징역 2년 6개월",
+     "u": "https://v.daum.net/v/20260819125250693",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "band",
+   "idx": 5,
+   "mv": -5,
+   "news": [
+    {
+     "t": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
+     "u": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
+     "press": "The New York Times"
+    },
+    {
+     "t": "ZZ Top drummer Frank Beard exits tour after health issues",
+     "u": "https://www.usatoday.com/story/entertainment/music/2026/08/11/zz-top-frank-beard-health-issues-members/91253125007/",
+     "press": "USA Today"
+    },
+    {
+     "t": "ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation",
+     "u": "https://www.rollingstone.com/music/music-news/zz-top-frank-beard-health-show-cancellation-1235606586/",
+     "press": "Rolling Stone"
     }
    ]
   },
   {
    "name": "경제위기",
    "idx": 5,
-   "mv": 0,
+   "mv": -3,
    "news": [
     {
      "t": "“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일",
@@ -155,72 +221,6 @@
      "t": "미 디젤값 폭등에 경제 '휘청'...중간선거 앞둔 트럼프에 대형 악재",
      "u": "https://m.ytn.co.kr/news_view.php?key=202608190928451888&s_mcd=0104",
      "press": "YTN"
-    }
-   ]
-  },
-  {
-   "name": "전국장애인차별철폐연대",
-   "idx": 5,
-   "mv": 0,
-   "news": [
-    {
-     "t": "전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”",
-     "u": "https://www.khan.co.kr/article/202608191605001",
-     "press": "경향신문"
-    },
-    {
-     "t": "전장연, ‘매일 출근길 지하철 시위’ 중단..기획예산처 “협의 진행”",
-     "u": "https://www.kyeonggi.com/article/20260819580333",
-     "press": "경기일보"
-    },
-    {
-     "t": "4호선 무정차 통과안내, 발길 돌리는 시민들",
-     "u": "https://www.yna.co.kr/view/PYH20260818026800013",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "조태용",
-   "idx": 5,
-   "mv": 0,
-   "news": [
-    {
-     "t": "‘비화폰 증거인멸·계엄 위증’ 조태용, 2심 징역 2년 6개월…형량 1년 늘어",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8640457",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "\"윤석열 탄핵 저지 위해 홍장원 거짓말 몰이\"... 조태용 징역 2년 6개월",
-     "u": "https://v.daum.net/v/20260819125250693",
-     "press": "Daum"
-    },
-    {
-     "t": "‘국회 위증’ 조태용 항소심 징역 2년6개월…1심보다 1년 늘어",
-     "u": "https://www.hani.co.kr/arti/society/society_general/1273550.html",
-     "press": "한겨레"
-    }
-   ]
-  },
-  {
-   "name": "이의리",
-   "idx": 20,
-   "mv": 0,
-   "news": [
-    {
-     "t": "KIA 3연승, 네일·이의리만 빛난 게 아니다…베테랑 안방마님의 진심 \"하위권 팀처럼 야구하면 안 되잖아요\" [대전 인터뷰]",
-     "u": "https://v.daum.net/v/20260819123507417",
-     "press": "Daum"
-    },
-    {
-     "t": "김도영 폭탄발언급 \"올해는 완벽한 시즌 아냐, 홈런 개수 의미 없다\" 왜? - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/08/19/2026081913324794009",
-     "press": "머니투데이"
-    },
-    {
-     "t": "'ERA 9.42→1.46 환골탈태' 도대체 뭐가 달라졌길래…이의리가 직접 밝혔다",
-     "u": "https://www.osen.co.kr/article/G1112859639",
-     "press": "OSEN"
     }
    ]
   }
