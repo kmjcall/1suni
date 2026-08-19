@@ -345,6 +345,7 @@ body.viewing .top,body.viewing .ticker,body.viewing main.wrap{display:none}
   *{animation:none!important;transition:none!important}
   }
 </style>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <body>
 
@@ -399,7 +400,7 @@ body.viewing .top,body.viewing .ticker,body.viewing main.wrap{display:none}
     <div class="fld2">
       <div class="fld">
         <label for="suPw">비밀번호 <em>필수</em></label>
-        <input id="suPw" type="password" maxlength="32" placeholder="4자 이상" autocomplete="new-password">
+        <input id="suPw" type="password" maxlength="32" placeholder="8자 이상" autocomplete="new-password">
       </div>
       <div class="fld">
         <label for="suPw2">비밀번호 확인 <em>필수</em></label>
@@ -408,26 +409,13 @@ body.viewing .top,body.viewing .ticker,body.viewing main.wrap{display:none}
     </div>
     <div class="fld">
       <label for="suMail">이메일 <span>선택</span></label>
-      <input id="suMail" type="email" maxlength="60" placeholder="비밀번호를 잊었을 때만 사용합니다" autocomplete="email">
-    </div>
-
-    <p class="fld-note">아래 두 항목은 없어도 가입됩니다. 넣지 않으셔도 모든 기능을 쓸 수 있습니다.</p>
-    <div class="fld2">
-      <div class="fld">
-        <label for="suName">이름 <span>선택</span></label>
-        <input id="suName" maxlength="20">
-      </div>
-      <div class="fld">
-        <label for="suTel">전화번호 <span>선택</span></label>
-        <input id="suTel" type="tel" maxlength="20">
-      </div>
+      <input id="suMail" type="email" maxlength="60" placeholder="비밀번호 찾기에만 사용합니다" autocomplete="email">
     </div>
 
     <label class="agree"><input type="checkbox" id="agree1"><span>이용약관과 개인정보처리방침에 동의합니다. <em>필수</em></span></label>
-    <label class="agree"><input type="checkbox" id="agree2"><span>이름·전화번호 수집에 동의합니다. 문의 답변과 본인 확인에만 쓰고 탈퇴 시 지웁니다. <span>선택</span></span></label>
 
     <button class="send wide" id="suGo">가입하기</button>
-    <p class="fld-note" id="suMsg">비밀번호는 일방향 암호화해 보관하며, 저희도 원래 값을 알 수 없습니다.</p>
+    <p class="fld-note" id="suMsg">닉네임과 비밀번호만 받습니다. 비밀번호는 암호화해 보관하며 저희도 원래 값을 알 수 없습니다.</p>
   </div>
 </section>
 
@@ -728,21 +716,7 @@ fetch("data/movies.json", {cache:"no-store"})
     render();
   })
   .catch(()=>{});
-fetch("data/apps.json", {cache:"no-store"})
-  .then(r=> r.ok ? r.json() : null)
-  .then(d=>{
-    if(!d || !d.categories) return;
-    let hit = false;
-    Object.entries(d.categories).forEach(([nm, o])=>{
-      if(!o || !Array.isArray(o.list) || o.list.length < 3) return;
-      const c = DATA.find(x=>x.name===nm); if(!c) return;
-      c.list = o.list.map(it=>({name:it.name, idx:it.idx, mv:it.mv}));
-      c.live = {source:o.source, basis:o.basis, targetDate:o.targetDate};
-      hit = true;
-    });
-    if(hit) render();
-  })
-  .catch(()=>{});
+
 /* ============================================================
    2-1. 실시간으로 집계되는 효과
    화면에 보이는 카드 하나를 골라 순위를 한 칸씩 바꿔 보여줍니다.
@@ -859,11 +833,11 @@ function openSignup(){
   document.body.classList.add("signing");
   $("#signup").classList.add("on");
   window.scrollTo(0,0);
-  ["suNick","suPw","suPw2","suMail","suName","suTel"].forEach(id=>{ const e=document.getElementById(id); if(e) e.value=""; });
-  ["agree1","agree2"].forEach(id=>{ const e=document.getElementById(id); if(e) e.checked=false; });
+  ["suNick","suPw","suPw2","suMail"].forEach(id=>{ const e=document.getElementById(id); if(e) e.value=""; });
+  ["agree1"].forEach(id=>{ const e=document.getElementById(id); if(e) e.checked=false; });
   const m = $("#suMsg");
   m.classList.remove("err");
-  m.textContent = "비밀번호는 일방향 암호화해 보관하며, 저희도 원래 값을 알 수 없습니다.";
+  m.textContent = "닉네임과 비밀번호만 받습니다. 비밀번호는 암호화해 보관하며 저희도 원래 값을 알 수 없습니다.";
   document.getElementById("suNick").focus();
 }
 function closeSignup(){
@@ -878,15 +852,13 @@ $("#suGo").onclick = async ()=>{
   const m = $("#suMsg");
   const fail = t=>{ m.textContent = t; m.classList.add("err"); };
   const nick = $("#suNick").value.trim(), pw = $("#suPw").value, pw2 = $("#suPw2").value;
-  const mail = $("#suMail").value.trim(), name = $("#suName").value.trim(), tel = $("#suTel").value.trim();
   if(nick.length<2 || nick.length>12) return fail("닉네임은 2~12자로 입력하세요");
-  if(pw.length<4) return fail("비밀번호는 4자 이상 입력하세요");
+  if(pw.length<8) return fail("비밀번호는 8자 이상 입력하세요");
   if(pw !== pw2) return fail("비밀번호가 서로 다릅니다");
   if(!$("#agree1").checked) return fail("이용약관과 개인정보처리방침 동의가 필요합니다");
-  if((name||tel) && !$("#agree2").checked) return fail("이름·전화번호를 넣으셨다면 수집 동의가 필요합니다");
   const btn = $("#suGo");
   busy = true; btn.disabled = true; btn.textContent = "가입 중";
-  const res = await signUp(nick, pw, $("#agree2").checked ? {mail, name, tel} : {mail});
+  const res = await signUp(nick, pw);
   busy = false; btn.disabled = false; btn.textContent = "가입하기";
   if(res.err) return fail(res.err);
   closeSignup();
@@ -1062,7 +1034,7 @@ function open(c){
         </div>
         <div id="rankbox"></div>
         <p class="note">
-          ${c.name==="실시간" ? `<b>이 순위는 편집자가 직접 고른 것입니다.</b> 검색량 집계와 무관하며, 어떤 대가로도 순서를 바꾸지 않습니다. 각 항목의 내용과 출처는 아래 게시판에 적어둡니다.` : c.live ? `<b>집계 방식</b> · ${esc(c.live.source)}의 ${esc(c.live.targetDate.slice(0,4))}년 ${esc(c.live.targetDate.slice(4,6))}월 ${esc(c.live.targetDate.slice(6,8))}일 일 ${esc(c.live.basis||"일별 관객수")} 기준입니다. 등락은 전일 대비 순위 변동입니다.` : `<b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
+          ${c.name==="실시간" ? `<b>이 순위는 편집자가 직접 고른 것입니다.</b> 검색량 집계와 무관하며, 어떤 대가로도 순서를 바꾸지 않습니다. 각 항목의 내용과 출처는 아래 게시판에 적어둡니다.` : c.live ? `<b>집계 방식</b> · ${esc(c.live.source)}의 ${esc(c.live.targetDate.slice(0,4))}년 ${esc(c.live.targetDate.slice(4,6))}월 ${esc(c.live.targetDate.slice(6,8))}일 일별 관객수 기준입니다. 등락은 전일 대비 순위 변동입니다.` : `<b>집계 방식</b> · 네이버 데이터랩 검색어트렌드와 검색광고 키워드 조회수를 결합해 매일 06시에 갱신합니다.
           등락은 지난주 같은 요일 순위와 비교한 값입니다. 가장 많이 검색된 순서로 보여줍니다.`}
         </p>
       </div>
@@ -1109,15 +1081,81 @@ document.addEventListener("keydown", e=>{
    글에 어느 분야에서 썼는지가 태그로 붙고, 상세창에서 '이 분야'/'전체'로 걸러 봅니다.
    ============================================================ */
 
-/* 저장소가 없는 환경(로컬 파일 등)에서도 UI가 돌아가도록 하는 임시 대체 */
-if(!window.storage){
-  const mem = {};
-  window.storage = {
-    async get(k,s){ const key=(s?"s:":"p:")+k; if(!(key in mem)) throw new Error("no key"); return {key,value:mem[key],shared:!!s}; },
-    async set(k,v,s){ mem[(s?"s:":"p:")+k]=v; return {key:k,value:v,shared:!!s}; },
-    async delete(k,s){ delete mem[(s?"s:":"p:")+k]; return {key:k,deleted:true,shared:!!s}; },
-    async list(p,s){ return {keys:[],shared:!!s}; }
-  };
+/* ------------------------------------------------------------
+   Supabase 연결 — 댓글과 계정이 서버에 저장됩니다.
+   아래 두 값만 본인 프로젝트 것으로 바꾸면 됩니다.
+   ------------------------------------------------------------ */
+const SB_URL = "https://ijbhdaezqlumzdyigrhb.supabase.co";
+const SB_KEY = "sb_publishable_jbXgnjibP5mPa6l1LMwZXg_R9yeuMar";
+
+const sb = window.supabase.createClient(SB_URL, SB_KEY);
+let MYLIKES = [];
+
+/* 기존 화면 코드가 쓰던 window.storage 모양을 그대로 유지하고,
+   안에서만 Supabase를 읽고 씁니다. 투표는 아직 이 브라우저에만 남습니다. */
+window.storage = {
+  async get(k, shared){
+    if(k === "board:comments"){
+      const { data, error } = await sb.from("comments_view").select("*")
+        .order("created_at", { ascending:false }).limit(400);
+      if(error) throw error;
+      const { data:au } = await sb.auth.getUser();
+      MYLIKES = [];
+      if(au && au.user){
+        const { data:lk } = await sb.from("likes").select("comment_id").eq("uid", au.user.id);
+        MYLIKES = (lk||[]).map(x=>String(x.comment_id));
+        if(ME) ME.liked = MYLIKES;
+      }
+      const arr = (data||[]).map(r=>({
+        id:String(r.id), uid:r.uid, nick:r.nick, pid:r.pid ? String(r.pid) : undefined,
+        cid:r.cid, cname:r.cat, text:r.body,
+        ts:new Date(r.created_at).getTime(),
+        likes:Number(r.likes)||0,
+        reports:new Array(Number(r.reports)||0).fill("r")
+      }));
+      return { key:k, value:JSON.stringify(arr), shared:true };
+    }
+    if(k === "session"){
+      const { data:au } = await sb.auth.getUser();
+      if(!au || !au.user) throw new Error("no session");
+      const { data:p } = await sb.from("profiles").select("nick").eq("id", au.user.id).maybeSingle();
+      return { key:k, value:JSON.stringify({
+        uid:au.user.id, nick:p ? p.nick : "익명", liked:MYLIKES
+      }), shared:false };
+    }
+    const v = localStorage.getItem((shared?"s:":"p:")+k);
+    if(v === null) throw new Error("no key");
+    return { key:k, value:v, shared:!!shared };
+  },
+  async set(k, v, shared){
+    if(k === "board:comments"){ await sbInsertNew(JSON.parse(v)); return {key:k, value:v}; }
+    if(k === "session"){ return {key:k, value:v}; }
+    try{ localStorage.setItem((shared?"s:":"p:")+k, v); }catch(e){}
+    return { key:k, value:v, shared:!!shared };
+  },
+  async delete(k, shared){
+    if(k === "session"){ await sb.auth.signOut(); MYLIKES = []; return {key:k, deleted:true}; }
+    try{ localStorage.removeItem((shared?"s:":"p:")+k); }catch(e){}
+    return { key:k, deleted:true, shared:!!shared };
+  },
+  async list(){ return { keys:[], shared:false }; }
+};
+
+/* 아직 서버에 없는 글(임시 id가 m으로 시작)만 골라 저장합니다 */
+async function sbInsertNew(arr){
+  const { data:au } = await sb.auth.getUser();
+  if(!au || !au.user) throw new Error("로그인이 필요합니다");
+  for(const m of arr){
+    if(!m.demo && String(m.id).indexOf("m") === 0){
+      const row = {
+        uid:au.user.id, nick:m.nick, cid:m.cid, cat:m.cname,
+        body:String(m.text).slice(0,300)
+      };
+      if(m.pid && /^[0-9]+$/.test(String(m.pid))) row.pid = Number(m.pid);
+      const { error } = await sb.from("comments").insert(row);
+      if(error) throw error;
+    }
+  }
 }
 
 const CKEY="board:comments";  /* 공용 — 모든 방문자가 함께 봅니다 */
@@ -1369,40 +1407,44 @@ async function getMe(){
 async function saveMe(){ try{ await window.storage.set(SKEY, JSON.stringify(ME)); }catch(e){} }
 async function logout(){ ME = null; try{ await window.storage.delete(SKEY); }catch(e){} }
 
-async function getUsers(force){
-  if(USERS && !force) return USERS;
-  try{ const r = await window.storage.get(UKEY,true); USERS = r ? JSON.parse(r.value) : []; }
-  catch(e){ USERS = []; }
-  return USERS;
+/* 닉네임을 내부용 주소로 바꿔 Supabase 계정과 연결합니다.
+   비밀번호는 Supabase가 보관하며 브라우저 쪽에서는 볼 수 없습니다. */
+function nickMail(nick){
+  let h = 5381;
+  for(const ch of String(nick).toLowerCase()) h = ((h*33) ^ ch.charCodeAt(0)) >>> 0;
+  return "n" + h.toString(36) + "@1suni.app";
 }
-async function digest(pw, salt){
-  const data = new TextEncoder().encode(salt+"::"+pw);
-  if(window.crypto && crypto.subtle){
-    const b = await crypto.subtle.digest("SHA-256", data);
-    return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
+
+async function signUp(nick, pw){
+  nick = String(nick).trim();
+  const { data:dup } = await sb.from("profiles").select("nick").eq("nick", nick).maybeSingle();
+  if(dup) return {err:"이미 쓰고 있는 닉네임입니다"};
+
+  const { data, error } = await sb.auth.signUp({ email:nickMail(nick), password:pw });
+  if(error){
+    const m = String(error.message||"");
+    if(m.indexOf("already") >= 0) return {err:"이미 쓰고 있는 닉네임입니다"};
+    if(m.indexOf("Password") >= 0) return {err:"비밀번호는 8자 이상 입력하세요"};
+    return {err:"가입하지 못했습니다. 잠시 후 다시 시도해 주세요"};
   }
-  let h = 5381; for(const c of data) h = ((h*33)^c)>>>0; return "x"+h.toString(16);
-}
-async function signUp(nick, pw, extra){
-  const users = await getUsers(true);
-  if(users.some(u=>u.nick.toLowerCase()===nick.toLowerCase())) return {err:"이미 쓰고 있는 닉네임입니다"};
-  const salt = Math.random().toString(36).slice(2,10);
-  const u = {
-    uid:"u"+Date.now().toString(36)+Math.random().toString(36).slice(2,6),
-    nick, salt, pw: await digest(pw, salt), ts: Date.now(),
-    mail:(extra&&extra.mail)||"", name:(extra&&extra.name)||"", tel:(extra&&extra.tel)||""
-  };
-  users.push(u); USERS = users;
-  await window.storage.set(UKEY, JSON.stringify(users), true);
-  ME = {uid:u.uid, nick:u.nick, liked:[]}; await saveMe();
+  if(!data.user) return {err:"가입하지 못했습니다"};
+  if(!data.session){
+    return {err:"이메일 확인이 필요한 설정입니다. 관리자에게 문의해 주세요"};
+  }
+
+  const { error:pe } = await sb.from("profiles").insert({ id:data.user.id, nick });
+  if(pe) return {err:"이미 쓰고 있는 닉네임입니다"};
+
+  ME = {uid:data.user.id, nick, liked:[]}; MEloaded = true;
   return {ok:true};
 }
+
 async function signIn(nick, pw){
-  const users = await getUsers(true);
-  const u = users.find(x=>x.nick.toLowerCase()===nick.toLowerCase());
-  if(!u) return {err:"가입되지 않은 닉네임입니다"};
-  if(await digest(pw, u.salt) !== u.pw) return {err:"비밀번호가 맞지 않습니다"};
-  ME = {uid:u.uid, nick:u.nick, liked:[]}; await saveMe();
+  nick = String(nick).trim();
+  const { data, error } = await sb.auth.signInWithPassword({ email:nickMail(nick), password:pw });
+  if(error) return {err:"닉네임 또는 비밀번호가 맞지 않습니다"};
+  const { data:p } = await sb.from("profiles").select("nick").eq("id", data.user.id).maybeSingle();
+  ME = {uid:data.user.id, nick:p ? p.nick : nick, liked:MYLIKES}; MEloaded = true;
   return {ok:true};
 }
 async function getComments(force){
@@ -1527,7 +1569,7 @@ function drawCompose(){
       const nick = document.getElementById("anick").value.trim();
       const pw = document.getElementById("apw").value;
       if(nick.length<2 || nick.length>12) return toast("닉네임은 2~12자로 입력하세요");
-      if(pw.length<4) return toast("비밀번호는 4자 이상 입력하세요");
+      if(pw.length<8) return toast("비밀번호는 8자 이상 입력하세요");
       const btn = document.getElementById("doLogin");
       busy = true; btn.disabled = true; btn.textContent = "…";
       const res = await signIn(nick, pw);
@@ -1676,46 +1718,40 @@ async function postReply(pid){
 async function reportComment(id){
   if(!ME){ toast("로그인 후 신고할 수 있습니다."); return; }
   if(busy) return;
-  if(!confirm("이 의견을 신고할까요? 신고하면 내용이 가려집니다.")) return;
+  if(!/^[0-9]+$/.test(String(id))) return toast("예시 의견은 신고 대상이 아닙니다");
+  if(!confirm("이 의견을 신고할까요? 신고가 쌓이면 내용이 가려집니다.")) return;
   busy = true;
   try{
-    const all = await getComments();
-    const m = all.find(x=>x.id===id);
-    if(m){
-      m.reports = m.reports || [];
-      if(m.reports.indexOf(ME.uid)<0) m.reports.push(ME.uid);
-      await putComments(all);
-      drawList();
-      toast("신고처리되었습니다.");
-    }
+    const { error } = await sb.from("reports").insert({ comment_id:Number(id), uid:ME.uid });
+    if(error) toast("이미 신고하신 의견입니다.");
+    else{ await getComments(true); drawList(); toast("신고처리되었습니다."); }
   }catch(e){ toast("신고를 저장하지 못했습니다."); }
   busy = false;
 }
 
 async function toggleLike(id){
   if(!ME || busy) return;
+  if(!/^[0-9]+$/.test(String(id))) return toast("예시 의견에는 공감할 수 없습니다");
   busy = true;
   try{
-    const all = await getComments();
-    const m = all.find(x=>x.id===id);
-    if(m){
-      ME.liked = ME.liked || [];
-      const i = ME.liked.indexOf(id);
-      if(i>=0){ ME.liked.splice(i,1); m.likes = Math.max(0,(m.likes||0)-1); }
-      else{ ME.liked.push(id); m.likes = (m.likes||0)+1; }
-      await putComments(all); await saveMe(); drawList();
+    const cid = Number(id);
+    if(MYLIKES.indexOf(String(id)) >= 0){
+      await sb.from("likes").delete().eq("comment_id", cid).eq("uid", ME.uid);
+    }else{
+      await sb.from("likes").insert({ comment_id:cid, uid:ME.uid });
     }
+    await getComments(true); drawList();
   }catch(e){}
   busy = false;
 }
 
 async function removeComment(id){
   if(!ME || busy) return;
+  if(!/^[0-9]+$/.test(String(id))) return toast("예시 의견은 지울 수 없습니다");
   busy = true;
   try{
-    const all = await getComments();
-    await putComments(all.filter(x=>!(x.id===id && x.uid===ME.uid)));
-    drawList();
+    await sb.from("comments").delete().eq("id", Number(id)).eq("uid", ME.uid);
+    await getComments(true); drawList();
   }catch(e){}
   busy = false;
 }
