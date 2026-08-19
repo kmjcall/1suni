@@ -684,7 +684,7 @@ function render(){
   const card = c=>{
     const mark = c.hot ? '<span class="hotmark">HOT</span>' : "";
     return `<button class="card" data-id="${c.id}">
-      <div class="cat-name${c.name==="빅이슈"?" pulse":""}">${esc(c.name)}${mark}</div>
+      <div class="cat-name${c.name==="실시간"?" pulse":""}">${esc(c.name)}${mark}</div>
       <div class="rows">${rowsHTML(c)}</div>
     </button>`;
   };
