@@ -981,7 +981,9 @@ function searchRows(c){
     <div class="frow${i===0?" first":""}">
       <span class="rk">${i+1}</span>
       <span class="nmwrap">
-        <button class="nm nmbtn" data-open="1">${esc(it.name)}<span class="cv">▾</span></button>
+                ${(it.news && it.news.length)
+          ? `<a class="nm nmbtn" href="${it.news[0].u}" target="_blank" rel="noopener noreferrer" title="${esc(it.news[0].t)}">${esc(it.name)}<span class="cv">↗</span></a>`
+          : `<button class="nm nmbtn" data-open="1">${esc(it.name)}<span class="cv">▾</span></button>`}
         ${(vr && vr[it.name]<=3) ? medalTag(vr[it.name], i+1) : ""}
       </span>
       <span class="idx">${it.idx}</span>
