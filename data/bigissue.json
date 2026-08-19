@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260819",
- "updated": "2026-08-19T16:57:54+09:00",
+ "targetDate": "20260820",
+ "updated": "2026-08-20T06:20:20+09:00",
  "list": [
   {
-   "name": "이호선 상담소",
+   "name": "농지",
    "idx": 100,
-   "mv": 1,
+   "mv": "NEW",
    "news": [
     {
-     "t": "\"아이는 또 낳으면 되니까\"…물에 빠진 아들 구조하다 나와버린 엄마",
-     "u": "https://www.news1.kr/entertain/broadcast-tv/6262601",
-     "press": "뉴스1"
+     "t": "파주시, 농지 8만6000여 필지 현장검증…투기·불법 이용 집중 점검",
+     "u": "https://v.daum.net/v/20260819203928161",
+     "press": "Daum"
     },
     {
-     "t": "아들 물에 빠졌는데 \"애는 또 낳으면 돼\"...도망친 엄마 속내에 '충격' - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/08/19/2026081823005868839",
-     "press": "머니투데이"
+     "t": "강원 농지 경작도 매매도 어려워…농지 전수조사 후폭풍",
+     "u": "https://www.kwnews.co.kr/article/20260818501239",
+     "press": "강원일보"
     },
     {
-     "t": "“차라리 고아였으면”…母와 관계 버거운 34세 아들에 이호선 “3년 연락 끊어라”",
-     "u": "https://www.donga.com/news/Culture/article/all/20260819/134501376/2",
-     "press": "동아일보"
+     "t": "농관원, 5만 6천여 필지 심층 조사…경작 확인",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639103",
+     "press": "KBS 뉴스"
     }
    ]
   },
   {
-   "name": "기아",
+   "name": "정년",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "인천시교육청, 교육공무직 68명에 교육감 표창",
+     "u": "https://www.newstown.co.kr/news/articleView.html?idxno=712881",
+     "press": "뉴스타운"
+    },
+    {
+     "t": "“학교 현장 지켜온 숨은 주역”… 인천시교육청, 정년퇴직 교육공무직원 68명 표창",
+     "u": "https://www.greened.kr/news/articleView.html?idxno=347970",
+     "press": "녹색경제신문"
+    },
+    {
+     "t": "교육공무직원 68명 내달 1일 정년퇴직…인천교육감 표창",
+     "u": "https://www.newsis.com/view/NISX20260819_0003754682",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "이효리",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "이효리 \"상순 오빠와 결혼 전 2년 동거”",
+     "u": "https://v.daum.net/v/20260819070309170",
+     "press": "Daum"
+    },
+    {
+     "t": "'연애전쟁' 최다니엘 \"연애 오래 하는 편\"…김희철 빈자리 채운다 [RE:TV]",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6262262",
+     "press": "뉴스1"
+    },
+    {
+     "t": "이효리, '♥이상순'과 이유있는 부부愛 \"나는 내 남자를 불안하게 하지 않는다\" - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/tv/2026/08/19/GYZWCYRTMZQTSNTGGEZTMNZXGI/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "당대표",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "당원투표로 전국 당협위원장 새로 뽑나…국힘, 오늘 최고위 논의",
+     "u": "https://www.yna.co.kr/view/AKR20260819150700001",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "장동혁, 견제나선 중진에 역공 “총선 불출마를”",
+     "u": "https://v.daum.net/v/20260820043425340",
+     "press": "Daum"
+    },
+    {
+     "t": "당협 전면 재선출·의원 징계…국민의힘, 20일 '당내 갈등' 분수령 - 머니투데이",
+     "u": "https://www.mt.co.kr/politics/2026/08/19/2026081916152561938",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "한겨레",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[편집실에서] 유시민·김어준 ‘원 오브 뎀’ 되나",
+     "u": "https://weekly.khan.co.kr/article/202608190600001",
+     "press": "주간경향"
+    },
+    {
+     "t": "너무 뜨거웠던 전대가 식혀버린 마음들 [뉴스룸에서]",
+     "u": "https://www.hani.co.kr/arti/opinion/column/1273710.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "'친청계 3명' 갈등 우려에 박지원 \"황금분할, 김민석 독주 막을 장치\"",
+     "u": "https://v.daum.net/v/1MI1ZxlwU3",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "파운드리",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"삼성전자, 파운드리 단가 최대 15% 인상…내년 흑자 전환 가능성\"",
+     "u": "https://v.daum.net/v/20260819192149435",
+     "press": "Daum"
+    },
+    {
+     "t": "[속보]“삼성전자, 수요 급증에 파운드리 가격 최대 15% 인상”-로이터 보도",
+     "u": "https://www.munhwa.com/article/11610523",
+     "press": "문화일보"
+    },
+    {
+     "t": "로이터 \"삼성전자 첨단 공정 파운드리 가격 최대 15% 인상, AI 열풍에 전환점 맞아\"",
+     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=445134",
+     "press": "비즈니스포스트"
+    }
+   ]
+  },
+  {
+   "name": "영탁",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "영탁, 3년 만 정규 3집 'GOGO' 풀악셀..10월 'TAK SHOW5'서 신곡 최초 공개",
+     "u": "https://v.daum.net/v/20260819182841136",
+     "press": "Daum"
+    },
+    {
+     "t": "영탁, 정규 3집 포스터 공개…‘압도적 비주얼’ 레이서 변신 - 스타투데이",
+     "u": "https://www.mk.co.kr/news/musics/12130214",
+     "press": "매일경제"
+    },
+    {
+     "t": "영탁, 레이서 깜짝 변신 ‘고고’",
+     "u": "https://sports.khan.co.kr/article/202608181718003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "홍장원",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "기아 무브 앤 커넥트 2기 공모…돌봄기관에 전기차 17대 지원",
-     "u": "https://v.daum.net/v/20260819120529658",
-     "press": "Daum"
+     "t": "2차 종합특검, '국정원 내란 관여 의혹' 조태용·홍장원 기소",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6845843_36918.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "기아 전기차, 이동 약자 대상 전기차 지원 사업 전개",
-     "u": "https://daily.hankooki.com/news/articleView.html?idxno=1396971",
-     "press": "데일리한국"
-    },
-    {
-     "t": "‘Kia Move & Connect 2기’ 공모… 아동·다문화·발달장애인·노인 돌봄기관에 전기차 17대 지원",
-     "u": "http://www.cbdaily.co.kr/news/article.html?no=63208",
-     "press": "충북데일리"
-    }
-   ]
-  },
-  {
-   "name": "혼다 마린",
-   "idx": 10,
-   "mv": -2,
-   "news": [
-    {
-     "t": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/08/19/2026081822162772667",
-     "press": "머니투데이"
-    },
-    {
-     "t": "경악! 반바지 입고 다리 드러내니 선명한 노력의 흔적...日 피겨 스타 혼다 마린 깜짝 근황 \"멍으로 가득, 열심히 하고 있단 방증\"",
-     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553465658",
-     "press": "스포탈코리아"
-    },
-    {
-     "t": "日피겨 여신 다리에 선명한 멍자국... 열도가 깜짝! \"맹훈련, 너무 아프겠지만...\"",
-     "u": "https://v.daum.net/v/ZcpVWCKpWB?f=p",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "승무원",
-   "idx": 5,
-   "mv": -1,
-   "news": [
-    {
-     "t": "하늘에서 일하는 승무원·조종사, ‘방사선 관련 암’ 사망 1·2위 [건강팩트체크]",
-     "u": "https://www.donga.com/news/It/article/all/20260818/134495438/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "일반인보다 방사선 15배…항공 승무원·조종사의 '숨은 위험'",
-     "u": "https://www.hankyung.com/article/2026081900937",
-     "press": "한국경제"
-    },
-    {
-     "t": "항공기 조종사·승무원, 방사선 원인 암 잘 걸린다",
-     "u": "https://www.newsis.com/view/NISX20260819_0003753987",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "우성빈",
-   "idx": 5,
-   "mv": 0,
-   "news": [
-    {
-     "t": "기장군수·국힘 군의원 갈등 악화…이번엔 국비사업 중단 두고 격돌",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260819.22008005061",
-     "press": "국제신문"
-    },
-    {
-     "t": "\"160억 스마트도시 사업 왜 포기했나\"…박종철, 우성빈 군수에 공개 설명 촉구",
-     "u": "https://v.daum.net/v/GvOplc3GO9",
-     "press": "Daum"
-    },
-    {
-     "t": "박종철 부산시의원 \"160억 기장 스마트도시 사업 중단은 잘못된 판단\"",
-     "u": "https://www.news1.kr/local/busan-gyeongnam/6261701",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "백성현",
-   "idx": 5,
-   "mv": 0,
-   "news": [
-    {
-     "t": "'명함 넣은 명절선물' 백성현 논산시장 1심서 당선무효형(종합)",
-     "u": "https://v.daum.net/v/20260819151558213",
-     "press": "Daum"
-    },
-    {
-     "t": "설·추석 명절 선물에 '명함 동봉'한 백성현 논산시장, 벌금 150만원",
-     "u": "https://www.newsis.com/view/NISX20260819_0003754470",
-     "press": "뉴시스"
-    },
-    {
-     "t": "백성현 논산시장 1심 당선 무효형…유권자들에게 명절 선물 건넨 혐의",
-     "u": "https://www.hani.co.kr/arti/area/chungcheong/1273582.html",
-     "press": "한겨레"
-    }
-   ]
-  },
-  {
-   "name": "전국장애인차별철폐연대",
-   "idx": 5,
-   "mv": 1,
-   "news": [
-    {
-     "t": "전장연, 박홍근 장관과 면담하기로…\"정애인권리예산 반영 기대\"(종합)",
-     "u": "https://v.daum.net/v/20260819164001935",
-     "press": "Daum"
-    },
-    {
-     "t": "전장연, 출근길 지하철 탑승시위 중단하기로…박홍근 “장애인 예산 검토할것”",
-     "u": "https://www.khan.co.kr/article/202608191605001",
+     "t": "무혐의 ‘내부고발자’ 홍장원·조성현, ‘내란 피고인’으로 법정에",
+     "u": "https://www.khan.co.kr/article/202608192101005",
      "press": "경향신문"
     },
     {
-     "t": "4호선 무정차 통과안내, 발길 돌리는 시민들",
-     "u": "https://www.yna.co.kr/view/PYH20260818026800013",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "조태용",
-   "idx": 5,
-   "mv": 1,
-   "news": [
-    {
-     "t": "‘비화폰 증거인멸·계엄 위증’ 조태용, 2심 징역 2년 6개월…형량 1년 늘어",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8640457",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "조태용 전 국정원장, 2심서 징역 2년 6개월...형량 1년 늘어",
-     "u": "https://www.ytn.co.kr/_ln/0103_202608191632571859",
-     "press": "YTN"
-    },
-    {
-     "t": "\"윤석열 탄핵 저지 위해 홍장원 거짓말 몰이\"... 조태용 징역 2년 6개월",
-     "u": "https://v.daum.net/v/20260819125250693",
+     "t": "‘계엄 명령 거부’ 훈장 받은 조성현 대령, 내란 혐의 기소",
+     "u": "https://v.daum.net/v/z6nWWpoMSL?f=p",
      "press": "Daum"
     }
    ]
   },
   {
-   "name": "band",
-   "idx": 5,
-   "mv": -5,
+   "name": "태양광 발전",
+   "idx": 10,
+   "mv": "NEW",
    "news": [
     {
-     "t": "Frank Beard, Beardless Drummer for ZZ Top, Dies at 77",
-     "u": "https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html",
-     "press": "The New York Times"
+     "t": "“‘태양광 농사’로 편하게 살라”는 이 대통령에…“희생 강요 말라”",
+     "u": "https://www.hani.co.kr/arti/society/environment/1273646.html",
+     "press": "한겨레"
     },
     {
-     "t": "ZZ Top drummer Frank Beard exits tour after health issues",
-     "u": "https://www.usatoday.com/story/entertainment/music/2026/08/11/zz-top-frank-beard-health-issues-members/91253125007/",
-     "press": "USA Today"
+     "t": "“일방통행식 재생에너지 정책에 농촌만 파괴”",
+     "u": "http://www.amnews.co.kr/news/articleView.html?idxno=73939",
+     "press": "농축유통신문"
     },
     {
-     "t": "ZZ Top Drummer Frank Beard Facing Health Issues Following Show Cancellation",
-     "u": "https://www.rollingstone.com/music/music-news/zz-top-frank-beard-health-show-cancellation-1235606586/",
-     "press": "Rolling Stone"
+     "t": "쏟아진 재생에너지 피해 증언…모두가 입 모아 “주민이 없다”",
+     "u": "http://www.ikpnews.net/news/articleView.html?idxno=71167",
+     "press": "한국농정신문"
     }
    ]
   },
   {
-   "name": "경제위기",
+   "name": "심형래",
    "idx": 5,
-   "mv": -3,
+   "mv": "NEW",
    "news": [
     {
-     "t": "“이미 경제위기, 서민 삶 붕괴되고 있다”...디젤값이 폭등하면 벌어지는 일",
-     "u": "https://www.mk.co.kr/news/economy/12130828",
-     "press": "매일경제"
+     "t": "심형래 \"'디 워2' 제작 완료…BTS 아리랑은 되고, 나는 욕먹어\"",
+     "u": "https://www.newsis.com/view/NISX20260819_0003754994",
+     "press": "뉴시스"
     },
     {
-     "t": "갤런 당 4달러 넘은 휘발유…미국 에너지장관 “며칠 내 업계 지원책 발표”",
-     "u": "https://v.daum.net/v/pmZK4oXSS6",
+     "t": "[김홍준의 뉴스터치] 디 워 : 용산 대전",
+     "u": "https://v.daum.net/v/UgACd6IkS8",
      "press": "Daum"
     },
     {
-     "t": "미 디젤값 폭등에 경제 '휘청'...중간선거 앞둔 트럼프에 대형 악재",
-     "u": "https://m.ytn.co.kr/news_view.php?key=202608190928451888&s_mcd=0104",
-     "press": "YTN"
+     "t": "19년 만에 해외서 터진 ‘디워’…심형래 “‘디워2’ 제작 끝났다”",
+     "u": "https://www.koreadaily.com/article/20260819074834719",
+     "press": "미주중앙일보"
     }
    ]
   }
