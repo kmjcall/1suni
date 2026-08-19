@@ -1425,7 +1425,8 @@ async function signUp(nick, pw){
     const m = String(error.message||"");
     if(m.indexOf("already") >= 0) return {err:"이미 쓰고 있는 닉네임입니다"};
     if(m.indexOf("Password") >= 0) return {err:"비밀번호는 8자 이상 입력하세요"};
-    return {err:"가입하지 못했습니다. 잠시 후 다시 시도해 주세요"};
+    if(m.indexOf("rate") >= 0 || m.indexOf("many") >= 0) return {err:"가입 시도가 많습니다. 잠시 후 다시 해주세요"};
+    return {err:"가입 실패: " + m};
   }
   if(!data.user) return {err:"가입하지 못했습니다"};
   if(!data.session){
