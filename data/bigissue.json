@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260822",
- "updated": "2026-08-22T06:19:00+09:00",
+ "targetDate": "20260823",
+ "updated": "2026-08-23T06:19:45+09:00",
  "list": [
   {
-   "name": "아스널 대 코번트리",
+   "name": "편의점",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘펩시황’ 떠난 EPL, 26-27 시즌 막 오른다...디펜딩 챔피언 아스널에 도전할 패자는",
-     "u": "https://v.daum.net/v/20260821153709149",
+     "t": "논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견",
+     "u": "https://www.donga.com/news/Society/article/all/20260822/134523655/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "연락끊긴 여중생, 편의점 CCTV서 확인돼 가족 품으로",
+     "u": "https://v.daum.net/v/qNwl4CKpt9",
      "press": "Daum"
     },
     {
-     "t": "2026-27 프리미어리그 개막전 프리뷰",
-     "u": "https://www.etoday.co.kr/news/view/2616668",
-     "press": "이투데이"
-    },
-    {
-     "t": "이제는 아스널 시대?…맨시티·맨유·리버풀 새 감독 체제로 도전장",
-     "u": "https://www.news1.kr/sports/overseas-soccer/6265378",
-     "press": "뉴스1"
+     "t": "“딸과 연락이 안 돼요” 충남 논산서 신고…무주서 중학생 발견",
+     "u": "https://www.kyeonggi.com/article/20260822580089",
+     "press": "경기일보"
     }
    ]
   },
   {
-   "name": "f 35a",
-   "idx": 20,
+   "name": "에스파뇰 대 레알 마드리드",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "Switzerland’s First F-35 Takes Shape in Italy",
-     "u": "https://migflug.com/jetflights/swiss-f-35a-cameri-first-fuselage-wing-2026/",
-     "press": "MiGFlug"
+     "t": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
+     "u": "https://v.daum.net/v/20260822150127756",
+     "press": "Daum"
     },
     {
-     "t": "Production Begins for Swiss F-35A Fighter Jet, First Delivery in 2028",
-     "u": "https://defensemirror.com/news/41868/Production_Begins_for_Swiss_F_35A_Fighter_Jet__First_Delivery_in_2028",
-     "press": "Defensemirror.com"
+     "t": "\"모리뉴 감독님을 위해 죽을 준비도 되어 있다\"…최대 2,269억에 레알 합류한 디오만데, \"가장 친한 선수는 비니시우스\"",
+     "u": "https://sports.news.nate.com/view/20260822n04817",
+     "press": "네이트"
     },
     {
-     "t": "Switzerland’s First F-35 Fighter Jets Are Under Construction in Italy",
-     "u": "https://nationalinterest.org/blog/buzz/switzerlands-first-f-35-fighter-jets-under-construction-in-italy-ps-081926",
-     "press": "The National Interest"
+     "t": "'독기 오른' 무리뉴 감독, 파격 발언, \"야말도 내 스쿼드에 낄 수 없어, 지금 우리 선수들이 최고\"...\"자리 내줄 생각 없다\"",
+     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477275",
+     "press": "스포탈코리아"
     }
    ]
   },
   {
-   "name": "아스날",
+   "name": "조국",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "조국 \"위법수집증거 역설했으나 난 유죄\"…韓 \"뭐가 억울한가\"(종합2보)",
+     "u": "https://www.yna.co.kr/view/AKR20260822027552001",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "[속보]한동훈, ‘2심 무죄’ 노웅래에 사과한 李대통령에게 “신파 역할극, 공소취소 빌드업”",
+     "u": "https://www.munhwa.com/article/11611157",
+     "press": "문화일보"
+    },
+    {
+     "t": "민주당 “한동훈, 노웅래 조작기소”…한동훈 “돈봉투 녹음 같이 들어보자”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8643426",
+     "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "espanyol vs real madrid",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'막강한 아스널, 더 단단해진다' 잉글랜드 국대 센터백 콘사, 애스턴 빌라→아스널 이적 합의..'살리바 부상 공백 메운다, 이적료 5100만파운",
-     "u": "https://www.chosun.com/sports/world-football/2026/08/20/GE2WIZRWGQ4WIOBVMQ3GEYZWGY/",
-     "press": "조선일보"
+     "t": "Primer examen para Mourinho… con siete bajas y un mensaje a la cantera",
+     "u": "https://www.marca.com/futbol/real-madrid/2026/08/21/primer-examen-mourinho-seis-bajas-mensaje-cantera.html",
+     "press": "MARCA"
     },
     {
-     "t": "이렇게 강력한 스쿼드 가진 팀 있었나…'PL 디펜딩 챔피언' 아스널, '英 국대 CB' 콘사까지 품었다! 이적료는 1,039억",
-     "u": "https://sports.news.nate.com/view/20260821n29109",
+     "t": "Gol del Espanyol: mira el golazo que puso el 1-1 ante Real Madrid",
+     "u": "https://www.365scores.com/es/news/gol-del-espanyol-real-madrid-laliga-mou/",
+     "press": "365Scores"
+    },
+    {
+     "t": "Manolo González: \"Si nos mantenemos vivos, tenemos opciones de tumbar al Madrid\"",
+     "u": "https://www.sport.es/es/videos/espanyol/20260822/manolo-gonzalez-mantenemos-vivos-opciones/133563945.shtml",
+     "press": "SPORT"
+    }
+   ]
+  },
+  {
+   "name": "지상렬",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'살림남' 지상렬, 이요원에 피처링 제안 속 계약금도 줬지만…거절 아픔",
+     "u": "https://v.daum.net/v/20260823055149642",
+     "press": "Daum"
+    },
+    {
+     "t": "지상렬, ♥신보람 소환에 당황…박서진 \"누나도 알아요?\"",
+     "u": "https://www.newsis.com/view/NISX20260822_0003758361",
+     "press": "뉴시스"
+    },
+    {
+     "t": "박서진, '지상렬♥' 신보람 기습 소환 \"누나도 이렇게 하고 다니는 거 알아요?\" - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MFRTCY3DMUZTAZJYHAZTINRXHA/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "브레이브스 대 브루어스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'김하성 6경기 연속 결장' 애틀랜타, 투수전 끝에 밀워키에 1-2 석패",
+     "u": "https://sports.news.nate.com/view/20260822n04585?mid=s0206&isq=9298",
      "press": "네이트"
     },
     {
-     "t": "살리바·팀버 줄부상에 결국 962억 쓴다… 아르테타 아스널 감독, 콘사 영입 임박 시사 \"준비되면 발표\"",
-     "u": "https://v.daum.net/v/20260821125409999",
-     "press": "Daum"
+     "t": "미즈오로스키, 신구 에이스 대결에서 세일에 판정승",
+     "u": "https://www.mksports.co.kr/news/breaking-news/12133728",
+     "press": "m.mksports.co.kr"
+    },
+    {
+     "t": "김하성 또 결장…미저라우스키 6이닝 6K 무실점 밀워키, 애틀랜타 꺾고 80승 고지 선점",
+     "u": "https://sports.news.nate.com/view/20260822n02834?mid=s0206&isq=9298",
+     "press": "네이트"
     }
    ]
   },
   {
-   "name": "arsenal đấu với coventry",
+   "name": "la liga",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Trực tiếp bóng đá Arsenal - Coventry City: Rice - Havertz sát cánh tân binh Tzol",
-     "u": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-arsenal-coventry-city-kho-can-buoc-nha-vua-khai-mac-ngoai-hang-anh-c48a1788443.html",
-     "press": "Tin tức 24h"
+     "t": "Preview: Espanyol vs Real Madrid - prediction, team news, lineups",
+     "u": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/espanyol-vs-real-madrid-prediction-team-news-lineups_603369.html",
+     "press": "Sports Mole"
     },
     {
-     "t": "Aguero gây bất ngờ với dự đoán \"ngựa ô\" Ngoại Hạng Anh mùa tới",
-     "u": "https://yeuthethao.net.vn/aguero-gay-bat-ngo-voi-du-doan-ngua-o-ngoai-hang-anh-mua-toi-v891862.html",
-     "press": "yeuthethao.net.vn"
+     "t": "Espanyol vs Real Madrid Confirmed Lineups",
+     "u": "https://www.whoscored.com/news/UFIXFnmhGkOj1-19DWcG-Q/show/20260822-espanyol-vs-real-madrid-confirmed-lineup-1787423224",
+     "press": "WhoScored.com"
     },
     {
-     "t": "HLV Mikel Arteta bật cười trước dự đoán về nhà vô địch Ngoại hạng Anh",
-     "u": "https://thethao247.vn/502-arteta-phan-ung-khi-arsenal-duoc-xep-ung-vien-so-mot-c2-d433154.html",
-     "press": "Thể Thao 247"
-    }
-   ]
-  },
-  {
-   "name": "อาร์เซนอล พบ โคเวนทรี",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "การคาดการณ์ผลการแข่งขันระหว่างอาร์เซนอลกับโคเวนทรี: รายชื่อผู้เล่นที่คาดว่าจะลงส",
-     "u": "https://www.vietnam.vn/th/nhan-dinh-arsenal-vs-coventry-doi-hinh-du-kien",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "LIVE : ดูบอลสด อาร์เซนอล พบ โคเวนทรี ซิตี้ ฟุตบอลพรีเมียร์ลีก เวลา 02.00 น.",
-     "u": "https://www.sportingnews.com/th/football/news/live-watch-arsenal-vs-coventry-city-premier-league-2026-27/6d367e03602972ab61ab0731",
-     "press": "Sporting News"
-    },
-    {
-     "t": "LIVE เปิดม่านพรีเมียร์ลีก!! ภารกิจล่า 3 แต้มแรกของแชมป์เก่าอาร์เซนอล!",
-     "u": "https://www.thairath.co.th/sport/video/football-fact-clarify/1188072",
-     "press": "Thairath.co.th"
-    }
-   ]
-  },
-  {
-   "name": "arsenal vs coventry",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Arsenal vs Coventry LIVE: Premier League score, lineups, commentary & updates",
-     "u": "https://www.bbc.com/sport/football/live/cmy0jjenxx24t",
-     "press": "BBC"
-    },
-    {
-     "t": "Arteta's update on Rice, Saka and Guimaraes",
-     "u": "https://www.arsenal.com/news/artetas-update-on-rice-saka-and-guimaraes-aynNJ9I4lir5",
-     "press": "Arsenal.com"
-    },
-    {
-     "t": "Bruno Guimaraes faces weeks on the sidelines as Arsenal suffer major injury blow",
-     "u": "https://www.goal.com/en-in/lists/bruno-guimaraes-faces-weeks-sidelines-arsenal-suffer-major-injury-start-season/blt94b926204cd5ad57",
-     "press": "Goal.com"
-    }
-   ]
-  },
-  {
-   "name": "포로",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "우크라이나 전쟁: 포로로 붙잡힌 우크라 태생 군인들이 BBC에 밝힌 '러시아 편에 선 이유'",
-     "u": "https://www.bbc.com/korean/articles/c4gk1krwvleo",
-     "press": "BBC"
-    },
-    {
-     "t": "우크라, 포로 잡았더니 자국 출신…\"내가 러시아를 위해 싸운 이유는\"",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=05136486645549288",
-     "press": "마켓인"
-    },
-    {
-     "t": "[포토뉴스]러·우 전쟁 포로 206명 교환…꿈에 그리던 고향으로",
-     "u": "https://www.khan.co.kr/article/20260820205600A/?cp",
-     "press": "경향신문"
-    }
-   ]
-  },
-  {
-   "name": "pl",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Rząd ma kredyt zaufania. Fitch wyda \"wyrok\". Ma duże znaczenie [ANALIZA]",
-     "u": "https://www.money.pl/podatki/rzad-ma-kredyt-zaufania-rating-polski-nie-jest-jeszcze-zagrozony-analiza-7320495836059840a.html",
-     "press": "Money.pl"
-    },
-    {
-     "t": "Premier Tusk o deficycie budżetu. Oto, na co nie można sobie pozwolić",
-     "u": "https://businessinsider.com.pl/gospodarka/donald-tusk-nalozyl-kaganiec-budzetowi-agencje-ratingowe-juz-w-blokach-startowych/6cw4nev",
-     "press": "Business Insider Polska"
-    },
-    {
-     "t": "Rating",
-     "u": "https://www.salon24.pl/u/karzo/1518618,rating",
-     "press": "salon24.pl"
-    }
-   ]
-  },
-  {
-   "name": "premier league",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Premier League press conferences: Enzo Maresca, Andoni Iraola, Roberto De Zerbi,",
-     "u": "https://www.bbc.com/sport/football/live/cqvg0jyg72w2t",
-     "press": "BBC"
-    },
-    {
-     "t": "Premier League press conferences: Enzo Maresca, Andoni Iraola, Roberto De Zerbi,",
-     "u": "https://www.bbc.co.uk/sport/football/live/cqvg0jyg72w2t?page=7",
-     "press": "BBC"
-    },
-    {
-     "t": "Premier League: 10 things to look out for as the new season kicks off",
-     "u": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off",
-     "press": "The Guardian"
-    }
-   ]
-  },
-  {
-   "name": "al-riyadh vs al-nassr",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Cristiano Ronaldo climbs to the top of Al-Nassr's historic throne in the Roshan ",
-     "u": "https://www.goal.com/en-in/news/more-than-just-a-goal-ronaldo-ascends-the-historic-throne-of-al-nassr-in-the-roshan-league/blt159438d5af592c6a",
-     "press": "Goal.com"
-    },
-    {
-     "t": "Licensable picture: Saudi Pro League - Al Riyadh v Al Nassr",
-     "u": "https://www.reutersconnect.com/item/saudi-pro-league-al-riyadh-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOEwxRTlVWTY",
+     "t": "Licensable picture: Soccer 2026: RCD Espanyol V Real Madrid - LaLiga EA Sports",
+     "u": "https://www.reutersconnect.com/item/soccer-2026-rcd-espanyol-v-real-madrid-laliga-ea-sports/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBIUlUwQzA",
      "press": "Reuters Connect"
+    }
+   ]
+  },
+  {
+   "name": "바이에른 뮌헨",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
+     "u": "https://v.daum.net/v/36pfvSV7tI",
+     "press": "Daum"
     },
     {
-     "t": "Al Riyadh – Al Nassr 0 - 3 | TOR – João Félix Sequeira",
-     "u": "https://onefootball.com/fr/video/al-riyadh-al-nassr-0-3-tor-joao-felix-sequeira-43315396",
+     "t": "이럴 수가! '민재야 제발 와줘'…그야말로 '미친 고집' 맨체스터 유나이티드의 영입 갈망, 1티어 기자도 밝혔다 \"계속해서 상황 주시\"",
+     "u": "https://sports.news.nate.com/view/20260823n00168",
+     "press": "네이트"
+    },
+    {
+     "t": "‘다시 쐐기 쾅!’ 김민재, 맨유의 캐릭 감독이 원해→바이에른은 조용히 영상 공개 “민재와 저희 팀 계속 응원 ...",
+     "u": "https://sports.khan.co.kr/article/202608220707003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "dortmund vs bayern",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "📸 Kompany-Experiment geht auf! Brown trifft direkt als Bayern-Zehner",
+     "u": "https://onefootball.com/de/news/kompany-experiment-geht-auf-brown-trifft-direkt-als-bayern-zehner-43321226",
      "press": "OneFootball"
+    },
+    {
+     "t": "Tah: \"Gezeigt, dass wir hungrig sind\"",
+     "u": "https://www.skysportaustria.at/mediathek/tah-gezeigt-dass-wir-hungrig-sind/",
+     "press": "Sky Sport Austria"
+    },
+    {
+     "t": "Bundeskanzler und Altkanzler beim Supercup! Merz bei Dortmund gegen FC Bayern im",
+     "u": "https://ran.joyn.de/sports/fussball/supercup/friedrich-merz-und-ein-altkanzler-bei-borussia-dortmund-gegen-fc-bayern-im-stadion-der-bundeskanzler-beim-franz-beckenbauer-supercup-174443",
+     "press": "Joyn"
+    }
+   ]
+  },
+  {
+   "name": "브렌트포드",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다",
+     "u": "https://www.donga.com/news/Sports/article/all/20260822/134523687/1",
+     "press": "동아일보"
+    },
+    {
+     "t": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’",
+     "u": "https://www.sportsseoul.com/news/read/1630048",
+     "press": "스포츠서울"
+    },
+    {
+     "t": "[오피셜]韓 축구 대형 호재, EPL '0명' 굴욕 깜짝 탈출! '국가대표 수비수' 김지수, 브렌트포드 1군 선수단 포함 \"등번호 36번\"",
+     "u": "https://www.sportschosun.com/football/2026-08-22/202608220100129330008255",
+     "press": "스포츠조선"
     }
    ]
   }
