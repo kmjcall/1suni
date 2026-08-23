@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260823",
- "updated": "2026-08-23T06:19:45+09:00",
+ "targetDate": "20260824",
+ "updated": "2026-08-24T06:16:44+09:00",
  "list": [
   {
-   "name": "편의점",
+   "name": "대한민국의 대법관",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "논산 편의점서 실종된 여중생, 100km 떨어진 무주서 발견",
-     "u": "https://www.donga.com/news/Society/article/all/20260822/134523655/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "연락끊긴 여중생, 편의점 CCTV서 확인돼 가족 품으로",
-     "u": "https://v.daum.net/v/qNwl4CKpt9",
-     "press": "Daum"
-    },
-    {
-     "t": "“딸과 연락이 안 돼요” 충남 논산서 신고…무주서 중학생 발견",
-     "u": "https://www.kyeonggi.com/article/20260822580089",
-     "press": "경기일보"
-    }
-   ]
-  },
-  {
-   "name": "에스파뇰 대 레알 마드리드",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "레알의 어려운 숙제…음바페·비니시우스·벨링엄, 무리뉴는 어떻게 쓸까",
-     "u": "https://v.daum.net/v/20260822150127756",
-     "press": "Daum"
-    },
-    {
-     "t": "\"모리뉴 감독님을 위해 죽을 준비도 되어 있다\"…최대 2,269억에 레알 합류한 디오만데, \"가장 친한 선수는 비니시우스\"",
-     "u": "https://sports.news.nate.com/view/20260822n04817",
-     "press": "네이트"
-    },
-    {
-     "t": "'독기 오른' 무리뉴 감독, 파격 발언, \"야말도 내 스쿼드에 낄 수 없어, 지금 우리 선수들이 최고\"...\"자리 내줄 생각 없다\"",
-     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477275",
-     "press": "스포탈코리아"
-    }
-   ]
-  },
-  {
-   "name": "조국",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "조국 \"위법수집증거 역설했으나 난 유죄\"…韓 \"뭐가 억울한가\"(종합2보)",
-     "u": "https://www.yna.co.kr/view/AKR20260822027552001",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "[속보]한동훈, ‘2심 무죄’ 노웅래에 사과한 李대통령에게 “신파 역할극, 공소취소 빌드업”",
-     "u": "https://www.munhwa.com/article/11611157",
-     "press": "문화일보"
-    },
-    {
-     "t": "민주당 “한동훈, 노웅래 조작기소”…한동훈 “돈봉투 녹음 같이 들어보자”",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8643426",
+     "t": "여야, ‘서면 제청’ 연일 충돌…“희대의 대법원장” “독재자에 짓밟혀”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8643690",
      "press": "KBS 뉴스"
+    },
+    {
+     "t": "여 \"정치 플레이어 조희대\"…야 \"사법부 재판재개를\"",
+     "u": "https://v.daum.net/v/20260824051814211",
+     "press": "Daum"
+    },
+    {
+     "t": "대법관 14→26명으로…전문가들 “인선 제도, 더 투명해야”",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1274233.html",
+     "press": "한겨레"
     }
    ]
   },
   {
-   "name": "espanyol vs real madrid",
+   "name": "주주",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[뉴욕증시-주간전망] '베선트 풋'에 곤란해진 워시…엔비디아 실적·PCE 지표도",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431342",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "7천피 안착 시험대… '2대 분수령' 주목 - 머니투데이",
+     "u": "https://www.mt.co.kr/stock/2026/08/24/2026082319470622957",
+     "press": "머니투데이"
+    },
+    {
+     "t": "\"엔비디아·잭슨홀 주목\"...기준금리 결정도 관심",
+     "u": "https://www.ytn.co.kr/_cs/_ln_0102_202608232324243318_005.html",
+     "press": "YTN"
+    }
+   ]
+  },
+  {
+   "name": "장도연",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "고영욱, 이번엔 애먼 장도연 공격 \"웃기지도 않은데…\"",
+     "u": "https://www.newsis.com/view/NISX20260823_0003759078",
+     "press": "뉴시스"
+    },
+    {
+     "t": "\"경박, 웃기지도 않아\" 고영욱, 이번엔 장도연 저격 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/08/24/2026082405032767563",
+     "press": "머니투데이"
+    },
+    {
+     "t": "고영욱, 장동민 콕 집어 소환…\"유세윤·유상무·데프콘은 연락 왔는데 너만\" [엑's 이슈]",
+     "u": "https://v.daum.net/v/20260823233947516",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "elche vs barcelona",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "Primer examen para Mourinho… con siete bajas y un mensaje a la cantera",
-     "u": "https://www.marca.com/futbol/real-madrid/2026/08/21/primer-examen-mourinho-seis-bajas-mensaje-cantera.html",
-     "press": "MARCA"
+     "t": "Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del descanso",
+     "u": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
+     "press": "EL PAÍS"
     },
     {
-     "t": "Gol del Espanyol: mira el golazo que puso el 1-1 ante Real Madrid",
-     "u": "https://www.365scores.com/es/news/gol-del-espanyol-real-madrid-laliga-mou/",
-     "press": "365Scores"
+     "t": "Flick sorprende a todos en el pitido inicial: anuncia el once oficial para el du",
+     "u": "https://es-us.noticias.yahoo.com/deportes/flick-sorprende-pitido-inicial-anuncia-163509330.html",
+     "press": "Yahoo"
     },
     {
-     "t": "Manolo González: \"Si nos mantenemos vivos, tenemos opciones de tumbar al Madrid\"",
-     "u": "https://www.sport.es/es/videos/espanyol/20260822/manolo-gonzalez-mantenemos-vivos-opciones/133563945.shtml",
-     "press": "SPORT"
+     "t": "🔴 SKY Sports EN VIVO por Internet — ver partido FC Barcelona vs. Elche CF en TV ",
+     "u": "https://gestion.pe/mix/sports/sky-sports-en-vivo-por-internet-como-ver-partido-fc-barcelona-vs-elche-cf-en-futbol-tv-y-sky-plus-hd-online-en-mexico-laliga-2027-nnda-nnrt-noticia/",
+     "press": "Gestión"
     }
    ]
   },
   {
-   "name": "지상렬",
+   "name": "psg",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'살림남' 지상렬, 이요원에 피처링 제안 속 계약금도 줬지만…거절 아픔",
-     "u": "https://v.daum.net/v/20260823055149642",
+     "t": "Au lendemain de l'inversion du match et quelques heures après l'ouverture de la ",
+     "u": "https://www.lequipe.fr/Football/Actualites/Au-lendemain-de-l-inversion-du-match-et-quelques-heures-apres-l-ouverture-de-la-billetterie-rennes-psg-deja-a-guichets-fermes/1712347",
+     "press": "L'Équipe"
+    },
+    {
+     "t": "Pronostic Rennes - Paris Saint-Germain : Un choc au sommet",
+     "u": "https://www.vietnam.vn/fr/nhan-dinh-rennes-vs-paris-saint-germain-diem-nong-cuoc-dua-top-dau",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "Stade Rennais, le PSG reçoit une réponse qui ne va pas lui plaire !",
+     "u": "https://www.sports.fr/football/ligue-1/stade-rennais-le-psg-recoit-une-reponse-qui-ne-va-pas-lui-plaire-1039073.html",
+     "press": "Sports.fr"
+    }
+   ]
+  },
+  {
+   "name": "김수현",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김수현, 1년 만에 첫 공식석상…인도네시아서 환한 미소",
+     "u": "https://v.daum.net/v/3VJOhsb0F9",
      "press": "Daum"
     },
     {
-     "t": "지상렬, ♥신보람 소환에 당황…박서진 \"누나도 알아요?\"",
-     "u": "https://www.newsis.com/view/NISX20260822_0003758361",
-     "press": "뉴시스"
+     "t": "김수현, 해외 팬들 앞 밝은 미소… 활동 중단 후 첫 공식 석상 포착",
+     "u": "https://www.hankookilbo.com/news/article/A2026082314510005263",
+     "press": "한국일보"
     },
     {
-     "t": "박서진, '지상렬♥' 신보람 기습 소환 \"누나도 이렇게 하고 다니는 거 알아요?\" - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/08/22/MFRTCY3DMUZTAZJYHAZTINRXHA/",
+     "t": "김수현, 사생활 논란 딛고 \"활짝\"...근황 포착 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/08/23/2026082313494736918",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "은가은",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"스케줄 없으면 죽을 것 같다\"…한때 무명 비관한 박현호 \"지금은 열심히 살아\"",
+     "u": "https://v.daum.net/v/20260823113002749",
+     "press": "Daum"
+    },
+    {
+     "t": "'은가은♥' 박현호 \"무명 시절, 창문에서 뛰어내리려 해…母가 붙잡아줘\" (살림남) - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/tv/2026/08/23/GM3TMZDDGE2DIOBSGJSTENJRMI/",
      "press": "Chosunbiz"
+    },
+    {
+     "t": "'살림남' 박현호 \"아이돌 포기 후 창문에서 뛰어내리려…母가 붙잡아\"",
+     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/515625",
+     "press": "iMBC 연예"
     }
    ]
   },
   {
-   "name": "브레이브스 대 브루어스",
+   "name": "토리노 대 밀란",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'김하성 6경기 연속 결장' 애틀랜타, 투수전 끝에 밀워키에 1-2 석패",
-     "u": "https://sports.news.nate.com/view/20260822n04585?mid=s0206&isq=9298",
-     "press": "네이트"
-    },
-    {
-     "t": "미즈오로스키, 신구 에이스 대결에서 세일에 판정승",
-     "u": "https://www.mksports.co.kr/news/breaking-news/12133728",
-     "press": "m.mksports.co.kr"
-    },
-    {
-     "t": "김하성 또 결장…미저라우스키 6이닝 6K 무실점 밀워키, 애틀랜타 꺾고 80승 고지 선점",
-     "u": "https://sports.news.nate.com/view/20260822n02834?mid=s0206&isq=9298",
-     "press": "네이트"
-    }
-   ]
-  },
-  {
-   "name": "la liga",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Preview: Espanyol vs Real Madrid - prediction, team news, lineups",
-     "u": "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/espanyol-vs-real-madrid-prediction-team-news-lineups_603369.html",
-     "press": "Sports Mole"
-    },
-    {
-     "t": "Espanyol vs Real Madrid Confirmed Lineups",
-     "u": "https://www.whoscored.com/news/UFIXFnmhGkOj1-19DWcG-Q/show/20260822-espanyol-vs-real-madrid-confirmed-lineup-1787423224",
-     "press": "WhoScored.com"
-    },
-    {
-     "t": "Licensable picture: Soccer 2026: RCD Espanyol V Real Madrid - LaLiga EA Sports",
-     "u": "https://www.reutersconnect.com/item/soccer-2026-rcd-espanyol-v-real-madrid-laliga-ea-sports/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBIUlUwQzA",
-     "press": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "name": "바이에른 뮌헨",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김민재 30살인데 이적료 652억에 맨유?…\"패스성공률 96% 경이로워\"→EPL 코리안리거 명맥 이을까",
-     "u": "https://v.daum.net/v/36pfvSV7tI",
+     "t": "'슈퍼 원더골' 역시 디펜딩 챔피언의 품격! 인테르, 4골 몰아치며 개막전 대승",
+     "u": "https://v.daum.net/v/20260823044149853",
      "press": "Daum"
     },
     {
-     "t": "이럴 수가! '민재야 제발 와줘'…그야말로 '미친 고집' 맨체스터 유나이티드의 영입 갈망, 1티어 기자도 밝혔다 \"계속해서 상황 주시\"",
-     "u": "https://sports.news.nate.com/view/20260823n00168",
-     "press": "네이트"
+     "t": "프로시노네 vs 유벤투스 예측: 치열한 우승 경쟁의 중심",
+     "u": "https://www.vietnam.vn/ko/nhan-dinh-frosinone-vs-juventus-diem-nong-cuoc-dua-top-dau",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "‘다시 쐐기 쾅!’ 김민재, 맨유의 캐릭 감독이 원해→바이에른은 조용히 영상 공개 “민재와 저희 팀 계속 응원 ...",
-     "u": "https://sports.khan.co.kr/article/202608220707003",
-     "press": "스포츠경향"
+     "t": "세리에 A 토리노 대 AC 밀란 축구 예측",
+     "u": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-torino-vs-ac-milan-tai-serie-a-1755062.ldo",
+     "press": "Laodong.vn"
     }
    ]
   },
   {
-   "name": "dortmund vs bayern",
+   "name": "교사",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "📸 Kompany-Experiment geht auf! Brown trifft direkt als Bayern-Zehner",
-     "u": "https://onefootball.com/de/news/kompany-experiment-geht-auf-brown-trifft-direkt-als-bayern-zehner-43321226",
-     "press": "OneFootball"
+     "t": "무극중, 고(故) 김종필 교사의 학생 사랑... 유가족의 뜻깊은 기탁으로 이어져 : 네이버 블로그",
+     "u": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224385577052&redirect=Dlog",
+     "press": "Naver Blog"
     },
     {
-     "t": "Tah: \"Gezeigt, dass wir hungrig sind\"",
-     "u": "https://www.skysportaustria.at/mediathek/tah-gezeigt-dass-wir-hungrig-sind/",
-     "press": "Sky Sport Austria"
+     "t": "\"세상 떠난 뒤에도 제자 향한 마지막 마음\"",
+     "u": "https://v.daum.net/v/pdglM6hDrr",
+     "press": "Daum"
     },
     {
-     "t": "Bundeskanzler und Altkanzler beim Supercup! Merz bei Dortmund gegen FC Bayern im",
-     "u": "https://ran.joyn.de/sports/fussball/supercup/friedrich-merz-und-ein-altkanzler-bei-borussia-dortmund-gegen-fc-bayern-im-stadion-der-bundeskanzler-beim-franz-beckenbauer-supercup-174443",
-     "press": "Joyn"
+     "t": "정년 석 달 앞두고 세상 떠난 교사…유족 1천600만원 기탁",
+     "u": "https://www.yna.co.kr/view/AKR20260823020200064",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "브렌트포드",
+   "name": "수출",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "김지수, 브렌트포드 1군 포함…韓 EPL 계보 이어간다",
-     "u": "https://www.donga.com/news/Sports/article/all/20260822/134523687/1",
-     "press": "동아일보"
+     "t": "대EU 철강 수출 41%↓…쿼터 감축 영향",
+     "u": "https://v.daum.net/v/20260824051931216",
+     "press": "Daum"
     },
     {
-     "t": "‘손흥민·황희찬 없다’ 위기의 ‘韓 프리미어리거’, ‘명맥’ 잇는 수비수 김지수 있다…브렌트포드 1군 포함 등번호 ‘36번’",
-     "u": "https://www.sportsseoul.com/news/read/1630048",
-     "press": "스포츠서울"
+     "t": "대EU 철강 수출 41%↓…쿼터 감축 영향",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH202608240518061xK",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "[오피셜]韓 축구 대형 호재, EPL '0명' 굴욕 깜짝 탈출! '국가대표 수비수' 김지수, 브렌트포드 1군 선수단 포함 \"등번호 36번\"",
-     "u": "https://www.sportschosun.com/football/2026-08-22/202608220100129330008255",
-     "press": "스포츠조선"
+     "t": "한국 7월 EU 철강 수출 41%↓…신철강조치 영향 일부 반영",
+     "u": "https://www.yna.co.kr/view/AKR20260821179800003",
+     "press": "연합뉴스"
     }
    ]
   }
