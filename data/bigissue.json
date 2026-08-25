@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260825",
- "updated": "2026-08-25T06:23:48+09:00",
+ "targetDate": "20260826",
+ "updated": "2026-08-26T06:22:13+09:00",
  "list": [
   {
-   "name": "기초노령연금",
+   "name": "김연경",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "국민연금 성실하게 냈더니, 기초연금이 깎인다?",
-     "u": "https://www.ytn.co.kr/_ln/0102_202608241017506120",
-     "press": "YTN"
-    },
-    {
-     "t": "[그래픽] 국민연금 연계에 따른 기초연금 감액 규모",
-     "u": "https://www.yna.co.kr/view/GYH20260823000400044",
+     "t": "김연경, 아시아배구연맹 선수위원회 위원장 선임",
+     "u": "https://www.yna.co.kr/view/AKR20260825171900007",
      "press": "연합뉴스"
     },
     {
-     "t": "국민연금 탔다고 기초연금 깎였다…감액 규모 4년 새 3배 '껑충'",
-     "u": "https://v.daum.net/v/20260823193549637",
-     "press": "Daum"
+     "t": "'배구 전설' 김연경, 亞배구연맹 선수위원장 임명…홍보대사 겸임",
+     "u": "https://www.newsis.com/view/NISX20260825_0003762376",
+     "press": "뉴시스"
+    },
+    {
+     "t": "AVC \"아시아의 아이콘\"…김연경, 선수위원장 겸 홍보대사로 맹활약 예고",
+     "u": "https://www.nocutnews.co.kr/news/6568013",
+     "press": "노컷뉴스"
     }
    ]
   },
   {
-   "name": "오싹한 연애",
-   "idx": 10,
+   "name": "천궁",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "김민철, '오싹한 연애'의 마지막 퍼즐",
-     "u": "https://v.daum.net/v/20260824105254816?f=p",
+     "t": "한-쿠웨이트 외교장관회담서 에너지·인프라 협력 확대 논의",
+     "u": "https://v.daum.net/v/20260825194547106",
      "press": "Daum"
     },
     {
-     "t": "저주 풀고 손 맞잡은 박은빈·양세종…'오싹한 연애' 7.9% 종영",
-     "u": "https://www.yna.co.kr/view/AKR20260824035100005",
-     "press": "연합뉴스"
+     "t": "외교 문서 전달하는 자라 알-사바 쿠웨이트 외교장관",
+     "u": "https://www.newsis.com/view/NISI20260825_0021410073",
+     "press": "뉴시스"
     },
     {
-     "t": "옹성우, 첫 악역 도전 성공적 마무리…\"민환이 통해 새로운 모습 발견\"",
-     "u": "https://www.newspim.com/news/view/20260824000751",
-     "press": "뉴스핌"
+     "t": "모두 발어하는 조현 장관",
+     "u": "https://www.news1.kr/photos/8070946",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "이의리",
+   "name": "노팅엄 포레스트 대 리즈 유나이티드",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "[영상] 만루홈런 맞은 KIA 이의리…이중 키킹의 명암?",
-     "u": "https://v.daum.net/v/Yxf57GMVlW",
-     "press": "Daum"
-    },
-    {
-     "t": "인생을 보여준 키움 김재현…'누구든 한 번은 주인공이 된다'",
-     "u": "https://www.yna.co.kr/view/AKR20260824106600007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "믿었던 이의리마저‥역전 끝내기 만루포 맞고 대역전패",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846713_37004.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "fulham vs chelsea",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Fulham vs Chelsea LIVE: Premier League score, team news, commentary & updates",
-     "u": "https://www.bbc.com/sport/football/live/cqp8xg4jy4r3t",
+     "t": "Nottingham Forest 0-2 Leeds: Leeds beat hosts for second time in four days to re",
+     "u": "https://www.bbc.com/sport/football/live/cm5y610x0we5t",
      "press": "BBC"
     },
     {
-     "t": "Fulham vs Chelsea | Premier League offer: Get £30 in free bets with Midnite",
-     "u": "https://www.thesun.co.uk/sport/40150548/fulham-vs-chelsea-premier-league-free-bets-midnite/",
-     "press": "The Sun"
+     "t": "How big a signing is James Trafford for Leeds? What did Glasner learn from first",
+     "u": "https://www.nytimes.com/athletic/7529131/2026/08/22/nottingham-forest-leeds-premier-league-result-recap-analysis/",
+     "press": "The New York Times"
     },
     {
-     "t": "WhoScored's 28/1 Bet Builder Tip for Fulham v Chelsea",
-     "u": "https://www.whoscored.com/articles/9pTBfHpKMUW_1kuEGr3hnw/show/whoscoreds-281-bet-builder-tip-for-fulham-v-chelsea",
-     "press": "WhoScored.com"
+     "t": "Nottingham Forest & Leeds United final Carabao Cup injury news as big fresh blow",
+     "u": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-nottingham-forest-morgan-gibbs-white-ilia-gruev-willy-gnonto-gabi-gudmundsson-8939450",
+     "press": "Yorkshire Evening Post"
     }
    ]
   },
   {
-   "name": "오늘날씨",
-   "idx": 5,
+   "name": "서식스 공작 해리",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "처서도 지났는데 다시 '이중 열돔'‥이 더위 언제까지?",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846974_37004.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "부산·울산·경남 맑고 무더위 기승…낮 기온 33∼36도",
-     "u": "https://www.yna.co.kr/view/AKR20260825010300052",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "[날씨] 8월 말인데도 한여름 더위…중부 곳곳 소나기",
-     "u": "https://v.daum.net/v/20260825054813635",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "ฟูลัม พบ เชลซี",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "ซูเปอร์คอมพิวเตอร์ทำนายผลการแข่งขันระหว่างฟูแล่มกับเชลซี",
-     "u": "https://www.vietnam.vn/th/sieu-may-tinh-du-doan-ket-qua-tran-fulham-vs-chelsea",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "เชลซี บุกเฉือน ฟูแลม สุดมันส์ - เปโดร ยิงไวตั้งแต่ 31 วินาทีแรก",
-     "u": "https://www.khaosod.co.th/sports/news_10373161",
-     "press": "ข่าวสด"
-    },
-    {
-     "t": "\"เชลซี\" บุกเชือด \"เจ้าสัวน้อย\" ประเดิมซีซั่นใหม่",
-     "u": "https://www.dailynews.co.th/news/6136381/",
-     "press": "เดลินิวส์"
-    }
-   ]
-  },
-  {
-   "name": "김수현",
-   "idx": 5,
-   "mv": -1,
-   "news": [
-    {
-     "t": "김수현, 인니 생방송 무대 올랐다…1년 5개월만에 모습 보니 [이런뉴스]",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8644339",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "김수현, 1년 5개월 만에 공식 석상…인니 생방송 출연",
-     "u": "https://www.yna.co.kr/view/AKR20260824082800005",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "배우 김수현, 1년 5개월 만에 활동 재개…인도네시아 생방송 출연",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR2026082413381694u",
-     "press": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "name": "fc 서울",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'7골 대승' 기세 몰아…K리그1 선두 서울, 부천 상대 3연승 도전",
-     "u": "https://v.daum.net/v/20260824115457396",
+     "t": "英 해리 왕자 부인 메건, '더 젠틀맨' 캐스팅 취소⋯\"여론 반발 심해\"",
+     "u": "https://v.daum.net/v/GrMQ9Zd8Wh",
      "press": "Daum"
     },
     {
-     "t": "카메라 향한 세리머니에 '경고'‥\"도발 의도 없었다\"",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846991_37004.html",
-     "press": "MBC 뉴스"
+     "t": "“영국 반발 너무 거셌다”…메건 마클, ‘젠틀맨3’ 출연 무산",
+     "u": "https://www.mk.co.kr/news/world/12135152",
+     "press": "매일경제"
     },
     {
-     "t": "[영상] FC서울 정승원, MVP 세리머니 했다가 경고",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8644227",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "철도",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "국토부, 다자녀가구 철도자격시험 수수료 50% 감면 - 머니투데이",
-     "u": "https://www.mt.co.kr/estate/2026/08/25/2026082414082549287",
-     "press": "머니투데이"
-    },
-    {
-     "t": "다자녀가구, 기관사·관제사 시험 수수료 ‘반값’으로 감면해 준다",
-     "u": "https://v.daum.net/v/20260825060223027",
-     "press": "Daum"
-    },
-    {
-     "t": "다자녀가구 철도자격시험 수수료 50% 감면…차상위계층도",
-     "u": "https://www.newsis.com/view/NISX20260824_0003760411",
+     "t": "\"英 해리 왕자 부인 거만해서\"…캘리포니아 가정부들 \"그 집엔 안 가\"",
+     "u": "https://nwww.newsis.com/view/NISX20260825_0003761298",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "오스틴 딘",
+   "name": "대한민국의 대법관",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "오스틴 100타점·문보경 부활·문정빈과 송찬의 쌍포…LG 타선, 드디어 막힌 혈이 뚫리나",
-     "u": "https://sports.donga.com/sports/article/all/20260824/134532921/1",
-     "press": "스포츠동아"
+     "t": "김민석·장동혁 어색한 첫 회동…‘대법관 제청’ 두고 신경전",
+     "u": "https://v.daum.net/v/20260825065713744",
+     "press": "Daum"
     },
     {
-     "t": "\"LG와 다년계약 원한다\" 오스틴, 2년만에 30홈런-100타점 재달성…KBO 통산 96번째 [대전레코드]",
-     "u": "https://www.chosun.com/sports/baseball/2026/08/23/G42WCMBUMIZTKYRWHE2TIMJQME/",
-     "press": "조선일보"
+     "t": "[사설]'예상된 평행선' 여야 당대표, 자주 만나야 - 머니투데이",
+     "u": "https://www.mt.co.kr/opinion/2026/08/25/2026082415524510149",
+     "press": "머니투데이"
     },
     {
-     "t": "\"영구결번 원한다\"던 오스틴 '30-100' 폭발…LG 역사상 첫 MVP 예약?",
-     "u": "https://www.nocutnews.co.kr/news/6566860",
-     "press": "노컷뉴스"
+     "t": "[사설]‘재명아’ ‘조희대 씨’… 국민 혐오 키우는 여야 대표의 막된 언사",
+     "u": "https://www.donga.com/news/Opinion/article/all/20260824/134535912/2",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "종합병원",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "43년 부천 지켰는데…뉴대성병원, 응급실·종합병원 지위 반납",
+     "u": "https://www.hani.co.kr/arti/area/capital/1274553.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "해남종합병원, 군단위 최초 의료기관 인증 획득",
+     "u": "http://www.snakorea.com/news/articleView.html?idxno=1045148",
+     "press": "서울뉴스통신"
+    },
+    {
+     "t": "인천세종병원, 보건복지부 4주기 의료기관 인증 획득",
+     "u": "https://www.healthfocus.co.kr/news/articleView.html?idxno=209630",
+     "press": "헬스포커스뉴스"
+    }
+   ]
+  },
+  {
+   "name": "피싱",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "고령층 울린 100억대 피싱 조직…112 신고 전화까지 가로챘다(종합)",
+     "u": "https://v.daum.net/v/20260825112854709?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "중국 공안도 나서 '일망타진'...치밀한 피싱범들 싹 잡아왔다 [자막뉴스]",
+     "u": "https://www.ytn.co.kr/_ln/0134_202608251729376941",
+     "press": "YTN"
+    },
+    {
+     "t": "100억대 피싱 조직… 한·중 공조 수사로 검거",
+     "u": "https://www.kmib.co.kr/article/view.asp?arcid=9000006185&code=11131413&sid1=soc&stg=ws_real",
+     "press": "국민일보"
+    }
+   ]
+  },
+  {
+   "name": "광주시",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "경기광주 탄벌지구 도시개발구역 지정…1천72세대 입주",
+     "u": "https://www.yna.co.kr/view/AKR20260825062500061",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "경기 광주시 탄벌동에 1천72가구 들어선다…경기도, 도시개발구역 지정",
+     "u": "https://www.kyeonggi.com/article/20260825580037",
+     "press": "경기일보"
+    },
+    {
+     "t": "광주 탄벌지구, 난개발 벗어난다",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1330396",
+     "press": "인천일보"
+    }
+   ]
+  },
+  {
+   "name": "tving",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "훈련소 동기 이원정과 재회한 김민호…'신병4' 2.8% 출발",
+     "u": "https://www.yna.co.kr/view/AKR20260825076100005",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "[Y현장] \"병영 라이프 후반전\"...'신병4', 더 큰 스케일로 컴백(종합)",
+     "u": "https://www.ytn.co.kr/_sn/0117_202608241545421232",
+     "press": "YTN"
+    },
+    {
+     "t": "‘신병4’ 김요한, 폐급 신병서 선임 복수극까지…‘신스틸러’ 입체적 성장",
+     "u": "https://v.daum.net/v/20260825155237227",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "al-ettifaq vs al-nassr",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "With the weapon of boldness: Al-Ettifaq coach challenges Al-Nassr",
+     "u": "https://www.goal.com/en/news/with-the-weapon-of-boldness-al-ettifaq-coach-challenges-al-nassr/blt43e559e62c481740",
+     "press": "Goal.com"
+    },
+    {
+     "t": "Licensable picture: Saudi Pro League - Al Ettifaq v Al Nassr",
+     "u": "https://www.reutersconnect.com/item/saudi-pro-league-al-ettifaq-v-al-nassr/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOFAxS0QxN0U",
+     "press": "Reuters Connect"
+    },
+    {
+     "t": "Two changes to the Al-Alami line-up: Ronaldo leads Al-Nassr against Al-Ettifaq",
+     "u": "https://www.goal.com/en/news/two-changes-in-al-alami-s-line-up-ronaldo-leads-al-nassr-against-al-ettifaq/bltad5d00a5df7678f4",
+     "press": "Goal.com"
     }
    ]
   }
