@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260827",
- "updated": "2026-08-27T09:23:36+09:00",
+ "targetDate": "20260828",
+ "updated": "2026-08-28T14:03:26+09:00",
  "list": [
   {
-   "name": "김시우",
+   "name": "환율",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "AP통신 \"김시우, 우승 없이도 최고의 한해…퍼트 개선이 핵심\"",
-     "u": "https://v.daum.net/v/20260826081653295",
+     "t": "환율 1300원대 진입, 부자들은 지금 이 자산을 담고 있다",
+     "u": "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/",
+     "press": "조선일보"
+    },
+    {
+     "t": "“달러 싸졌네?” 외화예금 몰렸다",
+     "u": "https://v.daum.net/v/20260828130751571",
      "press": "Daum"
     },
     {
-     "t": "김시우·김주형, 총상금 553억원 ‘PGA 왕중왕전’ 출격",
-     "u": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065569",
-     "press": "경상일보"
-    },
-    {
-     "t": "김시우, 우승 없이도 ‘1000만 달러 사나이’ 눈앞… 투어 챔피언십서 시즌 첫 승 도전",
-     "u": "https://www.donga.com/news/Sports/article/all/20260826/134548212/1",
-     "press": "동아일보"
+     "t": "7월 달러예금 1천억달러 넘어…전체 외화예금도 역대 최대",
+     "u": "https://www.yna.co.kr/view/AKR20260828060400002",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "결혼식",
+   "name": "기아 쏘렌토",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "기아 대표 3종 ‘블랙 에디션’ 출시",
+     "u": "https://v.daum.net/v/5OTcuj3Guy",
+     "press": "Daum"
+    },
+    {
+     "t": "기아, 스포티지·쏘렌토·카니발 블랙 에디션 출시",
+     "u": "https://www.yna.co.kr/view/AKR20260827033900003",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "기아, 쏘렌토·스포티지·카니발 블랙 에디션 선봬",
+     "u": "https://it.chosun.com/news/articleView.html?idxno=2023092168928",
+     "press": "IT조선"
+    }
+   ]
+  },
+  {
+   "name": "치어리더",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[영상] 짐머맨 악몽과 황당 실책 연발…한화, 날개 없는 추락",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8648910",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "'대환장' 6억 외인 5실점 강판→실책-실책-실책 하면 이길 수가 없지, 한화 패패패패 어떡하나…9위 추락 위기다 [MD인천]",
+     "u": "https://v.daum.net/v/20260828014243143",
+     "press": "Daum"
+    },
+    {
+     "t": "멀어지는 가을야구, 한화 팬들 바라볼 건 이 선수밖에 없나…어느새 20홈런 고지 보인다 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/08/28/202608280751773158O",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "오마이뉴스",
    "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"돌아가신 시모 투병 영상, 결혼식에서 꼭 틀어야 하나요?\" 예비 신부 고민",
-     "u": "https://www.news1.kr/society/general-society/6269681",
-     "press": "뉴스1"
-    },
-    {
-     "t": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매' - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929",
-     "press": "머니투데이"
-    },
-    {
-     "t": "\"결혼 때 보여달라\" 결혼식서 故 시어머니 영상 틀자는 시아버지 [어떻게 생각하세요]",
-     "u": "https://v.daum.net/v/20260826155508227",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "인시디어스",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'인시디어스' 신작, 전편 안 봐도 된다 이것만 알면",
-     "u": "https://v.daum.net/v/20260825105245623",
-     "press": "Daum"
-    },
-    {
-     "t": "귀신 있거나 없거나... 어떤 공포 영화가 좋아?",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261527",
+     "t": "\"저게 피인가?\"… 들길에서 깨달은 아버지의 농심",
+     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262528",
      "press": "OhmyNews"
     },
     {
-     "t": "영화 '인시디어스: 그들이 넘어왔다' 쿠키 영상 몇개?",
-     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1177065",
-     "press": "금강일보"
+     "t": "가을 준비하는 골짜기, 아침부터 분주하다",
+     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262502",
+     "press": "OhmyNews"
+    },
+    {
+     "t": "[포토뉴스]가을 향해 여물어갑니다",
+     "u": "https://www.khan.co.kr/article/202608262111005",
+     "press": "경향신문"
     }
    ]
   },
   {
-   "name": "홍성찬",
-   "idx": 20,
+   "name": "황재균",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "남자 테니스 권순우, US오픈 예선 1회전서 3세트 기권패",
-     "u": "https://v.daum.net/v/20260826081752320",
-     "press": "Daum"
+     "t": "‘18kg 감량’ 황재균 디이어트 성형 미쳤다 [화보]",
+     "u": "https://sports.donga.com/ent/article/all/20260828/134561403/1",
+     "press": "스포츠동아"
     },
     {
-     "t": "홍성찬·구연우, US오픈 테니스 예선 첫판 승전고(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20260826024951007",
-     "press": "연합뉴스"
+     "t": "18kg 뺀 황재균, 체지방 3.9% 근육질 몸…화려한 인생 2막 시작 - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/MNRWGY3CHA4GGNBXMQ2DEZBSGA/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "권순우, US오픈 예선 1회전서 부상 기권...강행군 속 몸 상태 악화",
-     "u": "https://www.tennis.co.kr/news/articleView.html?idxno=53528",
-     "press": "테니스코리아"
+     "t": "황재균, 은퇴 후 18kg 뺐다…\"추노·장첸 닮아\"",
+     "u": "https://www.newsis.com/view/NISX20260828_0003766358",
+     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "홈플러스 창원점",
-   "idx": 20,
+   "name": "cgv",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] 회생안 근거 ‘깜깜이’인데… 홈플은 “채권단 동의 사실상 확보”",
-     "u": "https://v.daum.net/v/20260827060437763",
-     "press": "Daum"
-    },
-    {
-     "t": "정무위, 홈플러스 정상화 촉구 결의안 여야 합의 채택",
-     "u": "https://www.etoday.co.kr/news/view/2618317",
-     "press": "이투데이"
-    },
-    {
-     "t": "홈플러스 입점 소상공인 “허울뿐인 금융지원, 실질 도움 안돼”",
-     "u": "https://m.ekn.kr/view.php?key=20260826024516799",
-     "press": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "name": "시진핑",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "시진핑에겐 ‘발작 버튼’이 있다…흔들리면 대만 침공도 포기한다는데",
-     "u": "https://www.mk.co.kr/news/society/12137223",
+     "t": "CGV caps Yongsan IMAX purchases at four tickets a day",
+     "u": "https://pulse.mk.co.kr/news/english/12138642",
      "press": "매일경제"
     },
     {
-     "t": "대만인 68.9% \"현상 유지·중국과 통일 거부\"",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20260821095457e5y",
-     "press": "연합뉴스TV"
+     "t": "CGV Limits IMAX Tickets as 'The Odyssey' Scalping Hits 300,000 Won",
+     "u": "https://www.chosun.com/english/kpop-culture-en/2026/08/27/E6GDADXRC5GIXHDSAE57ENC524/",
+     "press": "조선일보"
     },
     {
-     "t": "대만은 중국과 싸울 것인가? 대만인들에게 물었다",
-     "u": "https://www.pado.kr/article/2026082114368886389",
-     "press": "https://www.pado.kr/"
+     "t": "Culture Minister Vows Fundamental Fix for Movie Ticket Scalping",
+     "u": "https://en.sedaily.com/culture/2026/08/27/culture-minister-vows-fundamental-fix-for-movie-ticket",
+     "press": "Seoul Economic Daily"
     }
    ]
   },
   {
-   "name": "고양시",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "최규진 의원, “고양, UN 글로벌 AI 허브 유치해 AI 분야의 UN 본부로”",
-     "u": "https://go.seoul.co.kr/news/newsView.php?id=20260826500178",
-     "press": "서울Pn"
-    },
-    {
-     "t": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-     "u": "https://m.ekn.kr/view.php?key=20260826026096557",
-     "press": "에너지경제신문"
-    },
-    {
-     "t": "고양시, 국회서 ‘UN 글로벌 AI 허브 유치’ 선언식",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8645897",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "발렌시아 cf",
+   "name": "한진칼",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "Kosner joins Valencia CF Women as Official Premium Plus Partner for the next two",
-     "u": "https://www.valenciacf.com/kosner-joins-valencia-cf-women-as-official-premium-plus-partner-for-the-next-two-seasons",
-     "press": "Valencia CF"
+     "t": "박상진이 쥔 한진칼 캐스팅보트…긴장한 조원태 vs 호반",
+     "u": "https://dealsite.co.kr/articles/167722",
+     "press": "딜사이트"
     },
     {
-     "t": "G. Rodríguez: “We always want to win, but every point is very important”",
-     "u": "https://www.valenciacf.com/g-rodriguez-we-always-want-to-win-but-every-point-is-very-important",
-     "press": "Valencia CF"
+     "t": "민형배 \"통합시에 삼성·SK 유치\"…시민공유자본·생애소득 제안",
+     "u": "https://stock.mk.co.kr/news/view/1021059",
+     "press": "매일경제 마켓"
     },
     {
-     "t": "Valencia vs. Celta Vigo - Game Highlights",
-     "u": "https://www.espn.com/video/clip/_/id/49693772/valencia-vs-celta-vigo-game-highlights",
-     "press": "ESPN"
+     "t": "아시아나항공 주가 상승 중",
+     "u": "https://www.anewsa.com/detail.php?number=3193061",
+     "press": "아시아뉴스통신"
     }
    ]
   },
   {
-   "name": "일기예보",
+   "name": "소유진",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "2026년 8월 27일 날씨 예보: 북부 지역에 국지적으로 집중호우가 예상되며, 중부 지역은 폭염이 예상됩니다.",
-     "u": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-27-8-2026-mien-bac-mua-to-cuc-bo-trung-bo-nang-nong-manh",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "오늘 뇌우 지역 예보, 일부 지역 80mm 이상의 폭우",
-     "u": "https://ko.laodong.vn/moi-truong/du-bao-khu-vuc-mua-dong-hom-nay-co-noi-mua-to-tren-80mm-1756533.ldo",
-     "press": "Laodong.vn"
-    },
-    {
-     "t": "베트남 북부 지역에는 산발적인 소나기와 천둥번개가 예상됩니다.",
-     "u": "https://www.vietnam.vn/ko/bac-bo-co-mua-rao-va-dong-rai-rac",
-     "press": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "name": "장한별",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"母 아직 도배일 하셔\" 양세형 고백→성리 \"나도 도배공 출신\"..최고 4.6%[전설의 사내][종합]",
-     "u": "https://v.daum.net/v/20260827074637259",
+     "t": "'백종원♥' 소유진, 치마가 어디까지 찢어진 거야..이러다 엉덩이 보이겠네 [순간포착]",
+     "u": "https://v.daum.net/v/qdrWo5J6vh",
      "press": "Daum"
     },
     {
-     "t": "‘전설의 사내’ 진시몬X박혜신도 입덕, TOP7 멤버 정체 누구",
-     "u": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432894",
-     "press": "데일리스포츠한국"
+     "t": "'백종원♥' 소유진, 이다해 감탄하게 만든 미모···오버립까지 소화 - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/G5RDMM3BMFQTEYTCGQ3WCODBMM/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "‘치의대생 출신’ 장한별 “고등학생 때 같은 학생 과외 알바” (전설의 사내)",
-     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/516005",
-     "press": "iMBC 연예"
+     "t": "\"백종원 눈 감아\"…소유진, 애 셋맘의 파격 의상 [스타이슈]",
+     "u": "https://news.nate.com/view/20260828n04559?mid=n1101",
+     "press": "네이트"
+    }
+   ]
+  },
+  {
+   "name": "삼성바이오로직스",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[속보]삼성바이오, 3조 유상증자 단행…폴리펩타이드 인수·공장 증설 ‘속도’",
+     "u": "https://www.khan.co.kr/article/202608280909001",
+     "press": "경향신문"
+    },
+    {
+     "t": "[특징주] '3조원 유상증자' 삼바, 장 초반 6% 급락",
+     "u": "https://www.yna.co.kr/view/AKR20260828045500008",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432388",
+     "press": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "name": "비밀이야",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "강레오 저격?…\"셰프 맞는지도 모르겠다\" 유명 미식 유튜버 발언 논란",
+     "u": "https://news.nate.com/view/20260828n06473",
+     "press": "네이트"
+    },
+    {
+     "t": "비밀이야, 강레오 겨냥했나… 미쉐린 발언에 갑론을박",
+     "u": "https://v.daum.net/v/20260828105440812",
+     "press": "Daum"
+    },
+    {
+     "t": "62만 맛집 유튜버, 강레오 저격했나…\"식당도 없는데 셰프 맞나\" [엑's 이슈]",
+     "u": "https://www.xportsnews.com/article/2189105",
+     "press": "엑스포츠뉴스"
     }
    ]
   }
