@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260828",
- "updated": "2026-08-28T14:03:26+09:00",
+ "targetDate": "20260829",
+ "updated": "2026-08-29T12:01:34+09:00",
  "list": [
   {
-   "name": "환율",
+   "name": "공장",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "환율 1300원대 진입, 부자들은 지금 이 자산을 담고 있다",
-     "u": "https://www.chosun.com/economy/money/2026/08/28/5FP73LZOHVDJPP4SIWOA5I33OA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "“달러 싸졌네?” 외화예금 몰렸다",
-     "u": "https://v.daum.net/v/20260828130751571",
+     "t": "韓총리, 천안시 공장 화재에 \"진압 활동·인명 검색 최선\" 지시",
+     "u": "https://v.daum.net/v/WCjle1iPXu",
      "press": "Daum"
     },
     {
-     "t": "7월 달러예금 1천억달러 넘어…전체 외화예금도 역대 최대",
-     "u": "https://www.yna.co.kr/view/AKR20260828060400002",
-     "press": "연합뉴스"
+     "t": "'5명 사상' 천안 타이어 원료 공장 화재…경찰·소방, 화재 원인 조사",
+     "u": "https://www.news1.kr/local/daejeon-chungnam/6273353",
+     "press": "뉴스1"
+    },
+    {
+     "t": "불기둥 치솟고 폭발‥인근 건물까지 날아간 파편",
+     "u": "https://imnews.imbc.com/replay/2026/nw2500/article/6848169_36989.html",
+     "press": "MBC 뉴스"
     }
    ]
   },
   {
-   "name": "기아 쏘렌토",
-   "idx": 100,
+   "name": "고우석",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "기아 대표 3종 ‘블랙 에디션’ 출시",
-     "u": "https://v.daum.net/v/5OTcuj3Guy",
+     "t": "고우석, 미네소타에서도 '방출 대기' 통보…미국 도전 '최대 위기'",
+     "u": "https://v.daum.net/v/20260829084129943",
      "press": "Daum"
     },
     {
-     "t": "기아, 스포티지·쏘렌토·카니발 블랙 에디션 출시",
-     "u": "https://www.yna.co.kr/view/AKR20260827033900003",
-     "press": "연합뉴스"
+     "t": "[오피셜] '충격' 고우석 결국 또 퇴출 날벼락 '양도 지명(DFA)' 처리, LG 복귀도 거절했는데 어떻게 되나",
+     "u": "https://sports.news.nate.com/view/20260829n02744",
+     "press": "네이트"
     },
     {
-     "t": "기아, 쏘렌토·스포티지·카니발 블랙 에디션 선봬",
-     "u": "https://it.chosun.com/news/articleView.html?idxno=2023092168928",
-     "press": "IT조선"
-    }
-   ]
-  },
-  {
-   "name": "치어리더",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[영상] 짐머맨 악몽과 황당 실책 연발…한화, 날개 없는 추락",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8648910",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "'대환장' 6억 외인 5실점 강판→실책-실책-실책 하면 이길 수가 없지, 한화 패패패패 어떡하나…9위 추락 위기다 [MD인천]",
-     "u": "https://v.daum.net/v/20260828014243143",
-     "press": "Daum"
-    },
-    {
-     "t": "멀어지는 가을야구, 한화 팬들 바라볼 건 이 선수밖에 없나…어느새 20홈런 고지 보인다 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/08/28/202608280751773158O",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "오마이뉴스",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"저게 피인가?\"… 들길에서 깨달은 아버지의 농심",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262528",
-     "press": "OhmyNews"
-    },
-    {
-     "t": "가을 준비하는 골짜기, 아침부터 분주하다",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262502",
-     "press": "OhmyNews"
-    },
-    {
-     "t": "[포토뉴스]가을 향해 여물어갑니다",
-     "u": "https://www.khan.co.kr/article/202608262111005",
-     "press": "경향신문"
-    }
-   ]
-  },
-  {
-   "name": "황재균",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘18kg 감량’ 황재균 디이어트 성형 미쳤다 [화보]",
-     "u": "https://sports.donga.com/ent/article/all/20260828/134561403/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "18kg 뺀 황재균, 체지방 3.9% 근육질 몸…화려한 인생 2막 시작 - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/MNRWGY3CHA4GGNBXMQ2DEZBSGA/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "황재균, 은퇴 후 18kg 뺐다…\"추노·장첸 닮아\"",
-     "u": "https://www.newsis.com/view/NISX20260828_0003766358",
+     "t": "빅리그 재진입 노리던 고우석, 트리플A 강등 39일 만에 방출 위기",
+     "u": "https://www.newsis.com/view/NISX20260829_0003767752",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "cgv",
+   "name": "박정훈",
    "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "CGV caps Yongsan IMAX purchases at four tickets a day",
-     "u": "https://pulse.mk.co.kr/news/english/12138642",
-     "press": "매일경제"
+     "t": "특검, ‘박정훈 허위 구속영장’ 군검사들 항소심서도 실형 구형",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8648977",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "CGV Limits IMAX Tickets as 'The Odyssey' Scalping Hits 300,000 Won",
-     "u": "https://www.chosun.com/english/kpop-culture-en/2026/08/27/E6GDADXRC5GIXHDSAE57ENC524/",
-     "press": "조선일보"
-    },
-    {
-     "t": "Culture Minister Vows Fundamental Fix for Movie Ticket Scalping",
-     "u": "https://en.sedaily.com/culture/2026/08/27/culture-minister-vows-fundamental-fix-for-movie-ticket",
-     "press": "Seoul Economic Daily"
-    }
-   ]
-  },
-  {
-   "name": "한진칼",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "박상진이 쥔 한진칼 캐스팅보트…긴장한 조원태 vs 호반",
-     "u": "https://dealsite.co.kr/articles/167722",
-     "press": "딜사이트"
-    },
-    {
-     "t": "민형배 \"통합시에 삼성·SK 유치\"…시민공유자본·생애소득 제안",
-     "u": "https://stock.mk.co.kr/news/view/1021059",
-     "press": "매일경제 마켓"
-    },
-    {
-     "t": "아시아나항공 주가 상승 중",
-     "u": "https://www.anewsa.com/detail.php?number=3193061",
-     "press": "아시아뉴스통신"
-    }
-   ]
-  },
-  {
-   "name": "소유진",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'백종원♥' 소유진, 치마가 어디까지 찢어진 거야..이러다 엉덩이 보이겠네 [순간포착]",
-     "u": "https://v.daum.net/v/qdrWo5J6vh",
+     "t": "'박정훈 허위영장' 군검사들에 2심서 징역형 구형…내달 11일 선고",
+     "u": "https://v.daum.net/v/F57me1iPGE?f=p",
      "press": "Daum"
     },
     {
-     "t": "'백종원♥' 소유진, 이다해 감탄하게 만든 미모···오버립까지 소화 - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/G5RDMM3BMFQTEYTCGQ3WCODBMM/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "\"백종원 눈 감아\"…소유진, 애 셋맘의 파격 의상 [스타이슈]",
-     "u": "https://news.nate.com/view/20260828n04559?mid=n1101",
-     "press": "네이트"
+     "t": "이명현 특검, 박정훈 허위영장 군검사들에 2심서 징역형 구형",
+     "u": "https://www.ajunews.com/view/20260828160848228",
+     "press": "아주경제"
     }
    ]
   },
   {
-   "name": "삼성바이오로직스",
+   "name": "달러",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "[속보]삼성바이오, 3조 유상증자 단행…폴리펩타이드 인수·공장 증설 ‘속도’",
-     "u": "https://www.khan.co.kr/article/202608280909001",
-     "press": "경향신문"
+     "t": "연준의장 매파 발언에 비트코인, 다시 8만달러 아래로",
+     "u": "https://v.daum.net/v/20260829101500209",
+     "press": "Daum"
     },
     {
-     "t": "[특징주] '3조원 유상증자' 삼바, 장 초반 6% 급락",
-     "u": "https://www.yna.co.kr/view/AKR20260828045500008",
-     "press": "연합뉴스"
+     "t": "‘매파적’ 워시에 랠리 제동…강세론은 여전",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01748246645552240",
+     "press": "마켓인"
     },
     {
-     "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432388",
+     "t": "비트코인 8만달러대 안착…국채 바이백·규제 완화에 알트코인 순환매",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432480",
      "press": "연합인포맥스"
     }
    ]
   },
   {
-   "name": "비밀이야",
+   "name": "경상북도",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "경북도경제진흥원 \"채용의 답, 현장에서 찾다\"",
+     "u": "http://www.ifocus.kr/news/articleView.html?idxno=255547",
+     "press": "포커스데일리"
+    },
+    {
+     "t": "경주 고용시장 완연한 회복세 보여",
+     "u": "https://www.gjnews.com/news/view.php?idx=85653",
+     "press": "경주신문"
+    },
+    {
+     "t": "경주시시설관리공단, 취업지원센터와 맞손...지역 일자리 연계 강화",
+     "u": "https://www.hidomin.com/news/articleView.html?idxno=718717",
+     "press": "경북도민일보"
+    }
+   ]
+  },
+  {
+   "name": "ssg",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[Photo] Error throw by Park Jeong-hyeon heads toward dugout - CHOSUNBIZ",
+     "u": "https://biz.chosun.com/en/en-photo-spo/2026/08/28/5GA6SNHCCJCFNMC5H6Y2MHNHWQ/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "[Photo] Hanwha Eagles slump to fourth straight loss - CHOSUNBIZ",
+     "u": "https://biz.chosun.com/en/en-photo-spo/2026/08/27/JEWPBFEPCNEO5EQBXEGJWEQPHI/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "[Photo] Han Ji-yoon and ##Moon Hyun-bin## collide in thrilling crash - CHOSUNBIZ",
+     "u": "https://biz.chosun.com/en/en-photo-spo/2026/08/28/VGCJUAJ3VFDDNLM375JU2QKSDE/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "인천광역시경제자유구역청",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "(단독)영종 국제학교 '백지화' 수순?… 인천경제청, '송도 개발이익' 1500억 용도 재검토",
+     "u": "https://www.newstomato.com/readnews.aspx?no=1311773",
+     "press": "뉴스토마토"
+    },
+    {
+     "t": "[이슈NOW④]인천시, “법적 상황 변했다”면서… 송도 글로벌타운 사업 정상화 언제 움직이나",
+     "u": "https://v.daum.net/v/0J9ftnXSHc",
+     "press": "Daum"
+    },
+    {
+     "t": "[단독] \"인천시 고위층 이름까지 나왔다\"···호반건설, 송도 시공사 선정 과정 '정치권 개입' 의혹",
+     "u": "https://news.nate.com/view/20260827n28037",
+     "press": "네이트"
+    }
+   ]
+  },
+  {
+   "name": "돌싱글즈",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "母도 암 투병 중인데..'돌싱글즈4' 지미, 응급실行 \"너까지 왜?\"",
+     "u": "https://v.daum.net/v/BEEeMYx2St?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "16기 옥순, 파경 알린 후 심규덕♥이아영 결혼식 참석..\"진심으로 축하\"",
+     "u": "https://v.daum.net/v/VoZlDKwavs?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "'재혼 비용 1억' 심규덕, ♥이아영 앞 직접 축가 \"아버님의 귀한 딸, 평생 지켜줄 것\"",
+     "u": "https://news.nate.com/view/20260827n06979",
+     "press": "네이트"
+    }
+   ]
+  },
+  {
+   "name": "기뢰",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "강레오 저격?…\"셰프 맞는지도 모르겠다\" 유명 미식 유튜버 발언 논란",
-     "u": "https://news.nate.com/view/20260828n06473",
-     "press": "네이트"
+     "t": "\"제재로 이란 굴복 어려워…선거 앞둔 트럼프, 일종의 가짜전쟁\"",
+     "u": "https://www.yna.co.kr/view/AKR20260828181800071",
+     "press": "연합뉴스"
     },
     {
-     "t": "비밀이야, 강레오 겨냥했나… 미쉐린 발언에 갑론을박",
-     "u": "https://v.daum.net/v/20260828105440812",
-     "press": "Daum"
+     "t": "이란전쟁 6개월…이란 못 꺾고 호르무즈에 발목 잡힌 美",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02010646645552240",
+     "press": "마켓인"
     },
     {
-     "t": "62만 맛집 유튜버, 강레오 저격했나…\"식당도 없는데 셰프 맞나\" [엑's 이슈]",
-     "u": "https://www.xportsnews.com/article/2189105",
-     "press": "엑스포츠뉴스"
+     "t": "미군 \"호르무즈 해협 기뢰, 성공적으로 제거\"",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432392",
+     "press": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "name": "장수영",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "이영표 \"해설 맡은 아시안게임마다 축구 금메달…이번에도 자신\"",
+     "u": "https://www.yna.co.kr/view/AKR20260828144400005",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "기보배 '10점 만점' 하트 포즈 [포토]",
+     "u": "https://news.tf.co.kr/read/photomovie/2359236.htm",
+     "press": "더팩트"
     }
    ]
   }
