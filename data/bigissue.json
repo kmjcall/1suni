@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260829",
- "updated": "2026-08-29T12:01:34+09:00",
+ "targetDate": "20260830",
+ "updated": "2026-08-30T08:00:45+09:00",
  "list": [
   {
-   "name": "공장",
+   "name": "날씨",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "韓총리, 천안시 공장 화재에 \"진압 활동·인명 검색 최선\" 지시",
-     "u": "https://v.daum.net/v/WCjle1iPXu",
+     "t": "날씨｜경기남부 100㎜ 비…북부는 낮부터 소강",
+     "u": "http://www.theonetv.kr/news/articleView.html?idxno=252891",
+     "press": "OBC 뉴스"
+    },
+    {
+     "t": "일요일 인천, 낮 최고 28도…10~60㎜ 비 예보",
+     "u": "https://www.newsis.com/view/NISX20260829_0003767999",
+     "press": "뉴시스"
+    },
+    {
+     "t": "토요일 경기북부, '최대 40㎜' 비 온다…\"체감 33도\" 폭염",
+     "u": "https://news.nate.com/view/20260829n01513",
+     "press": "네이트"
+    }
+   ]
+  },
+  {
+   "name": "배당",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+     "u": "https://v.daum.net/v/20260829174501091",
      "press": "Daum"
     },
     {
-     "t": "'5명 사상' 천안 타이어 원료 공장 화재…경찰·소방, 화재 원인 조사",
-     "u": "https://www.news1.kr/local/daejeon-chungnam/6273353",
-     "press": "뉴스1"
+     "t": "[경제 포커스] 두 달 만에 12% 내린 환율...이젠 삼전닉스 원화 매출 타격 우려 - 조선비즈",
+     "u": "https://biz.chosun.com/policy/policy_sub/2026/08/29/7X5MLZ2JMJCCLM4FCQA55NPKTQ/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "불기둥 치솟고 폭발‥인근 건물까지 날아간 파편",
-     "u": "https://imnews.imbc.com/replay/2026/nw2500/article/6848169_36989.html",
+     "t": "삼전닉스發 주주환원…축배의 시간?",
+     "u": "https://www.mk.co.kr/news/economy/12138748",
+     "press": "매일경제"
+    }
+   ]
+  },
+  {
+   "name": "thời tiết",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Hà Nội và loạt tỉnh thành miền Bắc mưa lớn, Biển Đông có thể xuất hiện bão",
+     "u": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "Dự báo khu vực sắp có mưa lớn, 12 tỉnh thành chủ động ứng phó",
+     "u": "https://laodong.vn/moi-truong/du-bao-khu-vuc-sap-co-mua-lon-12-tinh-thanh-chu-dong-ung-pho-1758742.ldo",
+     "press": "Laodong.vn"
+    },
+    {
+     "t": "Chủ động ứng phó mưa lớn, lũ, sạt lở đất dịp nghỉ lễ Quốc khánh",
+     "u": "https://nhandan.vn/chu-dong-ung-pho-mua-lon-lu-sat-lo-dat-dip-nghi-le-quoc-khanh-post985372.html",
+     "press": "Báo Nhân Dân điện tử"
+    }
+   ]
+  },
+  {
+   "name": "왕즈이",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"'안세영 별거 아냐! 공격이 안 돼' 대체 누가 그랬어?\"…中, 이제 전문가 평가 안 믿는다→\"블랙홀 같아, 부상 아니면 못 이겨\" 손바닥 뒤",
+     "u": "https://v.daum.net/v/20260830043152983",
+     "press": "Daum"
+    },
+    {
+     "t": "\"안세영이 온다\" 벌벌 떠는 중국 배드민턴...한첸시-한웨-왕즈이·천위페이까지 연쇄 격돌→깡그리 탈락 가능 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'세계 2위 야마구치와 비교도 안 되는 수준' 안세영, 배드민턴 GOAT 논쟁에 쐐기…ELO 최초 2900점 돌파",
+     "u": "https://www.chosun.com/sports/sports_general/2026/08/29/GUYDCZJUMFRTGNZYMEZDKM3FMI/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "สภาพอากาศ",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+     "u": "https://www.thansettakij.com/general-news/667729",
+     "press": "Thansettakij"
+    },
+    {
+     "t": "กรมอุตุนิยมวิทยา. . พยากรณ์อากาศประจำวันที่ 29 สิงหาคม 2569 ตั้งแต่เวลา 12.00 น.",
+     "u": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-29-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-/2943604582671280/",
+     "press": "Facebook"
+    },
+    {
+     "t": "เหนือ อีสาน และตะวันออก เจอฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่",
+     "u": "https://news.ch7.com/detail/894096",
+     "press": "Ch7.com"
+    }
+   ]
+  },
+  {
+   "name": "天气",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Weather tracker: More extreme rain in Japan and a tornado in France",
+     "u": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+     "press": "The Guardian"
+    },
+    {
+     "t": "Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded",
+     "u": "https://www.japantimes.co.jp/news/2026/08/27/japan/ishikawa-toyama-rains-flooding/",
+     "press": "The Japan Times"
+    },
+    {
+     "t": "Heavy rain and flooding in north-central Japan strands people and vehicles",
+     "u": "https://abcnews.com/International/wireStory/heavy-rain-flooding-north-central-japan-strands-people-135997582",
+     "press": "ABC News - Breaking News, Latest News and Videos"
+    }
+   ]
+  },
+  {
+   "name": "우크라이나",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "러, 키이우 일대 사흘째 드론 공격…최소 37명 사망",
+     "u": "https://v.daum.net/v/20260830071214439",
+     "press": "Daum"
+    },
+    {
+     "t": "마을 옆 탄약창고? 러, 키이우 인근 공격…최소 27명 사망",
+     "u": "https://www.yna.co.kr/view/AKR20260829044400079",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "\"러, 우크라 유명 보드카 공장 공습‥최대 400만병 증발\"",
+     "u": "https://imnews.imbc.com/news/2026/world/article/6848175_36925.html",
      "press": "MBC 뉴스"
     }
    ]
   },
   {
-   "name": "고우석",
-   "idx": 25,
+   "name": "sevilla vs atlético madrid",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "고우석, 미네소타에서도 '방출 대기' 통보…미국 도전 '최대 위기'",
-     "u": "https://v.daum.net/v/20260829084129943",
-     "press": "Daum"
+     "t": "Lee Kang-in delivers assist and 94% passing as Atlético beat Sevilla - CHOSUNBIZ",
+     "u": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "[오피셜] '충격' 고우석 결국 또 퇴출 날벼락 '양도 지명(DFA)' 처리, LG 복귀도 거절했는데 어떻게 되나",
-     "u": "https://sports.news.nate.com/view/20260829n02744",
-     "press": "네이트"
+     "t": "Lee Kang-in sets up Baena as Atlético takes early lead at Sevilla - CHOSUNBIZ",
+     "u": "https://biz.chosun.com/en/en-sports/2026/08/30/THZ5JMYGHJCJBJAAB6ZXKF2SPM/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "빅리그 재진입 노리던 고우석, 트리플A 강등 39일 만에 방출 위기",
-     "u": "https://www.newsis.com/view/NISX20260829_0003767752",
+     "t": "Lee Kang-in Assist, Morata Brace Help Atlético Madrid Top League",
+     "u": "https://www.chosun.com/english/sports-en/2026/08/30/NKVD72634FFENEQY5LOSRQA2QM/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "자산",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "실업자 절반이 2030… \"자산 관리? 자산 자체가 없어\"",
+     "u": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/",
+     "press": "조선일보"
+    },
+    {
+     "t": "2030, 민주당 떠나는 이유 [청년 표심의 경고]",
+     "u": "https://www.sisaon.co.kr/news/articleView.html?idxno=203784",
+     "press": "시사오늘"
+    },
+    {
+     "t": "[홍기빈의 두 번째 의견]‘청년 담론’의 청년은 누구인가",
+     "u": "https://www.khan.co.kr/article/202608242000005",
+     "press": "경향신문"
+    }
+   ]
+  },
+  {
+   "name": "재산세",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[마이더스] 2026년 세제개편안…종부세·양도세",
+     "u": "https://www.yna.co.kr/view/AKR20260827078400980",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "세제개편안 국회 제출 임박…비거주 세부담 완화 수준 고심",
+     "u": "https://www.newsis.com/view/NISX20260829_0003767996",
      "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "박정훈",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "특검, ‘박정훈 허위 구속영장’ 군검사들 항소심서도 실형 구형",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8648977",
-     "press": "KBS 뉴스"
     },
     {
-     "t": "'박정훈 허위영장' 군검사들에 2심서 징역형 구형…내달 11일 선고",
-     "u": "https://v.daum.net/v/F57me1iPGE?f=p",
+     "t": "보유만 해도 최대 70% 깎아준다?…강남 들썩이게 한 파격혜택 [안장원의 부동산 노트]",
+     "u": "https://v.daum.net/v/20260829060232572",
      "press": "Daum"
-    },
-    {
-     "t": "이명현 특검, 박정훈 허위영장 군검사들에 2심서 징역형 구형",
-     "u": "https://www.ajunews.com/view/20260828160848228",
-     "press": "아주경제"
-    }
-   ]
-  },
-  {
-   "name": "달러",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "연준의장 매파 발언에 비트코인, 다시 8만달러 아래로",
-     "u": "https://v.daum.net/v/20260829101500209",
-     "press": "Daum"
-    },
-    {
-     "t": "‘매파적’ 워시에 랠리 제동…강세론은 여전",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01748246645552240",
-     "press": "마켓인"
-    },
-    {
-     "t": "비트코인 8만달러대 안착…국채 바이백·규제 완화에 알트코인 순환매",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432480",
-     "press": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "name": "경상북도",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "경북도경제진흥원 \"채용의 답, 현장에서 찾다\"",
-     "u": "http://www.ifocus.kr/news/articleView.html?idxno=255547",
-     "press": "포커스데일리"
-    },
-    {
-     "t": "경주 고용시장 완연한 회복세 보여",
-     "u": "https://www.gjnews.com/news/view.php?idx=85653",
-     "press": "경주신문"
-    },
-    {
-     "t": "경주시시설관리공단, 취업지원센터와 맞손...지역 일자리 연계 강화",
-     "u": "https://www.hidomin.com/news/articleView.html?idxno=718717",
-     "press": "경북도민일보"
-    }
-   ]
-  },
-  {
-   "name": "ssg",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[Photo] Error throw by Park Jeong-hyeon heads toward dugout - CHOSUNBIZ",
-     "u": "https://biz.chosun.com/en/en-photo-spo/2026/08/28/5GA6SNHCCJCFNMC5H6Y2MHNHWQ/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "[Photo] Hanwha Eagles slump to fourth straight loss - CHOSUNBIZ",
-     "u": "https://biz.chosun.com/en/en-photo-spo/2026/08/27/JEWPBFEPCNEO5EQBXEGJWEQPHI/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "[Photo] Han Ji-yoon and ##Moon Hyun-bin## collide in thrilling crash - CHOSUNBIZ",
-     "u": "https://biz.chosun.com/en/en-photo-spo/2026/08/28/VGCJUAJ3VFDDNLM375JU2QKSDE/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "인천광역시경제자유구역청",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "(단독)영종 국제학교 '백지화' 수순?… 인천경제청, '송도 개발이익' 1500억 용도 재검토",
-     "u": "https://www.newstomato.com/readnews.aspx?no=1311773",
-     "press": "뉴스토마토"
-    },
-    {
-     "t": "[이슈NOW④]인천시, “법적 상황 변했다”면서… 송도 글로벌타운 사업 정상화 언제 움직이나",
-     "u": "https://v.daum.net/v/0J9ftnXSHc",
-     "press": "Daum"
-    },
-    {
-     "t": "[단독] \"인천시 고위층 이름까지 나왔다\"···호반건설, 송도 시공사 선정 과정 '정치권 개입' 의혹",
-     "u": "https://news.nate.com/view/20260827n28037",
-     "press": "네이트"
-    }
-   ]
-  },
-  {
-   "name": "돌싱글즈",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "母도 암 투병 중인데..'돌싱글즈4' 지미, 응급실行 \"너까지 왜?\"",
-     "u": "https://v.daum.net/v/BEEeMYx2St?f=p",
-     "press": "Daum"
-    },
-    {
-     "t": "16기 옥순, 파경 알린 후 심규덕♥이아영 결혼식 참석..\"진심으로 축하\"",
-     "u": "https://v.daum.net/v/VoZlDKwavs?f=p",
-     "press": "Daum"
-    },
-    {
-     "t": "'재혼 비용 1억' 심규덕, ♥이아영 앞 직접 축가 \"아버님의 귀한 딸, 평생 지켜줄 것\"",
-     "u": "https://news.nate.com/view/20260827n06979",
-     "press": "네이트"
-    }
-   ]
-  },
-  {
-   "name": "기뢰",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"제재로 이란 굴복 어려워…선거 앞둔 트럼프, 일종의 가짜전쟁\"",
-     "u": "https://www.yna.co.kr/view/AKR20260828181800071",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "이란전쟁 6개월…이란 못 꺾고 호르무즈에 발목 잡힌 美",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02010646645552240",
-     "press": "마켓인"
-    },
-    {
-     "t": "미군 \"호르무즈 해협 기뢰, 성공적으로 제거\"",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432392",
-     "press": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "name": "장수영",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "이영표 \"해설 맡은 아시안게임마다 축구 금메달…이번에도 자신\"",
-     "u": "https://www.yna.co.kr/view/AKR20260828144400005",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "기보배 '10점 만점' 하트 포즈 [포토]",
-     "u": "https://news.tf.co.kr/read/photomovie/2359236.htm",
-     "press": "더팩트"
     }
    ]
   }
