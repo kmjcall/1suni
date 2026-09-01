@@ -1,194 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260831",
- "updated": "2026-08-31T08:04:46+09:00",
+ "targetDate": "20260901",
+ "updated": "2026-09-01T09:19:53+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "김병지",
    "idx": 100,
-   "mv": 0,
+   "mv": "NEW",
    "news": [
     {
-     "t": "전국 곳곳에 강하고 많은 비…돌풍·천둥·번개 주의",
-     "u": "https://www.yna.co.kr/view/AKR20260831004100034",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "[출근길 날씨] 중부·호남 강한 비…충청에 200mm 이상",
-     "u": "https://v.daum.net/v/20260831071351979",
+     "t": "\"따님은 어쩌다 캐나다 유학을?\" 김병지 사생활 저격→박문성 답했다...\"제 아이 생활이 무슨 관계인가\" 논점 흐리기 지적",
+     "u": "https://v.daum.net/v/20260901045010903",
      "press": "Daum"
     },
     {
-     "t": "목요일까지 전국 곳곳 비…낮 최고 32도 늦더위[이주의 날씨]",
-     "u": "https://www.newsis.com/view/NISX20260830_0003768284",
-     "press": "뉴시스"
+     "t": "박문성 \"김병지, 제기된 의혹 소명 대신 논점 흐리고 있어\"",
+     "u": "https://www.yna.co.kr/view/AKR20260831147600007",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "박문성, 김병지에 \"물타기·골대 옮기기, 본질 흐리지 말라…보는 눈 많다\"",
+     "u": "https://www.news1.kr/society/general-society/6274524",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "한웨",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"예상 깨고 과감히 참가\" 안세영 깜짝 출전! 중국 또 우승 뺏길 위기...\"휴식 대신 실전 택했다\" 中 마스터스 판도 바뀌었다",
+     "u": "https://v.daum.net/v/20260901010508174",
+     "press": "Daum"
+    },
+    {
+     "t": "[AG 이 종목] ⑧ '안세영 보유국' 한국, 안세영만 있는 것도 아니다",
+     "u": "https://www.news1.kr/sports/general-sport/6273978",
+     "press": "뉴스1"
+    },
+    {
+     "t": "[공식발표] 안세영 中 안방에서 우승, 대체 누가 막나...천위페이·한웨, 중국 마스터스 기권 확정 \"한순간에 핵심 두 명 잃었다\" - 머니투데",
+     "u": "https://www.mt.co.kr/sports/2026/09/01/202608312342774098O",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "볼보 es90",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "7천만원대 세단부터 3억짜리 SUV까지…대형 전기차 하반기 격돌",
+     "u": "https://zdnet.co.kr/view/?no=20260831144758",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "시속 120㎞ 가까이 가속해도 울컥거림 거의 없어",
+     "u": "https://www.chosun.com/economy/auto/2026/09/01/OH5RV36FKFFVBGUUVMRLWQKCJA/",
+     "press": "조선일보"
+    },
+    {
+     "t": "볼보차, ES90 주행거리 520km 인증…파격적인 가격에 사전계약 3000 돌파",
+     "u": "https://www.electimes.com/news/articleView.html?idxno=371912",
+     "press": "전기신문"
     }
    ]
   },
   {
    "name": "토트넘 홋스퍼 fc",
    "idx": 5,
-   "mv": "NEW",
+   "mv": -2,
    "news": [
     {
-     "t": "'6950억 투자' 토트넘, 진짜 미쳤다! '마지막 퍼즐' 은디아예 영입 합의...\"히샬리송은 에버튼 복귀, 유니폼 바꿔입는다\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/08/31/202608302224772249O",
-     "press": "머니투데이"
+     "t": "손흥민 떠난 지 1년 만에...'리틀 쏘니' 사르, 토트넘과 작별 HERE WE GO! \"선임대 형태로 유벤투스행, 총 이적료 477억\" - 조",
+     "u": "https://biz.chosun.com/sports/football/2026/09/01/GBTDENZQG5SDMY3GGA3DSYZRHA/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "'SON 나도 토트넘 떠날 거야'…'Here we go' 떴다! 계륵 MF, 유벤투스 임대 이적 임박",
+     "u": "https://sports.news.nate.com/view/20260831n30510",
+     "press": "네이트"
     },
     {
      "t": "\"나가고 싶어? 경제적 해결책 제시하든지!\" 로베르토 데 제르비 분노 폭발…히샬리송→케빈 단소→파페 사르 '연달아' 이적 요청",
-     "u": "https://www.chosun.com/sports/world-football/2026/08/31/GM3DCMLGGYZDSZLEMJTGINRVME/",
-     "press": "조선일보"
-    },
-    {
-     "t": "'흥민이 형 나도 떠나려고' SON 애착인형, 5년 만에 토트넘 떠난다...\"유벤투스와 개인 조건 합의\"",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004695",
-     "press": "SPOTV NEWS"
+     "u": "https://www.sportschosun.com/football/2026-08-30/202608300100181340011773",
+     "press": "스포츠조선"
     }
    ]
   },
   {
-   "name": "weather",
+   "name": "모두의 카드",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Mugginess and storm chances return this week",
-     "u": "https://www.wfsb.com/video/2026/08/30/mugginess-storm-chances-return-this-week/",
-     "press": "WFSB"
-    },
-    {
-     "t": "Cloudy and muggy overnight, with an unsettled week ahead",
-     "u": "https://www.wtnh.com/weather/sun-to-some-clouds-and-a-passing-pm-shower/",
-     "press": "WTNH.com"
-    },
-    {
-     "t": "Sunny and warm weather for Connecticut's final Sunday of August. Here's when rai",
-     "u": "https://www.ctinsider.com/weather/article/ct-weather-sunny-warm-sunday-08-30-26-22407615.php",
-     "press": "CT Insider"
-    }
-   ]
-  },
-  {
-   "name": "태국",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "태국, 중국 꺾고 아시아여자배구선수권 2연패…LA 올림픽 직행",
-     "u": "https://v.daum.net/v/20260830222638494",
-     "press": "Daum"
-    },
-    {
-     "t": "\"정말 미인, 여배우 같은 외모\" 日 극찬한 이다현, 일본으로 '배구 유학길'",
-     "u": "https://www.fnnews.com/news/202608270628044230",
-     "press": "파이낸셜뉴스"
-    },
-    {
-     "t": "'올림픽 본선 꿈 이뤘다' 사시파프론·탓다오 46점 합작, 태국女배구 감격시대…중국 꺾고 亞선수권 2연속 우승",
-     "u": "https://sports.news.nate.com/view/20260830n16638",
-     "press": "네이트"
-    }
-   ]
-  },
-  {
-   "name": "สภาพอากาศ",
-   "idx": 5,
-   "mv": 0,
-   "news": []
-  },
-  {
-   "name": "기상청",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[인사] 산림청",
-     "u": "https://view.asiae.co.kr/article/2026083020220702860",
+     "t": "서울시 '기후동행패스' 출시… '39세' 청년할인 누리세요",
+     "u": "https://www.asiae.co.kr/article/2026090108464806401",
      "press": "아시아경제"
     },
     {
-     "t": "〔인사〕산림청(8월 31일자 과장급 3명)",
-     "u": "http://www.metrosejong.com/news/articleView.html?idxno=8015",
-     "press": "메트로세종"
-    },
-    {
-     "t": "[인사] 산림청",
-     "u": "https://www.etoday.co.kr/news/view/2619740",
-     "press": "이투데이"
-    }
-   ]
-  },
-  {
-   "name": "네이마르",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Neymar gifts young Corinthians fan his shirt and hails Fiel after derby",
-     "u": "https://onefootball.com/en/news/neymar-gifts-young-corinthians-fan-his-shirt-and-hails-fiel-after-derby-43371790",
-     "press": "OneFootball"
-    },
-    {
-     "t": "Neymar sports headband in Corinthians v Santos derby, echoing Memphis Depay",
-     "u": "https://onefootball.com/en/news/neymar-sports-headband-in-corinthians-v-santos-derby-echoing-memphis-depay-43370878",
-     "press": "OneFootball"
-    },
-    {
-     "t": "Santos Lineup vs. Corinthians: Is Neymar Playing Today?",
-     "u": "https://sports.yahoo.com/articles/santos-lineup-vs-corinthians-neymar-164852462.html",
-     "press": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "name": "유학",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'미국서 인턴까지 하려다…' 날벼락 맞은 유학생들 '비명'",
-     "u": "https://www.hankyung.com/article/2026083021197",
-     "press": "한국경제"
-    },
-    {
-     "t": "“엄마, 나 미국 괜히 왔나봐”…비자 이어 ‘인턴십’ 빗장 걸은 美",
-     "u": "https://www.sedaily.com/article/20084789",
-     "press": "서울경제"
-    },
-    {
-     "t": "\"미국 유학 괜히 왔나?\"…유학생들 긴장시킨 美 인턴십 새 규정",
-     "u": "https://www.newsis.com/view/NISX20260830_0003768447",
+     "t": "기후동행패스 9월 출시",
+     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260830_0021416314&pID=1&cID=&sID=1&type=Main&idx=7",
      "press": "뉴시스"
+    },
+    {
+     "t": "김미주 서울시의원 “서울시 재정보다 브랜드가 먼저인가… 1068억원 기후동행카드 페이백 질타”",
+     "u": "https://go.seoul.co.kr/news/newsView.php?id=20260831500036",
+     "press": "서울Pn"
     }
    ]
   },
   {
-   "name": "klasemen manchester united f.c. vs ipswich",
-   "idx": 5,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "이자율",
+   "name": "댐",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'美 국채니까 사던' 시대 끝났다… 신뢰 하락이 부른 고금리[글로벌 리포트]",
-     "u": "https://v.daum.net/v/20260830182530154",
+     "t": "2029년까지 경주 대종천에 지하수저류댐 건립",
+     "u": "https://v.daum.net/v/20260831165351656",
      "press": "Daum"
     },
     {
-     "t": "트럼프가 꽂힌 코인...'달러 부활' 베선트의 위험한 도박",
-     "u": "https://m.ytn.co.kr/news_view.php?key=202608300125121098&s_mcd=0104",
-     "press": "YTN"
+     "t": "[패트롤]경주시-영천시-경산시-청도군-영남대-수성구",
+     "u": "https://m.ekn.kr/view.php?key=20260831023528427",
+     "press": "에너지경제신문"
     },
     {
-     "t": "시장은 정부를 이긴다… 미국 재무부의 착각",
-     "u": "https://www.chosun.com/economy/money/2026/08/31/2TQXM2YWLFG7FA5SW3XBHXSJW4/",
-     "press": "조선일보"
+     "t": "경주 대종천에 218억 지하수저류댐…가뭄·산업용수 확보 나선다",
+     "u": "https://www.newstown.co.kr/news/articleView.html?idxno=714206",
+     "press": "뉴스타운"
+    }
+   ]
+  },
+  {
+   "name": "9월",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "9천피 다시 볼 수 있을까…10개 증권사 9월 투자 전략 뜯어보니",
+     "u": "https://www.hankyung.com/article/202608314416i",
+     "press": "한국경제"
+    },
+    {
+     "t": "[기획] 맥빠진 삼전닉스… 韓증시만 말라간다",
+     "u": "https://v.daum.net/v/20260831171442519",
+     "press": "Daum"
+    },
+    {
+     "t": "\"9월 코스피 6,600~8,000 전망…반도체 자사주 매입이 하단 지지\"",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432568",
+     "press": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "name": "성별임금격차",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "월급 500의 꿈, 여성에겐 더 멀었다···10명 중 7명은 200만원",
+     "u": "https://www.khan.co.kr/article/202608311400001",
+     "press": "경향신문"
+    },
+    {
+     "t": "여성 월평균 임금 남성의 64.8%…절반 이상 월 300만원 미만",
+     "u": "https://v.daum.net/v/UhYjlj3GrY",
+     "press": "Daum"
+    },
+    {
+     "t": "“맞벌이인데 집안일은 2배”…여성 하루 2시간27분, 남성 1시간11분",
+     "u": "https://www.kyeonggi.com/article/20260831580572",
+     "press": "경기일보"
+    }
+   ]
+  },
+  {
+   "name": "대한민국 u-20 축구 국가대표팀",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "U-19 축구 대표팀, U-20 아시안컵 예선 1차전서 레바논 3-2 격파",
+     "u": "https://www.yna.co.kr/view/AKR20260831176700007",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "'김정수호' U19 축구, 레바논에 3-2 진땀승... U20 아시안컵 예선 첫 승 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/08/31/2026083119515566793",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'김정수호' U-19 축구 대표팀, 레바논에 3-2 역전승...U-20 아시안컵 예선 첫 승, 본선행 '청신호' - 조선비즈",
+     "u": "https://biz.chosun.com/sports/baseball/2026/08/31/GBSGKY3DMQYTKNZSHFQWMZRRMM/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "단체교섭",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "서울 시내버스 다시 파업하나…노조, 노동쟁의 조정신청",
+     "u": "https://v.daum.net/v/20260831171839734",
+     "press": "Daum"
+    },
+    {
+     "t": "유주동 서울시의원, 서울 시내버스 통상임금 판결에 선제적 재정 대응 촉구",
+     "u": "https://go.seoul.co.kr/news/newsView.php?id=20260831500044",
+     "press": "서울Pn"
+    },
+    {
+     "t": "또 파업하나…서울 시내버스 노조, 교섭 결렬 선언 후 조정신청 - 머니투데이",
+     "u": "https://www.mt.co.kr/policy/2026/08/31/2026083117023435589",
+     "press": "머니투데이"
     }
    ]
   }
