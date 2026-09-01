@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260901",
- "updated": "2026-09-01T09:19:53+09:00",
+ "targetDate": "20260902",
+ "updated": "2026-09-02T07:57:03+09:00",
  "list": [
   {
-   "name": "김병지",
+   "name": "투자",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"따님은 어쩌다 캐나다 유학을?\" 김병지 사생활 저격→박문성 답했다...\"제 아이 생활이 무슨 관계인가\" 논점 흐리기 지적",
-     "u": "https://v.daum.net/v/20260901045010903",
-     "press": "Daum"
-    },
-    {
-     "t": "박문성 \"김병지, 제기된 의혹 소명 대신 논점 흐리고 있어\"",
-     "u": "https://www.yna.co.kr/view/AKR20260831147600007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "박문성, 김병지에 \"물타기·골대 옮기기, 본질 흐리지 말라…보는 눈 많다\"",
-     "u": "https://www.news1.kr/society/general-society/6274524",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "한웨",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"예상 깨고 과감히 참가\" 안세영 깜짝 출전! 중국 또 우승 뺏길 위기...\"휴식 대신 실전 택했다\" 中 마스터스 판도 바뀌었다",
-     "u": "https://v.daum.net/v/20260901010508174",
-     "press": "Daum"
-    },
-    {
-     "t": "[AG 이 종목] ⑧ '안세영 보유국' 한국, 안세영만 있는 것도 아니다",
-     "u": "https://www.news1.kr/sports/general-sport/6273978",
-     "press": "뉴스1"
-    },
-    {
-     "t": "[공식발표] 안세영 中 안방에서 우승, 대체 누가 막나...천위페이·한웨, 중국 마스터스 기권 확정 \"한순간에 핵심 두 명 잃었다\" - 머니투데",
-     "u": "https://www.mt.co.kr/sports/2026/09/01/202608312342774098O",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "볼보 es90",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "7천만원대 세단부터 3억짜리 SUV까지…대형 전기차 하반기 격돌",
-     "u": "https://zdnet.co.kr/view/?no=20260831144758",
-     "press": "지디넷코리아"
-    },
-    {
-     "t": "시속 120㎞ 가까이 가속해도 울컥거림 거의 없어",
-     "u": "https://www.chosun.com/economy/auto/2026/09/01/OH5RV36FKFFVBGUUVMRLWQKCJA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "볼보차, ES90 주행거리 520km 인증…파격적인 가격에 사전계약 3000 돌파",
-     "u": "https://www.electimes.com/news/articleView.html?idxno=371912",
-     "press": "전기신문"
-    }
-   ]
-  },
-  {
-   "name": "토트넘 홋스퍼 fc",
-   "idx": 5,
-   "mv": -2,
-   "news": [
-    {
-     "t": "손흥민 떠난 지 1년 만에...'리틀 쏘니' 사르, 토트넘과 작별 HERE WE GO! \"선임대 형태로 유벤투스행, 총 이적료 477억\" - 조",
-     "u": "https://biz.chosun.com/sports/football/2026/09/01/GBTDENZQG5SDMY3GGA3DSYZRHA/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "'SON 나도 토트넘 떠날 거야'…'Here we go' 떴다! 계륵 MF, 유벤투스 임대 이적 임박",
-     "u": "https://sports.news.nate.com/view/20260831n30510",
+     "t": "월급 146만원 직장인, 6년만 22억 모았다…\"부동산+'이것' 투자\"",
+     "u": "https://news.nate.com/view/20260902n02446",
      "press": "네이트"
     },
     {
-     "t": "\"나가고 싶어? 경제적 해결책 제시하든지!\" 로베르토 데 제르비 분노 폭발…히샬리송→케빈 단소→파페 사르 '연달아' 이적 요청",
-     "u": "https://www.sportschosun.com/football/2026-08-30/202608300100181340011773",
-     "press": "스포츠조선"
+     "t": "월급 146만원 직장인, 6년 만에 자산 22억 만든 비법…\"통장부터 쪼개라\"",
+     "u": "https://news.nate.com/view/20260902n01094?mid=n0100",
+     "press": "네이트"
+    },
+    {
+     "t": "“주식 오픈API, 인터넷뱅킹 수준 보안 갖춰야” [투자테크 혁신 ④]",
+     "u": "https://it.chosun.com/news/articleView.html?idxno=2023092168985",
+     "press": "IT조선"
     }
    ]
   },
   {
-   "name": "모두의 카드",
-   "idx": 5,
+   "name": "이대형",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "서울시 '기후동행패스' 출시… '39세' 청년할인 누리세요",
-     "u": "https://www.asiae.co.kr/article/2026090108464806401",
-     "press": "아시아경제"
+     "t": "이대형, 추신수 대신 감독 대행…“실책 순간 바로 아웃” 살벌 (야구여왕2)",
+     "u": "https://sports.donga.com/ent/article/all/20260901/134582002/1",
+     "press": "스포츠동아"
     },
     {
-     "t": "기후동행패스 9월 출시",
-     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260830_0021416314&pID=1&cID=&sID=1&type=Main&idx=7",
+     "t": "[9회예고] “꼭 이기고 싶습니다” 아찔한 송아 부상에0 완벽하게 각성한 블랙퀸즈 에이스 박민서",
+     "u": "https://ichannela.com/program/clip/000000547922.do",
+     "press": "채널A"
+    },
+    {
+     "t": "‘야구여왕2’ 호랑이 이대형 대행님 선전포고 “닥공!”",
+     "u": "https://sports.khan.co.kr/article/202609011539003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "황희찬",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "황희찬, 이적시장 마감일에 울버햄프턴 ‘극적 탈출’ 급부상 “팰리스·리즈·헐 시티·번리와 접촉”",
+     "u": "https://v.daum.net/v/20260901184009802",
+     "press": "Daum"
+    },
+    {
+     "t": "[오피셜] ‘韓 축구 깜짝 발표!’ 황희찬, EPL 떠난다→독일 대표 구단 샬케04 임대 이적 “그의 합류를 진...",
+     "u": "https://sports.khan.co.kr/article/202609020457003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "황희찬, '빅리그 도전' 이어간다 … 극적으로 독일 '샬케' 임대 이적",
+     "u": "https://www.newdaily.co.kr/site/data/html/2026/09/02/2026090200012.html",
+     "press": "뉴데일리"
+    }
+   ]
+  },
+  {
+   "name": "젠슨 황",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "젠슨 황 \"AI가 美 제조업 되살린다…다음 산업혁명 이끌 기회\"",
+     "u": "https://v.daum.net/v/20260831122707948",
+     "press": "Daum"
+    },
+    {
+     "t": "美 해드리안, 80억 달러 가치 돌파… 피지컬 AI가 흔드는 제조 공급망",
+     "u": "https://www.g-enews.com/article/Global-Biz/2026/08/202608311745215976fbbec65dfb_1",
+     "press": "글로벌이코노믹"
+    },
+    {
+     "t": "AI 특수에 美 전력설비 업계 '일감 폭주'",
+     "u": "https://www.hankyung.com/article/2026083129181",
+     "press": "한국경제"
+    }
+   ]
+  },
+  {
+   "name": "공연",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[공연소식] '오페라의 유령' 40주년 스페셜 시즌 12월 개막",
+     "u": "https://v.daum.net/v/20260901104047937",
+     "press": "Daum"
+    },
+    {
+     "t": "40년간 1억6천만명 홀린 뮤지컬 '오페라의 유령'…12월 개막",
+     "u": "https://www.newsis.com/view/NISX20260901_0003771308",
      "press": "뉴시스"
     },
     {
-     "t": "김미주 서울시의원 “서울시 재정보다 브랜드가 먼저인가… 1068억원 기후동행카드 페이백 질타”",
-     "u": "https://go.seoul.co.kr/news/newsView.php?id=20260831500036",
-     "press": "서울Pn"
+     "t": "‘오페라의 유령’ 마흔 번째 생일은 서울에서",
+     "u": "https://sports.donga.com/life/article/all/20260901/134584384/1",
+     "press": "스포츠동아"
     }
    ]
   },
   {
-   "name": "댐",
-   "idx": 5,
+   "name": "vix",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "2029년까지 경주 대종천에 지하수저류댐 건립",
-     "u": "https://v.daum.net/v/20260831165351656",
+     "t": "Oil surge lifts South Korea refiners after US-Iran clashes - CHOSUNBIZ",
+     "u": "https://biz.chosun.com/en/en-finance/2026/09/01/ARYC737MSFHFVKAYUJMUB6DYLY/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "[New York Stock Exchange] Hormuz Tensions Flare Anew...Markets Decline Across th",
+     "u": "https://www.asiae.co.kr/en/article/2026083122573039553",
+     "press": "아시아경제"
+    },
+    {
+     "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran",
+     "u": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+     "press": "CNBC"
+    }
+   ]
+  },
+  {
+   "name": "바둑",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'219명 중 단 1명 본선행' 韓 바둑, 또 굴욕…신진서, 설욕?",
+     "u": "https://v.daum.net/v/20260831110605357?f=p",
      "press": "Daum"
     },
     {
-     "t": "[패트롤]경주시-영천시-경산시-청도군-영남대-수성구",
-     "u": "https://m.ekn.kr/view.php?key=20260831023528427",
-     "press": "에너지경제신문"
+     "t": "韓219명 통합예선 도전…목진석만 통과",
+     "u": "https://m.cyberoro.com/news/N_news_view.oro?num=532756",
+     "press": "사이버오로"
     },
     {
-     "t": "경주 대종천에 218억 지하수저류댐…가뭄·산업용수 확보 나선다",
-     "u": "https://www.newstown.co.kr/news/articleView.html?idxno=714206",
-     "press": "뉴스타운"
+     "t": "삼성화재배 월드조에서 불붙은 동남아와 유럽의 격돌[세계바둑산책⑬]",
+     "u": "https://www.fnnews.com/news/202608311948327757",
+     "press": "파이낸셜뉴스"
     }
    ]
   },
   {
-   "name": "9월",
-   "idx": 5,
+   "name": "챔피언십",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "9천피 다시 볼 수 있을까…10개 증권사 9월 투자 전략 뜯어보니",
-     "u": "https://www.hankyung.com/article/202608314416i",
-     "press": "한국경제"
-    },
-    {
-     "t": "[기획] 맥빠진 삼전닉스… 韓증시만 말라간다",
-     "u": "https://v.daum.net/v/20260831171442519",
-     "press": "Daum"
-    },
-    {
-     "t": "\"9월 코스피 6,600~8,000 전망…반도체 자사주 매입이 하단 지지\"",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4432568",
-     "press": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "name": "성별임금격차",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "월급 500의 꿈, 여성에겐 더 멀었다···10명 중 7명은 200만원",
-     "u": "https://www.khan.co.kr/article/202608311400001",
-     "press": "경향신문"
-    },
-    {
-     "t": "여성 월평균 임금 남성의 64.8%…절반 이상 월 300만원 미만",
-     "u": "https://v.daum.net/v/UhYjlj3GrY",
-     "press": "Daum"
-    },
-    {
-     "t": "“맞벌이인데 집안일은 2배”…여성 하루 2시간27분, 남성 1시간11분",
-     "u": "https://www.kyeonggi.com/article/20260831580572",
-     "press": "경기일보"
-    }
-   ]
-  },
-  {
-   "name": "대한민국 u-20 축구 국가대표팀",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "U-19 축구 대표팀, U-20 아시안컵 예선 1차전서 레바논 3-2 격파",
-     "u": "https://www.yna.co.kr/view/AKR20260831176700007",
+     "t": "임성재, 10월 제네시스 챔피언십 출전…반년 만에 고국 나들이",
+     "u": "https://www.yna.co.kr/view/AKR20260901099400007",
      "press": "연합뉴스"
     },
     {
-     "t": "'김정수호' U19 축구, 레바논에 3-2 진땀승... U20 아시안컵 예선 첫 승 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/08/31/2026083119515566793",
-     "press": "머니투데이"
+     "t": "임성재, 내달 제네시스 챔피언십 출전 확정…7년 만의 우승 도전",
+     "u": "https://www.newsis.com/view/NISX20260901_0003771246",
+     "press": "뉴시스"
     },
     {
-     "t": "'김정수호' U-19 축구 대표팀, 레바논에 3-2 역전승...U-20 아시안컵 예선 첫 승, 본선행 '청신호' - 조선비즈",
-     "u": "https://biz.chosun.com/sports/baseball/2026/08/31/GBSGKY3DMQYTKNZSHFQWMZRRMM/",
-     "press": "Chosunbiz"
+     "t": "‘투어 챔피언십 8회 연속 출전 좌절’ 임성재, 제네시스 챔피언십 사상 첫 ‘2승’으로 아쉬움 푼다",
+     "u": "https://www.kmib.co.kr/article/view.asp?arcid=9000007952&code=61161511",
+     "press": "국민일보"
     }
    ]
   },
   {
-   "name": "단체교섭",
+   "name": "포스코노동조합",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "서울 시내버스 다시 파업하나…노조, 노동쟁의 조정신청",
-     "u": "https://v.daum.net/v/20260831171839734",
+     "t": "포스코노조 \"재직자 33% 연장근로 한도 초과…특별근로감독 필요\"",
+     "u": "https://v.daum.net/v/G9wPcGMVGR",
      "press": "Daum"
     },
     {
-     "t": "유주동 서울시의원, 서울 시내버스 통상임금 판결에 선제적 재정 대응 촉구",
-     "u": "https://go.seoul.co.kr/news/newsView.php?id=20260831500044",
-     "press": "서울Pn"
+     "t": "포스코 노사, 3일 다시 마주 앉는다…‘9일 시한’ 앞두고 본교섭",
+     "u": "https://www.etoday.co.kr/news/view/2620726",
+     "press": "이투데이"
     },
     {
-     "t": "또 파업하나…서울 시내버스 노조, 교섭 결렬 선언 후 조정신청 - 머니투데이",
-     "u": "https://www.mt.co.kr/policy/2026/08/31/2026083117023435589",
-     "press": "머니투데이"
+     "t": "포스코 불법파견 직고용…법원 “정규직 아닌 ‘신설 특별직군’ 근로조건 적용”",
+     "u": "https://www.worklaw.co.kr/main2022/view/view.asp?in_cate=122&in_cate2=0&bi_pidx=39529",
+     "press": "월간노동법률"
+    }
+   ]
+  },
+  {
+   "name": "이민성",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "이민성호, AG 4연패 도전 시작!…“승률 42%? 그런 경험이 보약될 것”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8652269",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "'유럽파' 많은 아시안게임 이민성호, 완전체는 언제?",
+     "u": "https://www.news1.kr/sports/soccer/6276816",
+     "press": "뉴스1"
+    },
+    {
+     "t": "월드컵 '훈련 파트너'서 AG 주축으로…강상윤 \"부담보다 기대\"",
+     "u": "https://www.yna.co.kr/view/AKR20260901184400007",
+     "press": "연합뉴스"
     }
    ]
   }
