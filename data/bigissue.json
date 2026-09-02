@@ -1,226 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260902",
- "updated": "2026-09-02T07:57:03+09:00",
+ "targetDate": "20260903",
+ "updated": "2026-09-03T07:56:48+09:00",
  "list": [
   {
-   "name": "투자",
+   "name": "충남 함",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "월급 146만원 직장인, 6년만 22억 모았다…\"부동산+'이것' 투자\"",
-     "u": "https://news.nate.com/view/20260902n02446",
-     "press": "네이트"
-    },
-    {
-     "t": "월급 146만원 직장인, 6년 만에 자산 22억 만든 비법…\"통장부터 쪼개라\"",
-     "u": "https://news.nate.com/view/20260902n01094?mid=n0100",
-     "press": "네이트"
-    },
-    {
-     "t": "“주식 오픈API, 인터넷뱅킹 수준 보안 갖춰야” [투자테크 혁신 ④]",
-     "u": "https://it.chosun.com/news/articleView.html?idxno=2023092168985",
-     "press": "IT조선"
-    }
-   ]
-  },
-  {
-   "name": "이대형",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "이대형, 추신수 대신 감독 대행…“실책 순간 바로 아웃” 살벌 (야구여왕2)",
-     "u": "https://sports.donga.com/ent/article/all/20260901/134582002/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "[9회예고] “꼭 이기고 싶습니다” 아찔한 송아 부상에0 완벽하게 각성한 블랙퀸즈 에이스 박민서",
-     "u": "https://ichannela.com/program/clip/000000547922.do",
-     "press": "채널A"
-    },
-    {
-     "t": "‘야구여왕2’ 호랑이 이대형 대행님 선전포고 “닥공!”",
-     "u": "https://sports.khan.co.kr/article/202609011539003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "황희찬",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "황희찬, 이적시장 마감일에 울버햄프턴 ‘극적 탈출’ 급부상 “팰리스·리즈·헐 시티·번리와 접촉”",
-     "u": "https://v.daum.net/v/20260901184009802",
-     "press": "Daum"
-    },
-    {
-     "t": "[오피셜] ‘韓 축구 깜짝 발표!’ 황희찬, EPL 떠난다→독일 대표 구단 샬케04 임대 이적 “그의 합류를 진...",
-     "u": "https://sports.khan.co.kr/article/202609020457003",
-     "press": "스포츠경향"
-    },
-    {
-     "t": "황희찬, '빅리그 도전' 이어간다 … 극적으로 독일 '샬케' 임대 이적",
-     "u": "https://www.newdaily.co.kr/site/data/html/2026/09/02/2026090200012.html",
-     "press": "뉴데일리"
-    }
-   ]
-  },
-  {
-   "name": "젠슨 황",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "젠슨 황 \"AI가 美 제조업 되살린다…다음 산업혁명 이끌 기회\"",
-     "u": "https://v.daum.net/v/20260831122707948",
-     "press": "Daum"
-    },
-    {
-     "t": "美 해드리안, 80억 달러 가치 돌파… 피지컬 AI가 흔드는 제조 공급망",
-     "u": "https://www.g-enews.com/article/Global-Biz/2026/08/202608311745215976fbbec65dfb_1",
-     "press": "글로벌이코노믹"
-    },
-    {
-     "t": "AI 특수에 美 전력설비 업계 '일감 폭주'",
-     "u": "https://www.hankyung.com/article/2026083129181",
-     "press": "한국경제"
-    }
-   ]
-  },
-  {
-   "name": "공연",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[공연소식] '오페라의 유령' 40주년 스페셜 시즌 12월 개막",
-     "u": "https://v.daum.net/v/20260901104047937",
-     "press": "Daum"
-    },
-    {
-     "t": "40년간 1억6천만명 홀린 뮤지컬 '오페라의 유령'…12월 개막",
-     "u": "https://www.newsis.com/view/NISX20260901_0003771308",
-     "press": "뉴시스"
-    },
-    {
-     "t": "‘오페라의 유령’ 마흔 번째 생일은 서울에서",
-     "u": "https://sports.donga.com/life/article/all/20260901/134584384/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "vix",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Oil surge lifts South Korea refiners after US-Iran clashes - CHOSUNBIZ",
-     "u": "https://biz.chosun.com/en/en-finance/2026/09/01/ARYC737MSFHFVKAYUJMUB6DYLY/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "[New York Stock Exchange] Hormuz Tensions Flare Anew...Markets Decline Across th",
-     "u": "https://www.asiae.co.kr/en/article/2026083122573039553",
-     "press": "아시아경제"
-    },
-    {
-     "t": "U.S. crude oil hits $90 per barrel following latest U.S. attacks against Iran",
-     "u": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-     "press": "CNBC"
-    }
-   ]
-  },
-  {
-   "name": "바둑",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'219명 중 단 1명 본선행' 韓 바둑, 또 굴욕…신진서, 설욕?",
-     "u": "https://v.daum.net/v/20260831110605357?f=p",
-     "press": "Daum"
-    },
-    {
-     "t": "韓219명 통합예선 도전…목진석만 통과",
-     "u": "https://m.cyberoro.com/news/N_news_view.oro?num=532756",
-     "press": "사이버오로"
-    },
-    {
-     "t": "삼성화재배 월드조에서 불붙은 동남아와 유럽의 격돌[세계바둑산책⑬]",
-     "u": "https://www.fnnews.com/news/202608311948327757",
-     "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "챔피언십",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "임성재, 10월 제네시스 챔피언십 출전…반년 만에 고국 나들이",
-     "u": "https://www.yna.co.kr/view/AKR20260901099400007",
+     "t": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
+     "u": "https://www.yna.co.kr/view/AKR20260902179800071",
      "press": "연합뉴스"
     },
     {
-     "t": "임성재, 내달 제네시스 챔피언십 출전 확정…7년 만의 우승 도전",
-     "u": "https://www.newsis.com/view/NISX20260901_0003771246",
-     "press": "뉴시스"
+     "t": "\"美해군 함정 건조에 한·일·튀르키예 검토…충남급 호위함 포함\" - 머니투데이",
+     "u": "https://www.mt.co.kr/world/2026/09/03/2026090306553988593",
+     "press": "머니투데이"
     },
     {
-     "t": "‘투어 챔피언십 8회 연속 출전 좌절’ 임성재, 제네시스 챔피언십 사상 첫 ‘2승’으로 아쉬움 푼다",
-     "u": "https://www.kmib.co.kr/article/view.asp?arcid=9000007952&code=61161511",
-     "press": "국민일보"
+     "t": "미국 해외 건조 전투함 놓고 한국 일본 튀르키예 저울질, 한화오션 필리조선소로 유리한 고지",
+     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=446209",
+     "press": "비즈니스포스트"
     }
    ]
   },
   {
-   "name": "포스코노동조합",
-   "idx": 5,
+   "name": "연비",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "포스코노조 \"재직자 33% 연장근로 한도 초과…특별근로감독 필요\"",
-     "u": "https://v.daum.net/v/G9wPcGMVGR",
+     "t": "\"구형이라 무시했는데\"... 오너들은 대만족, 평점 9.1점 갓성비 패밀리카는?",
+     "u": "https://www.autotribune.co.kr/news/articleView.html?idxno=45010",
+     "press": "오토트리뷴"
+    },
+    {
+     "t": "아빠들 만족도 9.5점 SUV, 연비 15.7km에 혹했는데 가격표 보니",
+     "u": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
+     "press": "뉴스와"
+    },
+    {
+     "t": "\"이러니 아빠들이 이것만 찾지\"... 연비 16km/L에 평점 9.1점 맞은 ‘하이브리드 SUV’",
+     "u": "https://topictree.co.kr/automobiles/news/2026-kia-sportage-hybrid-owner-satisfaction/",
+     "press": "토픽트리"
+    }
+   ]
+  },
+  {
+   "name": "한일전",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
+     "u": "https://v.daum.net/v/20260901041350690",
      "press": "Daum"
     },
     {
-     "t": "포스코 노사, 3일 다시 마주 앉는다…‘9일 시한’ 앞두고 본교섭",
-     "u": "https://www.etoday.co.kr/news/view/2620726",
-     "press": "이투데이"
+     "t": "아시안게임 전 등장한 '음주운전 뺑소니' 이슈…이민성 감독 고개 숙였다 \"내 평생의 아킬레스건, 지금도 죄송하다\"",
+     "u": "https://v.daum.net/v/20260903030207310",
+     "press": "Daum"
     },
-    {
-     "t": "포스코 불법파견 직고용…법원 “정규직 아닌 ‘신설 특별직군’ 근로조건 적용”",
-     "u": "https://www.worklaw.co.kr/main2022/view/view.asp?in_cate=122&in_cate2=0&bi_pidx=39529",
-     "press": "월간노동법률"
-    }
-   ]
-  },
-  {
-   "name": "이민성",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
     {
      "t": "이민성호, AG 4연패 도전 시작!…“승률 42%? 그런 경험이 보약될 것”",
      "u": "https://news.kbs.co.kr/news/view.do?ncd=8652269",
      "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "디에고 시메오네",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "이강인 이렇게 쓰는 거였구나! 시메오네 드디어 '정답' 찾았나…전반 4분 만에 AS→西 매체 \"패스 한 방으로 수비 무너뜨려\"",
+     "u": "https://v.daum.net/v/20260902040107283",
+     "press": "Daum"
     },
     {
-     "t": "'유럽파' 많은 아시안게임 이민성호, 완전체는 언제?",
-     "u": "https://www.news1.kr/sports/soccer/6276816",
+     "t": "스페인어로 꿈꾼다는 “강인리”…줄무늬 유니폼 입고 역사 쓰나",
+     "u": "https://www.hani.co.kr/arti/sports/soccer/1275881.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "\"공격 만들려면 항상 경기장에 있어야\" ATM 전설도 이강인에 반했다...3경기 1골 1도움 '필수 선수' 등극 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/01/202609011003774634O",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "신정환",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+     "u": "https://m.news.nate.com/view/20260902n39162?sect=ent&list=rank&cate=interest",
+     "press": "네이트"
+    },
+    {
+     "t": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+     "u": "https://v.daum.net/v/20260902232037615?f=m",
+     "press": "Daum"
+    },
+    {
+     "t": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+     "u": "https://www.starnewskorea.com/star/2026/09/02/2026090223095640401",
+     "press": "스타뉴스"
+    }
+   ]
+  },
+  {
+   "name": "수의사",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"밤새 동물 살렸는데\"…거리로 나선 수의사들, 면허증 불태웠다",
+     "u": "https://www.news1.kr/industry/general-industry/6277987",
      "press": "뉴스1"
     },
     {
-     "t": "월드컵 '훈련 파트너'서 AG 주축으로…강상윤 \"부담보다 기대\"",
-     "u": "https://www.yna.co.kr/view/AKR20260901184400007",
+     "t": "“분쟁 해결 아닌 전쟁터 될 것” 여야 의원 지적에 수의사법 수정 의결",
+     "u": "https://www.dailyvet.co.kr/news/policy/295473",
+     "press": "데일리벳"
+    },
+    {
+     "t": "[반려동물] 정부 \"동물병원 진료비 공개\"…수의계 \"단순 비교 안돼\"",
+     "u": "https://www.yna.co.kr/view/AKR20260902034800030",
      "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "다우 존스 산업평균지수",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "뉴욕증시, 국채금리 숨고르기에 4일만에 반등…다우 0.6%↑(종합)",
+     "u": "https://v.daum.net/v/20260903062952573",
+     "press": "Daum"
+    },
+    {
+     "t": "코스피 4% 급락 뒤 엔비디아 3%↑…외국인 ‘현·선물 4조 매도’가 첫 시험대",
+     "u": "https://www.greened.kr/news/articleView.html?idxno=349119",
+     "press": "녹색경제신문"
+    },
+    {
+     "t": "[글로벌증시] 국채금리 숨고르기에 뉴욕증시 일제 상승",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH20260903064927ilQ",
+     "press": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "name": "mbk파트너스",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "MBK파트너스, 2년 만에 국내 바이아웃⋯뷰티ㆍ건기식 기업 인수",
+     "u": "https://www.etoday.co.kr/news/view/2621238",
+     "press": "이투데이"
+    },
+    {
+     "t": "MBK, 스킨이데아·라이프앤바이오 인수한다",
+     "u": "https://news.nate.com/view/20260902n33977",
+     "press": "네이트"
+    },
+    {
+     "t": "모건스탠리PE, '메디필' 스킨이데아 MBK에 매각",
+     "u": "https://www.investchosun.com/site/data/html_dir/2026/09/02/2026090280208.html",
+     "press": "인베스트조선"
+    }
+   ]
+  },
+  {
+   "name": "울산광역시",
+   "idx": 5,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "이찬원",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'톡파원 25시' 대구계 미국인 제이슨, 이찬원과 사투리 폭발!…'찐 대구 사람' 인증",
+     "u": "https://v.daum.net/v/20260902094916091",
+     "press": "Daum"
+    },
+    {
+     "t": "이찬원, 외국인에게 사투리로 기강 잡혔다 ‘폭소’ (톡파원)",
+     "u": "https://sports.donga.com/ent/article/all/20260902/134588502/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "“줘도 안 살아” 전현무 큰소리 쳤는데‥710억 최고가 집 “관리비 2700만원” (톡파원25시)[어제TV]",
+     "u": "https://www.newsen.com/news_view.php?uid=202609030450291710&code=100100",
+     "press": "뉴스엔"
     }
    ]
   }
