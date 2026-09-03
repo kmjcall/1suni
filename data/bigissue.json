@@ -1,210 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260903",
- "updated": "2026-09-03T07:56:48+09:00",
+ "targetDate": "20260904",
+ "updated": "2026-09-04T07:56:19+09:00",
  "list": [
   {
-   "name": "충남 함",
+   "name": "기아",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
-     "u": "https://www.yna.co.kr/view/AKR20260902179800071",
-     "press": "연합뉴스"
+     "t": "'머뭇거릴 필요 없다, 우리가 시장 쥔다' 기아 'PV7' 이 차가 온다[손재철의 이차]",
+     "u": "https://news.nate.com/view/20260902n29950",
+     "press": "네이트"
     },
     {
-     "t": "\"美해군 함정 건조에 한·일·튀르키예 검토…충남급 호위함 포함\" - 머니투데이",
-     "u": "https://www.mt.co.kr/world/2026/09/03/2026090306553988593",
-     "press": "머니투데이"
+     "t": "기아, 대형 전동화 PBV 'PV7' 티저 공개…\"9월 독일 IAA서 실물 최초 공개\"",
+     "u": "https://www.newsis.com/view/NISX20260831_0003768853",
+     "press": "뉴시스"
     },
     {
-     "t": "미국 해외 건조 전투함 놓고 한국 일본 튀르키예 저울질, 한화오션 필리조선소로 유리한 고지",
-     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=446209",
-     "press": "비즈니스포스트"
+     "t": "‘대형 PBV’ PV7 뜬다…기아 ‘연 23만대’ 승부수",
+     "u": "https://www.bloter.net/news/articleView.html?idxno=672198",
+     "press": "블로터"
     }
    ]
   },
   {
-   "name": "연비",
+   "name": "tving",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Yonhap News Summary",
+     "u": "https://en.yna.co.kr/view/AEN20260903009900320",
+     "press": "Yonhap News Agency"
+    },
+    {
+     "t": "TVING Issues Apology for Data Breach Affecting 39.54 Million Accounts, Unveils C",
+     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008736602",
+     "press": "SBS 뉴스"
+    },
+    {
+     "t": "Nearly 40 mil. CJ streaming users' personal info compromised",
+     "u": "https://www.koreatimes.co.kr/business/companies/20260903/nearly-40-mil-cj-streaming-users-personal-info-compromised",
+     "press": "The Korea Times"
+    }
+   ]
+  },
+  {
+   "name": "들쥐",
    "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"구형이라 무시했는데\"... 오너들은 대만족, 평점 9.1점 갓성비 패밀리카는?",
-     "u": "https://www.autotribune.co.kr/news/articleView.html?idxno=45010",
-     "press": "오토트리뷴"
-    },
-    {
-     "t": "아빠들 만족도 9.5점 SUV, 연비 15.7km에 혹했는데 가격표 보니",
-     "u": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
-     "press": "뉴스와"
-    },
-    {
-     "t": "\"이러니 아빠들이 이것만 찾지\"... 연비 16km/L에 평점 9.1점 맞은 ‘하이브리드 SUV’",
-     "u": "https://topictree.co.kr/automobiles/news/2026-kia-sportage-hybrid-owner-satisfaction/",
-     "press": "토픽트리"
-    }
-   ]
-  },
-  {
-   "name": "한일전",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
-     "u": "https://v.daum.net/v/20260901041350690",
+     "t": "나를 의심하고 나를 증명했다",
+     "u": "https://v.daum.net/v/20260904043741282",
      "press": "Daum"
     },
     {
-     "t": "아시안게임 전 등장한 '음주운전 뺑소니' 이슈…이민성 감독 고개 숙였다 \"내 평생의 아킬레스건, 지금도 죄송하다\"",
-     "u": "https://v.daum.net/v/20260903030207310",
-     "press": "Daum"
-    },
-    {
-     "t": "이민성호, AG 4연패 도전 시작!…“승률 42%? 그런 경험이 보약될 것”",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8652269",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "디에고 시메오네",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "이강인 이렇게 쓰는 거였구나! 시메오네 드디어 '정답' 찾았나…전반 4분 만에 AS→西 매체 \"패스 한 방으로 수비 무너뜨려\"",
-     "u": "https://v.daum.net/v/20260902040107283",
-     "press": "Daum"
-    },
-    {
-     "t": "스페인어로 꿈꾼다는 “강인리”…줄무늬 유니폼 입고 역사 쓰나",
-     "u": "https://www.hani.co.kr/arti/sports/soccer/1275881.html",
-     "press": "한겨레"
-    },
-    {
-     "t": "\"공격 만들려면 항상 경기장에 있어야\" ATM 전설도 이강인에 반했다...3경기 1골 1도움 '필수 선수' 등극 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/01/202609011003774634O",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "신정환",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
-     "u": "https://m.news.nate.com/view/20260902n39162?sect=ent&list=rank&cate=interest",
-     "press": "네이트"
-    },
-    {
-     "t": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
-     "u": "https://v.daum.net/v/20260902232037615?f=m",
-     "press": "Daum"
-    },
-    {
-     "t": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
-     "u": "https://www.starnewskorea.com/star/2026/09/02/2026090223095640401",
-     "press": "스타뉴스"
-    }
-   ]
-  },
-  {
-   "name": "수의사",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"밤새 동물 살렸는데\"…거리로 나선 수의사들, 면허증 불태웠다",
-     "u": "https://www.news1.kr/industry/general-industry/6277987",
-     "press": "뉴스1"
-    },
-    {
-     "t": "“분쟁 해결 아닌 전쟁터 될 것” 여야 의원 지적에 수의사법 수정 의결",
-     "u": "https://www.dailyvet.co.kr/news/policy/295473",
-     "press": "데일리벳"
-    },
-    {
-     "t": "[반려동물] 정부 \"동물병원 진료비 공개\"…수의계 \"단순 비교 안돼\"",
-     "u": "https://www.yna.co.kr/view/AKR20260902034800030",
+     "t": "설경구 \"'들쥐', 시대 비추는 서늘한 이야기…현실일 수도 있죠\"",
+     "u": "https://www.yna.co.kr/view/AKR20260902149800005",
      "press": "연합뉴스"
+    },
+    {
+     "t": "어느 날 주민등록 지문까지 사라졌다… 진짜 ‘나’는 누굴까",
+     "u": "https://www.chosun.com/culture-life/culture_general/2026/09/03/CIU3PFVJL5AYHDBTSZEVYLDYFM/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "다우 존스 산업평균지수",
-   "idx": 10,
+   "name": "김혜수",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "뉴욕증시, 국채금리 숨고르기에 4일만에 반등…다우 0.6%↑(종합)",
-     "u": "https://v.daum.net/v/20260903062952573",
+     "t": "김혜수가 17년째 먹여 살리고 있는 연예인…\"강의료 전액 내줘\" 미담 확산 [핫피플]",
+     "u": "https://v.daum.net/v/pZAytXDgWV",
      "press": "Daum"
     },
     {
-     "t": "코스피 4% 급락 뒤 엔비디아 3%↑…외국인 ‘현·선물 4조 매도’가 첫 시험대",
-     "u": "https://www.greened.kr/news/articleView.html?idxno=349119",
-     "press": "녹색경제신문"
+     "t": "김혜수, 하지영에 강의 수강료까지 내줬다…\"내 우주\"",
+     "u": "https://www.newsis.com/view/NISX20260903_0003774414",
+     "press": "뉴시스"
     },
     {
-     "t": "[글로벌증시] 국채금리 숨고르기에 뉴욕증시 일제 상승",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH20260903064927ilQ",
-     "press": "연합뉴스TV"
+     "t": "김혜수, 진짜 파도파도 미담이네…후배 배우 15명 연기 수업료 전액 지원 - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/tv/2026/09/03/GVSDKYZRMFRDCYLBGY4TGMTEHA/",
+     "press": "Chosunbiz"
     }
    ]
   },
   {
-   "name": "mbk파트너스",
+   "name": "항공모함",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "286일간 무슨 일이…\"전염병처럼 번진다\" 태국에 나타난 美항모 모습 '충격'",
+     "u": "https://v.daum.net/v/20260903213651327",
+     "press": "Daum"
+    },
+    {
+     "t": "만신창이 돼 돌아온 미 항모 링컨함…\"지옥 다녀온 듯\"",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737226",
+     "press": "SBS 뉴스"
+    },
+    {
+     "t": "녹과 이끼 뒤덮인 美 링컨함… “지옥 다녀온 듯” - 조선비즈",
+     "u": "https://biz.chosun.com/international/international_general/2026/09/03/EVZMUB5LPRBQZABPK6JBIN43AA/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "멸종",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "멸종되다시피 하더니…\"나도 봤다\" 목격담 속출",
+     "u": "https://v.daum.net/v/20260903210609683",
+     "press": "Daum"
+    },
+    {
+     "t": "한강에 돌아온 수달 가족…27마리 서식 확인",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8653366",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "광나루 한강공원서 '우리동네 한강공원 가꾸기 : GREEN 한강'",
+     "u": "https://www.newsis.com/view/NISX20260903_0003775579",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "이다영",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'180㎝' 이다영, 수영복 입고 뽐낸 탄탄 몸매…日도 주목했다",
+     "u": "https://www.newsis.com/view/NISX20260902_0003773200",
+     "press": "뉴시스"
+    },
+    {
+     "t": "‘학폭 논란’ 이다영, 아제르바이잔 이적 앞두고 파격 비키니 공개 “모델 뺨치네”",
+     "u": "https://sports.khan.co.kr/article/202609021140013",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "알렉산드라 에알라",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "MBK파트너스, 2년 만에 국내 바이아웃⋯뷰티ㆍ건기식 기업 인수",
-     "u": "https://www.etoday.co.kr/news/view/2621238",
-     "press": "이투데이"
+     "t": "'필리핀 영웅' 이알라, US오픈 테니스 3회전으로 순항",
+     "u": "https://www.yna.co.kr/view/AKR20260904010600007",
+     "press": "연합뉴스"
     },
     {
-     "t": "MBK, 스킨이데아·라이프앤바이오 인수한다",
-     "u": "https://news.nate.com/view/20260902n33977",
-     "press": "네이트"
+     "t": "'테니스 여신' 판도 바뀌었다! 21살 亞 라켓 소녀에 \"비너스가 반할 정도\"... 무려 5만 관중 신기록 정조준",
+     "u": "https://v.daum.net/v/20260903000837258",
+     "press": "Daum"
     },
     {
-     "t": "모건스탠리PE, '메디필' 스킨이데아 MBK에 매각",
-     "u": "https://www.investchosun.com/site/data/html_dir/2026/09/02/2026090280208.html",
-     "press": "인베스트조선"
+     "t": "이알라, US오픈 2회전 완승…필리핀 테니스의 새 역사를 향해",
+     "u": "http://www.tennispeople.kr/news/articleView.html?idxno=19368",
+     "press": "테니스피플"
     }
    ]
   },
   {
-   "name": "울산광역시",
-   "idx": 5,
+   "name": "spcx",
+   "idx": 10,
    "mv": "NEW",
    "news": []
   },
   {
-   "name": "이찬원",
-   "idx": 5,
+   "name": "초계기",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'톡파원 25시' 대구계 미국인 제이슨, 이찬원과 사투리 폭발!…'찐 대구 사람' 인증",
-     "u": "https://v.daum.net/v/20260902094916091",
+     "t": "해군, '포항 추락' 초계기 피해 배상 착수…15개월만에 시험비행 재개",
+     "u": "https://www.news1.kr/local/daegu-gyeongbuk/6279529",
+     "press": "뉴스1"
+    },
+    {
+     "t": "'포항 해군초계기 추락' 피해 주민 배상 아직‥\"추가 예산 확보 중\"",
+     "u": "https://v.daum.net/v/20260902130404237",
      "press": "Daum"
     },
     {
-     "t": "이찬원, 외국인에게 사투리로 기강 잡혔다 ‘폭소’ (톡파원)",
-     "u": "https://sports.donga.com/ent/article/all/20260902/134588502/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "“줘도 안 살아” 전현무 큰소리 쳤는데‥710억 최고가 집 “관리비 2700만원” (톡파원25시)[어제TV]",
-     "u": "https://www.newsen.com/news_view.php?uid=202609030450291710&code=100100",
-     "press": "뉴스엔"
+     "t": "해군,해상초계기 P-3CK 추락사고 15개월 만에 시험비행",
+     "u": "https://www.spnews.co.kr/news/articleView.html?idxno=110344",
+     "press": "SPN 서울평양뉴스"
     }
    ]
   }
