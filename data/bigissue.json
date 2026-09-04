@@ -1,210 +1,221 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260904",
- "updated": "2026-09-04T07:56:19+09:00",
+ "targetDate": "20260905",
+ "updated": "2026-09-05T07:44:43+09:00",
  "list": [
   {
-   "name": "기아",
+   "name": "터널",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "'머뭇거릴 필요 없다, 우리가 시장 쥔다' 기아 'PV7' 이 차가 온다[손재철의 이차]",
-     "u": "https://news.nate.com/view/20260902n29950",
-     "press": "네이트"
-    },
-    {
-     "t": "기아, 대형 전동화 PBV 'PV7' 티저 공개…\"9월 독일 IAA서 실물 최초 공개\"",
-     "u": "https://www.newsis.com/view/NISX20260831_0003768853",
-     "press": "뉴시스"
-    },
-    {
-     "t": "‘대형 PBV’ PV7 뜬다…기아 ‘연 23만대’ 승부수",
-     "u": "https://www.bloter.net/news/articleView.html?idxno=672198",
-     "press": "블로터"
-    }
-   ]
-  },
-  {
-   "name": "tving",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Yonhap News Summary",
-     "u": "https://en.yna.co.kr/view/AEN20260903009900320",
-     "press": "Yonhap News Agency"
-    },
-    {
-     "t": "TVING Issues Apology for Data Breach Affecting 39.54 Million Accounts, Unveils C",
-     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008736602",
-     "press": "SBS 뉴스"
-    },
-    {
-     "t": "Nearly 40 mil. CJ streaming users' personal info compromised",
-     "u": "https://www.koreatimes.co.kr/business/companies/20260903/nearly-40-mil-cj-streaming-users-personal-info-compromised",
-     "press": "The Korea Times"
-    }
-   ]
-  },
-  {
-   "name": "들쥐",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "나를 의심하고 나를 증명했다",
-     "u": "https://v.daum.net/v/20260904043741282",
+     "t": "옷으로 물 걸러 마시고 기도로 버텼다…네팔 터널서 2명 기적의 생환",
+     "u": "https://v.daum.net/v/20260905070207639",
      "press": "Daum"
     },
     {
-     "t": "설경구 \"'들쥐', 시대 비추는 서늘한 이야기…현실일 수도 있죠\"",
-     "u": "https://www.yna.co.kr/view/AKR20260902149800005",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "어느 날 주민등록 지문까지 사라졌다… 진짜 ‘나’는 누굴까",
-     "u": "https://www.chosun.com/culture-life/culture_general/2026/09/03/CIU3PFVJL5AYHDBTSZEVYLDYFM/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "김혜수",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김혜수가 17년째 먹여 살리고 있는 연예인…\"강의료 전액 내줘\" 미담 확산 [핫피플]",
-     "u": "https://v.daum.net/v/pZAytXDgWV",
-     "press": "Daum"
-    },
-    {
-     "t": "김혜수, 하지영에 강의 수강료까지 내줬다…\"내 우주\"",
-     "u": "https://www.newsis.com/view/NISX20260903_0003774414",
-     "press": "뉴시스"
-    },
-    {
-     "t": "김혜수, 진짜 파도파도 미담이네…후배 배우 15명 연기 수업료 전액 지원 - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/tv/2026/09/03/GVSDKYZRMFRDCYLBGY4TGMTEHA/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "항공모함",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "286일간 무슨 일이…\"전염병처럼 번진다\" 태국에 나타난 美항모 모습 '충격'",
-     "u": "https://v.daum.net/v/20260903213651327",
-     "press": "Daum"
-    },
-    {
-     "t": "만신창이 돼 돌아온 미 항모 링컨함…\"지옥 다녀온 듯\"",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737226",
-     "press": "SBS 뉴스"
-    },
-    {
-     "t": "녹과 이끼 뒤덮인 美 링컨함… “지옥 다녀온 듯” - 조선비즈",
-     "u": "https://biz.chosun.com/international/international_general/2026/09/03/EVZMUB5LPRBQZABPK6JBIN43AA/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "멸종",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "멸종되다시피 하더니…\"나도 봤다\" 목격담 속출",
-     "u": "https://v.daum.net/v/20260903210609683",
-     "press": "Daum"
-    },
-    {
-     "t": "한강에 돌아온 수달 가족…27마리 서식 확인",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8653366",
+     "t": "“한국인 실종지역 도보 수색 불허”…헬기·드론 수색 계속",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8655486",
      "press": "KBS 뉴스"
     },
     {
-     "t": "광나루 한강공원서 '우리동네 한강공원 가꾸기 : GREEN 한강'",
-     "u": "https://www.newsis.com/view/NISX20260903_0003775579",
-     "press": "뉴시스"
+     "t": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
+     "u": "https://www.donga.com/news/Inter/article/all/20260904/134609721/2",
+     "press": "동아일보"
     }
    ]
   },
   {
-   "name": "이다영",
-   "idx": 25,
+   "name": "박사랑",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452",
-     "press": "머니투데이"
-    },
-    {
-     "t": "'180㎝' 이다영, 수영복 입고 뽐낸 탄탄 몸매…日도 주목했다",
-     "u": "https://www.newsis.com/view/NISX20260902_0003773200",
-     "press": "뉴시스"
-    },
-    {
-     "t": "‘학폭 논란’ 이다영, 아제르바이잔 이적 앞두고 파격 비키니 공개 “모델 뺨치네”",
-     "u": "https://sports.khan.co.kr/article/202609021140013",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "알렉산드라 에알라",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'필리핀 영웅' 이알라, US오픈 테니스 3회전으로 순항",
-     "u": "https://www.yna.co.kr/view/AKR20260904010600007",
+     "t": "프로배구 GS칼텍스-SOOP, 리베로 유가람↔세터 박사랑 트레이드",
+     "u": "https://www.yna.co.kr/view/AKR20260904149600007",
      "press": "연합뉴스"
     },
     {
-     "t": "'테니스 여신' 판도 바뀌었다! 21살 亞 라켓 소녀에 \"비너스가 반할 정도\"... 무려 5만 관중 신기록 정조준",
-     "u": "https://v.daum.net/v/20260903000837258",
+     "t": "“공격력 극대화에 큰 도움” 이영택 감독 기대감…GS칼텍스, 유가람 내주고 ‘장신 세터’ 박사랑 품었다 [오피셜]",
+     "u": "https://v.daum.net/v/20260904170711449",
      "press": "Daum"
     },
     {
-     "t": "이알라, US오픈 2회전 완승…필리핀 테니스의 새 역사를 향해",
-     "u": "http://www.tennispeople.kr/news/articleView.html?idxno=19368",
-     "press": "테니스피플"
+     "t": "프로배구 SOOP, GS칼텍스와 트레이드로 유가람 영입",
+     "u": "https://www.dailian.co.kr/news/view/1686700/%ED%94%84%EB%A1%9C%EB%B0%B0%EA%B5%AC-SOOP-GS%EC%B9%BC%ED%85%8D%EC%8A%A4-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C-2026",
+     "press": "데일리안"
     }
    ]
   },
   {
-   "name": "spcx",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "초계기",
-   "idx": 10,
+   "name": "권은비",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "해군, '포항 추락' 초계기 피해 배상 착수…15개월만에 시험비행 재개",
-     "u": "https://www.news1.kr/local/daegu-gyeongbuk/6279529",
-     "press": "뉴스1"
+     "t": "[Y터뷰] “서머퀸 품고 새로운 수식어도”…익숙함과 새로움 사이, 권은비의 ‘데자뷰'",
+     "u": "https://www.ytn.co.kr/_sn/0117_202609030700021003",
+     "press": "YTN"
     },
     {
-     "t": "'포항 해군초계기 추락' 피해 주민 배상 아직‥\"추가 예산 확보 중\"",
-     "u": "https://v.daum.net/v/20260902130404237",
+     "t": "권은비 \"급하게 붓기랑 살 빼봤다\"…사우나 관리 전 챙겨야 할 것 [헬스톡]",
+     "u": "https://v.daum.net/v/20260904052207061?f=p",
      "press": "Daum"
     },
     {
-     "t": "해군,해상초계기 P-3CK 추락사고 15개월 만에 시험비행",
-     "u": "https://www.spnews.co.kr/news/articleView.html?idxno=110344",
-     "press": "SPN 서울평양뉴스"
+     "t": "소속사 이적 후 첫 컴백…확 달라진 권은비, 청량 서머송 귀환 [N이슈]",
+     "u": "https://www.news1.kr/entertain/music/6278417",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "파리바게뜨",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"70% 할인받자\"···파리바게뜨 행사에 해피포인트 앱 접속 지연",
+     "u": "https://www.newsway.co.kr/news/view?ud=2026090408343112978",
+     "press": "뉴스웨이"
+    },
+    {
+     "t": "파리바게뜨, 오늘(4일) 최대 70% 할인 쿠폰 제공... 받는 법은?",
+     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1179697",
+     "press": "금강일보"
+    },
+    {
+     "t": "파리바게뜨, '겉바속쫄' 식감 구현한 '크로켓' 2종 선봬",
+     "u": "https://www.newsis.com/view/NISX20260903_0003774254",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "테슬라 주가",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[쇼츠] 테슬라 '사이버캡' 도로 누빈다…시범운행 시작",
+     "u": "https://www.yna.co.kr/view/AKR20260904151400704",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "테슬라, 페어아이작, 샌디스크",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645577168",
+     "press": "마켓인"
+    },
+    {
+     "t": "운전자는 없앴지만… 정비·충전 인력 더 필요",
+     "u": "https://v.daum.net/v/qfr6Rc6bY7",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "송현옥",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'오세훈 아내'라는 굴레…수십 년 인내한 끝에 내놓은 대답 [문화人터뷰]",
+     "u": "https://www.newsis.com/view/NISX20260904_0003776999",
+     "press": "뉴시스"
+    },
+    {
+     "t": "뉴시스와 인터뷰하는 송현옥 극단 물결 대표",
+     "u": "https://news.nate.com/view/20260904n29373",
+     "press": "네이트"
+    },
+    {
+     "t": "모파상 원작 '의자 고치는 여인' 연극 연출한 송현옥",
+     "u": "https://mobile.newsis.com/photo/NISI20260902_0021420065",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "김민하",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘파친코’ 김민하 맞아? 17kg 감량에 가슴뼈까지 드러나",
+     "u": "https://v.daum.net/v/20260905052749823",
+     "press": "Daum"
+    },
+    {
+     "t": "김민하, 가슴 뼈까지 드러난 근황…차기작 풍년 속 뼈마름 유지",
+     "u": "https://sports.khan.co.kr/article/202609041100003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "김민하, 하늘색 눈동자에 깡마른 몸매…모든 게 파격 [SNS★샷]",
+     "u": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/04/20260904500332",
+     "press": "서울신문"
+    }
+   ]
+  },
+  {
+   "name": "검찰청",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "초대 중수청장 후보자에 김관정·김지용·문홍주·이윤제 4명 추천",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6849686_36918.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "중대범죄수사청장 후보추천위원회 회의 결과 브리핑",
+     "u": "https://www.yna.co.kr/view/PYH20260904153000013",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "초대 중수청장 후보 3인…윤석열 부부 수사했거나 갈등",
+     "u": "https://www.hani.co.kr/arti/area/area_general/1276330.html",
+     "press": "한겨레"
+    }
+   ]
+  },
+  {
+   "name": "민혜연",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
+     "u": "https://v.daum.net/v/Quy30A8Bvq",
+     "press": "Daum"
+    },
+    {
+     "t": "주진모, '11살 연하' ♥민혜연에 냉정 \"예쁘긴한데, 머리가 산발\"",
+     "u": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100032780002064",
+     "press": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "name": "대한민국 문화체육관광부",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "전 세계 재외한국문화원, '케이-라이프스타일' 체험·수출 거점으로 거듭난다",
+     "u": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780190&repCode=A00009&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98&pWise=main&pWiseMain=T1_1&pWiseMinistry=ministryNews",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "재외한국문화원에서 K-뷰티·푸드·패션 체험…‘K-컬처 수출 거점으로’",
+     "u": "https://v.daum.net/v/20260904093640691",
+     "press": "Daum"
+    },
+    {
+     "t": "뉴욕·도쿄 등 재외문화원에 '글로벌 K-존'…K-컬처 홍보·수출 거점으로",
+     "u": "https://view.asiae.co.kr/article/2026090402543687511",
+     "press": "아시아경제"
     }
    ]
   }
