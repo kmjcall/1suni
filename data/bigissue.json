@@ -1,221 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260905",
- "updated": "2026-09-05T07:44:43+09:00",
+ "targetDate": "20260906",
+ "updated": "2026-09-06T07:39:23+09:00",
  "list": [
   {
-   "name": "터널",
+   "name": "양주시",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "옷으로 물 걸러 마시고 기도로 버텼다…네팔 터널서 2명 기적의 생환",
-     "u": "https://v.daum.net/v/20260905070207639",
+     "t": "양주시, ‘과천경마공원 유치 TF’ 첫 회의… 총력전 선언",
+     "u": "https://www.viva100.com/article/20260905500034",
+     "press": "브릿지경제"
+    },
+    {
+     "t": "[패트롤] 과천시의회-군포시의회-부천시의회-안산시의회",
+     "u": "https://m.ekn.kr/view.php?key=20260905024441021",
+     "press": "에너지경제신문"
+    },
+    {
+     "t": "[과천 24시] 과천시, “경마공원·방첩사 부지 주택공급 계획 전면 철회” 촉구",
+     "u": "https://v.daum.net/v/20260904163607105?f=p",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "아들",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"엄마가 날 죽일 거 같다\" 전국 1등 강요→골프채 폭행...끝내 살해한 아들[뉴스속오늘] - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/09/06/2026090412503282514",
+     "press": "머니투데이"
+    },
+    {
+     "t": "계곡서 초2 아들 구한 40대 아버지 끝내 사망…돕던 남성도 숨져",
+     "u": "https://www.donga.com/news/Society/article/all/20260905/134610987/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "계곡서 초등 아들 구한 아빠 숨져‥곳곳 수난 사고",
+     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6849840_37004.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "왕즈이",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "안세영 때문에 지친다…\"세계 챔피언, 아시아 챔피언, 올림픽 챔피언, 설명할 시간이 부족해\"→세계연맹 캐스터 소개 중단 '눈에 띄네'",
+     "u": "https://v.daum.net/v/20260906064547421",
      "press": "Daum"
     },
     {
-     "t": "“한국인 실종지역 도보 수색 불허”…헬기·드론 수색 계속",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8655486",
-     "press": "KBS 뉴스"
+     "t": "안세영, 43분 만에 ‘끝’... 中 마스터스 결승 갔다",
+     "u": "https://www.chosun.com/international/international_general/2026/09/05/UQUUNQV7N5DANLADVX7PDDOKNM/",
+     "press": "조선일보"
     },
     {
-     "t": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
-     "u": "https://www.donga.com/news/Inter/article/all/20260904/134609721/2",
+     "t": "아시안게임 앞두고 '무적 모드' 안세영, 2주 연속 우승 보인다",
+     "u": "https://www.yna.co.kr/view/AKR20260905026300007",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "충돌",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "예멘 정부군·후티 반군 충돌로 이틀새 190명 넘게 사망",
+     "u": "https://www.yna.co.kr/view/AKR20260906001200108",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "[국제유가] 공급 차질 우려에 상승 지속…WTI, 닷새 내리 올라",
+     "u": "https://v.daum.net/v/20260905055609010",
+     "press": "Daum"
+    },
+    {
+     "t": "국제 유가 미-이란 충돌 재발에 이번주 급등 마감",
+     "u": "https://www.newsis.com/view/NISX20260905_0003777364",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "샤오 미",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“하루 1대도 안 팔려” “그냥 싼 맛에 산다” 조롱받던 샤오미…삼성 따라 한 ‘접는 폰’ 내놨다",
+     "u": "https://v.daum.net/v/VN8z9P3Gty",
+     "press": "Daum"
+    },
+    {
+     "t": "샤오미, ‘샤오미18 폴드’ 공개…‘여권형’ 폴더블폰 경쟁 본격화",
+     "u": "https://zdnet.co.kr/view/?no=20260904091144",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "\"애플보다 먼저 친다\"…샤오미, 자체 AP 품은 `18 폴드` 전격 공개 [IFA 2026]",
+     "u": "https://m.ddaily.co.kr/page/view/2026090305060292823",
+     "press": "디지털데일리"
+    }
+   ]
+  },
+  {
+   "name": "하석진",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘사랑이 온다’ 권해효, 하석진 친아들 거짓말…14회 예고",
+     "u": "https://v.daum.net/v/20260905224309603",
+     "press": "Daum"
+    },
+    {
+     "t": "'사랑이 온다' 안희연, 불안에 휩싸인 눈빛...새로운 위기 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/09/05/2026090510497233543",
+     "press": "머니투데이"
+    },
+    {
+     "t": "[사랑이 온다] 윤유선, 권해효에 “그 아이 내 딸이에요” 고백…! 하석진 결혼 반대한 이유 전해",
+     "u": "https://kstar.kbs.co.kr/list_view.html?idx=409266",
+     "press": "KBS연예"
+    }
+   ]
+  },
+  {
+   "name": "테일러 프리츠",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Taylor Fritz blows 2-set lead, falls to Francisco Cerundolo in US Open",
+     "u": "https://www.espn.com/tennis/story/_/id/49839555/taylor-fritz-blows-2-set-lead-falls-francisco-cerundolo-us-open",
+     "press": "ESPN"
+    },
+    {
+     "t": "US Open Tennis 2026 Results, Winners, Losers and Highlights from Saturday's Brac",
+     "u": "https://bleacherreport.com/articles/25496433-us-open-tennis-2026-results-winners-losers-and-highlights-saturdays-bracket",
+     "press": "Bleacher Report"
+    },
+    {
+     "t": "Francisco Cerundolo roars back from brink to stun home hope Taylor Fritz at US O",
+     "u": "https://www.theguardian.com/sport/2026/sep/05/francisco-cerundolo-roars-back-stun-home-hope-taylor-fritz-us-open-tennis",
+     "press": "The Guardian"
+    }
+   ]
+  },
+  {
+   "name": "세인트 미렌 대 셀틱",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'AG 와일드카드' 양현준 '역전 결승골' 폭발, 2경기 연속골... 셀틱 개막 5연승 질주 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/06/2026090606393193814",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'재료는 너무 좋다!' 이민성 감독, 어떻게 요리할까...AG 앞두고 주포 양현준·이영준 득점포 가동→전방 무게감↑",
+     "u": "https://v.daum.net/v/20260903100727889",
+     "press": "Daum"
+    },
+    {
+     "t": "양현준-이영준 나란히 골맛… 亞게임 앞두고 예열 끝내",
+     "u": "https://www.donga.com/news/Sports/article/all/20260904/134602757/2",
      "press": "동아일보"
     }
    ]
   },
   {
-   "name": "박사랑",
-   "idx": 20,
+   "name": "이다영",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "프로배구 GS칼텍스-SOOP, 리베로 유가람↔세터 박사랑 트레이드",
-     "u": "https://www.yna.co.kr/view/AKR20260904149600007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "“공격력 극대화에 큰 도움” 이영택 감독 기대감…GS칼텍스, 유가람 내주고 ‘장신 세터’ 박사랑 품었다 [오피셜]",
-     "u": "https://v.daum.net/v/20260904170711449",
+     "t": "‘학폭 논란→국대 박탈→V리그 퇴출’ 이다영, 해외 떠돌다 아제르바이잔까지…활짝 웃으며 “정말 설렌다”",
+     "u": "https://v.daum.net/v/QuC4dZwaWd",
      "press": "Daum"
     },
     {
-     "t": "프로배구 SOOP, GS칼텍스와 트레이드로 유가람 영입",
-     "u": "https://www.dailian.co.kr/news/view/1686700/%ED%94%84%EB%A1%9C%EB%B0%B0%EA%B5%AC-SOOP-GS%EC%B9%BC%ED%85%8D%EC%8A%A4-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C-2026",
-     "press": "데일리안"
-    }
-   ]
-  },
-  {
-   "name": "권은비",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[Y터뷰] “서머퀸 품고 새로운 수식어도”…익숙함과 새로움 사이, 권은비의 ‘데자뷰'",
-     "u": "https://www.ytn.co.kr/_sn/0117_202609030700021003",
-     "press": "YTN"
+     "t": "'학폭' 한국 떠난 이재영, 유럽서 새출발?...근황 보니 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/03/2026090321451110452",
+     "press": "머니투데이"
     },
     {
-     "t": "권은비 \"급하게 붓기랑 살 빼봤다\"…사우나 관리 전 챙겨야 할 것 [헬스톡]",
-     "u": "https://v.daum.net/v/20260904052207061?f=p",
-     "press": "Daum"
-    },
-    {
-     "t": "소속사 이적 후 첫 컴백…확 달라진 권은비, 청량 서머송 귀환 [N이슈]",
-     "u": "https://www.news1.kr/entertain/music/6278417",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "파리바게뜨",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"70% 할인받자\"···파리바게뜨 행사에 해피포인트 앱 접속 지연",
-     "u": "https://www.newsway.co.kr/news/view?ud=2026090408343112978",
-     "press": "뉴스웨이"
-    },
-    {
-     "t": "파리바게뜨, 오늘(4일) 최대 70% 할인 쿠폰 제공... 받는 법은?",
-     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1179697",
-     "press": "금강일보"
-    },
-    {
-     "t": "파리바게뜨, '겉바속쫄' 식감 구현한 '크로켓' 2종 선봬",
-     "u": "https://www.newsis.com/view/NISX20260903_0003774254",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "테슬라 주가",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[쇼츠] 테슬라 '사이버캡' 도로 누빈다…시범운행 시작",
-     "u": "https://www.yna.co.kr/view/AKR20260904151400704",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "테슬라, 페어아이작, 샌디스크",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645577168",
-     "press": "마켓인"
-    },
-    {
-     "t": "운전자는 없앴지만… 정비·충전 인력 더 필요",
-     "u": "https://v.daum.net/v/qfr6Rc6bY7",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "송현옥",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'오세훈 아내'라는 굴레…수십 년 인내한 끝에 내놓은 대답 [문화人터뷰]",
-     "u": "https://www.newsis.com/view/NISX20260904_0003776999",
-     "press": "뉴시스"
-    },
-    {
-     "t": "뉴시스와 인터뷰하는 송현옥 극단 물결 대표",
-     "u": "https://news.nate.com/view/20260904n29373",
+     "t": "'180㎝' 이다영, 수영복 입고 뽐낸 탄탄 몸매…日도 주목했다",
+     "u": "https://sports.news.nate.com/view/20260903n00037",
      "press": "네이트"
-    },
-    {
-     "t": "모파상 원작 '의자 고치는 여인' 연극 연출한 송현옥",
-     "u": "https://mobile.newsis.com/photo/NISI20260902_0021420065",
-     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "김민하",
+   "name": "불후의 명곡: 전설을 노래하다",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘파친코’ 김민하 맞아? 17kg 감량에 가슴뼈까지 드러나",
-     "u": "https://v.daum.net/v/20260905052749823",
-     "press": "Daum"
+     "t": "성리, ‘무명전설’ 1위 후 인기 실감…“식당서 서비스 받아”(‘불후’)",
+     "u": "https://www.mk.co.kr/news/broadcasting-service/12145095",
+     "press": "매일경제"
     },
     {
-     "t": "김민하, 가슴 뼈까지 드러난 근황…차기작 풍년 속 뼈마름 유지",
-     "u": "https://sports.khan.co.kr/article/202609041100003",
-     "press": "스포츠경향"
+     "t": "신유부터 양지은까지 맞붙는다, ‘불후의 명곡’ 최후의 왕좌 주인공은?",
+     "u": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433238",
+     "press": "데일리스포츠한국"
     },
     {
-     "t": "김민하, 하늘색 눈동자에 깡마른 몸매…모든 게 파격 [SNS★샷]",
-     "u": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/04/20260904500332",
-     "press": "서울신문"
-    }
-   ]
-  },
-  {
-   "name": "검찰청",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "초대 중수청장 후보자에 김관정·김지용·문홍주·이윤제 4명 추천",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6849686_36918.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "중대범죄수사청장 후보추천위원회 회의 결과 브리핑",
-     "u": "https://www.yna.co.kr/view/PYH20260904153000013",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "초대 중수청장 후보 3인…윤석열 부부 수사했거나 갈등",
-     "u": "https://www.hani.co.kr/arti/area/area_general/1276330.html",
-     "press": "한겨레"
-    }
-   ]
-  },
-  {
-   "name": "민혜연",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "주진모, 오랜만에 근황..아내 ♥민혜연 \"예쁘지 않아?\"에 현실 반응",
-     "u": "https://v.daum.net/v/Quy30A8Bvq",
-     "press": "Daum"
-    },
-    {
-     "t": "주진모, '11살 연하' ♥민혜연에 냉정 \"예쁘긴한데, 머리가 산발\"",
-     "u": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100032780002064",
-     "press": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "name": "대한민국 문화체육관광부",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "전 세계 재외한국문화원, '케이-라이프스타일' 체험·수출 거점으로 거듭난다",
-     "u": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780190&repCode=A00009&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98&pWise=main&pWiseMain=T1_1&pWiseMinistry=ministryNews",
-     "press": "대한민국 정책브리핑"
-    },
-    {
-     "t": "재외한국문화원에서 K-뷰티·푸드·패션 체험…‘K-컬처 수출 거점으로’",
-     "u": "https://v.daum.net/v/20260904093640691",
-     "press": "Daum"
-    },
-    {
-     "t": "뉴욕·도쿄 등 재외문화원에 '글로벌 K-존'…K-컬처 홍보·수출 거점으로",
-     "u": "https://view.asiae.co.kr/article/2026090402543687511",
-     "press": "아시아경제"
+     "t": "성리X장한별 - 어쩌다 마주친 그대 | KBS 260905 방송",
+     "u": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026149658-01-000_MFSC15&program_code=T2011-0781&program_id=PS-2026149658-01-000&section_code=04&broadcast_complete_yn=N&section_id=10739",
+     "press": "대한민국 대표 공영미디어 KBS"
     }
    ]
   }
