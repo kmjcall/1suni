@@ -1,226 +1,221 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260907",
- "updated": "2026-09-07T07:38:29+09:00",
+ "targetDate": "20260908",
+ "updated": "2026-09-08T08:15:18+09:00",
  "list": [
   {
    "name": "주식",
    "idx": 100,
+   "mv": 0,
+   "news": [
+    {
+     "t": "[단독] 증시 강제퇴출 115곳… 개미들 3.7조 물렸다 [상장폐지, 그 후①]",
+     "u": "https://v.daum.net/v/20260908055003776",
+     "press": "Daum"
+    },
+    {
+     "t": "상폐까지 6개월 시간만 벌었을 뿐…“소액주주 피해 우려 여전”",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=01741686645577496&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "상폐 기준 강화 ‘6개월 유예’에도…코스닥 저시총주 반응 ‘냉담’",
+     "u": "https://www.viva100.com/article/20260907500589",
+     "press": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "name": "아이유",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"15억 미국 주식 올인합니다\"…20억 집 가진 부부 결국",
-     "u": "https://www.hankyung.com/article/2026090670997",
-     "press": "한국경제"
+     "t": "아이유, 이종석과 결별 후 긴머리 싹뚝 잘랐다…단발 비주얼 “이 별로부터”",
+     "u": "https://v.daum.net/v/20260908073038394",
+     "press": "Daum"
     },
     {
-     "t": "연봉 2.5억 직장인 부부 \"20억 집 팔아 15억 美주식 투자\"",
-     "u": "https://www.fnnews.com/news/202609070627563758",
-     "press": "파이낸셜뉴스"
+     "t": "아이유, 직접 작사한 새 싱글 ‘이 별로부터’ 트랙리스트 영상 공개…우주 배경",
+     "u": "https://www.donga.com/news/Entertainment/article/all/20260907/134617352/1",
+     "press": "동아일보"
     },
     {
-     "t": "\"20억 집 팔고 미국 주식 올인\"…온라인 커뮤니티 글에 갑론을박",
-     "u": "https://www.newsis.com/view/NISX20260906_0003778104",
+     "t": "[잇슈 컬처] ‘활동 중단’ 아이유, 이번 주 깜짝 신곡 발표",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8656032",
+     "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "적금",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "충남 “중소기업 청년 살고 일하게” 목돈 마련 지원",
+     "u": "https://go.seoul.co.kr/news/newsView.php?id=20260908019005",
+     "press": "서울Pn"
+    },
+    {
+     "t": "하나은행 충청하나그룹-충남도, 청년 자산형성 돕는다…'정착플러스 적금' 맞손",
+     "u": "https://v.daum.net/v/20260907174551768",
+     "press": "Daum"
+    },
+    {
+     "t": "대구시, '2026년 고용친화기업' 3개사 신규 선정",
+     "u": "https://www.newsis.com/view/NISX20260906_0003778112",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "넷플릭스",
-   "idx": 100,
+   "name": "엄태웅",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "“넷플릭스 아성 넘본다”… 해외 시장 뚫는 중국 OTT",
-     "u": "https://v.daum.net/v/20260907063207874",
+     "t": "엄태웅 딸 엄지온, 훌쩍 커버린 근황…\"너무 길어\"",
+     "u": "https://www.newsis.com/view/NISX20260907_0003779587",
+     "press": "뉴시스"
+    },
+    {
+     "t": "'엄태웅·윤혜진 딸' 지온, 13세에 벌써 178㎝…고모 엄정화보다 크네!",
+     "u": "https://v.daum.net/v/20260908072328308",
      "press": "Daum"
     },
     {
-     "t": "中 방영 일주일이면 한국에…MOA의 '속전속결' 수급전 [엔터코노미]",
-     "u": "https://news.mtn.co.kr/news-detail/2026083114373469191",
-     "press": "MTN 머니투데이방송"
-    },
-    {
-     "t": "中 방영 일주일이면 한국에…MOA의 '속전속결' 수급전 [엔터코노미]",
-     "u": "https://v.daum.net/v/20260831163256777",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "기상",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "제주, 중산간·산지 중심 가끔 비…낮 최고 28∼29도",
-     "u": "https://www.yna.co.kr/view/AKR20260907005900056",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "[날씨] 맑고 일교차 큰 '백로'...영남 해안·제주도 동부 강풍",
-     "u": "https://www.ytn.co.kr/_ln/0108_202609070646575088",
-     "press": "YTN"
-    },
-    {
-     "t": "맑은 월요일, 동해안엔 비…전국 강풍에 체감더위까지",
-     "u": "https://www.khan.co.kr/article/202609070707001",
-     "press": "경향신문"
-    }
-   ]
-  },
-  {
-   "name": "연비",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“10만km 타도 고장 없는 국산차”... 가격은 1,199만 원, 연비 28km/L 하이브리드는?",
-     "u": "https://www.autotribune.co.kr/news/articleView.html?idxno=45370",
-     "press": "오토트리뷴"
-    },
-    {
-     "t": "\"이러면 아반떼를 왜 사죠?\"... 가성비로 재평가된 연비 19.4km/L, ‘3천만 원대’ 하이브리드 세단",
-     "u": "https://topictree.co.kr/automobiles/news/2026-sonata-hybrid-s-trim-value-features/",
-     "press": "토픽트리"
-    },
-    {
-     "t": "[시승기] 토요타 캠리 하이브리드, 실연비 21.5km/L가 보여준 저력",
-     "u": "https://m.ceoscoredaily.com/page/view/2026082813533156706",
-     "press": "CEO스코어데일리"
-    }
-   ]
-  },
-  {
-   "name": "빌라",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[단독]\"이사비 7000만원도 거절당했다\"... 집주인이 내민 '백지수표'",
-     "u": "https://v.daum.net/v/20260906145111175",
-     "press": "Daum"
-    },
-    {
-     "t": "[단독] 30년 거래없던 빌라 샀다가 취득세 8배 ‘날벼락’…사각지대 개선할까",
-     "u": "https://www.mk.co.kr/news/realestate/12145608",
-     "press": "매일경제"
-    },
-    {
-     "t": "“세입자 90% 필요하다는데”…세제개편에 흔들리는 등록임대시장",
-     "u": "https://www.dt.co.kr/article/12082227",
-     "press": "www.dt.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "구자욱",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "LG-삼성, 승부를 가른 결정적 장면",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8655919",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "\"돌아온 후라도 위해, 한 점 한 점 소중하게\" 구자욱의 화끈한 '3안타' 환영식",
-     "u": "https://www.nocutnews.co.kr/news/6573791",
-     "press": "노컷뉴스"
-    },
-    {
-     "t": "기습 번트에 3명이 주저앉다…왜 1루가 텅 비었을까, 송구가 허공으로, 임찬규 100승도 날아갔다",
-     "u": "https://biz.chosun.com/sports/baseball/2026/09/07/GM2TCYTDGUYTAMZUHA2GGZDEGA/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "thứ hạng của everton gặp man utd",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "HLV Carrick thừa nhận cảm giác cay đắng, tin dữ cho MU về Rashford",
-     "u": "https://www.24h.com.vn/bong-da/hlv-carrick-thua-nhan-cam-giac-cay-dang-tin-du-cho-mu-ve-rashford-c48a1792588.html",
-     "press": "Tin tức 24h"
-    },
-    {
-     "t": "Maitland-Niles gọi trận hòa Man Utd là cảm giác chiến thắng",
-     "u": "https://yeuthethao.net.vn/maitland-niles-goi-tran-hoa-man-utd-la-cam-giac-chien-thang-d893892.html",
-     "press": "yeuthethao.net.vn"
-    },
-    {
-     "t": "LIVE Everton vs Manchester United: Startopstellingen",
-     "u": "https://www.vietnam.vn/nl/truc-tieptruc-tiep-everton-vs-manchester-united-doi-hinh-xuat-phat",
-     "press": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "name": "유격수",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "애틀랜타 김하성, 2경기 연속 무안타…타율 0.113(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20260906015051007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "김하성, 2경기 연속 침묵…타격 부진 이정후 결장",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH20260907052610pzH",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "최근 감 좋은데…ATL 김하성 3타수 무안타 2K 직후 선발 제외, 대체 왜?",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/09/07/GA4DQMBVMNQTSMDCMUZGENLCMI/",
+     "t": "‘엄태웅♥’ 윤혜진, 뼈말라 중에도 뼈말라…허벅지가 팔뚝만하네",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/07/GQYWKMZVMVSDCM3CGUYTONJXGA/",
      "press": "조선일보"
     }
    ]
   },
   {
-   "name": "애플",
-   "idx": 10,
+   "name": "박지윤",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "The world is about to meet Apple’s new CEO. Here are his biggest challenges",
-     "u": "https://www.cnn.com/2026/09/06/tech/apple-ceo-john-ternus-challenges",
-     "press": "CNN"
+     "t": "‘8kg 감량’ 박지윤, 완벽 레깅스핏..운동하러 가서 화보 찍었네",
+     "u": "https://v.daum.net/v/20260908004209781",
+     "press": "Daum"
     },
     {
-     "t": "Tim Cook’s CEO-Like Pay Package Shows He Isn’t Going Anywhere",
-     "u": "https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1",
-     "press": "Bloomberg"
-    },
-    {
-     "t": "With Just 9 Words, Tim Cook’s Farewell Email Taught a Lesson for Every Leader",
-     "u": "https://www.inc.com/jason-aten/with-just-9-words-tim-cooks-farewell-email-taught-a-lesson-for-every-leader/91399215",
-     "press": "Inc.com"
+     "t": "'돌싱맘' 박지윤, 과감한 넥라인 돋보이는 운동복 \"영혼도 몸도 탈탈 털리고\" - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/tv/2026/09/08/G5RWEMTDGU4TAMRSGNTDQYRUGE/",
+     "press": "Chosunbiz"
     }
    ]
   },
   {
-   "name": "여자 농구",
+   "name": "화장품",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'수출 2위' K뷰티 한자리에…화장품 국제협의체도 신설(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20260907019551017",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "식약처, 화장품 국제협의체 신설…“해외 규제 강화 대응” - 조선비즈",
+     "u": "https://biz.chosun.com/distribution/fashion-beauty/2026/09/08/LPPL7FFTLNEMNK4IABO6KA75AM/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "레페리, 제2회 ‘화장품의 날’ 복지부 장관 표창… “크리에이터 비즈니스 공로 인정”",
+     "u": "https://www.donga.com/news/Economy/article/all/20260907/134620526/1",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "박항서",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'박항서 매직' 이제는 태국에서 계속된다...칸차나부리, 개막전부터 4-2 대역전승...강렬한 존재감",
+     "u": "https://v.daum.net/v/20260907161607468?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "‘박항서 매직’ 태국서도 곧바로 효과! 개막전 4-2 짜릿한 역전승",
+     "u": "https://www.footballist.co.kr/news/articleView.html?idxno=214468",
+     "press": "풋볼리스트"
+    },
+    {
+     "t": "‘박항서 매직’ 태국에서도 통했다! 박항서의 칸차나부리, 개막전 4-2 짜릿한 역전승",
+     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97538",
+     "press": "포포투"
+    }
+   ]
+  },
+  {
+   "name": "수원남문시장",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"한국에 우승후보가 이렇게 고전하다니\" 프랑스 1쿼터 역대 최다 실점... 현지도 놀랐다 \"26점차로는 설명 못할 접전\"",
-     "u": "https://v.daum.net/v/20260906094238732",
+     "t": "수원남문시장, 밤이 살아났다…‘불취무귀’ 하루 1만명",
+     "u": "https://www.etoday.co.kr/news/view/2622689",
+     "press": "이투데이"
+    },
+    {
+     "t": "K-POP과 야시장이 만난 수원남문시장… ‘1만 명’ 홀렸다",
+     "u": "https://www.joongboo.com/news/articleView.html?idxno=363735999",
+     "press": "중부일보"
+    },
+    {
+     "t": "수원특례시의회, 주말 전통시장·문화·체육 현장 잇달아 방문",
+     "u": "https://www.metroseoul.co.kr/article/20260906500116",
+     "press": "메트로신문"
+    }
+   ]
+  },
+  {
+   "name": "교사",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"교사 64% 학교 경제교육 미흡…기업가정신 모르는 교사도 절반\"",
+     "u": "https://www.yna.co.kr/view/AKR20260907120500003",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "창업 몰라서 못 권하는 교사들…교사 2명 중 1명 \"기업가 정신 몰라\"",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01620326645578152",
+     "press": "마켓인"
+    },
+    {
+     "t": "교사 절반 가까이 기업가정신 인지도 낮아…\"연수 확대 필요\"",
+     "u": "https://www.newspim.com/news/view/20260907000877",
+     "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "전도연",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "공항 출발 행사 (서울공항)",
+     "u": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73270",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "이 대통령, 미국영화협회 만나…\"작품 만드는 데 정부가 적극 지원\"",
+     "u": "https://v.daum.net/v/20260908071506194",
      "press": "Daum"
     },
     {
-     "t": "한국 여자농구, 월드컵 2차전서 '유럽 최강' 프랑스에 완패",
-     "u": "https://www.segye.com/newsView/20260906503309",
-     "press": "세계일보"
-    },
-    {
-     "t": "돌파 시도하는 이소희",
-     "u": "https://www.newsis.com/view/NISI20260906_0002231303",
-     "press": "뉴시스"
+     "t": "오늘 한·프 정상회담…호르무즈 논의 주목",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8657219",
+     "press": "KBS 뉴스"
     }
    ]
   }
