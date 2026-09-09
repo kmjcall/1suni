@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260909",
- "updated": "2026-09-09T08:07:34+09:00",
+ "targetDate": "20260910",
+ "updated": "2026-09-10T07:53:04+09:00",
  "list": [
   {
-   "name": "삼성 갤럭시",
+   "name": "코레일 추석예매",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "애플 반기는 삼성전자 \"웰컴 투 폴더블\"",
-     "u": "https://v.daum.net/v/20260909060242716",
-     "press": "Daum"
-    },
-    {
-     "t": "삼성 '갤럭시Z 폴드8' 도쿄·런던 랜드마크 수놓는다",
-     "u": "https://www.yna.co.kr/view/AKR20260908025600017",
+     "t": "7일부터 추석 기차표 예매 시작…온라인서만 판매",
+     "u": "https://www.yna.co.kr/view/MYH20260908002400038",
      "press": "연합뉴스"
     },
     {
-     "t": "'아재폰'이라 놀렸는데…1030女 꽂히자 폰케이스까지 '대박'",
-     "u": "https://www.hankyung.com/article/202609078606H",
-     "press": "한국경제"
-    }
-   ]
-  },
-  {
-   "name": "심형탁",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'슈퍼맨이 돌아왔다' 하루, 계곡 갈비 먹방(슈돌)",
-     "u": "https://v.daum.net/v/20260909000227977",
+     "t": "추석 열차표 놓쳤다면 ‘예약대기 먼저’…미결제 취소표, 15일 후 대기자에 우선 배정",
+     "u": "https://v.daum.net/v/betmxyjJNt?f=p",
      "press": "Daum"
     },
     {
-     "t": "심형탁 子 하루, 생애 첫 계곡 나들이…쪽갈비 5개 ‘순삭’ (슈돌)",
-     "u": "https://sports.donga.com/ent/article/all/20260908/134628053/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "'심형탁 子' 하루, 계곡에서 우대갈비 먹방…쪽갈비도 5개 순삭 (슈돌) - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/tv/2026/09/08/MU2DEN3DMVRTEZBVHA2DCOBRHA/",
-     "press": "Chosunbiz"
+     "t": "코레일 '2026 추석 승차권 예매'…용산 출·도착 호남·전라선",
+     "u": "https://www.etoday.co.kr/news/view/2623305",
+     "press": "이투데이"
     }
    ]
   },
   {
-   "name": "박주봉",
-   "idx": 50,
+   "name": "주식",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "'또 퍼펙트 우승' 안세영 깜짝 고백 \"몸 상태 체크할 겸 나간 대회였다\" [진천 현장]",
-     "u": "https://v.daum.net/v/20260909063109149",
+     "t": "전세계 ‘유가 패닉’ 빠졌는데…“트럼프는 주식으로 440억 벌어”",
+     "u": "https://v.daum.net/v/20260910055808897",
      "press": "Daum"
     },
     {
-     "t": "왕즈이 20승 5패·야마구치 7연승·미야자키 8전 전승...안세영의 AG 2연패, 적은 라이벌 아닌 '열흘 강행군' - 조선비즈",
-     "u": "https://biz.chosun.com/sports/sports_general/2026/09/09/HEZTMN3FGZRGMZDBMUZTINBXGA/",
-     "press": "Chosunbiz"
+     "t": "이란전 6개월간 트럼프 석유·가스 주식 평가액 최대 59억원↑",
+     "u": "https://www.yna.co.kr/view/AKR20260910001800072",
+     "press": "연합뉴스"
     },
     {
-     "t": "100주 연속 세계 1위‥\"저 이기기 어려워요\"",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6850479_37004.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "창신메모리테크놀로지",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "창신메모리 “LPDDR6 세계 최초 양산”…삼전닉스 추격 위기감",
-     "u": "https://v.daum.net/v/YbxtDme4CI",
-     "press": "Daum"
-    },
-    {
-     "t": "[유효상 칼럼] 왜 '붉은 샌드위치 위기(The Red Sandwich Crisis)'를 두려워해야 할까 - 머니투데이",
-     "u": "https://www.mt.co.kr/opinion/2026/09/08/2026090709445281668",
-     "press": "머니투데이"
-    },
-    {
-     "t": "싼 가격과 쓸 만한 성능으로 한국 위협하는 중국 반도체",
-     "u": "https://weekly.donga.com/List/article/all/11/6378637/1",
-     "press": "주간동아"
-    }
-   ]
-  },
-  {
-   "name": "im hero",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'Going to Lim Young-woong Concert' Kim Young-gwang, Captivated Again: \"Someone W",
-     "u": "https://www.starnewskorea.com/en/star/2026/09/08/2026090822510373333",
-     "press": "스타뉴스"
-    },
-    {
-     "t": "Filled Stadiums With Domestic Fandom... 1 Million Middle-Aged Fans Transform the",
-     "u": "https://www.asiae.co.kr/en/article/2026090717025822393",
-     "press": "아시아경제"
-    },
-    {
-     "t": "Im Young-woong hits 1 million cumulative concertgoers on 10th debut anniversary",
-     "u": "https://mbiz.heraldcorp.com/article/10865262",
+     "t": "휴전 발표 2시간 전 ‘귀신같이’ 팔았다…이란戰 중 에너지주로 59억 벌어들인 트럼프",
+     "u": "https://biz.heraldcorp.com/article/10868338",
      "press": "헤럴드경제"
     }
    ]
   },
   {
-   "name": "황보라",
-   "idx": 20,
+   "name": "유무 인 복합 전투 체계",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘육아 회피형’ 황보라, 2살 子 훈육 제대로 시작 “통제, 질서가 안 돼”(보라이어티)",
-     "u": "https://v.daum.net/v/20260908195410717",
+     "t": "폴란드서 FA-50 입증한 KAI…이번엔 KF-21·무인기 띄운다",
+     "u": "https://v.daum.net/v/20260909141607624",
      "press": "Daum"
     },
     {
-     "t": "황보라, '통제 불가' 2세 아들과 전시회 진땀…관람객에 연신 사과 [보라이어티]",
-     "u": "https://m.news.nate.com/view/20260908n36238?mid=e01&list=recent&cpcd=",
-     "press": "네이트"
-    },
-    {
-     "t": "황보라, 육아 성향 진단에 충격 “나는 회피형…사실 맞는 것 같아”",
-     "u": "https://sports.donga.com/ent/article/all/20260908/134631178/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "포스코노동조합",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "포스코노조 48시간 부분파업 돌입…창사 56년 만에 처음",
-     "u": "https://www.yna.co.kr/view/AKR20260909011100053",
+     "t": "[영상] 폴란드형 K2전차, 동유럽 최대 방산전시회서 처음 공개",
+     "u": "https://www.yna.co.kr/view/AKR20260909149700704",
      "press": "연합뉴스"
     },
     {
-     "t": "포스코 노조 창사 후 첫 파업…임금협상 접점 못찾아",
-     "u": "https://www.sedaily.com/article/20088690",
-     "press": "서울경제"
-    },
-    {
-     "t": "이상휘 \"포스코 노사 파업 확산은 막아야 한다\"",
-     "u": "https://www.newsis.com/view/NISX20260908_0003781377",
-     "press": "뉴시스"
+     "t": "KAI, 폴란드 MSPO 참가…차세대공중전투체계 제시 - 머니투데이",
+     "u": "https://www.mt.co.kr/industry/2026/09/09/2026090915443987392",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "추석",
-   "idx": 20,
+   "name": "srt",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "[한밭춘추] 고귀한 추석 선물",
-     "u": "https://v.daum.net/v/20260909070201701",
-     "press": "Daum"
+     "t": "Chicago Dealer Selling Brand-New Dodge Challenger SRT Demon 170",
+     "u": "https://www.autoevolution.com/news/chicago-dealer-selling-brand-new-dodge-challenger-srt-demon-170-275201.html",
+     "press": "autoevolution"
     },
     {
-     "t": "풍성한 한가위, 서울 공원서 보내세요…추석 특별 프로그램 풍성",
-     "u": "https://v.daum.net/v/20260909060246726",
-     "press": "Daum"
+     "t": "Brand-new Dodge Challenger SRT Demon 170 surfaces for sale at Chicago dealer",
+     "u": "https://www.clubalfa.it/en/brand-new-dodge-challenger-srt-demon-170-surfaces-for-sale-at-chicago-dealer-44465",
+     "press": "ClubAlfa.it"
     },
     {
-     "t": "서울시 '월간 나이트런 프로젝트', 여의도공원서 열린다",
-     "u": "https://www.newsis.com/view/NISX20260908_0003781496",
-     "press": "뉴시스"
+     "t": "2023 Dodge Challenger SRT Hellcat Widebody Jailbreak for Sale With 28 Miles",
+     "u": "https://autos.yahoo.com/deals-and-buying-guides/articles/2023-dodge-challenger-srt-hellcat-111200263.html",
+     "press": "Yahoo Autos"
     }
    ]
   },
   {
-   "name": "schd",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Where Will SCHD Stock Be in 5 Years?",
-     "u": "https://www.fool.com/investing/2026/09/06/where-will-schd-stock-be-in-5-years/",
-     "press": "The Motley Fool"
-    },
-    {
-     "t": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
-     "u": "https://www.thestreet.com/investing/etfs/schd-schwab-us-dividend-equity-etf-versus-vig-vanguard-dividend-etf",
-     "press": "TheStreet"
-    },
-    {
-     "t": "How AI And De-Dollarization Could Reshape SCHD (NYSEARCA:SCHD)",
-     "u": "https://seekingalpha.com/article/4941639-how-ai-and-de-dollarization-could-reshape-schd",
-     "press": "Seeking Alpha"
-    }
-   ]
-  },
-  {
-   "name": "김지찬",
+   "name": "별자리",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "삼성 외야수끼리 사이 안 좋다? 터무니없는 소리…\"시기·질투 전혀 없어, 서로 응원한다\"",
-     "u": "https://v.daum.net/v/20260908012328022",
+     "t": "[오늘의 운세] 2026년 09월 10일 띠별 운세",
+     "u": "https://www.ytn.co.kr/_ln/0121_202609100000000001",
+     "press": "YTN"
+    },
+    {
+     "t": "[오늘의 운세] 9월 10일 목요일 (음력 7월 29일) 띠별 운세",
+     "u": "https://www.kyeonggi.com/article/20260907580248",
+     "press": "경기일보"
+    },
+    {
+     "t": "[오늘의 별자리 운세] 9월 10일 목요일 - 조선비즈",
+     "u": "https://biz.chosun.com/culture/culture_general/2026/09/09/R4S3IVFGQVBHHJGVU45XY7SGGY/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "장례",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"나 죽거든 '여기'에 묻어줘\"…세계 최초 이색 '친환경 장례' 호주서 치러져",
+     "u": "https://v.daum.net/v/20260909091639516",
      "press": "Daum"
     },
     {
-     "t": "'김지찬 AG 차출→대체 1순위' 박승규 \"당연한 선발은 없다, 컨디션 좋은 사람이 뛰는 것이 맞아\"",
-     "u": "https://m.news.nate.com/view/20260909n00810",
-     "press": "Nate News"
+     "t": "“45일이면 흙으로 돌아가”…버섯으로 만든 ‘친환경 관’ 출시",
+     "u": "https://www.donga.com/news/It/article/all/20260909/134632651/2",
+     "press": "동아일보"
     },
     {
-     "t": "뜨겁다 구자욱!…생애 첫 타격왕에 삼성 우승·FA 대박 '정조준'",
-     "u": "https://www.newsis.com/view/NISX20260908_0003780810",
-     "press": "뉴시스"
+     "t": "“45일이면 흙으로”… 호주서 첫 '버섯 관' 장례 치러졌다",
+     "u": "https://www.etnews.com/20260908000296",
+     "press": "전자신문"
+    }
+   ]
+  },
+  {
+   "name": "구미시",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "개그맨 이선민 구미시 홍보대사에 위촉",
+     "u": "https://v.daum.net/v/20260909162753597",
+     "press": "Daum"
+    },
+    {
+     "t": "[패트롤] 구미시",
+     "u": "https://m.ekn.kr/view.php?key=20260910026402787",
+     "press": "에너지경제신문"
+    },
+    {
+     "t": "'구미 당기는' 특별한 장터...구미 로컬푸드 페스타",
+     "u": "https://www.ytn.co.kr/_ln/0115_202609091306595738",
+     "press": "YTN"
+    }
+   ]
+  },
+  {
+   "name": "박주봉",
+   "idx": 5,
+   "mv": -5,
+   "news": [
+    {
+     "t": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
+     "u": "https://v.daum.net/v/qtxP6KGhwx",
+     "press": "Daum"
+    },
+    {
+     "t": "애플, 접이식 '아이폰 듀오' 공개…폴더블 시장서 삼성과 격돌",
+     "u": "https://www.yna.co.kr/view/IPT20260910000001365?section=gallery/index",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "안세영, 2주 연속 ‘무결점 우승’…AG 금메달 보인다!",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655922&section_id=28154",
+     "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "삼성 갤럭시 s26",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"내년에도 메모리 가격 상승...스마트폰 시장서 삼성·애플 수혜\"",
+     "u": "https://zdnet.co.kr/view/?no=20260908012643",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "메모리값에 스마트폰 '선구매'…삼성전자 2Q 출하량 1위",
+     "u": "https://v.daum.net/v/WQcL3HEovd",
+     "press": "Daum"
+    },
+    {
+     "t": "“순식간에 20만원 올랐다” “그냥 작년에 살 걸”…이런 사람 많더니, 삼성폰 뜻밖의 결과",
+     "u": "https://biz.heraldcorp.com/article/10868087",
+     "press": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "name": "chelsea đấu với leeds",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Video bóng đá Chelsea - Leeds: Ngược dòng điên rồ, đẳng cấp ngôi sao (League Cup",
+     "u": "https://www.24h.com.vn/bong-da/video-bong-da-chelsea-leeds-ruot-duoi-dien-ro-dang-cap-ngoi-sao-league-cup-c48a1793472.html",
+     "press": "Tin tức 24h"
+    },
+    {
+     "t": "Nhận định bóng đá Chelsea vs Leeds, 02h00 ngày 10/9: Leeds lỳ lợm",
+     "u": "https://bongdaplus.vn/cup-lien-doan-anh/nhan-dinh-bong-da-chelsea-vs-leeds-02h00-ngay-10-9-leeds-ly-lom-5157742609.html",
+     "press": "Tạp chí Bóng đá"
+    },
+    {
+     "t": "HLV Xabi Alonso yêu cầu Chelsea sửa sai ở hàng thủ",
+     "u": "https://yeuthethao.net.vn/hlv-xabi-alonso-yeu-cau-chelsea-sua-sai-o-hang-thu-d894252.html",
+     "press": "yeuthethao.net.vn"
     }
    ]
   }
