@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260910",
- "updated": "2026-09-10T07:53:04+09:00",
+ "targetDate": "20260911",
+ "updated": "2026-09-11T07:57:35+09:00",
  "list": [
   {
-   "name": "코레일 추석예매",
+   "name": "lg에너지솔루션",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "7일부터 추석 기차표 예매 시작…온라인서만 판매",
-     "u": "https://www.yna.co.kr/view/MYH20260908002400038",
+     "t": "현대차·기아, LG엔솔·원익피앤이와 UBESS 실증 추진",
+     "u": "https://www.electimes.com/news/articleView.html?idxno=372283",
+     "press": "전기신문"
+    },
+    {
+     "t": "현대차그룹, LG엔솔·원익피앤이와 EV 폐배터리 ESS로 재활용 실증",
+     "u": "https://www.yna.co.kr/view/PYH20260910161100013",
      "press": "연합뉴스"
     },
     {
-     "t": "추석 열차표 놓쳤다면 ‘예약대기 먼저’…미결제 취소표, 15일 후 대기자에 우선 배정",
-     "u": "https://v.daum.net/v/betmxyjJNt?f=p",
+     "t": "\"오래된 전기차 배터리에 '두 번째 생애' 선물\"…현대차, 사용 후 배터리 ESS 첫 활용",
+     "u": "https://v.daum.net/v/20260910140019770",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "폴더 블 스마트 폰",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "베일 벗은 애플 첫 ‘접는 아이폰’… “갤럭시보다 두껍고 무거워”",
+     "u": "https://www.donga.com/news/Economy/article/all/20260910/134646232/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "\"원조는 삼성인데\" 중국폰에 애플까지 가세…폴더블 판 흔들린다 - 머니투데이",
+     "u": "https://www.mt.co.kr/tech/2026/09/11/2026091016151273317",
+     "press": "머니투데이"
+    },
+    {
+     "t": "애플, '아이폰 듀오' 공개‥폴더블폰 시장 촉각",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6850799_37012.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "코레일 추석예매",
+   "idx": 20,
+   "mv": -2,
+   "news": [
+    {
+     "t": "“서버 확충했다더니”…KTX 추석 경부선 예매 대기만 ‘50만 명’ 부글부글",
+     "u": "https://v.daum.net/v/20260910132743461",
      "press": "Daum"
     },
     {
-     "t": "코레일 '2026 추석 승차권 예매'…용산 출·도착 호남·전라선",
-     "u": "https://www.etoday.co.kr/news/view/2623305",
+     "t": "김은혜, KTX 불법 예매대행 방치 지적…“긴급 차단해야”",
+     "u": "https://www.kyeonggi.com/article/20260910580366",
+     "press": "경기일보"
+    },
+    {
+     "t": "코레일 '2026 추석 승차권 예매' 마지막날…경부선 KTX",
+     "u": "https://www.etoday.co.kr/news/view/2624271",
      "press": "이투데이"
     }
    ]
   },
   {
-   "name": "주식",
-   "idx": 100,
+   "name": "화사",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "전세계 ‘유가 패닉’ 빠졌는데…“트럼프는 주식으로 440억 벌어”",
-     "u": "https://v.daum.net/v/20260910055808897",
+     "t": "마크롱 여사 만난 화사, 파리 길거리서 ‘벌러덩’ [IS하이컷]",
+     "u": "https://v.daum.net/v/1Enp2P3GwD",
      "press": "Daum"
     },
     {
-     "t": "이란전 6개월간 트럼프 석유·가스 주식 평가액 최대 59억원↑",
-     "u": "https://www.yna.co.kr/view/AKR20260910001800072",
+     "t": "파리를 홀린 화사, 패션 피플 사이에서도 단연 눈에 띈 이유",
+     "u": "https://www.harpersbazaar.co.kr/article/1909410",
+     "press": "하퍼스 바자 코리아"
+    },
+    {
+     "t": "'파리' 간 화사, 잘록 허리 과시…물오른 미모까지 [N샷]",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6286474",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "thứ hạng của man utd gặp câu lạc bộ bóng đá sabah",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Champions League thử thách chiều sâu của Man Utd",
+     "u": "https://vnexpress.net/champions-league-thu-thach-chieu-sau-cua-man-utd-5118560.html",
+     "press": "VnExpress"
+    },
+    {
+     "t": "Nhận định bóng đá MU vs Sabah (2h00 ngày 11/9): Quỷ đỏ quyết thắng",
+     "u": "https://bongda24h.vn/nhan-dinh-bong-da/nhan-dinh-mu-vs-sabah-2h00-ngay-11-9-quy-do-quyet-thang-344-459390.html",
+     "press": "Bongda24h"
+    },
+    {
+     "t": "マンチェスター・ユナイテッドはオールド・トラッフォードでサバFAを圧倒し、チャンピオンズリーグで華々しいスタートを切った。",
+     "u": "https://www.vietnam.vn/ja/vui-dap-sabah-fa-tai-old-trafford-manchester-united-ra-quan-tung-bung-o-champions-league",
+     "press": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "name": "해리 케인",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "73골 터트린 ‘득점 기계’ 해리 케인, 생애 첫 발롱도르 도전",
+     "u": "https://v.daum.net/v/8y6F8me45K",
+     "press": "Daum"
+    },
+    {
+     "t": "메시·음바페·케인…’발롱도르’ 후보 30명 발표",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH202609092329563p1",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "‘월드컵 우승’ 로드리냐, ‘73골’ 케인이냐",
+     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260910.22015002875",
+     "press": "국제신문"
+    }
+   ]
+  },
+  {
+   "name": "알 테오 젠",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "알테오젠, 올해만 6.2조 기술수출…빅파마 홀린 ‘플랫폼의 힘’",
+     "u": "https://v.daum.net/v/20260910103008221",
+     "press": "Daum"
+    },
+    {
+     "t": "신한증권, 알테오젠 목표가↓…\"노바티스 신약 1개 3상 실패\"",
+     "u": "https://www.yna.co.kr/view/AKR20260909030400008",
      "press": "연합뉴스"
     },
     {
-     "t": "휴전 발표 2시간 전 ‘귀신같이’ 팔았다…이란戰 중 에너지주로 59억 벌어들인 트럼프",
-     "u": "https://biz.heraldcorp.com/article/10868338",
-     "press": "헤럴드경제"
+     "t": "알테오젠, 유성 둔곡 생산라인 통해 의약품생산 자립 추진",
+     "u": "https://m.joongdo.co.kr/view.php?key=20260910010003499",
+     "press": "중도일보"
     }
    ]
   },
   {
-   "name": "유무 인 복합 전투 체계",
-   "idx": 25,
+   "name": "당뇨병",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "폴란드서 FA-50 입증한 KAI…이번엔 KF-21·무인기 띄운다",
-     "u": "https://v.daum.net/v/20260909141607624",
-     "press": "Daum"
-    },
-    {
-     "t": "[영상] 폴란드형 K2전차, 동유럽 최대 방산전시회서 처음 공개",
-     "u": "https://www.yna.co.kr/view/AKR20260909149700704",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "KAI, 폴란드 MSPO 참가…차세대공중전투체계 제시 - 머니투데이",
-     "u": "https://www.mt.co.kr/industry/2026/09/09/2026090915443987392",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "srt",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Chicago Dealer Selling Brand-New Dodge Challenger SRT Demon 170",
-     "u": "https://www.autoevolution.com/news/chicago-dealer-selling-brand-new-dodge-challenger-srt-demon-170-275201.html",
-     "press": "autoevolution"
-    },
-    {
-     "t": "Brand-new Dodge Challenger SRT Demon 170 surfaces for sale at Chicago dealer",
-     "u": "https://www.clubalfa.it/en/brand-new-dodge-challenger-srt-demon-170-surfaces-for-sale-at-chicago-dealer-44465",
-     "press": "ClubAlfa.it"
-    },
-    {
-     "t": "2023 Dodge Challenger SRT Hellcat Widebody Jailbreak for Sale With 28 Miles",
-     "u": "https://autos.yahoo.com/deals-and-buying-guides/articles/2023-dodge-challenger-srt-hellcat-111200263.html",
-     "press": "Yahoo Autos"
-    }
-   ]
-  },
-  {
-   "name": "별자리",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[오늘의 운세] 2026년 09월 10일 띠별 운세",
-     "u": "https://www.ytn.co.kr/_ln/0121_202609100000000001",
-     "press": "YTN"
-    },
-    {
-     "t": "[오늘의 운세] 9월 10일 목요일 (음력 7월 29일) 띠별 운세",
-     "u": "https://www.kyeonggi.com/article/20260907580248",
-     "press": "경기일보"
-    },
-    {
-     "t": "[오늘의 별자리 운세] 9월 10일 목요일 - 조선비즈",
-     "u": "https://biz.chosun.com/culture/culture_general/2026/09/09/R4S3IVFGQVBHHJGVU45XY7SGGY/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "장례",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"나 죽거든 '여기'에 묻어줘\"…세계 최초 이색 '친환경 장례' 호주서 치러져",
-     "u": "https://v.daum.net/v/20260909091639516",
-     "press": "Daum"
-    },
-    {
-     "t": "“45일이면 흙으로 돌아가”…버섯으로 만든 ‘친환경 관’ 출시",
-     "u": "https://www.donga.com/news/It/article/all/20260909/134632651/2",
+     "t": "성인 6명중 1명 앓는 ‘이 질환’…“방치시 시력상실”",
+     "u": "https://www.donga.com/news/Society/article/all/20260910/134641719/1",
      "press": "동아일보"
     },
     {
-     "t": "“45일이면 흙으로”… 호주서 첫 '버섯 관' 장례 치러졌다",
-     "u": "https://www.etnews.com/20260908000296",
-     "press": "전자신문"
+     "t": "젊은 당뇨병, ‘이 수치’ 변화가 갈랐다… 27만명 분석 결과",
+     "u": "https://health.chosun.com/site/data/html_dir/2026/09/09/2026090901400.html",
+     "press": "헬스조선"
+    },
+    {
+     "t": "건강검진표 다시 봐라…‘이 수치’ 오르면 당뇨 위험 최대 118%↑",
+     "u": "https://v.daum.net/v/20260909160211361",
+     "press": "Daum"
     }
    ]
   },
   {
-   "name": "구미시",
+   "name": "이다해",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "개그맨 이선민 구미시 홍보대사에 위촉",
-     "u": "https://v.daum.net/v/20260909162753597",
-     "press": "Daum"
+     "t": "이다해, 임신 근황…여전히 뼈말라 “압박스타킹 신고 잘 돌아다니는 임산부”",
+     "u": "https://www.koreadaily.com/article/20260908180448207",
+     "press": "미주중앙일보"
     },
     {
-     "t": "[패트롤] 구미시",
-     "u": "https://m.ekn.kr/view.php?key=20260910026402787",
-     "press": "에너지경제신문"
+     "t": "‘세븐♥’ 이다해, 만삭 맞아?…D라인 실종된 늘씬 근황",
+     "u": "https://sports.khan.co.kr/article/202609091441003",
+     "press": "스포츠경향"
     },
     {
-     "t": "'구미 당기는' 특별한 장터...구미 로컬푸드 페스타",
-     "u": "https://www.ytn.co.kr/_ln/0115_202609091306595738",
-     "press": "YTN"
+     "t": "이다해, 출산 두 달인데 “임산부 아닌 것 같아요”…명품 아기 옷장 눈독",
+     "u": "https://www.mk.co.kr/news/entertain/12148966",
+     "press": "매일경제"
     }
    ]
   },
   {
-   "name": "박주봉",
-   "idx": 5,
-   "mv": -5,
-   "news": [
-    {
-     "t": "'日에서 神으로 추앙' 韓 전설의 당황·복잡한 감정 \"20년 동고동락, 이제 적이라니 부담이네요\"",
-     "u": "https://v.daum.net/v/qtxP6KGhwx",
-     "press": "Daum"
-    },
-    {
-     "t": "애플, 접이식 '아이폰 듀오' 공개…폴더블 시장서 삼성과 격돌",
-     "u": "https://www.yna.co.kr/view/IPT20260910000001365?section=gallery/index",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "안세영, 2주 연속 ‘무결점 우승’…AG 금메달 보인다!",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655922&section_id=28154",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "삼성 갤럭시 s26",
+   "name": "사업",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"내년에도 메모리 가격 상승...스마트폰 시장서 삼성·애플 수혜\"",
-     "u": "https://zdnet.co.kr/view/?no=20260908012643",
-     "press": "지디넷코리아"
+     "t": "민경선 고양시장, ‘직소민원 소통의 날’ 운영… 현장 목소리 청취",
+     "u": "https://www.munhwa.com/article/11616213",
+     "press": "문화일보"
     },
     {
-     "t": "메모리값에 스마트폰 '선구매'…삼성전자 2Q 출하량 1위",
-     "u": "https://v.daum.net/v/WQcL3HEovd",
-     "press": "Daum"
+     "t": "민경선 고양시장 “행정절차 지연 없도록 현안사업 꼼꼼히 챙길 것”",
+     "u": "https://www.asiae.co.kr/article/2026091107415390851",
+     "press": "아시아경제"
     },
     {
-     "t": "“순식간에 20만원 올랐다” “그냥 작년에 살 걸”…이런 사람 많더니, 삼성폰 뜻밖의 결과",
-     "u": "https://biz.heraldcorp.com/article/10868087",
-     "press": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "name": "chelsea đấu với leeds",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Video bóng đá Chelsea - Leeds: Ngược dòng điên rồ, đẳng cấp ngôi sao (League Cup",
-     "u": "https://www.24h.com.vn/bong-da/video-bong-da-chelsea-leeds-ruot-duoi-dien-ro-dang-cap-ngoi-sao-league-cup-c48a1793472.html",
-     "press": "Tin tức 24h"
-    },
-    {
-     "t": "Nhận định bóng đá Chelsea vs Leeds, 02h00 ngày 10/9: Leeds lỳ lợm",
-     "u": "https://bongdaplus.vn/cup-lien-doan-anh/nhan-dinh-bong-da-chelsea-vs-leeds-02h00-ngay-10-9-leeds-ly-lom-5157742609.html",
-     "press": "Tạp chí Bóng đá"
-    },
-    {
-     "t": "HLV Xabi Alonso yêu cầu Chelsea sửa sai ở hàng thủ",
-     "u": "https://yeuthethao.net.vn/hlv-xabi-alonso-yeu-cau-chelsea-sua-sai-o-hang-thu-d894252.html",
-     "press": "yeuthethao.net.vn"
+     "t": "[경기in] 경기도의회 송규근 의원, “10년 숙원 ‘고양 영상문화단지’ 도-시 적극 협력으로 조속히 추진해야”",
+     "u": "http://www.gipress.com/638985",
+     "press": "경기in"
     }
    ]
   }
