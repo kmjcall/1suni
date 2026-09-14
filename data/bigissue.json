@@ -1,228 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260914",
- "updated": "2026-09-14T07:48:19+09:00",
+ "targetDate": "20260915",
+ "updated": "2026-09-15T08:41:42+09:00",
  "list": [
   {
-   "name": "이강인",
+   "name": "김호령",
    "idx": 100,
-   "mv": 0,
-   "news": [
-    {
-     "t": "'바르셀로나 이적 요청 거부, 의문의 팀 훈련 불참'…아틀레티코, 이강인 의존도 더 높아진다",
-     "u": "https://v.daum.net/v/20260913210329584",
-     "press": "Daum"
-    },
-    {
-     "t": "아틀레티코, 이강인 빠지자 3골 몰아치고 소시에다드에 완승",
-     "u": "https://www.yna.co.kr/view/AKR20260914008200007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "이강인 교체 아웃→日구보 뒤늦게 교체 출전... 무산된 동갑내기 절친 맞대결 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/14/2026091403574587520",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "복권",
-   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "“아빠, 거짓말이지” 군 복무 아들도 ‘깜짝’…복권 1·2등 동시 당첨됐다",
-     "u": "https://m.go.seoul.co.kr/news/society/2026/09/13/20260913500081",
-     "press": "서울Pn"
-    },
-    {
-     "t": "\"이제 자식들에게 빚 물려줄 일은 없어요\"…복권 1등 당첨 가장 '뿌듯'",
-     "u": "https://v.daum.net/v/quYuknQ9Z7",
+     "t": "‘홀짝 대전’ 홀수 팀이 웃었다…AI “KT 1위, LG 3위, 두산 5위 간다” [어제의 프로야구]",
+     "u": "https://v.daum.net/v/ZIUCsMV73f?f=p",
      "press": "Daum"
     },
     {
-     "t": "\"자식들에게 빚은 안 물려줘\"…복권 1등 당첨자의 바람",
-     "u": "https://www.newsis.com/view/NISX20260913_0003787065",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "로베르토 데 제르비",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'막장이다!' 로베르토 데 제르비 감독, 마티스 텔 향한 분노…내부 분열 우려→\"아무 문제 없다\" 다급히 해명",
-     "u": "https://www.chosun.com/sports/world-football/2026/09/13/GRQWCYTDGY3WMMJSMQ2TCMZXGU/",
+     "t": "9월 유일한 오점 '3연패' 이유? \"그 타자 하나 때문에 졌잖아\" 외인 각성시킨 사령탑의 한마디 [수원포커스]",
+     "u": "https://www.chosun.com/sports/baseball/2026/09/14/GNTDINJVGUYTIZJUG43GEYJWMI/",
      "press": "조선일보"
     },
     {
-     "t": "토트넘 vs 에버튼, 프리미어리그 런던 격돌",
-     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3693848",
-     "press": "국제뉴스"
-    },
-    {
-     "t": "'6200억 투자 했건만' 무기력한 토트넘, 새 시대는 헛된 희망?···에버턴전 0-0 '개막 4경기 무득점'",
-     "u": "https://sports.news.nate.com/view/20260913n10800",
-     "press": "네이트"
+     "t": "\"아빌라 오면 우승인데\" 1위 질주에도 왜 ’폰세 능가 외인‘ 갈망하나…빅게임 피처 부재→KS 직행에 모든 걸 건다 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/13/202609130613772628O",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "보루시아 묀헨글라트바흐",
-   "idx": 5,
+   "name": "박수홍",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "'어깨부상 아시안게임 탈락에 소속팀 감독까지 경질' 옌스 카스트로프에게 닥친 아픈 시련 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/13/202609132117773170O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "[오피셜] 결국 경질 엔딩…韓 국대 옌스, 중용 구상했던 감독과 결별…묀헨글라트바흐, '3연패·12실점' 폴란스키 전격 해임",
-     "u": "https://sports.news.nate.com/view/20260913n15161",
-     "press": "네이트"
-    },
-    {
-     "t": "[오피셜] '부상으로 자리 비운 사이 감독 경질'...'태극전사' 카스트로프 대형 변수→복귀 후 입지 '안갯속'",
-     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553535894",
-     "press": "스포탈코리아"
-    }
-   ]
-  },
-  {
-   "name": "현빈",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"많이 꼴불견\" 손예진, 아들 외모자랑 후회 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/09/12/2026091214390215601",
-     "press": "머니투데이"
-    },
-    {
-     "t": "손예진, 아들 외모에 자신감 폭발 “배우 안 하기도 힘든 얼굴”",
-     "u": "https://v.daum.net/v/20260914071646808",
+     "t": "'기내 민폐 사과' 박수홍·김다예, 3주 만 유튜브 복귀…\"요즘 이렇게 지내요\" [MD이슈]",
+     "u": "https://v.daum.net/v/zTXJbjJ6Iv",
      "press": "Daum"
     },
     {
-     "t": "'냉부' 손예진 입맛 사로잡은 권성준 셰프…'9연승 달성' [RE:TV]",
-     "u": "https://www.news1.kr/entertain/broadcast-tv/6289004",
-     "press": "뉴스1"
+     "t": "박수홍, ‘비행기 지연 논란’ 후 유튜브 복귀..“요즘 이렇게 지내요”(행복해다홍)",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/14/MYZDQYJZG5RDEYZYHAZWENLBGQ/",
+     "press": "조선일보"
+    },
+    {
+     "t": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌파[종합]",
+     "u": "https://m.newsen.com/news_view.php?uid=202609141730050310",
+     "press": "뉴스엔"
     }
    ]
   },
   {
-   "name": "신유빈",
-   "idx": 5,
+   "name": "앞머리",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "아시안게임 탁구: 신유빈 포함 한국 대표팀 경기 일정·관전 포인트 [아이치-나고야 2026]",
-     "u": "https://www.olympics.com/ko/news/team-korea-schedule-preview-table-tennis-asian-games-2026",
-     "press": "Olympic Channel"
+     "t": "나나처럼 앞머리 이렇게 자르면 도파민 터집니다",
+     "u": "https://www.elle.co.kr/article/1909534",
+     "press": "엘르 코리아 │ ELLE KOREA"
     },
     {
-     "t": "‘수원의 딸’ 신유빈, 혼합복식까지...금메달 4개 조준 [권종오의 IMAGINE 나고야]",
-     "u": "https://www.kyeonggi.com/article/20260913580274",
-     "press": "경기일보"
+     "t": "풀뱅, 촌스러울까 도전하기 꺼려졌다면?",
+     "u": "https://www.allurekorea.com/2026/09/14/%EC%9A%94%EC%A6%98-%EB%98%90-%EB%8B%A4%EC%8B%9C-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%ED%92%80%EB%B1%85-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%8A%B8%EB%A0%8C%EB%94%94%ED%95%B4/",
+     "press": "allure Korea"
     },
     {
-     "t": "[아시안게임] ㉖세대교체 마친 한국탁구, 절대강자 중국에 도전장",
-     "u": "https://www.yna.co.kr/view/AKR20260910157100007",
-     "press": "연합뉴스"
+     "t": "아이유·고소영도 잘랐다! 올가을 단발 헤어가 뜨는 이유",
+     "u": "https://www.cosmopolitan.co.kr/article/1909450",
+     "press": "www.cosmopolitan.co.kr"
     }
    ]
   },
   {
-   "name": "real sociedad vs atlético madrid",
-   "idx": 5,
+   "name": "띠별 운세",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "Lo mejor, para el final",
-     "u": "https://as.com/futbol/primera/lo-mejor-para-el-final-f202609-n/",
-     "press": "Diario AS"
+     "t": "[오늘의 운세] 2026년 09월 15일 띠별 운세",
+     "u": "https://www.ytn.co.kr/_ln/0121_202609150000000001",
+     "press": "YTN"
     },
     {
-     "t": "El Atlético vence pero no convence ante una sólida Real Sociedad",
-     "u": "https://elpais.com/deportes/futbol/2026-09-13/el-atletico-vence-pero-no-convence-ante-una-solida-real-sociedad.html",
-     "press": "EL PAÍS"
+     "t": "[오늘의 운세] 9월 15일 화요일 (음력 8월 5일 壬辰)",
+     "u": "https://www.chosun.com/national/national_general/2026/09/14/HWDKVJ77NNHSXEQHMV52LIM5YY/",
+     "press": "조선일보"
     },
     {
-     "t": "Un polémico penalti allana la engañosa goleada del Atlético en Anoeta",
-     "u": "https://www.abc.es/deportes/atletico-madrid/polemico-penalti-allana-enganosa-goleada-atletico-anoeta-20260913230029-nt.html",
-     "press": "ABC"
+     "t": "[오늘의 운세/9월 15일]",
+     "u": "https://www.donga.com/news/Culture/article/all/20260915/134668008/2",
+     "press": "동아일보"
     }
    ]
   },
   {
-   "name": "해군",
-   "idx": 5,
+   "name": "주가",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "한산도함, 130일간 해외 순항… 해사 81기 140명 '초급장교 실전훈련'",
-     "u": "https://www.newspim.com/news/view/20260913000067",
-     "press": "뉴스핌"
-    },
-    {
-     "t": "지구 한 바퀴 도는 '해군, 순항훈련전단' 미 펜사콜라 기지 최초 진입, 14년 만의 남미 기항",
-     "u": "https://v.daum.net/v/F6sRVA8BcB?f=p",
+     "t": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한적”",
+     "u": "https://v.daum.net/v/20260914202529052",
      "press": "Daum"
     },
     {
-     "t": "해사생도들 태운 순항훈련전단 출항‥4개월간 5만km 항해",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6851227_36911.html",
+     "t": "'30만전자·200만닉스 부활' 헛된 꿈인가…암울한 전망",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02505926645580448",
+     "press": "마켓인"
+    },
+    {
+     "t": "‘하닉 하락 적중했던 그 보고서’…이번엔 삼성전자 목표가 낮췄다",
+     "u": "https://www.munhwa.com/article/11616953",
+     "press": "문화일보"
+    }
+   ]
+  },
+  {
+   "name": "하프마라톤",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'하프 마라톤 도전' 정준하 \"116kg, 나 잘못된 거 같아\"..'무도런 경주' D-7 근황 [스타이슈]",
+     "u": "https://v.daum.net/v/yKHszHlwTX",
+     "press": "Daum"
+    },
+    {
+     "t": "\"목 90도 꺾여\" 희귀 난치병 56세 이봉주, 근황 공개...몸 상태 호전 \"포기하면 그걸로 끝\" 당찬 각오로 하프마라톤 완주",
+     "u": "https://v.daum.net/v/20260915043137095",
+     "press": "Daum"
+    },
+    {
+     "t": "이봉주와 함께 달린다…‘2026 서울동행마라톤’ 11월 1일 개최",
+     "u": "https://newsyonhap.com/news/124695",
+     "press": "뉴스N연합"
+    }
+   ]
+  },
+  {
+   "name": "거래소",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'퇴근장' 첫날 1조 8천억 거래‥한때 시스템 '혼선'",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851831_37012.html",
      "press": "MBC 뉴스"
+    },
+    {
+     "t": "거래소 애프터마켓 개장 첫날, 거래대금 1.8조…당일 전체의 6.6%",
+     "u": "https://www.khan.co.kr/article/202609150809001",
+     "press": "경향신문"
+    },
+    {
+     "t": "밤 8시 주식거래 첫날부터 ‘롤러코스터’…상한가 찍고 20% 급락",
+     "u": "https://weekly.chosun.com/news/articleView.html?idxno=55268",
+     "press": "주간조선"
     }
    ]
   },
   {
-   "name": "황신혜",
-   "idx": 5,
+   "name": "김소영",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"아파서 못 갈 수도\" 황신혜, 떠나기 전 걱정가득..\"母 대상포진·딸 장염\"",
-     "u": "https://v.daum.net/v/y28kNLx2CM",
+     "t": "“퇴직금 3000만원으로 시작, 70억 사업가로”…‘오상진 아내’ 김소영, ‘깜짝’ 근황",
+     "u": "https://v.daum.net/v/VgP8eV7150",
      "press": "Daum"
     },
     {
-     "t": "\"꽃 달았다” 황신혜, 60대 맞아? 밀라노에서 패션센스 폭발",
-     "u": "https://www.osen.co.kr/article/G1112875309",
-     "press": "OSEN"
+     "t": "“사업 70억 투자 받아 美 진출”…‘대박 근황’ 전한 아나운서 출신 女 정체",
+     "u": "https://m.seoul.co.kr/news/entertainment/broadcastN/2026/09/13/20260913500084",
+     "press": "서울신문"
     },
     {
-     "t": "황신혜, '컴퓨터 미인'은 세월도 비켜가나…\"약 20년 전 온 피렌체\"",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/09/13/MI2TKMTFHE2WIMRVHFTDAN3FG4/",
-     "press": "Chosunbiz"
+     "t": "김소영 \"1~2시간에 책 1권 읽어\"",
+     "u": "https://www.segye.com/newsView/20260913504422",
+     "press": "세계일보"
     }
    ]
   },
   {
-   "name": "산불",
-   "idx": 5,
+   "name": "장민호",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "성묫길 산불 막는다…대구시, 추석연휴 비상대응체계 가동",
-     "u": "https://v.daum.net/v/20260913103159549",
+     "t": "‘전설의 사내’ 성리, 연기 도전…장민호 “잠깐만” 급제지 이유는",
+     "u": "https://v.daum.net/v/20260914132327989?f=p",
      "press": "Daum"
     },
     {
-     "t": "추석 연휴 벌초·성묫길 '안전주의보'… \"산불·진드기 조심하세요\"",
-     "u": "https://www.hankookilbo.com/news/article/A2026091311500003342",
-     "press": "한국일보"
+     "t": "'전설의 사내' 성리, 이은하 '아리송해' 재해석 예고",
+     "u": "https://enter.etoday.co.kr/news/view/302439",
+     "press": "비즈엔터"
     },
     {
-     "t": "\"성묫길 산불 차단\"…대구시, 추석 연휴 비상대응체계 가동",
-     "u": "https://www.news1.kr/local/daegu-gyeongbuk/6288841",
-     "press": "뉴스1"
+     "t": "성리 연기도전, 이민호 명대사… 장민호 만류 난리 (전설의 사내)",
+     "u": "https://sports.donga.com/ent/article/all/20260914/134665189/1",
+     "press": "스포츠동아"
     }
    ]
+  },
+  {
+   "name": "외환보유고",
+   "idx": 20,
+   "mv": "NEW",
+   "news": []
   }
  ]
 }
