@@ -1,212 +1,228 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260915",
- "updated": "2026-09-15T08:41:42+09:00",
+ "targetDate": "20260916",
+ "updated": "2026-09-16T08:22:33+09:00",
  "list": [
   {
-   "name": "김호령",
+   "name": "이더리움",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘홀짝 대전’ 홀수 팀이 웃었다…AI “KT 1위, LG 3위, 두산 5위 간다” [어제의 프로야구]",
-     "u": "https://v.daum.net/v/ZIUCsMV73f?f=p",
-     "press": "Daum"
+     "t": "리플XRP·비트코인·이더리움 하락…XRP 거래 1위",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16195297",
+     "press": "톱스타뉴스"
     },
     {
-     "t": "9월 유일한 오점 '3연패' 이유? \"그 타자 하나 때문에 졌잖아\" 외인 각성시킨 사령탑의 한마디 [수원포커스]",
-     "u": "https://www.chosun.com/sports/baseball/2026/09/14/GNTDINJVGUYTIZJUG43GEYJWMI/",
-     "press": "조선일보"
+     "t": "가상자산 시장 숨고르기 속 '시아코인' 12% 급등세… 리플·이더리움 혼조세",
+     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3692949",
+     "press": "국제뉴스"
     },
     {
-     "t": "\"아빌라 오면 우승인데\" 1위 질주에도 왜 ’폰세 능가 외인‘ 갈망하나…빅게임 피처 부재→KS 직행에 모든 걸 건다 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/13/202609130613772628O",
+     "t": "알트코인 장세 온도차 뚜렷…리플(XRP)·도지코인(DOGE) 상승, 레이(RAY)·스토리지(STORJ) 약세",
+     "u": "https://www.cbci.co.kr/news/articleView.html?idxno=606297",
+     "press": "CBC뉴스"
+    }
+   ]
+  },
+  {
+   "name": "렉서스",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[모빌리티 인사이트] 렉서스의 승부수... 신형 ES 전기차, 하이브리드보다 싸게",
+     "u": "https://auto.danawa.com/news/?Work=detail&no=6059605&Tab=N1",
+     "press": "다나와 자동차"
+    },
+    {
+     "t": "\"HEV에 BEV까지 갖췄다\"..렉서스코리아 '올 뉴 ES' 사전계약 시작 - 머니투데이",
+     "u": "https://www.mt.co.kr/industry/2026/09/14/2026091409531029208",
      "press": "머니투데이"
+    },
+    {
+     "t": "중국産 아닌데… 렉서스도 전기차 가격 경쟁 가세",
+     "u": "https://www.chosun.com/economy/auto/2026/09/15/IP44WFH4LRC23BGNFVTU45MICE/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "박수홍",
-   "idx": 100,
+   "name": "elche cf vs real madrid standings",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "'기내 민폐 사과' 박수홍·김다예, 3주 만 유튜브 복귀…\"요즘 이렇게 지내요\" [MD이슈]",
-     "u": "https://v.daum.net/v/zTXJbjJ6Iv",
-     "press": "Daum"
+     "t": "Carlos Espí: “I try to help the team in any way I can and I’m very happy”",
+     "u": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-jugador-1-post-elche-real-madrid-j6-liga-15-09-2026",
+     "press": "Real Madrid CF | Web Oficial"
     },
     {
-     "t": "박수홍, ‘비행기 지연 논란’ 후 유튜브 복귀..“요즘 이렇게 지내요”(행복해다홍)",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/14/MYZDQYJZG5RDEYZYHAZWENLBGQ/",
+     "t": "\"We were going to draw with a dead team\": Mourinho explodes at his players and r",
+     "u": "https://www.goal.com/en/news/we-were-going-to-draw-with-a-dead-team-mourinho-explodes-at-his-players-and-refuses-to-make-an-exception-for-guler/blt87414bdac08de201",
+     "press": "Goal.com"
+    },
+    {
+     "t": "Real Madrid: Arda Güler’s sumptuous free kick",
+     "u": "https://frenchfootballweekly.com/2026/09/15/real-madrid-arda-gulers-sumptuous-free-kick/",
+     "press": "French Football Weekly"
+    }
+   ]
+  },
+  {
+   "name": "투수",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"153km? 지금은 구속 욕심 안 낸다\" 124일 만에 돌아온 1차 지명 파이어볼러, 비로소 '투수'가 되어간다 [오!쎈 대구]",
+     "u": "https://www.chosun.com/sports/baseball/2026/09/16/MFSDAYRRHAZDSZRXGMYGEMRWMU/",
      "press": "조선일보"
     },
     {
-     "t": "박수홍 논란 3주만 컴백→박위는 침묵…김선태는 “일감 없다” 정면돌파[종합]",
-     "u": "https://m.newsen.com/news_view.php?uid=202609141730050310",
-     "press": "뉴스엔"
-    }
-   ]
-  },
-  {
-   "name": "앞머리",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "나나처럼 앞머리 이렇게 자르면 도파민 터집니다",
-     "u": "https://www.elle.co.kr/article/1909534",
-     "press": "엘르 코리아 │ ELLE KOREA"
-    },
-    {
-     "t": "풀뱅, 촌스러울까 도전하기 꺼려졌다면?",
-     "u": "https://www.allurekorea.com/2026/09/14/%EC%9A%94%EC%A6%98-%EB%98%90-%EB%8B%A4%EC%8B%9C-%EC%9C%A0%ED%96%89%ED%95%98%EB%8A%94-%ED%92%80%EB%B1%85-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%8A%B8%EB%A0%8C%EB%94%94%ED%95%B4/",
-     "press": "allure Korea"
-    },
-    {
-     "t": "아이유·고소영도 잘랐다! 올가을 단발 헤어가 뜨는 이유",
-     "u": "https://www.cosmopolitan.co.kr/article/1909450",
-     "press": "www.cosmopolitan.co.kr"
-    }
-   ]
-  },
-  {
-   "name": "띠별 운세",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[오늘의 운세] 2026년 09월 15일 띠별 운세",
-     "u": "https://www.ytn.co.kr/_ln/0121_202609150000000001",
-     "press": "YTN"
-    },
-    {
-     "t": "[오늘의 운세] 9월 15일 화요일 (음력 8월 5일 壬辰)",
-     "u": "https://www.chosun.com/national/national_general/2026/09/14/HWDKVJ77NNHSXEQHMV52LIM5YY/",
-     "press": "조선일보"
-    },
-    {
-     "t": "[오늘의 운세/9월 15일]",
-     "u": "https://www.donga.com/news/Culture/article/all/20260915/134668008/2",
+     "t": "“한국에서 성공한 뒤 MLB 가겠다”던 부산고 에이스는 결국… [베이스볼 비키니]",
+     "u": "https://www.donga.com/news/Sports/article/all/20260912/134655105/1",
      "press": "동아일보"
+    },
+    {
+     "t": "영점 잡힌 153㎞/h...자이언츠 윤성빈, 또 '희망고문' 안기나",
+     "u": "https://v.daum.net/v/zdThsiPKwb",
+     "press": "Daum"
     }
    ]
   },
   {
-   "name": "주가",
-   "idx": 40,
+   "name": "농촌",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "삼성전자 ‘27만원’·SK하이닉스 ‘148만원’...BNK “주가 상단 제한적”",
-     "u": "https://v.daum.net/v/20260914202529052",
+     "t": "보은군의회 \"농어촌기본소득 국비 지원 확대해야\"",
+     "u": "https://v.daum.net/v/20260915131738699",
      "press": "Daum"
     },
     {
-     "t": "'30만전자·200만닉스 부활' 헛된 꿈인가…암울한 전망",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02505926645580448",
-     "press": "마켓인"
+     "t": "농촌 기본소득이 지역 서비스로…농식품부, 사연경 협력모델 5곳 선정",
+     "u": "https://www.news1.kr/economy/trend/6290430",
+     "press": "뉴스1"
     },
     {
-     "t": "‘하닉 하락 적중했던 그 보고서’…이번엔 삼성전자 목표가 낮췄다",
-     "u": "https://www.munhwa.com/article/11616953",
-     "press": "문화일보"
+     "t": "[데스크 칼럼]농촌 살리겠다며 지자체끼리 경쟁시키나",
+     "u": "https://www.ccdn.co.kr/news/articleView.html?idxno=1099691",
+     "press": "충청매일"
     }
    ]
   },
   {
-   "name": "하프마라톤",
-   "idx": 40,
+   "name": "유해진",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "'하프 마라톤 도전' 정준하 \"116kg, 나 잘못된 거 같아\"..'무도런 경주' D-7 근황 [스타이슈]",
-     "u": "https://v.daum.net/v/yKHszHlwTX",
-     "press": "Daum"
+     "t": "[인터뷰]결국 울어버린 유해진 \"고맙습니다, 더 잘할게요\"",
+     "u": "https://www.newsis.com/view/NISX20260915_0003790376",
+     "press": "뉴시스"
     },
     {
-     "t": "\"목 90도 꺾여\" 희귀 난치병 56세 이봉주, 근황 공개...몸 상태 호전 \"포기하면 그걸로 끝\" 당찬 각오로 하프마라톤 완주",
-     "u": "https://v.daum.net/v/20260915043137095",
-     "press": "Daum"
-    },
-    {
-     "t": "이봉주와 함께 달린다…‘2026 서울동행마라톤’ 11월 1일 개최",
-     "u": "https://newsyonhap.com/news/124695",
-     "press": "뉴스N연합"
-    }
-   ]
-  },
-  {
-   "name": "거래소",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'퇴근장' 첫날 1조 8천억 거래‥한때 시스템 '혼선'",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6851831_37012.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "거래소 애프터마켓 개장 첫날, 거래대금 1.8조…당일 전체의 6.6%",
-     "u": "https://www.khan.co.kr/article/202609150809001",
+     "t": "육영수 여사 저격범은 혼자였나···52년 전 진실 좇는 ‘암살자(들)’",
+     "u": "https://www.khan.co.kr/article/202609150600091",
      "press": "경향신문"
     },
     {
-     "t": "밤 8시 주식거래 첫날부터 ‘롤러코스터’…상한가 찍고 20% 급락",
-     "u": "https://weekly.chosun.com/news/articleView.html?idxno=55268",
-     "press": "주간조선"
+     "t": "총성이 감춘 거대 의혹… 암살의 진실 뒤쫓다",
+     "u": "https://v.daum.net/v/20260915203330924",
+     "press": "Daum"
     }
    ]
   },
   {
-   "name": "김소영",
-   "idx": 40,
+   "name": "여수시",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "“퇴직금 3000만원으로 시작, 70억 사업가로”…‘오상진 아내’ 김소영, ‘깜짝’ 근황",
-     "u": "https://v.daum.net/v/VgP8eV7150",
-     "press": "Daum"
+     "t": "제주시, 대형유통시설 가스 안전 점검",
+     "u": "http://www.jemin.com/news/articleView.html?idxno=843013",
+     "press": "제민일보"
     },
     {
-     "t": "“사업 70억 투자 받아 美 진출”…‘대박 근황’ 전한 아나운서 출신 女 정체",
-     "u": "https://m.seoul.co.kr/news/entertainment/broadcastN/2026/09/13/20260913500084",
-     "press": "서울신문"
+     "t": "“비상대응체계 빈틈없이” 송파구, 추석 맞아 ‘생활밀착형 종합대책’ 가동",
+     "u": "https://www.munhwa.com/article/11617290",
+     "press": "문화일보"
     },
     {
-     "t": "김소영 \"1~2시간에 책 1권 읽어\"",
-     "u": "https://www.segye.com/newsView/20260913504422",
-     "press": "세계일보"
+     "t": "당진시, 추석 명절맞이 종합대책 보고회 개최",
+     "u": "https://www.newstown.co.kr/news/articleView.html?idxno=715947",
+     "press": "뉴스타운"
     }
    ]
   },
   {
-   "name": "장민호",
+   "name": "박문성",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘전설의 사내’ 성리, 연기 도전…장민호 “잠깐만” 급제지 이유는",
-     "u": "https://v.daum.net/v/20260914132327989?f=p",
+     "t": "‘홍명보 스리백’ 본 모레노의 결론은 4-4-2 “전임 감독에 대한 평가는 안하겠다” [오!쎈 천안]",
+     "u": "https://v.daum.net/v/QGdNi1yOhO",
      "press": "Daum"
     },
     {
-     "t": "'전설의 사내' 성리, 이은하 '아리송해' 재해석 예고",
-     "u": "https://enter.etoday.co.kr/news/view/302439",
-     "press": "비즈엔터"
+     "t": "'국대 30인 탈락' 이승우, 모레노가 직접 보러 온다...\"잠재 후보군도 확인\" 쇼케이스 기회 잡을까",
+     "u": "https://www.chosun.com/sports/football/2026/09/16/GUZTOY3GGE2DCOBRMUYTCZJYMU/",
+     "press": "조선일보"
     },
     {
-     "t": "성리 연기도전, 이민호 명대사… 장민호 만류 난리 (전설의 사내)",
-     "u": "https://sports.donga.com/ent/article/all/20260914/134665189/1",
-     "press": "스포츠동아"
+     "t": "모레노 축구대표팀 감독, 이틀 연속 아시아 챔피언스리그 관전",
+     "u": "https://imnews.imbc.com/news/2026/sports/article/6851959_36946.html",
+     "press": "MBC 뉴스"
     }
    ]
   },
   {
-   "name": "외환보유고",
-   "idx": 20,
+   "name": "liverpool đấu với tottenham",
+   "idx": 10,
    "mv": "NEW",
-   "news": []
+   "news": [
+    {
+     "t": "Video bóng đá Liverpool - Tottenham: Khoảnh khắc ngôi sao, siêu phẩm ấn định (Le",
+     "u": "https://www.24h.com.vn/bong-da/video-bong-da-liverpool-tottenham-khoanh-khac-ngoi-sao-no-luc-muon-mang-league-cup-c48a1795074.html",
+     "press": "Tin tức 24h"
+    },
+    {
+     "t": "Dự đoán kết quả và đội hình ra sân trận Ipswich vs Arsenal",
+     "u": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-ipswich-vs-arsenal-post1332823.vov",
+     "press": "VOV.VN"
+    },
+    {
+     "t": "Liverpool, Arsenal thẳng tiến ở Cup Liên đoàn",
+     "u": "https://vnexpress.net/liverpool-arsenal-thang-tien-o-cup-lien-doan-5120727.html",
+     "press": "VnExpress"
+    }
+   ]
+  },
+  {
+   "name": "일본 엔",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "DB증권 \"엔화 제한적 강세 예상…자동차 주가 반등 동력\"",
+     "u": "https://www.yna.co.kr/view/AKR20260916021500008",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "[사설]글로벌 금리인상 충격에 대비할 때 - 머니투데이",
+     "u": "https://www.mt.co.kr/opinion/2026/09/15/2026091416103015930",
+     "press": "머니투데이"
+    },
+    {
+     "t": "[블룸버그 칼럼]엔고에 더 강하게 베팅하는 베선트",
+     "u": "https://v.daum.net/v/t5BncyOcAH",
+     "press": "Daum"
+    }
+   ]
   }
  ]
 }
