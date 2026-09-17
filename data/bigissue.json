@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260917",
- "updated": "2026-09-17T08:29:23+09:00",
+ "targetDate": "20260918",
+ "updated": "2026-09-18T08:20:33+09:00",
  "list": [
   {
-   "name": "리그컵",
+   "name": "날씨",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "“손흥민 ‘리더의 부재’ 너무 커” 英 BBC 이상 최고 공신력 언론의 조명 “그는 좋은 방향으로 토트넘을 이끌 수 있다”",
-     "u": "https://v.daum.net/v/qgwf5lwazi",
+     "t": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
+     "u": "https://v.daum.net/v/20260918063302423",
      "press": "Daum"
     },
     {
-     "t": "'리그 4경기 0승-0골' 최악의 토트넘, 컵대회에서도 탈락...17개 슈팅 날리고 리버풀에 1-3 졸전패 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/16/202609160708773987O",
+     "t": "대구·경북 흐리고 곳에 따라 비…낮 기온 21∼26도",
+     "u": "https://www.yna.co.kr/view/AKR20260918008900053",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "남부엔 비 쏟아지는데…경기·인천은 낮 최고 29도 [날씨]",
+     "u": "https://www.kyeonggi.com/article/20260917580566",
+     "press": "경기일보"
+    }
+   ]
+  },
+  {
+   "name": "weather",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "A 50/50 weekend with a dry and seasonable day today followed by a stormy start t",
+     "u": "https://www.wtnh.com/weather/quiet-weather-today/",
+     "press": "WTNH.com"
+    },
+    {
+     "t": "Beautiful Saturday before heavy rain to start Sunday",
+     "u": "https://www.nbcconnecticut.com/weather-news/beautiful-saturday-before-heavy-rain-to-start-sunday/3774280/",
+     "press": "NBC Connecticut"
+    },
+    {
+     "t": "Connecticut faces another soaking rain Sunday. Here’s when it could get heaviest",
+     "u": "https://www.ctinsider.com/weather/article/connecticut-rain-sunday-after-flooding-22436110.php",
+     "press": "CT Insider"
+    }
+   ]
+  },
+  {
+   "name": "김서현",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
+     "u": "https://v.daum.net/v/Zo0seTsAd2",
+     "press": "Daum"
+    },
+    {
+     "t": "'박영현-조병현 아니었다' ERA 4.19 최준용 승부치기 투입→'무사 1·2루 무실점'... 류지현 승부수 통했다 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/18/2026091807315738136",
      "press": "머니투데이"
     },
     {
-     "t": "'리그 0승 0골→리버풀에 1-3 패배' 데 제르비 토트넘 감독, \"우리는 운이 없었다\"",
-     "u": "https://www.koreadaily.com/article/20260915234902011",
-     "press": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "name": "kf-21 보라매",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'KF-21' 1호기 정식 인도…동남아 시장 선점 후 중동으로 영토 넓힌다",
-     "u": "https://www.newsis.com/view/NISX20260916_0003791990",
-     "press": "뉴시스"
-    },
-    {
-     "t": "[르포] 오는 9월말 공군 첫 인도될 ‘KF-21’ 생산라인 가보니…“A4용지 두께 ¼ 오차”[이현호의 방산!톡]",
-     "u": "https://www.sedaily.com/article/20090709",
-     "press": "서울경제"
-    },
-    {
-     "t": "공군, KF-21 전투기 인도식 9월 22일로 연기",
-     "u": "https://www.defensetoday.kr/news/articleView.html?idxno=10634",
-     "press": "디펜스투데이"
-    }
-   ]
-  },
-  {
-   "name": "schd",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "SCHD's 0.06% Fee Hides the Real Cost: March's 31% Reshuffle Sold Two Top-10 Hold",
-     "u": "https://247wallst.com/investing/etf/2026/09/14/schds-0-06-fee-hides-the-real-cost-marchs-31-reshuffle-sold-two-top-10-holdings-out-from-under-holders/",
-     "press": "24/7 Wall St."
-    },
-    {
-     "t": "$10,000 Invested in SCHD a Decade Ago Would Be Worth This Much Today",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/10-000-invested-schd-decade-122500662.html",
-     "press": "Yahoo Finance"
-    },
-    {
-     "t": "SCHD's Stunning Reversal: Schwab's Flagship Dividend ETF Is Up 29% and Climbing",
-     "u": "https://www.fool.com/investing/2026/09/13/schds-stunning-reversal-schwabs-flagship-dividend/",
-     "press": "The Motley Fool"
-    }
-   ]
-  },
-  {
-   "name": "fc barcelona vs racing santander standings",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Is Joan Garcia injured? Barcelona stopper replaced by Wojciech Szczęsny against ",
-     "u": "https://www.barcablaugranes.com/barcelona-team-news/132598/joan-garcia-injured-wojciech-szczesny-racing",
-     "press": "Barca Blaugranes"
-    },
-    {
-     "t": "Barcelona boss Flick provides Joan García injury update",
-     "u": "https://getfootballnewsspain.com/barcelona-boss-flick-provides-joan-garcia-injury-update/",
-     "press": "Get Spanish Football News"
-    },
-    {
-     "t": "Will he miss the Sevilla clash? The secret behind Juan Garcia's substitution on ",
-     "u": "https://www.goal.com/en/news/will-he-miss-the-sevilla-clash-the-secret-behind-juan-garcia-s-substitution-on-the-night-of-barcelona-s-seven-goal-haul/bltdf9f626b14472317",
-     "press": "Goal.com"
-    }
-   ]
-  },
-  {
-   "name": "la liga",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Rafinha scores hat trick as Barcelona routs Racing 7-2 to reach six straight win",
-     "u": "https://biz.chosun.com/en/en-sports/2026/09/17/JOO3ZICFHFELJKFPSXZWJIPKAI/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "Barcelona Crush Racing 7-2 Behind Raphinha Hat-Trick, Yamal",
-     "u": "https://www.chosun.com/english/sports-en/2026/09/17/VY4S4P4EMVAHZGKQCBNTI5LPMY/",
-     "press": "조선일보"
-    },
-    {
-     "t": "Barca hit Racing for seven as Atletico crush Osasuna",
-     "u": "https://uk.sports.yahoo.com/news/barca-hit-racing-seven-atletico-220655819.html",
-     "press": "Yahoo Sports UK"
-    }
-   ]
-  },
-  {
-   "name": "축구",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "범예주 극적 결승골…한국 여자축구, 12년 만에 U-20 월드컵 8강",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=01210326645581104&mediaCodeNo=257",
-     "press": "이데일리"
-    },
-    {
-     "t": "\"남미의 거인 아르헨 쓰러뜨려\" FIFA도 대서특필...박윤정호, 12년 만에 세계 8강 진출→다음 상대는 이탈리아 - 조선비즈",
-     "u": "https://biz.chosun.com/sports/baseball/2026/09/17/GQYTOYZZGI2DAZJZGQ2TCNJRMY/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "중국과 승부차기 '혈투' 이탈리아가 올라왔다...한국, U-20 여자 월드컵 8강 격돌",
-     "u": "https://v.daum.net/v/20260917042952344",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "최국희",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'타짜4' 변요한·노재원, 이것만 알면 '홀덤' 끝…일타 타짜 변신 \"쉽죠?\"",
-     "u": "https://v.daum.net/v/20260917073109732",
-     "press": "Daum"
-    },
-    {
-     "t": "[현장포토] \"남편 변요한 응원왔어요\"…티파니, 내조의 여신",
-     "u": "https://www.dispatch.co.kr/2348022",
-     "press": "디스패치"
-    },
-    {
-     "t": "'타짜 4' 최국희 감독 \"철저한 복수극…'타짜 1' 헌사도 담았죠\"",
-     "u": "https://www.yna.co.kr/view/AKR20260915122000005",
+     "t": "'리드오프 김도영·불펜 김진욱' 류지현호, 준비 끝…좌완 마운드는 불안요소",
+     "u": "https://www.yna.co.kr/view/MYH20260917022300038",
      "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "스테이블코인",
-   "idx": 10,
+   "name": "vix",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "서클, ’아크 메인넷’ 전격 출시…\"온체인 외환 거래소 꿈꾼다\" By Bloomingbit",
-     "u": "https://kr.investing.com/news/cryptocurrency-news/article-2097148",
-     "press": "Investing.com 한국어"
+     "t": "Stock Market Warning? VIX Rises as Semiconductors Collapse",
+     "u": "https://www.investing.com/analysis/stock-market-warning-vix-rises-as-semiconductors-collapse-200687706",
+     "press": "Investing.com"
     },
     {
-     "t": "비댁스 원화 스테이블코인 KRW1, 서클 ‘아크’ 메인넷 합류",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02496086645581104",
-     "press": "마켓인"
+     "t": "About ProShares Ultra VIX Short-Term Futures ETF rStock",
+     "u": "https://www.coinbase.com/en-fr/price/proshares-ultra-vix-short-term-futures-etf-rstock",
+     "press": "Coinbase"
     },
     {
-     "t": "서클 ‘금융 블록체인’ Arc 16일 출격…업비트 역할은?",
-     "u": "https://www.etoday.co.kr/news/view/2625839",
-     "press": "이투데이"
+     "t": "Nasdaq Jumps 326.94 Points as Fed Rate Hike to 3.75%-4% Lifts US Stocks at Open",
+     "u": "https://hdfcsky.com/news/nasdaq-jumps-326-94-points-as-fed-rate-hike-to-3-75percent-4percent-lifts-us-stocks-at-open-sept-17-2026",
+     "press": "HDFC Sky"
     }
    ]
   },
   {
-   "name": "노시환",
-   "idx": 10,
+   "name": "погода",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "“꾀부리지 말고 3루수 나가!” 김도영 채찍질한 ‘대한민국 캡틴’ 노시환, 왜 자기 포지션 포기했나 “김도영이라면 줘야죠”",
-     "u": "https://v.daum.net/v/9PHliEoMyF",
-     "press": "Daum"
+     "t": "Прогноз погоды на сегодня и завтра (18 сентября 2026 г.): сильные дожди на север",
+     "u": "https://baonghean.vn/ru/du-bao-thoi-tiet-dem-nay-va-ngay-mai-18092026-bac-bo-mua-to-nam-bo-dong-chieu-toi-10351560.html",
+     "press": "baonghean.vn"
     },
     {
-     "t": "‘캡틴 노’, 친구 왕옌청 향해 “가만히 놔두지 않을 것” 선전포고",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8665652",
-     "press": "KBS 뉴스"
+     "t": "Прогноз погоды на 18 сентября: на севере продолжаются повсеместные дожди.",
+     "u": "https://www.vietnam.vn/ru/du-bao-thoi-tiet-ngay-18-9-mien-bac-tiep-tuc-co-mua-dien-rong",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "노시환의 유쾌한 경고 \"왕옌청, 한국 대표팀 상대하기 어려울 것\"",
-     "u": "https://www.ytn.co.kr/_ln/0107_202609162326363113",
-     "press": "YTN"
+     "t": "Последняя информация о затяжных дождях в Ханое.",
+     "u": "https://www.vietnam.vn/ru/thong-tin-moi-nhat-ve-dot-mua-keo-dai-tai-ha-noi",
+     "press": "Vietnam.vn"
     }
    ]
   },
   {
-   "name": "세액공제",
-   "idx": 10,
+   "name": "삼성 갤럭시 z 폴드 8",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "與, 국내산 전기차도 '한국판 IRA' 포함 추진",
-     "u": "https://v.daum.net/v/20260916162808949",
+     "t": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
+     "u": "https://www.chosun.com/economy/tech_it/2026/09/18/7WHJN6UQ7NHCJO24B27QLTU7OA/",
+     "press": "조선일보"
+    },
+    {
+     "t": "애플이 화면 접자…주름 펴는 삼성D·LGD",
+     "u": "https://v.daum.net/v/20260918071110006",
      "press": "Daum"
     },
     {
-     "t": "이언주 민주당 의원 “국내생산촉진세제에 전기차 포함해야”",
-     "u": "https://www.etnews.com/20260916000309",
-     "press": "전자신문"
+     "t": "329만원 아이폰 듀오 공개 뒤…갤럭시 폴드8 판매 10%↑",
+     "u": "https://www.yna.co.kr/view/AKR20260917049300017",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "ionq",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
+     "u": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765",
+     "press": "Investing.com"
     },
     {
-     "t": "[사설] 여야 “전기차 세액공제 추진”…조속한 입법이 관건",
-     "u": "https://www.sedaily.com/article/20091855",
-     "press": "서울경제"
+     "t": "IonQ Demonstrates Computer-Aided Engineering Workload Acceleration by up to 14.6",
+     "u": "https://www.hpcwire.com/off-the-wire/ionq-demonstrates-computer-aided-engineering-workload-acceleration-by-up-to-14-6-with-quantum-tech/",
+     "press": "HPCwire"
+    },
+    {
+     "t": "IonQ (NYSE: IONQ) Wins Four IEEE Best Paper Awards From 857 Global Quantum Resea",
+     "u": "https://www.foreignpolicyjournal.com/2026/09/16/ionq-nyse-ionq-wins-four-ieee-best-paper-awards-from-857-global-quantum-research-submissions/",
+     "press": "Foreign Policy Journal"
+    }
+   ]
+  },
+  {
+   "name": "블레이크 스넬",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
+     "u": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1",
+     "press": "동아일보"
+    },
+    {
+     "t": "2511억 먹튀 좌완, 1이닝 만에 사라졌다…갑작스러운 부상에 모든 게 꼬인 LAD, 결국 2-6 패배 [LAD 리뷰]",
+     "u": "https://www.chosun.com/sports/world-baseball/2026/09/17/GRRDAOJRMFSDCZTBGI2TMYTGHA/",
+     "press": "조선일보"
+    },
+    {
+     "t": "프리드먼, 도대체 몇 수 앞을 봤나? 다저스, 스쿠발 트레이드 '신의 한 수'로 급부상, 스넬·오타니 줄부상",
+     "u": "https://v.daum.net/v/95tXDwaedp",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "사노피",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
+     "u": "https://www.hitnews.co.kr/news/articleView.html?idxno=79224",
+     "press": "히트뉴스"
+    },
+    {
+     "t": "베트남 보건부 대표단이 프랑스에 있는 사노피의 최첨단 백신 공장을 방문했습니다.",
+     "u": "https://www.vietnam.vn/ko/doan-bo-y-te-viet-nam-tham-nha-may-vac-xin-hien-dai-cua-sanofi-tai-phap",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "베트남, 사노피(프랑스)의 가장 중요한 3가지 신세대 백신 생산 예정",
+     "u": "https://ko.laodong.vn/xa-hoi/viet-nam-se-san-xuat-3-loai-vaccine-the-he-moi-quan-trong-bac-nhat-cua-sanofi-phap-1764975.ldo",
+     "press": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "name": "qqq",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody ",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/500-000-split-between-voo-221509822.html",
+     "press": "Yahoo Finance"
+    },
+    {
+     "t": "VOO vs. VTI: Which Vanguard ETF Is Right for You?",
+     "u": "https://www.tipranks.com/news/voo-vs-vti-which-vanguard-etf-is-right-for-you",
+     "press": "TipRanks"
+    },
+    {
+     "t": "You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the ",
+     "u": "https://247wallst.com/investing/etf/2026/09/15/you-bought-voo-and-vti-for-diversification-about-85-of-your-money-sits-in-the-same-stocks/",
+     "press": "24/7 Wall St."
     }
    ]
   }
