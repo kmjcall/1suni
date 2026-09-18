@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260918",
- "updated": "2026-09-18T08:20:33+09:00",
+ "targetDate": "20260919",
+ "updated": "2026-09-19T08:01:26+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "아시안 게임",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[날씨] 동해안·남부 5~20㎜ 비…제주 최고 80㎜↑",
-     "u": "https://v.daum.net/v/20260918063302423",
-     "press": "Daum"
+     "t": "한국 男농구, 이란꺾고 결승행…20일 ‘한일전’ 금빛 매치",
+     "u": "https://www.munhwa.com/article/11618160",
+     "press": "문화일보"
     },
     {
-     "t": "대구·경북 흐리고 곳에 따라 비…낮 기온 21∼26도",
-     "u": "https://www.yna.co.kr/view/AKR20260918008900053",
-     "press": "연합뉴스"
+     "t": "'천적' 이란도 잡았다‥내일 '한일전' 금빛 매치",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6852941_37012.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "남부엔 비 쏟아지는데…경기·인천은 낮 최고 29도 [날씨]",
-     "u": "https://www.kyeonggi.com/article/20260917580566",
-     "press": "경기일보"
-    }
-   ]
-  },
-  {
-   "name": "weather",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "A 50/50 weekend with a dry and seasonable day today followed by a stormy start t",
-     "u": "https://www.wtnh.com/weather/quiet-weather-today/",
-     "press": "WTNH.com"
-    },
-    {
-     "t": "Beautiful Saturday before heavy rain to start Sunday",
-     "u": "https://www.nbcconnecticut.com/weather-news/beautiful-saturday-before-heavy-rain-to-start-sunday/3774280/",
-     "press": "NBC Connecticut"
-    },
-    {
-     "t": "Connecticut faces another soaking rain Sunday. Here’s when it could get heaviest",
-     "u": "https://www.ctinsider.com/weather/article/connecticut-rain-sunday-after-flooding-22436110.php",
-     "press": "CT Insider"
-    }
-   ]
-  },
-  {
-   "name": "김서현",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘1-6에서 7-6 대역전’ 야구대표팀, 연습경기서 끝내기승…류지현 감독 “좋은 에너지 받았다”",
-     "u": "https://v.daum.net/v/Zo0seTsAd2",
-     "press": "Daum"
-    },
-    {
-     "t": "'박영현-조병현 아니었다' ERA 4.19 최준용 승부치기 투입→'무사 1·2루 무실점'... 류지현 승부수 통했다 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/18/2026091807315738136",
+     "t": "\"이현중이 승부 갈랐다\" 이란도 혀 내두른 폭발력... \"한국 3점슛에 고전, 결국 결승 못 갔다\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/19/2026091901441969561",
      "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "주식",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[기자의 눈] '금융의 상상력' 주식은 토큰이 된다",
+     "u": "https://v.daum.net/v/20260919060202369",
+     "press": "Daum"
     },
     {
-     "t": "'리드오프 김도영·불펜 김진욱' 류지현호, 준비 끝…좌완 마운드는 불안요소",
-     "u": "https://www.yna.co.kr/view/MYH20260917022300038",
-     "press": "연합뉴스"
+     "t": "토큰증권 시장 열리는데 매대는 텅텅···비금전신탁 입법 지연",
+     "u": "https://www.newsway.co.kr/news/view?ud=2026091813232609431",
+     "press": "뉴스웨이"
+    },
+    {
+     "t": "[코인 품는 증권사]③주식부터 한우까지 한 앱에…증권사 '금융 백화점' 된다",
+     "u": "https://www.news1.kr/finance/general-stock/6294501",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "정의선",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "현대차 GBC '105층' 대신 '49층'…정의선은 '쓸모' 택했다",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=01653126645581104&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "105층서 49층 3개동으로 바뀐 GBC…공사기간 5년6개월 연장",
+     "u": "https://m.ekn.kr/view.php?key=20260916027015422",
+     "press": "에너지경제신문"
+    },
+    {
+     "t": "49층 3개 동 설계 변경에 공기 연장까지…현대건설 GBC ‘공사비 대형 증액’ 예고",
+     "u": "https://www.newsquest.co.kr/news/articleView.html?idxno=301292",
+     "press": "뉴스퀘스트"
+    }
+   ]
+  },
+  {
+   "name": "나스닥 100",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "WTI 선물, 장 초반 0.65% 내린 배럴당 101.25달러",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435568",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "[속보] 국제유가 하락…WTI 1.58%↓",
+     "u": "https://www.etoday.co.kr/news/view/2627449",
+     "press": "이투데이"
+    },
+    {
+     "t": "나스닥 100 선물, 중동 전운 뚫고 상승...트럼프 결단 후 방향은?",
+     "u": "https://www.coinreaders.com/259131",
+     "press": "코인리더스"
+    }
+   ]
+  },
+  {
+   "name": "박재홍",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'뇌경색' 박재홍, 한 달 만에 복귀 '울컥'…\"앉아서 하는 방송은 괜찮아\" [엑's 이슈]",
+     "u": "https://v.daum.net/v/20260918234037165",
+     "press": "Daum"
+    },
+    {
+     "t": "뇌경색 진단 박재홍 CBS 앵커, 한 달 만에 복귀 “기적 만났다”",
+     "u": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337213",
+     "press": "미디어오늘"
+    },
+    {
+     "t": "박재홍 '한판승부' 돌아온다…뇌경색 딛고 17일 방송 복귀",
+     "u": "https://www.nocutnews.co.kr/news/6578189",
+     "press": "노컷뉴스"
+    }
+   ]
+  },
+  {
+   "name": "중대범죄수사청",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독]중수청, 검사 대상 수사관 임용 대상자 발표…임은정·문지석도 합격",
+     "u": "https://v.daum.net/v/20260918205328046",
+     "press": "Daum"
+    },
+    {
+     "t": "중수청 인력난에 경찰 '관망'…\"검찰 주도 조직서 객 될라\" 경계",
+     "u": "https://www.newspim.com/news/view/20260918000339",
+     "press": "뉴스핌"
+    },
+    {
+     "t": "불확실한 공소청 직제…중수청 2차 모집 막판까지 눈치싸움 전망",
+     "u": "https://www.news1.kr/society/court-prosecution/6294505",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "백신",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "독감 접종 당기고 코로나19도 필수로…대비 권장",
+     "u": "https://v.daum.net/v/PDMGdtWIH3",
+     "press": "Daum"
+    },
+    {
+     "t": "이른 인플루엔자 유행에 국가예방접종 앞당겨…어린이·임신부 21일부터",
+     "u": "https://www.korea.kr/policy/civilView.do?newsId=148972079",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "올해 독감 백신은 3가 접종...4가 백신과 효능 차이점은?",
+     "u": "https://www.ytn.co.kr/_ln/0105_202609190027590626",
+     "press": "YTN"
+    }
+   ]
+  },
+  {
+   "name": "초과근무",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "공무원 '하루 4시간' 초과근무 상한 폐지‥\"일한 만큼 인정\"",
+     "u": "https://v.daum.net/v/pzwh4HlwyB?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "“수당 없는 야근 초래”...인천 공직사회, ‘초과근무 총량관리제’ 도입 중단 촉구",
+     "u": "https://www.joongboo.com/news/articleView.html?idxno=363736553",
+     "press": "중부일보"
+    },
+    {
+     "t": "기업으로부터 주목받는'구미국가공단'...철도·고속도로 뚫는다",
+     "u": "https://www.guminews.net/news/articleView.html?idxno=16775",
+     "press": "경북구미신문"
     }
    ]
   },
   {
    "name": "vix",
    "idx": 5,
-   "mv": "NEW",
+   "mv": -5,
    "news": [
     {
-     "t": "Stock Market Warning? VIX Rises as Semiconductors Collapse",
-     "u": "https://www.investing.com/analysis/stock-market-warning-vix-rises-as-semiconductors-collapse-200687706",
-     "press": "Investing.com"
+     "t": "India VIX Falls 7.4% as Oil Prices Ease, Global Rate Hikes Shape Market Volatili",
+     "u": "https://hdfcsky.com/news/india-vix-falls-7-4percent-as-oil-prices-ease-global-rate-hikes-shape-market-volatility-september-18-2026",
+     "press": "HDFC Sky"
     },
     {
-     "t": "About ProShares Ultra VIX Short-Term Futures ETF rStock",
-     "u": "https://www.coinbase.com/en-fr/price/proshares-ultra-vix-short-term-futures-etf-rstock",
-     "press": "Coinbase"
+     "t": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers beh",
+     "u": "https://upstox.com/news/market-news/stocks/india-vix-jumps-over-10-as-sensex-nifty-50-decline-here-are-5-key-triggers-behind-market-fall/article-200285/",
+     "press": "Upstox"
     },
     {
-     "t": "Nasdaq Jumps 326.94 Points as Fed Rate Hike to 3.75%-4% Lifts US Stocks at Open",
-     "u": "https://hdfcsky.com/news/nasdaq-jumps-326-94-points-as-fed-rate-hike-to-3-75percent-4percent-lifts-us-stocks-at-open-sept-17-2026",
+     "t": "India VIX Falls 1.55% to 12.09 as Crude Oil Eases and NSE IPO Bidding Continues",
+     "u": "https://hdfcsky.com/news/india-vix-falls-1-55percent-to-12-09-as-crude-oil-eases-and-nse-ipo-bidding-continues-september-18-2026",
      "press": "HDFC Sky"
     }
    ]
   },
   {
-   "name": "погода",
+   "name": "육상 경기",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Прогноз погоды на сегодня и завтра (18 сентября 2026 г.): сильные дожди на север",
-     "u": "https://baonghean.vn/ru/du-bao-thoi-tiet-dem-nay-va-ngay-mai-18092026-bac-bo-mua-to-nam-bo-dong-chieu-toi-10351560.html",
-     "press": "baonghean.vn"
-    },
-    {
-     "t": "Прогноз погоды на 18 сентября: на севере продолжаются повсеместные дожди.",
-     "u": "https://www.vietnam.vn/ru/du-bao-thoi-tiet-ngay-18-9-mien-bac-tiep-tuc-co-mua-dien-rong",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "Последняя информация о затяжных дождях в Ханое.",
-     "u": "https://www.vietnam.vn/ru/thong-tin-moi-nhat-ve-dot-mua-keo-dai-tai-ha-noi",
-     "press": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "name": "삼성 갤럭시 z 폴드 8",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "접는 아이폰 나오자 삼성 Z폴드8 판매 급증",
-     "u": "https://www.chosun.com/economy/tech_it/2026/09/18/7WHJN6UQ7NHCJO24B27QLTU7OA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "애플이 화면 접자…주름 펴는 삼성D·LGD",
-     "u": "https://v.daum.net/v/20260918071110006",
+     "t": "\"정말 아름답다\" 日 팬들 난리 났다…'17명 추월' 육상 천재 소녀, 워싱턴대 유니폼 입고 새 출발→\"괴물 중학생이 어느덧 18살\"",
+     "u": "https://v.daum.net/v/5lz5hztWSZ",
      "press": "Daum"
     },
     {
-     "t": "329만원 아이폰 듀오 공개 뒤…갤럭시 폴드8 판매 10%↑",
-     "u": "https://www.yna.co.kr/view/AKR20260917049300017",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "ionq",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "IonQ, Synopsys cut simulation time by 14.6% with quantum tech",
-     "u": "https://www.investing.com/news/company-news/ionq-synopsys-cut-simulation-time-by-146-with-quantum-tech-93CH-4905765",
-     "press": "Investing.com"
+     "t": "\"응원해줘요\" 日 '육상 천재 소녀' 드루리 슈리, 美 워싱턴대서 새 출발",
+     "u": "https://www.newsis.com/view/NISX20260917_0003793062",
+     "press": "뉴시스"
     },
     {
-     "t": "IonQ Demonstrates Computer-Aided Engineering Workload Acceleration by up to 14.6",
-     "u": "https://www.hpcwire.com/off-the-wire/ionq-demonstrates-computer-aided-engineering-workload-acceleration-by-up-to-14-6-with-quantum-tech/",
-     "press": "HPCwire"
-    },
-    {
-     "t": "IonQ (NYSE: IONQ) Wins Four IEEE Best Paper Awards From 857 Global Quantum Resea",
-     "u": "https://www.foreignpolicyjournal.com/2026/09/16/ionq-nyse-ionq-wins-four-ieee-best-paper-awards-from-857-global-quantum-research-submissions/",
-     "press": "Foreign Policy Journal"
-    }
-   ]
-  },
-  {
-   "name": "블레이크 스넬",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "MLB 스넬, 1이닝 던지고 사타구니 통증으로 교체…다저스 대형 악재",
-     "u": "https://www.donga.com/news/Sports/article/all/20260917/134686769/1",
-     "press": "동아일보"
-    },
-    {
-     "t": "2511억 먹튀 좌완, 1이닝 만에 사라졌다…갑작스러운 부상에 모든 게 꼬인 LAD, 결국 2-6 패배 [LAD 리뷰]",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/09/17/GRRDAOJRMFSDCZTBGI2TMYTGHA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "프리드먼, 도대체 몇 수 앞을 봤나? 다저스, 스쿠발 트레이드 '신의 한 수'로 급부상, 스넬·오타니 줄부상",
-     "u": "https://v.daum.net/v/95tXDwaedp",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "사노피",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "J&J '이마비'로 첫발 뗀 wAIHA 치료제… 사노피 추격 예고",
-     "u": "https://www.hitnews.co.kr/news/articleView.html?idxno=79224",
-     "press": "히트뉴스"
-    },
-    {
-     "t": "베트남 보건부 대표단이 프랑스에 있는 사노피의 최첨단 백신 공장을 방문했습니다.",
-     "u": "https://www.vietnam.vn/ko/doan-bo-y-te-viet-nam-tham-nha-may-vac-xin-hien-dai-cua-sanofi-tai-phap",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "베트남, 사노피(프랑스)의 가장 중요한 3가지 신세대 백신 생산 예정",
-     "u": "https://ko.laodong.vn/xa-hoi/viet-nam-se-san-xuat-3-loai-vaccine-the-he-moi-quan-trong-bac-nhat-cua-sanofi-phap-1764975.ldo",
-     "press": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "name": "qqq",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody ",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/500-000-split-between-voo-221509822.html",
-     "press": "Yahoo Finance"
-    },
-    {
-     "t": "VOO vs. VTI: Which Vanguard ETF Is Right for You?",
-     "u": "https://www.tipranks.com/news/voo-vs-vti-which-vanguard-etf-is-right-for-you",
-     "press": "TipRanks"
-    },
-    {
-     "t": "You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the ",
-     "u": "https://247wallst.com/investing/etf/2026/09/15/you-bought-voo-and-vti-for-diversification-about-85-of-your-money-sits-in-the-same-stocks/",
-     "press": "24/7 Wall St."
+     "t": "충남 아산교육지원청, ‘2026학년도 교육장배 꿈나무 육상대회’ 개최",
+     "u": "https://www.ccdn.co.kr/news/articleView.html?idxno=1100260",
+     "press": "충청매일"
     }
    ]
   }
