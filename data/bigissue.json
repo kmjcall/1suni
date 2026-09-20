@@ -1,226 +1,206 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260920",
- "updated": "2026-09-20T07:37:34+09:00",
+ "targetDate": "20260921",
+ "updated": "2026-09-21T07:54:50+09:00",
  "list": [
   {
-   "name": "로또번호",
+   "name": "이현중",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "로또 제1242회 당첨번호 ‘2·4·10·16·31·41’…보너스 ‘9’",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=03017606645581760&mediaCodeNo=257",
-     "press": "이데일리"
+     "t": "[속보]‘버스 노쇼’도 안 통했다…韓, 개최국 日 꺾고 농구 금메달",
+     "u": "https://www.munhwa.com/article/11618388",
+     "press": "문화일보"
     },
     {
-     "t": "1242회 로또 1등번호 당첨자 9명...32억씩 배당",
-     "u": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599281",
-     "press": "헤드라인제주"
+     "t": "'이강인 89분' 아틀레티코. 1명 퇴장 레알 마드리드에 2-1 승리",
+     "u": "https://www.yna.co.kr/view/IPT20260921000003365?section=gallery/index",
+     "press": "연합뉴스"
     },
     {
-     "t": "“9명에게 32억8천만원씩”…이번주 로또 명당 공개",
-     "u": "https://v.daum.net/v/20260919204645777?f=p",
-     "press": "Daum"
+     "t": "[엠빅뉴스] [2026 아시안게임] 경기 흐름 바꾼 약속의 3쿼터! 이현중은 작심한 듯 3점슛을 쏘아올렸다",
+     "u": "https://imnews.imbc.com/original/mbig/6853158_29041.html",
+     "press": "MBC 뉴스"
     }
    ]
   },
   {
-   "name": "토트넘",
-   "idx": 50,
+   "name": "레알마드리드",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"손흥민이 결국 다 해줬던 거였다\" 국내 팬들 비판 계속...최악의 토트넘, 아스톤 빌라에 2-3 패배→또 강등 위기",
-     "u": "https://v.daum.net/v/20260919233728375",
-     "press": "Daum"
-    },
-    {
-     "t": "'5경기 0승' 골 하나 넣는 데만 446분, 승리는 아직도 없다...토트넘, 5873억짜리 선수단으로 빌라에 2-3 패배→강등권 추락 - 머니",
-     "u": "https://www.mt.co.kr/sports/2026/09/19/202609192233773266O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "'충격! 너무 다급해 이 선수까지 검토하다니' 개막 4경기 무득점 졸전 토트넘, 갈라타사라이 방출→'무적' FA 아르헨 국대 출신 이카르디 영입",
-     "u": "https://www.chosun.com/sports/world-football/2026/09/19/GI4WMMDBGIYDOZRSMNQWCMLGMU/",
+     "t": "‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다",
+     "u": "https://www.chosun.com/international/international_general/2026/09/21/DCYXYV5Z4ZC6NIF6QXO6ZYREEM/",
      "press": "조선일보"
+    },
+    {
+     "t": "‘이강인 결승골 기점’ 아틀레티코, 레알 꺾고 마드리드 더비 승리",
+     "u": "https://www.donga.com/news/Sports/article/all/20260921/134707424/1",
+     "press": "동아일보"
+    },
+    {
+     "t": "[공식발표] '리그 2호골 작렬' 이강인, 선발 확정! '전 소속팀 동료' 음바페와 정면승부...마드리드 더비 라인업 발표",
+     "u": "https://v.daum.net/v/20260920221328334",
+     "press": "Daum"
     }
    ]
   },
   {
-   "name": "아스날",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"무조건 퇴장이야\" 아스널 0-3 대참사→라이스는 상대 다리 걷어차고도 퇴장 면했다...英 \"100% 레드카드, 정말 운 좋았다\"",
-     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553554400",
-     "press": "스포탈코리아"
-    },
-    {
-     "t": "[pl.told] '125번째 생일에 제대로 사고쳤다!' 브라이튼, 1901년 특별 유니폼 입고 아스널 3-0 격파",
-     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98090",
-     "press": "포포투"
-    },
-    {
-     "t": "슈퍼컴퓨터가 잉글랜드 프리미어 리그 5라운드 결과를 예측했습니다.",
-     "u": "https://www.vietnam.vn/ko/sieu-may-tinh-du-doan-vong-5-giai-ngoai-hang-anh",
-     "press": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "name": "ufc",
+   "name": "축구중계",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "The press conference for 'UFC 331' was held at CryptoCom Arena on the 18th (Kore",
-     "u": "https://www.mk.co.kr/en/sports/12157113",
-     "press": "매일경제"
-    },
-    {
-     "t": "UFC 331 ‘Van vs. Pantoja 2’ play-by-play, results & round scoring",
-     "u": "https://www.sherdog.com/news/news/UFC-331-Van-vs-Pantoja-2-playbyplay-results-round-scoring-202850",
-     "press": "Sherdog"
-    },
-    {
-     "t": "Cold Open | Crypto.com UFC 331: Van vs Pantoja 2",
-     "u": "https://www.ufc.com/video/160255",
-     "press": "UFC.com"
+     "t": "'놀뭐', AG 중계로 3주 결방…유재석 \"4년 땀 흘린 선수들 멋진 경기 펼치길\"",
+     "u": "https://www.fnnews.com/news/202609130848482921",
+     "press": "파이낸셜뉴스"
     }
    ]
   },
   {
-   "name": "sxmb",
-   "idx": 10,
+   "name": "리버풀",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026",
-     "u": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm",
-     "press": "An ninh Tiền tệ"
-    },
-    {
-     "t": "XSMT 20/9. Kết quả xổ số miền Trung hôm nay ngày 20/9/2026. XSMT chủ Nhật ngày 2",
-     "u": "https://bnews.vn/xsmt-20-9-ket-qua-xo-so-mien-trung-hom-nay-ngay-20-9-2026-xsmt-chu-nhat-ngay-20-9/437429.html",
-     "press": "Bnews.vn"
-    },
-    {
-     "t": "XSMN 19/9 - Kết quả xổ số miền Nam hôm nay 19/9/2026 - XSMN ngày 19 tháng 9",
-     "u": "https://cafef.vn/xsmn-19-9-ket-qua-xo-so-mien-nam-hom-nay-19-9-2026-xsmn-ngay-19-thang-9-188260919173849111.chn",
-     "press": "CafeF"
-    }
-   ]
-  },
-  {
-   "name": "프로야구 순위",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[영상] KIA 팬들 뒷목 잡게 한 번트…어쩌라고 이겼잖아",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8667119",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "“정말 많이 힘들었다, 솔직히 생각을 해봐도…” 한준수가 KIA 주전포수가 되기 위한 성장통, 타격도 완성본이 아니었다",
-     "u": "https://v.daum.net/v/20260919104149682",
+     "t": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
+     "u": "https://v.daum.net/v/43GbnoMVEp",
      "press": "Daum"
     },
     {
-     "t": "[스경x인터뷰] KIA 1선발의 승부욕은 오직 순위 싸움…득점지원 ‘0’에도 웃은 올러 “커피라도 좀 돌려야겠어...",
-     "u": "https://sports.khan.co.kr/article/202609191002013",
+     "t": "‘1845억? 우리가 산다’ 레알 마드리드, 맨유의 ‘15살 초신성’ 영입 매우 적극적 “맨체스터에서 시간은 사...",
+     "u": "https://sports.khan.co.kr/article/202609191010003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "‘충격’ 바르셀로나 머무는 중, 맨유에 즉시 계약 해지 요구→훈련 불참→이미 영국 떠나 ‘15세 유망주 맨유와 충격적인 작별 추진’",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008295",
+     "press": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "name": "맨시티",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "BRITAIN SOCCER",
+     "u": "https://v.daum.net/v/20260921051158146",
+     "press": "Daum"
+    },
+    {
+     "t": "승리에 기뻐한 마레스카 감독 - 하지만 무실점 경기 역시 원했다!",
+     "u": "https://kr.mancity.com/news/mens/man-city-5-3-sunderland-enzo-maresca-reaction-63925531",
+     "press": "Manchester City FC"
+    },
+    {
+     "t": "해트트릭 하고도 졌다…브로비 혼자 3골, 맨시티 화력엔 못 당했다",
+     "u": "https://sports.khan.co.kr/article/202609210741003",
      "press": "스포츠경향"
     }
    ]
   },
   {
-   "name": "최예나",
+   "name": "조선일보",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "최예나, '워터밤' 전신 슈트·'청룡' 화제의 무대 비하인드 공개",
-     "u": "https://v.daum.net/v/20260919205749914",
+     "t": "[에너지 오디세이]⑤대왕고래는 죄가 없다…정권 5년보다 긴 자원개발의 시간",
+     "u": "https://v.daum.net/v/qMo4wIkLju",
      "press": "Daum"
     },
     {
-     "t": "최예나 ‘워터밤’ 역대급 의상 어떻게 탄생했나 봤더니 (전참시)",
-     "u": "https://sports.donga.com/ent/article/all/20260919/134701048/1",
-     "press": "스포츠동아"
+     "t": "윤석열의 ‘대왕고래 쇼’…감사원 “140억 배럴 탐사 확률 0.000218%”",
+     "u": "https://www.hani.co.kr/arti/politics/politics_general/1278164.html",
+     "press": "한겨레"
     },
     {
-     "t": "최예나, 소아암 투병→살게 해준 부모님 위해 집·차 통 큰 선물 “속 많이 썩여 죄송”(전참시) - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/09/20/HEYDSYZVGRSGKNBZME3DINZWG4/",
-     "press": "Chosunbiz"
+     "t": "윤석열 정부 대왕고래 감사 결과에 조선일보와 동아일보 엇갈렸다",
+     "u": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337157",
+     "press": "미디어오늘"
     }
    ]
   },
   {
-   "name": "유영우",
+   "name": "instagram",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "유영우, 19만원 옷 사고 교통카드 잔액 부족…\"3만원도 못 받아\" (전참시)",
-     "u": "https://v.daum.net/v/20260920052636444",
-     "press": "Daum"
+     "t": "Kate Beckinsale Shares Bleak Messages on Instagram",
+     "u": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092",
+     "press": "People.com"
     },
     {
-     "t": "유영우, 리센느와 무슨 사이? 세상 짠돌이가 25만원 한우 선사 ('전참시')",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GAYGEOJWGNRDSZJXGRSWGNZSGY/",
-     "press": "조선일보"
+     "t": "Kate Beckinsale Shares Cryptic “I Give Up” Message on Instagram, Leaving Fans Co",
+     "u": "https://www.hollywoodreporter.com/news/general-news/kate-beckinsale-i-give-up-message-instagram-fans-concerned-1236706414/",
+     "press": "The Hollywood Reporter"
     },
     {
-     "t": "'전참시' 유영우, 리센느 시상식 무대 보고 '울컥'…훈훈한 응원",
-     "u": "https://www.news1.kr/entertain/broadcast-tv/6295980",
-     "press": "뉴스1"
+     "t": "Kate Beckinsale posts alarming messages on social media weeks after sharing PTSD",
+     "u": "https://pagesix.com/2026/09/20/celebrity-news/kate-beckinsale-posts-alarming-messages-on-social-media-weeks-after-sharing-ptsd-struggles/",
+     "press": "Page Six"
     }
    ]
   },
   {
-   "name": "재벌형사",
+   "name": "google",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'재벌X형사2' 살인마 유승호, 안보현에 총 겨눴다…최후의 결전",
-     "u": "https://v.daum.net/v/20260919201251301",
-     "press": "Daum"
+     "t": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+     "u": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+     "press": "WSJ"
     },
     {
-     "t": "“시신을 보고 영감을 받은 거야” 최희진, 안보현에게 전한 유승호의 뒤틀린 유년 시절 이야기",
-     "u": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC481814833?div=live_end",
-     "press": "programs.sbs.co.kr"
+     "t": "Google says its AI model gained unauthorized access to three outside systems",
+     "u": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+     "press": "NBC News"
     },
     {
-     "t": "소지섭 '김부장' 벽 너무 높았다…'재벌X형사2' 자체 최고 시청률에도 씁쓸 [美친 시청률]",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/19/G4YTEZRUGM4WKZRXMQZGCNZRMQ/",
-     "press": "조선일보"
+     "t": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+     "u": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+     "press": "CNBC"
     }
    ]
   },
   {
-   "name": "pl",
+   "name": "sxmb",
+   "idx": 5,
+   "mv": -4,
+   "news": [
+    {
+     "t": "XSMT 20/9 - Kết quả xổ số miền Trung hôm nay 20/9/2026 - XSMT ngày 20 tháng 9",
+     "u": "https://giaoducthudo.giaoducthoidai.vn/xsmt-20-9-ket-qua-xo-so-mien-trung-hom-nay-20-9-2026-xsmt-ngay-20-thang-9-222501.html",
+     "press": "Giáo dục Thủ đô"
+    },
+    {
+     "t": "Kết quả xổ số hôm nay ngày 20.9: Tiền Giang, Kiên Giang, Đà Lạt",
+     "u": "https://laodong.vn/ban-doc/ket-qua-xo-so-hom-nay-ngay-209-tien-giang-kien-giang-da-lat-1769805.ldo",
+     "press": "Laodong.vn"
+    },
+    {
+     "t": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
+     "u": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm",
+     "press": "Báo Thanh Niên"
+    }
+   ]
+  },
+  {
+   "name": "kbs",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Polska może produkować TNT w Kanadzie. Rozmowy na szczeblu rządowym",
-     "u": "https://defence24.pl/przemysl/polska-moze-produkowac-tnt-w-kanadzie-rozmowy-na-szczeblu-rzadowym",
-     "press": "Defence24"
-    },
-    {
-     "t": "Gorąco wokół kopalni \"Kłodawa\". Oświadczenie zarządu, list do załogi -",
-     "u": "https://www.onet.pl/informacje/codziennypoznanpl/goraco-wokol-kopalni-klodawa-oswiadczenie-zarzadu-list-do-zalogi/69y64yj,30bc1058",
-     "press": "Onet"
-    },
-    {
-     "t": "\"Sposób na zniszczenie\". Dramatyczny apel Zajączkowskiej-Hernik",
-     "u": "https://dorzeczy.pl/opinie/945034/zajaczkowska-hernik-apeluje-ratujmy-polska-kopalnie-chronmy-mieszkancow.html",
-     "press": "Do Rzeczy"
+     "t": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
+     "u": "https://www.koreaherald.com/article/10877917",
+     "press": "The Korea Herald"
     }
    ]
   }
