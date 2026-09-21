@@ -1,206 +1,205 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260921",
- "updated": "2026-09-21T07:54:50+09:00",
+ "targetDate": "20260922",
+ "updated": "2026-09-22T08:47:32+09:00",
  "list": [
   {
-   "name": "이현중",
+   "name": "발로란트 추석 이벤트",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[속보]‘버스 노쇼’도 안 통했다…韓, 개최국 日 꺾고 농구 금메달",
-     "u": "https://www.munhwa.com/article/11618388",
-     "press": "문화일보"
+     "t": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
+     "u": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/",
+     "press": "VALORANT"
     },
     {
-     "t": "'이강인 89분' 아틀레티코. 1명 퇴장 레알 마드리드에 2-1 승리",
-     "u": "https://www.yna.co.kr/view/IPT20260921000003365?section=gallery/index",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "[엠빅뉴스] [2026 아시안게임] 경기 흐름 바꾼 약속의 3쿼터! 이현중은 작심한 듯 3점슛을 쏘아올렸다",
-     "u": "https://imnews.imbc.com/original/mbig/6853158_29041.html",
-     "press": "MBC 뉴스"
+     "t": "(9/21 ~ 소진 시까지) 카카오페이 VP 충전 10% 할인 이벤트",
+     "u": "https://playvalorant.com/ko-kr/news/announcements/kakaopay-vp-discount-event-0921/",
+     "press": "VALORANT"
     }
    ]
   },
   {
-   "name": "레알마드리드",
-   "idx": 40,
+   "name": "아시안게임",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘쐐기골 기점’ 이강인, 첫 마드리드 더비서 기립박수 받았다",
-     "u": "https://www.chosun.com/international/international_general/2026/09/21/DCYXYV5Z4ZC6NIF6QXO6ZYREEM/",
-     "press": "조선일보"
+     "t": "김영범, 자유형 50m 금메달‥예선·결승 대회신",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853411_37012.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "‘이강인 결승골 기점’ 아틀레티코, 레알 꺾고 마드리드 더비 승리",
-     "u": "https://www.donga.com/news/Sports/article/all/20260921/134707424/1",
-     "press": "동아일보"
-    },
-    {
-     "t": "[공식발표] '리그 2호골 작렬' 이강인, 선발 확정! '전 소속팀 동료' 음바페와 정면승부...마드리드 더비 라인업 발표",
-     "u": "https://v.daum.net/v/20260920221328334",
+     "t": "[아시안게임] 김효열 수영 총감독 \"김영범, 허허 웃어도 물속에선 철저\"",
+     "u": "https://v.daum.net/v/20260922070655848",
      "press": "Daum"
+    },
+    {
+     "t": "찾았다, 한국 수영에 없던 ‘단거리 新’",
+     "u": "https://m.go.seoul.co.kr/news/sport/Asiangame2026-aichi-nagoya/2026/09/22/20260922034002",
+     "press": "서울Pn"
     }
    ]
   },
   {
-   "name": "축구중계",
+   "name": "구글",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Google hit with $463 million fine for EU location data rule breach",
+     "u": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044",
+     "press": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "t": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+     "u": "https://www.bbc.com/news/articles/ck1e52v16ngxo",
+     "press": "BBC"
+    },
+    {
+     "t": "Irish privacy regulator fines Google €403 million over location data processing",
+     "u": "https://www.reuters.com/business/media-telecom/irish-regulator-fines-google-403-million-over-location-data-processing-2026-09-21/",
+     "press": "Reuters"
+    }
+   ]
+  },
+  {
+   "name": "치지직",
+   "idx": 25,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "기상청",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'놀뭐', AG 중계로 3주 결방…유재석 \"4년 땀 흘린 선수들 멋진 경기 펼치길\"",
-     "u": "https://www.fnnews.com/news/202609130848482921",
-     "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "리버풀",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "맨체스터 유나이티드 결단! '넌 어디에도 못 간다'…15세 초신성 퇴단 요청 거절하다",
-     "u": "https://v.daum.net/v/43GbnoMVEp",
+     "t": "전국 맑고 일교차 최대 15도↑ 전형적 가을날…서쪽 오존·건조",
+     "u": "https://v.daum.net/v/20260922082053265",
      "press": "Daum"
     },
     {
-     "t": "‘1845억? 우리가 산다’ 레알 마드리드, 맨유의 ‘15살 초신성’ 영입 매우 적극적 “맨체스터에서 시간은 사...",
-     "u": "https://sports.khan.co.kr/article/202609191010003",
-     "press": "스포츠경향"
+     "t": "[출근길 날씨] 한낮 늦더위, 서울 29도…추석에 누그러져",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8669215",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "‘충격’ 바르셀로나 머무는 중, 맨유에 즉시 계약 해지 요구→훈련 불참→이미 영국 떠나 ‘15세 유망주 맨유와 충격적인 작별 추진’",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008295",
-     "press": "SPOTV NEWS"
+     "t": "맑은 하늘에 낮 최고 31도…아침·낮 15도 넘게 벌어지는 ‘큰 일교차’ [날씨]",
+     "u": "https://www.kyeonggi.com/article/20260921580685",
+     "press": "경기일보"
     }
    ]
   },
   {
-   "name": "맨시티",
-   "idx": 5,
+   "name": "윤동희",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "BRITAIN SOCCER",
-     "u": "https://v.daum.net/v/20260921051158146",
+     "t": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
+     "u": "https://v.daum.net/v/20260922072408090",
      "press": "Daum"
     },
     {
-     "t": "승리에 기뻐한 마레스카 감독 - 하지만 무실점 경기 역시 원했다!",
-     "u": "https://kr.mancity.com/news/mens/man-city-5-3-sunderland-enzo-maresca-reaction-63925531",
-     "press": "Manchester City FC"
+     "t": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O",
+     "press": "머니투데이"
     },
     {
-     "t": "해트트릭 하고도 졌다…브로비 혼자 3골, 맨시티 화력엔 못 당했다",
-     "u": "https://sports.khan.co.kr/article/202609210741003",
-     "press": "스포츠경향"
+     "t": "유일한 2군 선수가 홈런 때렸다… 윤동희 “홈런 기뻐, 한시름 덜었다”",
+     "u": "https://www.koreadaily.com/article/20260921155002106",
+     "press": "미주중앙일보"
     }
    ]
   },
   {
-   "name": "조선일보",
-   "idx": 5,
+   "name": "조병현",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "[에너지 오디세이]⑤대왕고래는 죄가 없다…정권 5년보다 긴 자원개발의 시간",
-     "u": "https://v.daum.net/v/qMo4wIkLju",
+     "t": "김도영에게 4중키킹? 린이웨이 투구폼 정상적인가…그냥 넘어갈 일 아니다, 결승서 또 당할 수 있다",
+     "u": "https://v.daum.net/v/20260922081127998",
      "press": "Daum"
     },
     {
-     "t": "윤석열의 ‘대왕고래 쇼’…감사원 “140억 배럴 탐사 확률 0.000218%”",
-     "u": "https://www.hani.co.kr/arti/politics/politics_general/1278164.html",
-     "press": "한겨레"
+     "t": "야구대표팀 대만과 1차전‥곽빈 6이닝 노히트 10탈삼진 역투",
+     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853365_37004.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "윤석열 정부 대왕고래 감사 결과에 조선일보와 동아일보 엇갈렸다",
-     "u": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337157",
-     "press": "미디어오늘"
+     "t": "10개 구단 팬들 다 모였다, 대~한민국 대신 울려 퍼진 '선수 응원가' [오카자키 현장] - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/22/2026092117410172470",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "instagram",
+   "name": "dmz",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Yonhap News Summary",
+     "u": "https://en.yna.co.kr/view/AEN20260921009700320",
+     "press": "Yonhap News Agency"
+    },
+    {
+     "t": "Three Soldiers Injured in Landmine Explosion, North Korean Placement Suspected",
+     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008764894",
+     "press": "SBS 뉴스"
+    },
+    {
+     "t": "President Lee: \"Government Will Fully Support Treatment and Recovery of DMZ Land",
+     "u": "https://www.asiae.co.kr/en/article/2026092117422849174",
+     "press": "아시아경제"
+    }
+   ]
+  },
+  {
+   "name": "삼성전자 주가",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Kate Beckinsale Shares Bleak Messages on Instagram",
-     "u": "https://people.com/kate-beckinsale-shares-bleak-messages-on-instagram-12130092",
-     "press": "People.com"
+     "t": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
+     "u": "https://v.daum.net/v/UQm0ulwavN",
+     "press": "Daum"
     },
     {
-     "t": "Kate Beckinsale Shares Cryptic “I Give Up” Message on Instagram, Leaving Fans Co",
-     "u": "https://www.hollywoodreporter.com/news/general-news/kate-beckinsale-i-give-up-message-instagram-fans-concerned-1236706414/",
-     "press": "The Hollywood Reporter"
+     "t": "삼전닉스 '8조' 팔아치운 외국인 몰려간 곳이…'파격 전망' [종목+]",
+     "u": "https://www.hankyung.com/article/2026091837776",
+     "press": "한국경제"
     },
     {
-     "t": "Kate Beckinsale posts alarming messages on social media weeks after sharing PTSD",
-     "u": "https://pagesix.com/2026/09/20/celebrity-news/kate-beckinsale-posts-alarming-messages-on-social-media-weeks-after-sharing-ptsd-struggles/",
-     "press": "Page Six"
+     "t": "삼성전자 개미들 9월 억지로라도 버텨라…10월 '이것' 터지면 돈벼락에 잠 못 잔다 (홍운기 유케이인베스트 대표)",
+     "u": "https://www.sedaily.com/vod/4752956",
+     "press": "서울경제"
     }
    ]
   },
   {
-   "name": "google",
+   "name": "업비트",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-     "u": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-     "press": "WSJ"
+     "t": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
+     "u": "https://v.daum.net/v/20260921101149542",
+     "press": "Daum"
     },
     {
-     "t": "Google says its AI model gained unauthorized access to three outside systems",
-     "u": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
-     "press": "NBC News"
+     "t": "[게시판] 업비트·서울시, 청년의 날 맞아 '금융골든벨'",
+     "u": "https://stock.mk.co.kr/news/view/1162643",
+     "press": "매일경제 마켓"
     },
     {
-     "t": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-     "u": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-     "press": "CNBC"
-    }
-   ]
-  },
-  {
-   "name": "sxmb",
-   "idx": 5,
-   "mv": -4,
-   "news": [
-    {
-     "t": "XSMT 20/9 - Kết quả xổ số miền Trung hôm nay 20/9/2026 - XSMT ngày 20 tháng 9",
-     "u": "https://giaoducthudo.giaoducthoidai.vn/xsmt-20-9-ket-qua-xo-so-mien-trung-hom-nay-20-9-2026-xsmt-ngay-20-thang-9-222501.html",
-     "press": "Giáo dục Thủ đô"
-    },
-    {
-     "t": "Kết quả xổ số hôm nay ngày 20.9: Tiền Giang, Kiên Giang, Đà Lạt",
-     "u": "https://laodong.vn/ban-doc/ket-qua-xo-so-hom-nay-ngay-209-tien-giang-kien-giang-da-lat-1769805.ldo",
-     "press": "Laodong.vn"
-    },
-    {
-     "t": "Xổ số miền Nam ngày 20 tháng 9: Người trúng 32 tờ nhận chuyển khoản ngay",
-     "u": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-9-nguoi-trung-32-to-nhan-chuyen-khoan-ngay-185260920171315124.htm",
-     "press": "Báo Thanh Niên"
-    }
-   ]
-  },
-  {
-   "name": "kbs",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[Graphic News] Aichi-Nagoya Asian Games to raise curtain Friday",
-     "u": "https://www.koreaherald.com/article/10877917",
-     "press": "The Korea Herald"
+     "t": "두나무, 서울시와 '금융골든벨' 개최…비트코인부터 RWA까지",
+     "u": "https://www.etnews.com/20260921000031",
+     "press": "전자신문"
     }
    ]
   }
