@@ -1,205 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260922",
- "updated": "2026-09-22T08:47:32+09:00",
+ "targetDate": "20260923",
+ "updated": "2026-09-23T08:26:36+09:00",
  "list": [
   {
-   "name": "발로란트 추석 이벤트",
+   "name": "추분",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "(9/21~10/5) 2026 발로란트 추석 맞이 이벤트 안내",
-     "u": "https://playvalorant.com/ko-kr/news/announcements/2026-chuseok-event/",
-     "press": "VALORANT"
+     "t": "추석 연휴 앞둔 추분···전국 맑고 일교차 커",
+     "u": "https://www.khan.co.kr/article/202609230729001",
+     "press": "경향신문"
     },
     {
-     "t": "(9/21 ~ 소진 시까지) 카카오페이 VP 충전 10% 할인 이벤트",
-     "u": "https://playvalorant.com/ko-kr/news/announcements/kakaopay-vp-discount-event-0921/",
-     "press": "VALORANT"
+     "t": "[날씨] 절기 '추분', 쾌청한 하늘...한낮 늦더위, 큰 일교차",
+     "u": "https://www.ytn.co.kr/_ln/0108_202609230735351374",
+     "press": "YTN"
+    },
+    {
+     "t": "대구·경북 대체로 맑아…내륙엔 안개 '주의'",
+     "u": "https://www.yna.co.kr/view/AKR20260923014500053",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "아시안게임",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김영범, 자유형 50m 금메달‥예선·결승 대회신",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853411_37012.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "[아시안게임] 김효열 수영 총감독 \"김영범, 허허 웃어도 물속에선 철저\"",
-     "u": "https://v.daum.net/v/20260922070655848",
-     "press": "Daum"
-    },
-    {
-     "t": "찾았다, 한국 수영에 없던 ‘단거리 新’",
-     "u": "https://m.go.seoul.co.kr/news/sport/Asiangame2026-aichi-nagoya/2026/09/22/20260922034002",
-     "press": "서울Pn"
-    }
-   ]
-  },
-  {
-   "name": "구글",
+   "name": "장윤정",
    "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "Google hit with $463 million fine for EU location data rule breach",
-     "u": "https://abcnews.com/Technology/wireStory/google-hit-463-million-fine-eu-location-data-136616044",
-     "press": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "t": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-     "u": "https://www.bbc.com/news/articles/ck1e52v16ngxo",
-     "press": "BBC"
-    },
-    {
-     "t": "Irish privacy regulator fines Google €403 million over location data processing",
-     "u": "https://www.reuters.com/business/media-telecom/irish-regulator-fines-google-403-million-over-location-data-processing-2026-09-21/",
-     "press": "Reuters"
-    }
-   ]
-  },
-  {
-   "name": "치지직",
-   "idx": 25,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "기상청",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "전국 맑고 일교차 최대 15도↑ 전형적 가을날…서쪽 오존·건조",
-     "u": "https://v.daum.net/v/20260922082053265",
+     "t": "트로트계 저격 난리 속…장윤정, 대체 후배들에 얼마나 잘한 거야 \"추석이라고 바리바리\" [엑's 이슈]",
+     "u": "https://v.daum.net/v/xxcHr5Tstd",
      "press": "Daum"
     },
     {
-     "t": "[출근길 날씨] 한낮 늦더위, 서울 29도…추석에 누그러져",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8669215",
-     "press": "KBS 뉴스"
+     "t": "장윤정, 후배들 추석 선물에 환한 미소…사무실서 따뜻한 인증샷",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16207371",
+     "press": "톱스타뉴스"
     },
     {
-     "t": "맑은 하늘에 낮 최고 31도…아침·낮 15도 넘게 벌어지는 ‘큰 일교차’ [날씨]",
-     "u": "https://www.kyeonggi.com/article/20260921580685",
-     "press": "경기일보"
+     "t": "장윤정, 인생 잘 살았네…추석에 후배들 줄 섰다 \"바리바리 고마워요\"",
+     "u": "https://mydaily.co.kr/page/view/2026092220205371429",
+     "press": "마이데일리"
     }
    ]
   },
   {
-   "name": "윤동희",
+   "name": "돈",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
-     "u": "https://v.daum.net/v/20260922072408090",
-     "press": "Daum"
+     "t": "‘13월의 월급’ 키울 IRP-연금저축, ‘세액공제’ 황금비율 찾아라",
+     "u": "https://www.donga.com/news/Economy/article/all/20260921/134712683/2",
+     "press": "동아일보"
     },
     {
-     "t": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키] - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "유일한 2군 선수가 홈런 때렸다… 윤동희 “홈런 기뻐, 한시름 덜었다”",
-     "u": "https://www.koreadaily.com/article/20260921155002106",
-     "press": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "name": "조병현",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김도영에게 4중키킹? 린이웨이 투구폼 정상적인가…그냥 넘어갈 일 아니다, 결승서 또 당할 수 있다",
-     "u": "https://v.daum.net/v/20260922081127998",
-     "press": "Daum"
-    },
-    {
-     "t": "야구대표팀 대만과 1차전‥곽빈 6이닝 노히트 10탈삼진 역투",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853365_37004.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "10개 구단 팬들 다 모였다, 대~한민국 대신 울려 퍼진 '선수 응원가' [오카자키 현장] - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/22/2026092117410172470",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "dmz",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Yonhap News Summary",
-     "u": "https://en.yna.co.kr/view/AEN20260921009700320",
-     "press": "Yonhap News Agency"
-    },
-    {
-     "t": "Three Soldiers Injured in Landmine Explosion, North Korean Placement Suspected",
-     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008764894",
-     "press": "SBS 뉴스"
-    },
-    {
-     "t": "President Lee: \"Government Will Fully Support Treatment and Recovery of DMZ Land",
-     "u": "https://www.asiae.co.kr/en/article/2026092117422849174",
+     "t": "\"年900만원 넣었더니…65세부터 月430만원 따박따박\" …'3층 연금'의 힘",
+     "u": "https://view.asiae.co.kr/article/2026092108373983794",
      "press": "아시아경제"
-    }
-   ]
-  },
-  {
-   "name": "삼성전자 주가",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“코스피 겨우 버텼는데 어쩌지”...삼전닉스 자사주 매입 종료 임박",
-     "u": "https://v.daum.net/v/UQm0ulwavN",
-     "press": "Daum"
     },
     {
-     "t": "삼전닉스 '8조' 팔아치운 외국인 몰려간 곳이…'파격 전망' [종목+]",
-     "u": "https://www.hankyung.com/article/2026091837776",
-     "press": "한국경제"
-    },
-    {
-     "t": "삼성전자 개미들 9월 억지로라도 버텨라…10월 '이것' 터지면 돈벼락에 잠 못 잔다 (홍운기 유케이인베스트 대표)",
-     "u": "https://www.sedaily.com/vod/4752956",
-     "press": "서울경제"
-    }
-   ]
-  },
-  {
-   "name": "업비트",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "스마트폰으로 배우는 금융지식…업비트·서울시 '금융골든벨' 개최",
-     "u": "https://v.daum.net/v/20260921101149542",
-     "press": "Daum"
-    },
-    {
-     "t": "[게시판] 업비트·서울시, 청년의 날 맞아 '금융골든벨'",
-     "u": "https://stock.mk.co.kr/news/view/1162643",
+     "t": "내집마련 전략, 똑똑한 연금 설계…추석에도 돈 되는 정보 뜬다",
+     "u": "https://stock.mk.co.kr/news/view/1163100",
      "press": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "name": "사건",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독]이 대통령, 귀국 직후 ‘내란 사건 특별수사본부’ 구성 지시 검토",
+     "u": "https://news.jtbc.co.kr/article/NB12319707",
+     "press": "JTBC"
     },
     {
-     "t": "두나무, 서울시와 '금융골든벨' 개최…비트코인부터 RWA까지",
-     "u": "https://www.etnews.com/20260921000031",
-     "press": "전자신문"
+     "t": "[국세청의 ‘조세심판 대응법’-⑤] 사건조사서도 전략이 필요하다…“논리의 무게”",
+     "u": "https://www.sejungilbo.com/news/articleView.html?idxno=60227",
+     "press": "세정일보"
+    },
+    {
+     "t": "[국세청의 ‘조세심판 대응법’-④] 압도적 설득력으로 ‘골든타임’을 선점하라",
+     "u": "https://www.sejungilbo.com/news/articleView.html?idxno=60210",
+     "press": "세정일보"
+    }
+   ]
+  },
+  {
+   "name": "황보라",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "황보라, 화장실서 낙상 사고→병원行 \"머리 뒤로 완전히 박았다\" [보라이어티]",
+     "u": "https://v.daum.net/v/qjQyz71yvp",
+     "press": "Daum"
+    },
+    {
+     "t": "'유튜브' 황보라 \"뒤로 꽈당 넘어져\"…갑작스러운 병원行",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6299505",
+     "press": "뉴스1"
+    },
+    {
+     "t": "황보라 “아들 목욕시킨 뒤 뒤로 꽈당”…머리 부딪혀 병원행",
+     "u": "https://sports.donga.com/ent/article/all/20260922/134723974/1",
+     "press": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "name": "정준하",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "정준하 아들, 배우 상 얼굴…이국적 분위기",
+     "u": "https://www.newsis.com/view/NISX20260922_0003800621",
+     "press": "뉴시스"
+    },
+    {
+     "t": "정준하 아들 로하, 언제 이렇게 컸지?..깜짝 놀랄 ‘훈훈’ 비주얼 [Oh!쎈 이슈]",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/22/GI3DKOBWGFRTGY3BMZRWINZXGU/",
+     "press": "조선일보"
+    },
+    {
+     "t": "정준하 아들, 훈남으로 자랐다…\"이번이 마지막\" 아빠 지원군 자처",
+     "u": "https://v.daum.net/v/20260922103139818",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "시즌2",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "서은수, 9년 지나 더 단단해졌다…'메인코2' 강렬 존재감",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6298659",
+     "press": "뉴스1"
+    },
+    {
+     "t": "'메이드 인 코리아2' 현빈, 끝내 총구 겨눴다…폭주하는 욕망의 끝은",
+     "u": "https://www.newspim.com/news/view/20260923000095",
+     "press": "뉴스핌"
+    },
+    {
+     "t": "'메이드 인 코리아' 황대식의 월권, 실제 전두환은 더 심각했다",
+     "u": "https://v.daum.net/v/zJwNzfztpc?f=p",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "맨체스터 유나이티드 fc",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "맨유, 16세 '제2의 라민 야말' 노린다! '프로 데뷔 11초 만에 결승골' 역대급 재능→\"광범위한 스카우팅 진행\"",
+     "u": "https://v.daum.net/v/20260922180250501?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "절대 맨유에서 뛰는 일은 없을 것…시즌 중 훈련 불참, 이적 통보 “JJ 가브리엘 뮌헨·레알 이적 위해 회동”",
+     "u": "https://v.daum.net/v/3WyPzyOcy7",
+     "press": "Daum"
+    },
+    {
+     "t": "'1800억 특급 유망주' 5억에 뺏기는 맨유 대충격! 죽 쒀서 바르사 준다…1년 동안 배려했지만 \"팀 떠나겠다\"",
+     "u": "https://www.sportschosun.com/football/2026-09-23/202609230100157750010288",
+     "press": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "name": "주식",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "남선알미늄, 최대주주 삼라 측 주식등 보유 비율 1.50%p 증가",
+     "u": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=702571",
+     "press": "디지털투데이"
+    },
+    {
+     "t": "상폐 비용 아끼고 지배력도 키운다 [고의상폐의 덫 ②]",
+     "u": "https://news.mtn.co.kr/news-detail/2026092216441427564",
+     "press": "MTN 머니투데이방송"
+    },
+    {
+     "t": "상폐 문턱 높아지자 IR도 바빠졌다…상장사들 '기업가치 알리기' 분주",
+     "u": "https://v.daum.net/v/qq7HDQ9UhK",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "핑클",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[잇슈 컬처] ‘1세대 걸그룹’ 핑클, 21년 만에 활동 재개",
+     "u": "https://v.daum.net/v/20260922070222735",
+     "press": "Daum"
+    },
+    {
+     "t": "[공식] 핑클 재결합 발표…“단발성 만남 NO” 21년 만 새출발",
+     "u": "https://sports.khan.co.kr/article/202609210934003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "21년 만에 완전체로…핑클, 지속적 활동 예고",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008764758",
+     "press": "SBS 뉴스"
     }
    ]
   }
