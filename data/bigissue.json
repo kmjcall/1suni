@@ -1,226 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260924",
- "updated": "2026-09-24T08:24:31+09:00",
+ "targetDate": "20260925",
+ "updated": "2026-09-25T08:43:21+09:00",
  "list": [
   {
-   "name": "냉장고",
+   "name": "weather",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"테스트용 버전 배포됐다\" 황당한 실수‥수리·보상은 어떻게?",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853842_37004.html",
-     "press": "MBC 뉴스"
+     "t": "Coastal flooding, gusty winds ramp up as nor’easter batters East Coast",
+     "u": "https://weather.com/2026/09/24/forecast/regional/noreaster-forecast-coastal-flooding-rain-wind-boston-mid-atlantic",
+     "press": "The Weather Channel"
     },
     {
-     "t": "추석 앞두고 먹통된 냉장고…AI 스마트 가전의 배신",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8670867",
-     "press": "KBS 뉴스"
+     "t": "Nice, breezy today to a Big Weekend Storm!",
+     "u": "https://www.wtnh.com/weather/todays-connecticut-forecast/quiet-today-with-a-closer-weekend-storm-track/",
+     "press": "WTNH.com"
     },
     {
-     "t": "“업데이트 했더니 냉장고가 벽돌로\"…추석 앞두고 삼성전자 SW 업데이트 먹통",
-     "u": "https://v.daum.net/v/20260923112705452",
-     "press": "Daum"
+     "t": "FEMA freezes money designated for Massachusetts seawall repair",
+     "u": "https://www.cbsnews.com/boston/news/noreaster-scituate-seawall-fema-cuts/",
+     "press": "CBS News"
     }
    ]
   },
   {
-   "name": "고양이",
+   "name": "thời tiết",
    "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "동물 구조단체서 고양이 500여 마리 발견...사체는 냉동고에",
-     "u": "https://www.radiokorea.com/news/article.php?uid=504793",
-     "press": "라디오코리아"
+     "t": "[Video] Dự báo thời tiết ngày 25/9/2026: Mưa lớn tại Trung Bộ, cục bộ có thể mưa",
+     "u": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-2592026-mua-lon-tai-trung-bo-cuc-bo-co-the-mua-tren-150mm-post990838.html",
+     "press": "Báo Nhân Dân điện tử"
     },
     {
-     "t": "“명절에도 걱정 마세요”…취약계층 반려동물 돌봄 확대",
-     "u": "https://v.daum.net/v/20260923220921008",
+     "t": "Thời tiết hôm nay 25/9: Trung thu mưa lớn dồn dập ở những khu vực nào?",
+     "u": "https://1thegioi.vn/thoi-tiet-hom-nay-25-9-trung-thu-mua-lon-don-dap-o-nhung-khu-vuc-nao-258678.html",
+     "press": "Một Thế Giới"
+    },
+    {
+     "t": "Miền Trung mưa tầm tã, nhiều nơi có thể ngập úng",
+     "u": "https://dantri.com.vn/thoi-tiet/mien-trung-mua-tam-ta-nhieu-noi-co-the-ngap-ung-20260924211955332.htm",
+     "press": "Báo Dân trí"
+    }
+   ]
+  },
+  {
+   "name": "天气",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "What is a 'super El Niño' and how will it affect the weather?",
+     "u": "https://www.reuters.com/business/environment/what-is-super-el-nio-how-will-it-affect-weather-2026-09-24/",
+     "press": "Reuters"
+    },
+    {
+     "t": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study",
+     "u": "https://abc7.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/",
+     "press": "ABC7 Los Angeles"
+    },
+    {
+     "t": "The Guardian view on a supersized El Niño: a natural phenomenon and human folly ",
+     "u": "https://www.theguardian.com/commentisfree/2026/sep/24/the-guardian-view-on-a-supersized-el-nino-a-natural-phenomenon-and-human-folly-are-a-lethal-combination",
+     "press": "The Guardian"
+    }
+   ]
+  },
+  {
+   "name": "차례상",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "5000원짜리 제수용품? 추석에도 다이소 대박 났다 [언박싱]",
+     "u": "https://v.daum.net/v/20260924110209854",
      "press": "Daum"
     },
     {
-     "t": "반려견과 도심 추캉스…콘래드 서울 ‘펫 메종’",
-     "u": "https://www.newsis.com/view/NISX20260923_0003802389",
+     "t": "\"음식 준비 대신 가족여행·외식\"…10가구 중 7곳 차례 안 지낸다",
+     "u": "https://www.news1.kr/society/incident-accident/6300663",
+     "press": "뉴스1"
+    },
+    {
+     "t": "많이 차려야 정성?…전통 차례상은 오히려 간소했다",
+     "u": "https://www.newsis.com/view/NISX20260922_0003800773",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "김혜성",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"타격 꾸준함 필요\" 로버츠 말 떨어지자 멀티히트…김혜성, PS 막차 경쟁 다시 불붙었다",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/09/24/MZRGKOBUGQ4WIZDCGVRDCN3DGE/",
-     "press": "조선일보"
-    },
-    {
-     "t": "빅리그 향한 무력시위인가…김혜성, 트리플A서 멀티히트 폭발+두 차례 홈 밟았다",
-     "u": "https://www.osen.co.kr/article/G1112880728",
-     "press": "OSEN"
-    },
-    {
-     "t": "김혜성, PCL 챔피언십에서 2안타 2득점 활약",
-     "u": "https://www.mk.co.kr/news/sports/12160337",
-     "press": "매일경제"
-    }
-   ]
-  },
-  {
-   "name": "약국",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "추석 연휴 기간, 국민의 안전을 위해 우리 군이 함께합니다 - 전체 | 카드/한컷",
-     "u": "https://www.korea.kr/multi/visualNewsView.do?newsId=148972509",
-     "press": "대한민국 정책브리핑"
-    },
-    {
-     "t": "구미 응급실 3곳 추석연휴 24시간 운영…소아 응급진료도 유지",
-     "u": "https://v.daum.net/v/20260924070147729",
-     "press": "Daum"
-    },
-    {
-     "t": "안산시, 추석 명절 종합대책 가동…10개 분야 314명 비상근무 시행",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1332800",
-     "press": "인천일보"
-    }
-   ]
-  },
-  {
-   "name": "현숙",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "22기 현숙, 16기 광수와 언팔→결별설 속 데이트 인증 \"일분일초가 아쉬워\"",
-     "u": "https://v.daum.net/v/3BKfnUAiW7",
-     "press": "Daum"
-    },
-    {
-     "t": "정일대♥김소연, 빚·임신·폭언 터졌다…결별은 안 해 (연애전쟁)",
-     "u": "https://sports.donga.com/ent/article/all/20260922/134716248/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "‘나솔’ 22기 현숙, 전 남편에 맞아 장기파열…현 남친 “ 왜 맞았는지 알겠다”",
-     "u": "https://biz.heraldcorp.com/article/10881752",
-     "press": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "name": "윤여정",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'79살' 윤여정, '스무 살 연하男'과 얽혔다…\"미국이라 가능한 역할\" [MHN:픽]",
-     "u": "https://v.daum.net/v/tI61EL1yiy",
-     "press": "Daum"
-    },
-    {
-     "t": "79세 윤여정, '20세 연하남'과 얽힌 회장 역할…\"왜 안 되나\" 유쾌 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/09/23/2026092322385871368",
-     "press": "머니투데이"
-    },
-    {
-     "t": "윤여정 \"'성난 사람들2' 이성진 감독, 코리안 아메리칸…팔이 안으로 굽는 느낌\"",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6300581",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "이대호",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“이대호 맞아?”…'1일 1식+러닝'으로 20kg 감량, 은퇴 후 확 달라진 모습",
-     "u": "https://v.daum.net/v/20260923233649117",
-     "press": "Daum"
-    },
-    {
-     "t": "'라스' 이대호 \"러닝으로 20㎏ 감량…비만치료제 도움도\"",
-     "u": "https://www.news1.kr/entertain/broadcast-tv/6300989",
-     "press": "뉴스1"
-    },
-    {
-     "t": "'라스' 이대호, 20kg 감량→ 후배들 한우 회식 1280만원 플렉스 미담 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/09/23/2026092309487283122",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "충전기",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "추석 연휴, 기후부·한전 공공부문 전기차 충전요금 반값 할인! - 전체 | 카드/한컷",
-     "u": "https://www.korea.kr/multi/visualNewsView.do?newsId=148972479",
-     "press": "대한민국 정책브리핑"
-    },
-    {
-     "t": "추석 귀성길 車 부담 낮춘다…\"유류비·충전료 할인에 긴급출동까지\"",
-     "u": "https://www.newsis.com/view/NISX20260922_0003801137",
-     "press": "뉴시스"
-    },
-    {
-     "t": "요금 할인에 이동식 충전기까지…충전업계, 추석 연휴 총력 대응",
-     "u": "https://www.electimes.com/news/articleView.html?idxno=372787",
-     "press": "전기신문"
-    }
-   ]
-  },
-  {
-   "name": "구글 북",
+   "name": "추석 차례상",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "구글북 899달러, 원가 구조에 물음표... \"이게 되나?\"",
-     "u": "https://zdnet.co.kr/view/?no=20260923140658",
-     "press": "지디넷코리아"
+     "t": "예년보다 11일 이른 추석… “차례상 비용에 영향 미쳤다”",
+     "u": "https://v.daum.net/v/20260925052930947",
+     "press": "Daum"
     },
     {
-     "t": "AI가 선택한 종목, 이달 AI 노트북 계약으로 약 20% 급등",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2103334",
+     "t": "[추석생활백과] “홍동백서·조율이시 꼭 따라야 하나”… 차례상 과일 놓는 법",
+     "u": "https://www.newscj.com/news/articleView.html?idxno=3433921",
+     "press": "천지일보"
+    },
+    {
+     "t": "추석 성수과일 2주전보다 10% 넘게 상승...휴게소 물가도 비상",
+     "u": "https://www.ytn.co.kr/_ln/0102_202609231825446606",
+     "press": "YTN"
+    }
+   ]
+  },
+  {
+   "name": "ionq",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Miami’s first quantum computer coming to FIU",
+     "u": "https://news.fiu.edu/2026/miamis-first-quantum-computer-coming-to-fiu",
+     "press": "Florida International University"
+    },
+    {
+     "t": "IonQ (IONQ) to Install Superion 256 Quantum Computer at FIU",
+     "u": "https://www.tradingview.com/news/tradingview:249ac102e58b0:0-ionq-ionq-to-install-superion-256-quantum-computer-at-fiu/",
+     "press": "TradingView"
+    },
+    {
+     "t": "FIU Secures Florida’s First IonQ Superion Quantum System",
+     "u": "https://www.ionq.com/news/ionqs-superion-256-platform-selected-by-florida-international-university-for-flagship-deployment",
+     "press": "IonQ"
+    }
+   ]
+  },
+  {
+   "name": "서울지하철",
+   "idx": 10,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "ai 데이터 센터",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
+     "u": "https://www.hankyung.com/article/202609245338i",
+     "press": "한국경제"
+    },
+    {
+     "t": "Oracle, 대규모 ’Project Jupiter’ 데이터센터에 불가항력 조항 발동",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2105578",
      "press": "Investing.com 한국어"
     },
     {
-     "t": "대만, 파운드리 이어 설계 강국으로… 미디어텍, PC·서버 칩 외연 확장 - 조선비즈",
-     "u": "https://biz.chosun.com/it-science/ict/2026/09/23/FFUSNMKOXJFAFJKT25FL7ES66Y/",
-     "press": "Chosunbiz"
+     "t": "오라클, ‘프로젝트 주피터’ 지연 우려에 주가 4%↓",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01252966645583728",
+     "press": "마켓인"
     }
    ]
   },
   {
-   "name": "압수수색",
+   "name": "skhy",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘멈춰 선 행정타운’ 거제시청 압수수색",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8669844",
-     "press": "KBS 뉴스"
+     "t": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Dro",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-falls-3-despite-182027199.html",
+     "press": "Yahoo Finance"
     },
     {
-     "t": "'10년간 표류' 거제 행정타운 관련…경찰, 거제시청 압수수색",
-     "u": "https://v.daum.net/v/HSJUQlwatO",
+     "t": "Goldman Sachs Research Report Analysis: SK hynix HBM Pricing Rises, LTA Locks in",
+     "u": "https://www.techflowpost.com/en-US/article/34192",
+     "press": "深潮TechFlow"
+    },
+    {
+     "t": "SK hynix: It's Getting Better And Better (NASDAQ:SKHY)",
+     "u": "https://seekingalpha.com/article/4948936-sk-hynix-its-getting-better-and-better",
+     "press": "Seeking Alpha"
+    }
+   ]
+  },
+  {
+   "name": "해외여행",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"케데헌 속 한국, 직접 왔다\"…추석 도심 관광지 '북적'",
+     "u": "https://v.daum.net/v/7b3v3ZiPUk",
      "press": "Daum"
     },
     {
-     "t": "'10년 표류' 거제 행정타운, 결국 강제수사",
-     "u": "https://www.gnmaeil.com/news/articleView.html?idxno=595350",
-     "press": "경남매일"
+     "t": "\"짧은 연휴에 유류할증료 부담\"…일본·중국 등 단거리 여행 증가",
+     "u": "https://www.yna.co.kr/view/AKR20260923155600030",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "너도나도 해외여행 가더니…\"비싼 돈 쓰고 생고생\" 지갑 닫는 이유 셋 - 머니투데이",
+     "u": "https://www.mt.co.kr/culture/2026/09/24/2026092312345775444",
+     "press": "머니투데이"
     }
    ]
   }
