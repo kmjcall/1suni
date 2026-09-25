@@ -1,210 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260925",
- "updated": "2026-09-25T08:43:21+09:00",
+ "targetDate": "20260926",
+ "updated": "2026-09-26T08:48:39+09:00",
  "list": [
   {
-   "name": "weather",
+   "name": "날씨",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "Coastal flooding, gusty winds ramp up as nor’easter batters East Coast",
-     "u": "https://weather.com/2026/09/24/forecast/regional/noreaster-forecast-coastal-flooding-rain-wind-boston-mid-atlantic",
-     "press": "The Weather Channel"
-    },
-    {
-     "t": "Nice, breezy today to a Big Weekend Storm!",
-     "u": "https://www.wtnh.com/weather/todays-connecticut-forecast/quiet-today-with-a-closer-weekend-storm-track/",
-     "press": "WTNH.com"
-    },
-    {
-     "t": "FEMA freezes money designated for Massachusetts seawall repair",
-     "u": "https://www.cbsnews.com/boston/news/noreaster-scituate-seawall-fema-cuts/",
-     "press": "CBS News"
-    }
-   ]
-  },
-  {
-   "name": "thời tiết",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[Video] Dự báo thời tiết ngày 25/9/2026: Mưa lớn tại Trung Bộ, cục bộ có thể mưa",
-     "u": "https://nhandan.vn/video-du-bao-thoi-tiet-ngay-2592026-mua-lon-tai-trung-bo-cuc-bo-co-the-mua-tren-150mm-post990838.html",
-     "press": "Báo Nhân Dân điện tử"
-    },
-    {
-     "t": "Thời tiết hôm nay 25/9: Trung thu mưa lớn dồn dập ở những khu vực nào?",
-     "u": "https://1thegioi.vn/thoi-tiet-hom-nay-25-9-trung-thu-mua-lon-don-dap-o-nhung-khu-vuc-nao-258678.html",
-     "press": "Một Thế Giới"
-    },
-    {
-     "t": "Miền Trung mưa tầm tã, nhiều nơi có thể ngập úng",
-     "u": "https://dantri.com.vn/thoi-tiet/mien-trung-mua-tam-ta-nhieu-noi-co-the-ngap-ung-20260924211955332.htm",
-     "press": "Báo Dân trí"
-    }
-   ]
-  },
-  {
-   "name": "天气",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "What is a 'super El Niño' and how will it affect the weather?",
-     "u": "https://www.reuters.com/business/environment/what-is-super-el-nio-how-will-it-affect-weather-2026-09-24/",
-     "press": "Reuters"
-    },
-    {
-     "t": "Super-sized El Niño could cause more than 450,000 heat deaths by February, study",
-     "u": "https://abc7.com/story/super-sized-el-nio-could-cause-more-450000-heat-deaths-february-study-suggests/19867587/",
-     "press": "ABC7 Los Angeles"
-    },
-    {
-     "t": "The Guardian view on a supersized El Niño: a natural phenomenon and human folly ",
-     "u": "https://www.theguardian.com/commentisfree/2026/sep/24/the-guardian-view-on-a-supersized-el-nino-a-natural-phenomenon-and-human-folly-are-a-lethal-combination",
-     "press": "The Guardian"
-    }
-   ]
-  },
-  {
-   "name": "차례상",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "5000원짜리 제수용품? 추석에도 다이소 대박 났다 [언박싱]",
-     "u": "https://v.daum.net/v/20260924110209854",
+     "t": "[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져",
+     "u": "https://v.daum.net/v/20260925220006655",
      "press": "Daum"
     },
     {
-     "t": "\"음식 준비 대신 가족여행·외식\"…10가구 중 7곳 차례 안 지낸다",
-     "u": "https://www.news1.kr/society/incident-accident/6300663",
-     "press": "뉴스1"
+     "t": "흐리고 전국 곳곳에 비‥제주 최대 80mm",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854167_37012.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "많이 차려야 정성?…전통 차례상은 오히려 간소했다",
-     "u": "https://www.newsis.com/view/NISX20260922_0003800773",
+     "t": "인천, 새벽까지 5~10㎜ 비 예보…오전부터 맑아져",
+     "u": "https://www.newsis.com/view/NISX20260925_0003803560",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "추석 차례상",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "예년보다 11일 이른 추석… “차례상 비용에 영향 미쳤다”",
-     "u": "https://v.daum.net/v/20260925052930947",
-     "press": "Daum"
-    },
-    {
-     "t": "[추석생활백과] “홍동백서·조율이시 꼭 따라야 하나”… 차례상 과일 놓는 법",
-     "u": "https://www.newscj.com/news/articleView.html?idxno=3433921",
-     "press": "천지일보"
-    },
-    {
-     "t": "추석 성수과일 2주전보다 10% 넘게 상승...휴게소 물가도 비상",
-     "u": "https://www.ytn.co.kr/_ln/0102_202609231825446606",
-     "press": "YTN"
-    }
-   ]
-  },
-  {
-   "name": "ionq",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Miami’s first quantum computer coming to FIU",
-     "u": "https://news.fiu.edu/2026/miamis-first-quantum-computer-coming-to-fiu",
-     "press": "Florida International University"
-    },
-    {
-     "t": "IonQ (IONQ) to Install Superion 256 Quantum Computer at FIU",
-     "u": "https://www.tradingview.com/news/tradingview:249ac102e58b0:0-ionq-ionq-to-install-superion-256-quantum-computer-at-fiu/",
-     "press": "TradingView"
-    },
-    {
-     "t": "FIU Secures Florida’s First IonQ Superion Quantum System",
-     "u": "https://www.ionq.com/news/ionqs-superion-256-platform-selected-by-florida-international-university-for-flagship-deployment",
-     "press": "IonQ"
-    }
-   ]
-  },
-  {
-   "name": "서울지하철",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "ai 데이터 센터",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "오라클 '불가항력' 카드…AI 데이터센터 금융 흔든다",
-     "u": "https://www.hankyung.com/article/202609245338i",
-     "press": "한국경제"
-    },
-    {
-     "t": "Oracle, 대규모 ’Project Jupiter’ 데이터센터에 불가항력 조항 발동",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2105578",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "오라클, ‘프로젝트 주피터’ 지연 우려에 주가 4%↓",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01252966645583728",
-     "press": "마켓인"
-    }
-   ]
-  },
-  {
-   "name": "skhy",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Dro",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-falls-3-despite-182027199.html",
-     "press": "Yahoo Finance"
-    },
-    {
-     "t": "Goldman Sachs Research Report Analysis: SK hynix HBM Pricing Rises, LTA Locks in",
-     "u": "https://www.techflowpost.com/en-US/article/34192",
-     "press": "深潮TechFlow"
-    },
-    {
-     "t": "SK hynix: It's Getting Better And Better (NASDAQ:SKHY)",
-     "u": "https://seekingalpha.com/article/4948936-sk-hynix-its-getting-better-and-better",
-     "press": "Seeking Alpha"
-    }
-   ]
-  },
-  {
-   "name": "해외여행",
+   "name": "임영웅",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"케데헌 속 한국, 직접 왔다\"…추석 도심 관광지 '북적'",
-     "u": "https://v.daum.net/v/7b3v3ZiPUk",
+     "t": "\"임영웅 행사비 1억, 가수 추가 섭외 힘들다\"…김호중·박지현 몸값은 얼마",
+     "u": "https://v.daum.net/v/20260926050131882",
      "press": "Daum"
     },
     {
-     "t": "\"짧은 연휴에 유류할증료 부담\"…일본·중국 등 단거리 여행 증가",
-     "u": "https://www.yna.co.kr/view/AKR20260923155600030",
+     "t": "임영웅 행사비 관심… 정말 억 소리 나는 금액이다",
+     "u": "https://www.wikitree.co.kr/articles/1162013",
+     "press": "위키트리"
+    },
+    {
+     "t": "“임영웅 오면 다른 가수 못 부른다. 행사비 1억 이상”..확 달라진 2026 트로트 행사 시장",
+     "u": "https://www.sportschosun.com/entertainment/2026-09-25/202609250100168570011077",
+     "press": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "name": "뉴스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"유엔사와 함께해 은폐 불가\"…조사 지연 논란엔 \"흑막 없다\"",
+     "u": "https://news.jtbc.co.kr/article/NB12320031",
+     "press": "JTBC"
+    },
+    {
+     "t": "靑, DMZ 지뢰 폭발 '은폐 의혹' 일축…\"모든 가능성 열고 조사\"",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436506",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "합참 “지뢰 부상자 美헬기 후송? 사실 아냐… 우리軍 메디온 헬기였다”",
+     "u": "https://www.donga.com/news/Politics/article/all/20260925/134733124/1",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "weather",
+   "idx": 5,
+   "mv": -3,
+   "news": [
+    {
+     "t": "Afternoon highs will stay in the 70s for the next few days as fall begins",
+     "u": "https://www.denver7.com/weather/denver-weather/beautiful-afternoon-for-broncos-home-opener-before-evening-rain-chances",
+     "press": "Denver7"
+    },
+    {
+     "t": "Denver weather: Warmer and sunnier this weekend",
+     "u": "https://kdvr.com/weather/weather-forecast/denver-weather-warmer-and-sunnier-this-weekend/",
+     "press": "KDVR"
+    },
+    {
+     "t": "It’ll cool off next week across Colorado, but first 80s",
+     "u": "https://www.cpr.org/2026/09/25/weekend-weather-warm-cold-forecast/",
+     "press": "Colorado Public Radio"
+    }
+   ]
+  },
+  {
+   "name": "노윤서",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "노윤서, 누구랑 떠났나 봤더니..영혼의 단짝 리정과 바다 여행",
+     "u": "https://v.daum.net/v/7BrmMEzthO",
+     "press": "Daum"
+    },
+    {
+     "t": "노윤서, 이런 뒤태 숨겼었나…하와이서 과감한 비키니 자태 [SD셀픽]",
+     "u": "https://sports.donga.com/ent/article/all/20260925/134733381/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "청순미 벗고 드러낸 반전 뒤태, 노윤서의 과감한 하와이 해변",
+     "u": "https://news.nate.com/view/20260925n12547?mid=n1008",
+     "press": "네이트"
+    }
+   ]
+  },
+  {
+   "name": "유시민",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"",
+     "u": "https://v.daum.net/v/20260925153226152",
+     "press": "Daum"
+    },
+    {
+     "t": "與, 유시민 '국민 속였다' 발언에 \"검찰개혁 동력 꺾일까 우려\"",
+     "u": "https://www.yna.co.kr/view/AKR20260925032600001",
      "press": "연합뉴스"
     },
     {
-     "t": "너도나도 해외여행 가더니…\"비싼 돈 쓰고 생고생\" 지갑 닫는 이유 셋 - 머니투데이",
-     "u": "https://www.mt.co.kr/culture/2026/09/24/2026092312345775444",
-     "press": "머니투데이"
+     "t": "박지원 “유시민 작가님! 너무합니다…왜 손톱 때만 봅니까”",
+     "u": "https://www.munhwa.com/article/11619480",
+     "press": "문화일보"
+    }
+   ]
+  },
+  {
+   "name": "погода",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Синоптик Колесов: Конец сентября в Петербурге будет сухим и аномально теплым",
+     "u": "https://www.rosbalt.ru/news/2026-09-25/sinoptik-kolesov-konets-sentyabrya-v-peterburge-budet-suhim-i-anomalno-teplym-5691894",
+     "press": "Росбалт"
+    },
+    {
+     "t": "Погода в Санкт-Петербурге: антициклон подарит продолжительный период бабьего лет",
+     "u": "https://www.gismeteo.ru/news/weather/pogoda-v-sankt-peterburge-anticiklon-podarit-prodolzhitelnyj-period-babego-leta/",
+     "press": "GISMETEO.Новости"
+    },
+    {
+     "t": "Когда бабье лето придет в Санкт-Петербург: регион ждут дождливые выходные",
+     "u": "https://ura.news/news/1053130694",
+     "press": "URA.RU"
+    }
+   ]
+  },
+  {
+   "name": "앤트로픽",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "앤트로픽, 클라우드기업 아카마이와 16조원 규모 컴퓨팅 계약",
+     "u": "https://stock.mk.co.kr/news/view/1165139",
+     "press": "매일경제 마켓"
+    },
+    {
+     "t": "Jabil Circuit 주가, 오늘 급등하는 이유는?",
+     "u": "https://kr.investing.com/news/stock-market-news/article-93CH-2106983",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "앤트로픽-아카마이, 116억 달러 컴퓨팅 계약…\"클로드 수요 급증 대응\"",
+     "u": "https://v.daum.net/v/20260925162137723",
+     "press": "Daum"
+    }
+   ]
+  },
+  {
+   "name": "turkey national football team vs france national football team standings",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Turkey 0-1 France: Kylian Mbappe injured while scoring winner in Nations League",
+     "u": "https://www.bbc.com/sport/football/live/crlyqpvqjgqet",
+     "press": "BBC"
+    },
+    {
+     "t": "Turkey vs. France Lineup Today: Confirmed Team News & Starting XI",
+     "u": "https://sports.yahoo.com/articles/turkey-vs-france-lineup-today-202621849.html",
+     "press": "Yahoo Sports"
+    },
+    {
+     "t": "Turkey 0-1 France, Italy 0-2 Belgium, Georgia 0-1 Northern Ireland: Nations Leag",
+     "u": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+     "press": "The Guardian"
+    }
+   ]
+  },
+  {
+   "name": "배틀그라운드",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "영구 제재에 피해자 보호까지…크래프톤, '방플' 논란 수습 국면",
+     "u": "https://v.daum.net/v/20260924054607644",
+     "press": "Daum"
+    },
+    {
+     "t": "‘방플 논란’ 베트남 선수 2명, 배그 e스포츠서 영구 퇴출",
+     "u": "https://www.sedaily.com/article/20094748",
+     "press": "서울경제"
+    },
+    {
+     "t": "크래프톤, 'PUBG 아시아 스타즈' 논란 수습... 선수 영구 제재·피해자 보호 나서",
+     "u": "https://www.etnews.com/20260923000195",
+     "press": "전자신문"
     }
    ]
   }
