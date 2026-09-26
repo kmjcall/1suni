@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260926",
- "updated": "2026-09-26T08:48:39+09:00",
+ "targetDate": "20260927",
+ "updated": "2026-09-27T08:23:39+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "왕 즈이",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[날씨/XR] '구름 뒤 보름달' 전국 비…내일까지 이어져",
-     "u": "https://v.daum.net/v/20260925220006655",
+     "t": "'세계랭킹 1위' 안세영까지 작심 비판 \"당황스러워\" 7시간 사이에 2경기 소화...남자부는 자정쯤 경기 마무리 사태",
+     "u": "https://v.daum.net/v/fgNfmS6blj",
      "press": "Daum"
     },
     {
-     "t": "흐리고 전국 곳곳에 비‥제주 최대 80mm",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6854167_37012.html",
-     "press": "MBC 뉴스"
+     "t": "[아시안게임] 황당한 '1일 2경기' 일정에 안세영도 갸웃…\"이런 경우 처음\"",
+     "u": "https://www.yna.co.kr/view/AKR20260926031000007",
+     "press": "연합뉴스"
     },
     {
-     "t": "인천, 새벽까지 5~10㎜ 비 예보…오전부터 맑아져",
-     "u": "https://www.newsis.com/view/NISX20260925_0003803560",
-     "press": "뉴시스"
+     "t": "안세영, 하루 2경기에도 완승…여자 단식 8강 진출",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8671906",
+     "press": "KBS 뉴스"
     }
    ]
   },
   {
-   "name": "임영웅",
-   "idx": 5,
+   "name": "복권",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"임영웅 행사비 1억, 가수 추가 섭외 힘들다\"…김호중·박지현 몸값은 얼마",
-     "u": "https://v.daum.net/v/20260926050131882",
-     "press": "Daum"
+     "t": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
+     "u": "https://www.khan.co.kr/article/202609262248001",
+     "press": "경향신문"
     },
     {
-     "t": "임영웅 행사비 관심… 정말 억 소리 나는 금액이다",
-     "u": "https://www.wikitree.co.kr/articles/1162013",
-     "press": "위키트리"
+     "t": "[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=02312406645584056&mediaCodeNo=257",
+     "press": "이데일리"
     },
     {
-     "t": "“임영웅 오면 다른 가수 못 부른다. 행사비 1억 이상”..확 달라진 2026 트로트 행사 시장",
-     "u": "https://www.sportschosun.com/entertainment/2026-09-25/202609250100168570011077",
-     "press": "스포츠조선"
+     "t": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/09/26/2026092622255739524",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "뉴스",
-   "idx": 5,
+   "name": "예금",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"유엔사와 함께해 은폐 불가\"…조사 지연 논란엔 \"흑막 없다\"",
-     "u": "https://news.jtbc.co.kr/article/NB12320031",
-     "press": "JTBC"
+     "t": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
+     "u": "https://v.daum.net/v/8GAZEiZvSE",
+     "press": "Daum"
     },
     {
-     "t": "靑, DMZ 지뢰 폭발 '은폐 의혹' 일축…\"모든 가능성 열고 조사\"",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436506",
-     "press": "연합인포맥스"
+     "t": "금리인상 사이클 속 예대마진 제각각…복잡해지는 여수신 셈법 - 머니투데이",
+     "u": "https://www.mt.co.kr/finance/2026/09/27/2026092115491053499",
+     "press": "머니투데이"
     },
     {
-     "t": "합참 “지뢰 부상자 美헬기 후송? 사실 아냐… 우리軍 메디온 헬기였다”",
-     "u": "https://www.donga.com/news/Politics/article/all/20260925/134733124/1",
+     "t": "예금으로 몰리는 돈…5대 은행, 정기예금 1012조 돌파",
+     "u": "https://www.donga.com/news/Economy/article/all/20260926/134733663/1",
      "press": "동아일보"
     }
    ]
   },
   {
-   "name": "weather",
-   "idx": 5,
-   "mv": -3,
+   "name": "심수봉",
+   "idx": 10,
+   "mv": "NEW",
    "news": [
     {
-     "t": "Afternoon highs will stay in the 70s for the next few days as fall begins",
-     "u": "https://www.denver7.com/weather/denver-weather/beautiful-afternoon-for-broncos-home-opener-before-evening-rain-chances",
-     "press": "Denver7"
+     "t": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
+     "u": "https://www.nocutnews.co.kr/news/6583300",
+     "press": "노컷뉴스"
     },
     {
-     "t": "Denver weather: Warmer and sunnier this weekend",
-     "u": "https://kdvr.com/weather/weather-forecast/denver-weather-warmer-and-sunnier-this-weekend/",
-     "press": "KDVR"
+     "t": "유퉁 \"심수봉 정신 왔다 갔다, 스스로 연예계 사망 선고\"…'김다현 직격'에 쓴소리",
+     "u": "https://www.news1.kr/society/people/6301585",
+     "press": "뉴스1"
     },
     {
-     "t": "It’ll cool off next week across Colorado, but first 80s",
-     "u": "https://www.cpr.org/2026/09/25/weekend-weather-warm-cold-forecast/",
-     "press": "Colorado Public Radio"
+     "t": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "노윤서",
+   "name": "육상 경기",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "노윤서, 누구랑 떠났나 봤더니..영혼의 단짝 리정과 바다 여행",
-     "u": "https://v.daum.net/v/7BrmMEzthO",
+     "t": "\"한국 육상 여신, 말 안 나올 정도로 예쁘다\" 일본 팬들, 나고야 트랙에 등장한 김주하에 환호…외모→기록→소신 발언까지",
+     "u": "https://v.daum.net/v/20260927040639927",
      "press": "Daum"
     },
     {
-     "t": "노윤서, 이런 뒤태 숨겼었나…하와이서 과감한 비키니 자태 [SD셀픽]",
-     "u": "https://sports.donga.com/ent/article/all/20260925/134733381/1",
-     "press": "스포츠동아"
+     "t": "\"밥이 너무 부실해\" 불만 터뜨린 韓 미녀 스프린터, 준결승 탈락에도 日 사로잡았다 \"말을 잃을 정도 미모\"",
+     "u": "https://www.chosun.com/sports/sports_general/2026/09/26/GBSTONZSG5TDMZLCGY4DQMRYMY/",
+     "press": "조선일보"
     },
     {
-     "t": "청순미 벗고 드러낸 반전 뒤태, 노윤서의 과감한 하와이 해변",
-     "u": "https://news.nate.com/view/20260925n12547?mid=n1008",
-     "press": "네이트"
+     "t": "\"식사가 너무 부실해\" 韓 미녀 스프린터 쓴소리, 日 매체도 한숨 쉰 AG 부실 운영 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/09/25/2026092508095223213",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "유시민",
+   "name": "100일의 거짓말",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'국민 속였다' 유시민에 청와대 \"왜곡·근거 없는 비난\"…법적 대응설엔 \"결정된 바 없어\"",
-     "u": "https://v.daum.net/v/20260925153226152",
+     "t": "20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]",
+     "u": "https://v.daum.net/v/20260926121110776",
      "press": "Daum"
     },
     {
-     "t": "與, 유시민 '국민 속였다' 발언에 \"검찰개혁 동력 꺾일까 우려\"",
-     "u": "https://www.yna.co.kr/view/AKR20260925032600001",
-     "press": "연합뉴스"
+     "t": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
+     "u": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
+     "press": "KBS연예"
     },
     {
-     "t": "박지원 “유시민 작가님! 너무합니다…왜 손톱 때만 봅니까”",
-     "u": "https://www.munhwa.com/article/11619480",
-     "press": "문화일보"
+     "t": "김유정·박진영 ‘100일의 거짓말’ 미리 만난다…10월 3일 스페셜 방송 - 스타투데이",
+     "u": "https://www.mk.co.kr/news/broadcasting-service/12159072",
+     "press": "매일경제"
     }
    ]
   },
   {
-   "name": "погода",
+   "name": "england national football team vs spain national football team standings",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Синоптик Колесов: Конец сентября в Петербурге будет сухим и аномально теплым",
-     "u": "https://www.rosbalt.ru/news/2026-09-25/sinoptik-kolesov-konets-sentyabrya-v-peterburge-budet-suhim-i-anomalno-teplym-5691894",
-     "press": "Росбалт"
-    },
-    {
-     "t": "Погода в Санкт-Петербурге: антициклон подарит продолжительный период бабьего лет",
-     "u": "https://www.gismeteo.ru/news/weather/pogoda-v-sankt-peterburge-anticiklon-podarit-prodolzhitelnyj-period-babego-leta/",
-     "press": "GISMETEO.Новости"
-    },
-    {
-     "t": "Когда бабье лето придет в Санкт-Петербург: регион ждут дождливые выходные",
-     "u": "https://ura.news/news/1053130694",
-     "press": "URA.RU"
-    }
-   ]
-  },
-  {
-   "name": "앤트로픽",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "앤트로픽, 클라우드기업 아카마이와 16조원 규모 컴퓨팅 계약",
-     "u": "https://stock.mk.co.kr/news/view/1165139",
-     "press": "매일경제 마켓"
-    },
-    {
-     "t": "Jabil Circuit 주가, 오늘 급등하는 이유는?",
-     "u": "https://kr.investing.com/news/stock-market-news/article-93CH-2106983",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "앤트로픽-아카마이, 116억 달러 컴퓨팅 계약…\"클로드 수요 급증 대응\"",
-     "u": "https://v.daum.net/v/20260925162137723",
-     "press": "Daum"
-    }
-   ]
-  },
-  {
-   "name": "turkey national football team vs france national football team standings",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Turkey 0-1 France: Kylian Mbappe injured while scoring winner in Nations League",
-     "u": "https://www.bbc.com/sport/football/live/crlyqpvqjgqet",
+     "t": "England 2-3 Spain: World champions come from behind to win at Wembley after Kane",
+     "u": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
      "press": "BBC"
     },
     {
-     "t": "Turkey vs. France Lineup Today: Confirmed Team News & Starting XI",
-     "u": "https://sports.yahoo.com/articles/turkey-vs-france-lineup-today-202621849.html",
-     "press": "Yahoo Sports"
+     "t": "Yamal on his goal in England: sometimes I steal the ball",
+     "u": "https://www.goal.com/en/news/yamal-on-his-goal-in-england-sometimes-i-steal-the-ball/blte035935daa02f1c3",
+     "press": "Goal.com"
     },
     {
-     "t": "Turkey 0-1 France, Italy 0-2 Belgium, Georgia 0-1 Northern Ireland: Nations Leag",
-     "u": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
-     "press": "The Guardian"
+     "t": "[[[CBS Sports]]England vs Spain FrEe StReAm Broadcast ON Tv Channel 16 September",
+     "u": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3NoYWJhZ2ltZ2ktaGFzaC5naXRodWIuaW8vcHVraS8iLz48L2tycGFubz4&id=video-cbs-sports-england-vs-spain-free-stream-esp",
+     "press": "CzechInvest"
     }
    ]
   },
   {
-   "name": "배틀그라운드",
+   "name": "대통령",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "영구 제재에 피해자 보호까지…크래프톤, '방플' 논란 수습 국면",
-     "u": "https://v.daum.net/v/20260924054607644",
+     "t": "대미투자 매듭·중남미 교두보 확보‥산적한 국내 현안 돌파구 될까",
+     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854267_37004.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "이 대통령, 미국·멕시코 순방 마치고 귀국길…국내 현안 집중",
+     "u": "https://v.daum.net/v/20260927071503267",
      "press": "Daum"
     },
     {
-     "t": "‘방플 논란’ 베트남 선수 2명, 배그 e스포츠서 영구 퇴출",
-     "u": "https://www.sedaily.com/article/20094748",
-     "press": "서울경제"
+     "t": "순방 외교 마무리...대북 정책 '험로' 예고",
+     "u": "https://www.ytn.co.kr/_ln/0101_202609270312115551",
+     "press": "YTN"
+    }
+   ]
+  },
+  {
+   "name": "톱스타뉴스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "9월 4주차 두산에너빌리티 주가 변동성 확대",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16215520",
+     "press": "톱스타뉴스"
     },
     {
-     "t": "크래프톤, 'PUBG 아시아 스타즈' 논란 수습... 선수 영구 제재·피해자 보호 나서",
-     "u": "https://www.etnews.com/20260923000195",
-     "press": "전자신문"
+     "t": "두산에너빌리티 6% 급락…8만1300원까지 밀려",
+     "u": "https://www.job-post.co.kr/news/articleView.html?idxno=229042",
+     "press": "잡포스트"
+    },
+    {
+     "t": "두산에너빌리티 투자분석 2026. 09. 24",
+     "u": "https://www.judal.co.kr/?view=stockAI&shareToken=xrM0KINcja5Zszl1",
+     "press": "주달"
+    }
+   ]
+  },
+  {
+   "name": "운수",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[오늘의 운세] 2026년 9월 27일 (음 8월 17일)",
+     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260927.99099008097",
+     "press": "국제신문"
+    },
+    {
+     "t": "[오늘의 운세] 2026년 09월 27일 별자리 운세",
+     "u": "https://www.ytn.co.kr/_ln/0121_202609270000000002",
+     "press": "YTN"
+    },
+    {
+     "t": "[오늘의 운세] 9월 27일 일요일 (음력 8월 17일) 띠별 운세",
+     "u": "https://www.kyeonggi.com/article/20260921580389",
+     "press": "경기일보"
     }
    ]
   }
