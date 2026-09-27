@@ -1,226 +1,221 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260927",
- "updated": "2026-09-27T08:23:39+09:00",
+ "targetDate": "20260928",
+ "updated": "2026-09-28T08:36:43+09:00",
  "list": [
   {
-   "name": "왕 즈이",
+   "name": "콜럼버스 크루 대 인터 마이애미",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "'세계랭킹 1위' 안세영까지 작심 비판 \"당황스러워\" 7시간 사이에 2경기 소화...남자부는 자정쯤 경기 마무리 사태",
-     "u": "https://v.daum.net/v/fgNfmS6blj",
-     "press": "Daum"
+     "t": "콜럼버스 크루 vs 인터 마이애미 경기 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
+     "u": "https://www.vietnam.vn/ko/nhan-dinh-columbus-crew-vs-inter-miami-ban-linh-san-khach-duoc-thu-lua",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "[아시안게임] 황당한 '1일 2경기' 일정에 안세영도 갸웃…\"이런 경우 처음\"",
-     "u": "https://www.yna.co.kr/view/AKR20260926031000007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "안세영, 하루 2경기에도 완승…여자 단식 8강 진출",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8671906",
-     "press": "KBS 뉴스"
+     "t": "MLS 콜럼버스 크루 대 인터 마이애미 축구 예측",
+     "u": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-columbus-crew-vs-inter-miami-tai-mls-1773657.ldo",
+     "press": "Laodong.vn"
     }
    ]
   },
   {
-   "name": "복권",
+   "name": "weather",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
-     "u": "https://www.khan.co.kr/article/202609262248001",
-     "press": "경향신문"
+     "t": "Powerful nor’easter lashes East Coast with rain, flooding and wind",
+     "u": "https://www.cnn.com/2026/09/26/weather/live-news/noreaster-weekend-storm",
+     "press": "CNN"
     },
     {
-     "t": "[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=02312406645584056&mediaCodeNo=257",
-     "press": "이데일리"
-    },
-    {
-     "t": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/09/26/2026092622255739524",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "예금",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
-     "u": "https://v.daum.net/v/8GAZEiZvSE",
-     "press": "Daum"
-    },
-    {
-     "t": "금리인상 사이클 속 예대마진 제각각…복잡해지는 여수신 셈법 - 머니투데이",
-     "u": "https://www.mt.co.kr/finance/2026/09/27/2026092115491053499",
-     "press": "머니투데이"
-    },
-    {
-     "t": "예금으로 몰리는 돈…5대 은행, 정기예금 1012조 돌파",
-     "u": "https://www.donga.com/news/Economy/article/all/20260926/134733663/1",
-     "press": "동아일보"
-    }
-   ]
-  },
-  {
-   "name": "심수봉",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-     "u": "https://www.nocutnews.co.kr/news/6583300",
-     "press": "노컷뉴스"
-    },
-    {
-     "t": "유퉁 \"심수봉 정신 왔다 갔다, 스스로 연예계 사망 선고\"…'김다현 직격'에 쓴소리",
-     "u": "https://www.news1.kr/society/people/6301585",
-     "press": "뉴스1"
-    },
-    {
-     "t": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "육상 경기",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"한국 육상 여신, 말 안 나올 정도로 예쁘다\" 일본 팬들, 나고야 트랙에 등장한 김주하에 환호…외모→기록→소신 발언까지",
-     "u": "https://v.daum.net/v/20260927040639927",
-     "press": "Daum"
-    },
-    {
-     "t": "\"밥이 너무 부실해\" 불만 터뜨린 韓 미녀 스프린터, 준결승 탈락에도 日 사로잡았다 \"말을 잃을 정도 미모\"",
-     "u": "https://www.chosun.com/sports/sports_general/2026/09/26/GBSTONZSG5TDMZLCGY4DQMRYMY/",
-     "press": "조선일보"
-    },
-    {
-     "t": "\"식사가 너무 부실해\" 韓 미녀 스프린터 쓴소리, 日 매체도 한숨 쉰 AG 부실 운영 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/09/25/2026092508095223213",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "100일의 거짓말",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]",
-     "u": "https://v.daum.net/v/20260926121110776",
-     "press": "Daum"
-    },
-    {
-     "t": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
-     "u": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
-     "press": "KBS연예"
-    },
-    {
-     "t": "김유정·박진영 ‘100일의 거짓말’ 미리 만난다…10월 3일 스페셜 방송 - 스타투데이",
-     "u": "https://www.mk.co.kr/news/broadcasting-service/12159072",
-     "press": "매일경제"
-    }
-   ]
-  },
-  {
-   "name": "england national football team vs spain national football team standings",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "England 2-3 Spain: World champions come from behind to win at Wembley after Kane",
-     "u": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
+     "t": "One dead as nor'easter storm pummels New York and New Jersey",
+     "u": "https://www.bbc.com/news/articles/ck1wxxzn5jndo",
      "press": "BBC"
     },
     {
-     "t": "Yamal on his goal in England: sometimes I steal the ball",
-     "u": "https://www.goal.com/en/news/yamal-on-his-goal-in-england-sometimes-i-steal-the-ball/blte035935daa02f1c3",
-     "press": "Goal.com"
-    },
-    {
-     "t": "[[[CBS Sports]]England vs Spain FrEe StReAm Broadcast ON Tv Channel 16 September",
-     "u": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3NoYWJhZ2ltZ2ktaGFzaC5naXRodWIuaW8vcHVraS8iLz48L2tycGFubz4&id=video-cbs-sports-england-vs-spain-free-stream-esp",
-     "press": "CzechInvest"
+     "t": "Nor'easter floods Sea Bright, N.J., and Jersey Shore towns",
+     "u": "https://abc7ny.com/post/nj-state-emergency-rising-tide-noreaster-raises-concerns-coast/19875927/",
+     "press": "ABC7 New York"
     }
    ]
   },
   {
-   "name": "대통령",
-   "idx": 5,
+   "name": "퇴직",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "대미투자 매듭·중남미 교두보 확보‥산적한 국내 현안 돌파구 될까",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854267_37004.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "이 대통령, 미국·멕시코 순방 마치고 귀국길…국내 현안 집중",
-     "u": "https://v.daum.net/v/20260927071503267",
+     "t": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
+     "u": "https://v.daum.net/v/20260928052654004",
      "press": "Daum"
     },
     {
-     "t": "순방 외교 마무리...대북 정책 '험로' 예고",
-     "u": "https://www.ytn.co.kr/_ln/0101_202609270312115551",
-     "press": "YTN"
+     "t": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH20260928052505MU3",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "이형일 부총리, 첫 경제현안간담회 주재… 전기차·퇴직연금 논의",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01948326645584384",
+     "press": "마켓인"
     }
    ]
   },
   {
-   "name": "톱스타뉴스",
-   "idx": 5,
+   "name": "나는 solo",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16215520",
-     "press": "톱스타뉴스"
+     "t": "\"방송 후 각자의 길\"…'연애전쟁'서 갈등 공개한 22기 현숙·16기 광수 결별",
+     "u": "https://www.nocutnews.co.kr/news/6583168",
+     "press": "노컷뉴스"
     },
     {
-     "t": "두산에너빌리티 6% 급락…8만1300원까지 밀려",
-     "u": "https://www.job-post.co.kr/news/articleView.html?idxno=229042",
-     "press": "잡포스트"
+     "t": "'나는솔로'→'연애전쟁'…22기 현숙, 16기 광수와 결별 심경 \"내꿈=딸에게 가장 존경받는 존재\" - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/09/27/GA4DSNLFG5SWCOBWGY4GIMZXME/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "두산에너빌리티 투자분석 2026. 09. 24",
-     "u": "https://www.judal.co.kr/?view=stockAI&shareToken=xrM0KINcja5Zszl1",
-     "press": "주달"
+     "t": "'나는 솔로' 22기 현숙, 16기 광수와 결별… \"각자의 길 가기로\"",
+     "u": "https://www.hankookilbo.com/news/article/A2026092614100004414",
+     "press": "한국일보"
     }
    ]
   },
   {
-   "name": "운수",
-   "idx": 5,
+   "name": "권상우",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "[오늘의 운세] 2026년 9월 27일 (음 8월 17일)",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&key=20260927.99099008097",
-     "press": "국제신문"
+     "t": "손태영, ♥권상우 닮은 '훈남 아들' 앞길 걱정..\"고3인데 축구 올인\" 한숨 - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/09/27/GQ4DIYJVGRTDEYZUMYYTCY3FGA/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "[오늘의 운세] 2026년 09월 27일 별자리 운세",
-     "u": "https://www.ytn.co.kr/_ln/0121_202609270000000002",
-     "press": "YTN"
+     "t": "권상우 고3 아들 룩희, 183㎝ 아빠보다 크네",
+     "u": "https://www.newsis.com/view/NISX20260927_0003804273",
+     "press": "뉴시스"
     },
     {
-     "t": "[오늘의 운세] 9월 27일 일요일 (음력 8월 17일) 띠별 운세",
-     "u": "https://www.kyeonggi.com/article/20260921580389",
-     "press": "경기일보"
+     "t": "연예인 자녀 명문대 턱턱 가던데…`권상우♥` 손태영 \"고3 子, SAT 시즌에 축구만\" [마데핫리뷰]",
+     "u": "https://mydaily.co.kr/page/view/2026092716401125761",
+     "press": "마이데일리"
+    }
+   ]
+  },
+  {
+   "name": "엔비디아",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "LG전자, 엔비디아 공식 파트너 선정…\"AI 냉각시장 공략 속도\"",
+     "u": "https://www.newsis.com/view/NISX20260927_0003804042",
+     "press": "뉴시스"
+    },
+    {
+     "t": "오늘 시장은 'LG전자'·'삼전·SK하닉'...투자자가 알아야 할 5가지 ...",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01830246645584712",
+     "press": "마켓인"
+    },
+    {
+     "t": "[김대호 인물] MS 나델라(MS)... 빌게이츠 후계자 승계의 비밀",
+     "u": "https://www.g-enews.com/article/Global-Biz/2026/09/202609221517385923906806b77b_1",
+     "press": "글로벌이코노믹"
+    }
+   ]
+  },
+  {
+   "name": "차범근",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘차범근 최다골 대기록 넘는다!’ 손흥민, 명실상부 한국축구 GOAT로 올라선다!",
+     "u": "https://v.daum.net/v/20260928002339001",
+     "press": "Daum"
+    },
+    {
+     "t": "'73세' 차범근, 다정한 할아버지…손녀 손 꼭 잡고 산책",
+     "u": "https://v.daum.net/v/20260927080210723",
+     "press": "Daum"
+    },
+    {
+     "t": "한채아 8살 딸, 벌써 이렇게 컸어? 폭풍성장..할아버지 차범근과 다정한 산책 [핫피플]",
+     "u": "https://www.koreadaily.com/article/20260926024148556",
+     "press": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "식중독",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "여름철 노로바이러스 전년比 70배↑…서울시 “식중독 주의”",
+     "u": "https://v.daum.net/v/20260927110109661",
+     "press": "Daum"
+    },
+    {
+     "t": "추석에 배탈 났나요? ‘상극 음식’ 때문은 아닙니다",
+     "u": "https://weekly.khan.co.kr/article/202609260800041",
+     "press": "주간경향"
+    },
+    {
+     "t": "[명절꿀팁] 추석 음식 언제까지 먹어도 될까… 냉장·냉동 보관법",
+     "u": "https://www.newscj.com/news/articleView.html?idxno=3433702",
+     "press": "천지일보"
+    }
+   ]
+  },
+  {
+   "name": "김량하",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "량현량하 김량하, 내년 1월 결혼…신부는 레이싱모델 김희",
+     "u": "https://www.donga.com/news/Culture/article/all/20260927/134739250/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "13세에 데뷔했던 김량하, 10년지기와 결혼…예비신부는 레이싱 모델 김희",
+     "u": "https://v.daum.net/v/20260928072100688",
+     "press": "Daum"
+    },
+    {
+     "t": "'추억의 량현량하' 량하, 레이싱 모델과 1월 결혼한다 '10년 친구에서 연인'",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009863",
+     "press": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "name": "klasemen tim nasional sepak bola norwegia vs portugal",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Rangkuman laga internasional: Dua gol Haaland pastikan kemenangan Norwegia",
+     "u": "https://id.mancity.com/news/mens/erling-haaland-norway-ruben-dias-portugal-abdukodir-khusanov-uzbekistan-round-up-63925994",
+     "press": "Manchester City FC"
+    },
+    {
+     "t": "UEFA Nations League: Portugal Menang di Oslo, Jerman Kalah dari Yunani",
+     "u": "https://www.liputan6.com/bola/read/8300829/uefa-nations-league-portugal-menang-di-oslo-jerman-kalah-dari-yunani",
+     "press": "Liputan6.com"
+    },
+    {
+     "t": "Alasan Jorge Jesus Tak Mainkan Ronaldo",
+     "u": "https://sport.detik.com/sepakbola/bola-dunia/d-8681946/alasan-jorge-jesus-tak-mainkan-ronaldo",
+     "press": "detiksport"
     }
    ]
   }
