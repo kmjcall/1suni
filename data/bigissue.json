@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260929",
- "updated": "2026-09-29T09:47:58+09:00",
+ "targetDate": "20260930",
+ "updated": "2026-09-30T09:02:11+09:00",
  "list": [
   {
    "name": "날씨",
    "idx": 100,
-   "mv": "NEW",
+   "mv": 0,
    "news": [
     {
-     "t": "[날씨] 맑고 선선한 가을 날씨…오후까지 동해안 비",
-     "u": "https://v.daum.net/v/20260929072918262",
+     "t": "[출근길 날씨] 출근길 짙은 안개…바람불며 중부·전북 비",
+     "u": "https://v.daum.net/v/20260930075344930",
      "press": "Daum"
     },
     {
-     "t": "울산, 대체로 흐리고 비… 예상 강수량 5mm",
-     "u": "https://ujnews.co.kr/news/newsview.php?ncode=1065571204073355",
-     "press": "울산종합일보"
+     "t": "대체로 맑다 오후부터 흐려져 중부 비…일교차 최대 15도",
+     "u": "https://www.donga.com/news/Society/article/all/20260930/134757328/1",
+     "press": "동아일보"
     },
     {
-     "t": "이번주 기온 급락... 서울 최저기온, 월요일 18도→금요일 9도",
-     "u": "https://www.chosun.com/national/transport-environment/2026/09/28/V4O4ROFVBNCTNAHUHPF2XGOA5Y/",
-     "press": "조선일보"
+     "t": "강원 내륙·산지 오후 들어 비…동해안 너울 주의",
+     "u": "https://www.yna.co.kr/view/AKR20260930007700062",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "재산",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김상욱 울산시장 재산, 반년 새 31억 늘어 50억",
-     "u": "https://www.chosun.com/politics/politics_general/2026/09/29/JI6CHKXA2VGI5FOGQ2PQ4QEAYI/",
-     "press": "조선일보"
-    },
-    {
-     "t": "김상욱 울산시장 50억·최기영 봉화군수 349억 '광역·기초 상위 1위'",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6854689_36911.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "[단독] ‘경기도 재정난 선포’ 추미애, 6개월새 재산 8억7천 늘었다",
-     "u": "https://www.kyeonggi.com/article/20260928580642",
-     "press": "경기일보"
-    }
-   ]
-  },
-  {
-   "name": "sl vs nep",
+   "name": "국군의 날",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "3rd Quarter-Final, Nisshin, September 29, 2026, Asian Games Men's Cricket Compet",
-     "u": "https://www.cricinfo.com/series/asian-games-men-s-cricket-competition-2026-1552449/nepal-vs-sri-lanka-3rd-quarter-final-1552774/live-cricket-score",
-     "press": "Cricinfo"
-    },
-    {
-     "t": "Sri Lanka vs Nepal Live Streaming, Weather Forecast, Match Timings And Rain Rule",
-     "u": "https://www.ndtvprofit.com/sports/sri-lanka-vs-nepal-live-streaming-when-and-where-to-watch-sl-vs-nep-asian-games-2026-quarter-final-12107231",
-     "press": "NDTV Profit"
-    },
-    {
-     "t": "Japan Washed Out of Asian Games 2026",
-     "u": "https://www.cricket.or.jp/en/news/japan-washed-out-of-asian-games-2026",
-     "press": "Japan Cricket Association"
-    }
-   ]
-  },
-  {
-   "name": "창신메모리테크놀로지",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“창신메모리 공정, 100% 삼성 것…기술 넘기자 쫓겨나” 유출범 후회",
-     "u": "https://v.daum.net/v/20260929050330000",
+     "t": "2026년 국군의날 공휴일 지정 되나",
+     "u": "https://v.daum.net/v/20260930035747419",
      "press": "Daum"
     },
     {
-     "t": "\"삼전 공정레시피 훔쳐와\"…창신메모리 전 CEO, 한국 기술진 협박",
-     "u": "https://news.jtbc.co.kr/article/NB12320409",
-     "press": "JTBC"
+     "t": "국군의날 기념행사를 '국민과 함께' 원년되나",
+     "u": "https://m.joongdo.co.kr/view.php?key=20260929010008865",
+     "press": "중도일보"
     },
     {
-     "t": "\"100% 삼성 것\"... 중국 유명 반도체회사, 이런 식으로 제품 만들고 있다",
-     "u": "https://www.wikitree.co.kr/articles/1162616",
-     "press": "위키트리"
+     "t": "[열린마당] 굳건한 안보 위 평화의 섬, 영웅들을 응원합니다",
+     "u": "https://app.ihalla.com/article.php?aid=1790521200790931099",
+     "press": "한라일보"
     }
    ]
   },
   {
-   "name": "대학",
+   "name": "공군 사관학교",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘꿈의 대학’… 학생은 하버드·부모는 MIT 선호",
-     "u": "http://www.koreatimes.com/article/20260928/1631521",
-     "press": "미주한국일보"
+     "t": "공군사관학교 관사서 부사관 숨진 채 발견…군 당국 수사",
+     "u": "https://www.yna.co.kr/view/AKR20260929172800064",
+     "press": "연합뉴스"
     },
     {
-     "t": "\"대학 품은 단지가 대세\"...대학 인근 아파트 신고가 행진",
-     "u": "https://v.daum.net/v/8cUYVs9Ua0",
+     "t": "공군사관학교서 20대 부사관 숨진 채 발견…당국 수사",
+     "u": "https://v.daum.net/v/20260930073315565",
      "press": "Daum"
     },
     {
-     "t": "대학가 배후수요가 집값 견인…전국 캠퍼스 인근 신고가 행진",
-     "u": "https://www.lawissue.co.kr/view.php?ud=20260928150350481567191f6c6e_12",
-     "press": "로이슈"
-    }
-   ]
-  },
-  {
-   "name": "골프",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'커리어 그랜드슬램' 박인비, 세계골프 명예의 전당 최종 후보",
-     "u": "https://imnews.imbc.com/news/2026/sports/article/6854687_36946.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "’전설’ 박인비, 세계골프 명예의 전당 최종 후보…12월 발표",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20260929093126oM4",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "여자골프 전설 박인비, 세계골프 명예의 전당 최종 후보",
-     "u": "https://biz.heraldcorp.com/article/10886827",
-     "press": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "name": "핑클",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "god만 있나? 핑클·플투스·쥬얼리까지 줄줄이 귀환..1세대 ‘레전드✭’ 컴백 [Oh!쎈 이슈]",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/09/29/GEYDQYJUGVQTGNLFMMZDQM3DHA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "성유리, 핑클 완전체 컴백에 관리 모드…\"체력아 눈치 챙겨\"",
-     "u": "https://www.newsis.com/view/NISX20260928_0003806079",
+     "t": "공사 20대 부사관 숨진채 발견…군 수사",
+     "u": "https://www.newsis.com/view/NISX20260929_0003807754",
      "press": "뉴시스"
-    },
+    }
+   ]
+  },
+  {
+   "name": "연애전쟁",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
     {
-     "t": "45세 성유리, 핑클 21년 만 완전체 앞두고 발레 삼매경…“체력아 눈치 챙겨” [SD셀픽]",
-     "u": "https://sports.donga.com/ent/article/all/20260928/134744842/1",
+     "t": "삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)",
+     "u": "https://sports.donga.com/ent/article/all/20260929/134749048/1",
      "press": "스포츠동아"
+    },
+    {
+     "t": "'연애전쟁' 이효리, 피에로男 귀여운 척에 '솔직 반응' [RE:TV]",
+     "u": "https://v.daum.net/v/20260929053214462?f=m",
+     "press": "Daum"
+    },
+    {
+     "t": "이경규, 피에로 사위 반대 이유…\"자기 가정 못 다스려\"",
+     "u": "https://www.newsis.com/view/NISX20260928_0003806100",
+     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "전설 의 사내",
+   "name": "송은이",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘전설의 사내’ 빈예서 “가장 좋아하는 연예인 성리 오빠”",
-     "u": "https://www.slist.kr/news/articleView.html?idxno=769436",
-     "press": "싱글리스트"
+     "t": "월급 20만원이던 무명 송은이 33년 뒤…은행 경고 무시하고 버틴 결과",
+     "u": "https://v.daum.net/v/20260930045149839",
+     "press": "Daum"
     },
     {
-     "t": "‘전설의사내’ 빈예서·성리 듀엣",
-     "u": "https://www.bntnews.co.kr/article/view/bnt202609290046",
-     "press": "BNT뉴스"
+     "t": "최강희, 5년 만에 연기 복귀…송은이 울컥",
+     "u": "https://v.daum.net/v/20260927112209192?f=p",
+     "press": "Daum"
     },
     {
-     "t": "빈예서, ‘최애’ 성리 고백… “성리 오빠다” (‘전설의 사내’)",
-     "u": "https://mhnse.com/news/articleView.html?idxno=1562195",
-     "press": "MHN스포츠"
+     "t": "최강희, 떨리는 손 숨기고 연기하다 은퇴 결심 \"알바하던 '전참시'가 다시 기회로\"",
+     "u": "https://news.nate.com/view/20260922n33306",
+     "press": "네이트"
     }
    ]
   },
   {
-   "name": "수익률",
+   "name": "오픈ai",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "또 국채금리 쇼크...힘못쓴 기술주, 美 증시 급락 [월가월부]",
-     "u": "https://www.mk.co.kr/news/economy/12163292",
-     "press": "매일경제"
-    },
-    {
-     "t": "[뉴욕 마켓 브리핑](29일)",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436822",
+     "t": "오픈AI '학습 중단' 파장…광통신·반도체 등 AI 인프라주 급락",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436789",
      "press": "연합인포맥스"
     },
     {
-     "t": "주식 대신 채권 사는 서학개미들...美 주식 순매수는 반토막, 美 채권은 2배로 ‘사자’",
-     "u": "https://www.chosun.com/economy/money/2026/09/29/KAANCIOZTFGMVOM4ZV3IDOAANI/",
+     "t": "\"오픈AI, 직원들 '보안 강화' 경고 있었지만 무시\"",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02371446645585368",
+     "press": "마켓인"
+    },
+    {
+     "t": "사용 중단하려는 임원에게 \"그러면 당신 비밀 폭로하겠다\" 협박한 AI",
+     "u": "https://www.chosun.com/economy/tech_it/2026/09/30/BEPKJOE3QBGOLHIAPZC7FU4GM4/",
      "press": "조선일보"
     }
    ]
   },
   {
-   "name": "놀면 뭐하니?",
+   "name": "한화 이글스",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "유재석 없는 '놀뭐' 여행…주우재 오열에 허경환도 눈물 터졌다",
-     "u": "https://v.daum.net/v/2JYmV7kLWQ",
+     "t": "'153km 흙속의 진주' 한화 유니폼 입는다…육성선수 입단 합의, 드래프트 미지명→프로행 기적 또 탄생",
+     "u": "https://v.daum.net/v/20260930002600493",
      "press": "Daum"
     },
     {
-     "t": "주우재, 팬티 모델 열일…진짜 '뭔데뭔데! 이게 무슨 난리고'",
-     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/519488",
-     "press": "iMBC 연예"
+     "t": "KS서 9위 추락 한화 참사, ‘몰랐던 실패’ 아닌 ‘알고도 방치한 실패’...\"도대체 누가 책임질건가\"",
+     "u": "https://v.daum.net/v/KUMLa7kLLF",
+     "press": "Daum"
     },
     {
-     "t": "하하 “주우재 열정에 박수를” 팬티 모델 변신에 폭소 터뜨렸다",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16226350",
-     "press": "톱스타뉴스"
+     "t": "가을야구 멀어진 한화… 남은 시즌은 ‘내년 찾기’",
+     "u": "https://m.joongdo.co.kr/view.php?key=20260928010008375",
+     "press": "중도일보"
+    }
+   ]
+  },
+  {
+   "name": "우서윤",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "우지원 딸 맞아? '미코眞' 우지원, '아웃송' 댄스까지 화제만발[이슈S]",
+     "u": "https://v.daum.net/v/20260929174230456",
+     "press": "Daum"
+    },
+    {
+     "t": "'미코 진' 우서윤, 야구장서 춤 실력 공개",
+     "u": "https://www.newsis.com/view/NISX20260928_0003805031",
+     "press": "뉴시스"
+    },
+    {
+     "t": "‘성형 논란’ 우서윤, ‘미코 진’ 미모는 감탄인데…“춤엔 소질 없네”",
+     "u": "https://sports.khan.co.kr/article/202609271005003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "สภาพอากาศ",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "น้ำท่วมในประเทศไทย: เสียชีวิต 23 ราย สนามบินกรุงเทพฯ เกิดความวุ่นวาย",
+     "u": "https://www.vietnam.vn/th/ngap-lut-thai-lan-23-nguoi-chet-san-bay-bangkok-hon-loan",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "โล่งอก! วันนี้ฝนเทแค่ 30% ส่วนภาคใต้หนัก 60%",
+     "u": "https://www.thaipost.net/general-news/1079163/",
+     "press": "Thaipost.net"
+    },
+    {
+     "t": "ที’ ลมฟ้าอากาศ เผยละเอียดยิบ!! โพสต์เตือนช่วงระยะเวลาที่เหลือ ภายใน 120 ชั่วโมง ",
+     "u": "https://today.line.me/th/v3/article/2D9yzBX",
+     "press": "LINE TODAY"
+    }
+   ]
+  },
+  {
+   "name": "잠실주공5단지 아파트",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "같은 84㎡ 받는데 4억3000만원 더 낸다… 은마 재건축 분담금 또 뛰어 - 조선비즈",
+     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "잠실5단지도 평당 1000만원 넘나…공사비 줄다리기",
+     "u": "https://v.daum.net/v/20260929182817466",
+     "press": "Daum"
+    },
+    {
+     "t": "은마는 3억 내고, 잠실은 5억 받는다?...조합원 분담금 엇갈린 이유 - 머니투데이",
+     "u": "https://www.mt.co.kr/estate/2026/09/30/2026092919074265053",
+     "press": "머니투데이"
     }
    ]
   }
