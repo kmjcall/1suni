@@ -1,226 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20260930",
- "updated": "2026-09-30T09:02:11+09:00",
+ "targetDate": "20261001",
+ "updated": "2026-10-01T09:22:18+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "아르헨티나 대 볼리비아",
    "idx": 100,
-   "mv": 0,
+   "mv": "NEW",
    "news": [
     {
-     "t": "[출근길 날씨] 출근길 짙은 안개…바람불며 중부·전북 비",
-     "u": "https://v.daum.net/v/20260930075344930",
+     "t": "\"메시 다음 10번? 고별전까지는 없어\" 아르헨티나는 고민 중",
+     "u": "https://www.nocutnews.co.kr/news/6584806",
+     "press": "노컷뉴스"
+    },
+    {
+     "t": "아르헨티나 대 볼리비아 축구 생중계 링크",
+     "u": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-argentina-vs-bolivia-1775415.ldo",
+     "press": "Laodong.vn"
+    },
+    {
+     "t": "\"메시 마지막 A매치 꼭 보고 싶다\" 디발라·몰리나의 간절한 요청, AS 로마는 칼같이 거절 \"아르헨티나 가지마\"",
+     "u": "https://v.daum.net/v/20260930074913828",
      "press": "Daum"
-    },
-    {
-     "t": "대체로 맑다 오후부터 흐려져 중부 비…일교차 최대 15도",
-     "u": "https://www.donga.com/news/Society/article/all/20260930/134757328/1",
-     "press": "동아일보"
-    },
-    {
-     "t": "강원 내륙·산지 오후 들어 비…동해안 너울 주의",
-     "u": "https://www.yna.co.kr/view/AKR20260930007700062",
-     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "국군의 날",
-   "idx": 5,
+   "name": "쓰레기봉투",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "2026년 국군의날 공휴일 지정 되나",
-     "u": "https://v.daum.net/v/20260930035747419",
+     "t": "“종량제 봉투 아끼려면?”…페트병 압착·상자 접어 분리배출",
+     "u": "https://www.jejutwn.com/news/article.html?no=460760",
+     "press": "제주교통복지신문"
+    },
+    {
+     "t": "[서울 25]중구, 빈 즉석밥 용기 ‘종량제봉투’로 보상",
+     "u": "https://www.khan.co.kr/article/202609282152025",
+     "press": "경향신문"
+    },
+    {
+     "t": "“햇반 용기 모아봤니?” 중구에 가져가면 종량제봉투로 바꿔준다[서울25]",
+     "u": "https://v.daum.net/v/0WgnZRYChR?f=p",
      "press": "Daum"
-    },
-    {
-     "t": "국군의날 기념행사를 '국민과 함께' 원년되나",
-     "u": "https://m.joongdo.co.kr/view.php?key=20260929010008865",
-     "press": "중도일보"
-    },
-    {
-     "t": "[열린마당] 굳건한 안보 위 평화의 섬, 영웅들을 응원합니다",
-     "u": "https://app.ihalla.com/article.php?aid=1790521200790931099",
-     "press": "한라일보"
     }
    ]
   },
   {
-   "name": "공군 사관학교",
-   "idx": 5,
+   "name": "토트넘 홋스퍼 fc",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "공군사관학교 관사서 부사관 숨진 채 발견…군 당국 수사",
-     "u": "https://www.yna.co.kr/view/AKR20260929172800064",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "공군사관학교서 20대 부사관 숨진 채 발견…당국 수사",
-     "u": "https://v.daum.net/v/20260930073315565",
+     "t": "“역사상 가장 위대한 선수” 손흥민, 72년 역사 美 언론 선정 ‘토트넘 사상 최고의 선수’ 영혼의 짝 케인과 함께 선정",
+     "u": "https://v.daum.net/v/PZAG86Sr7e",
      "press": "Daum"
     },
     {
-     "t": "공사 20대 부사관 숨진채 발견…군 수사",
-     "u": "https://www.newsis.com/view/NISX20260929_0003807754",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "연애전쟁",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)",
-     "u": "https://sports.donga.com/ent/article/all/20260929/134749048/1",
-     "press": "스포츠동아"
+     "t": "'손흥민 아드레날린 폭발' 깜짝 고백! \"유로파 우승보다 더 미치게 한 순간있었다\"…'해트트릭' 토트넘 동료도 기적 같은 명승부 회상",
+     "u": "https://www.sportschosun.com/football/2026-09-30/202609300100203390013521",
+     "press": "스포츠조선"
     },
     {
-     "t": "'연애전쟁' 이효리, 피에로男 귀여운 척에 '솔직 반응' [RE:TV]",
-     "u": "https://v.daum.net/v/20260929053214462?f=m",
-     "press": "Daum"
-    },
-    {
-     "t": "이경규, 피에로 사위 반대 이유…\"자기 가정 못 다스려\"",
-     "u": "https://www.newsis.com/view/NISX20260928_0003806100",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "송은이",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "월급 20만원이던 무명 송은이 33년 뒤…은행 경고 무시하고 버틴 결과",
-     "u": "https://v.daum.net/v/20260930045149839",
-     "press": "Daum"
-    },
-    {
-     "t": "최강희, 5년 만에 연기 복귀…송은이 울컥",
-     "u": "https://v.daum.net/v/20260927112209192?f=p",
-     "press": "Daum"
-    },
-    {
-     "t": "최강희, 떨리는 손 숨기고 연기하다 은퇴 결심 \"알바하던 '전참시'가 다시 기회로\"",
-     "u": "https://news.nate.com/view/20260922n33306",
-     "press": "네이트"
-    }
-   ]
-  },
-  {
-   "name": "오픈ai",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "오픈AI '학습 중단' 파장…광통신·반도체 등 AI 인프라주 급락",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436789",
-     "press": "연합인포맥스"
-    },
-    {
-     "t": "\"오픈AI, 직원들 '보안 강화' 경고 있었지만 무시\"",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02371446645585368",
-     "press": "마켓인"
-    },
-    {
-     "t": "사용 중단하려는 임원에게 \"그러면 당신 비밀 폭로하겠다\" 협박한 AI",
-     "u": "https://www.chosun.com/economy/tech_it/2026/09/30/BEPKJOE3QBGOLHIAPZC7FU4GM4/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "한화 이글스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'153km 흙속의 진주' 한화 유니폼 입는다…육성선수 입단 합의, 드래프트 미지명→프로행 기적 또 탄생",
-     "u": "https://v.daum.net/v/20260930002600493",
-     "press": "Daum"
-    },
-    {
-     "t": "KS서 9위 추락 한화 참사, ‘몰랐던 실패’ 아닌 ‘알고도 방치한 실패’...\"도대체 누가 책임질건가\"",
-     "u": "https://v.daum.net/v/KUMLa7kLLF",
-     "press": "Daum"
-    },
-    {
-     "t": "가을야구 멀어진 한화… 남은 시즌은 ‘내년 찾기’",
-     "u": "https://m.joongdo.co.kr/view.php?key=20260928010008375",
-     "press": "중도일보"
-    }
-   ]
-  },
-  {
-   "name": "우서윤",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "우지원 딸 맞아? '미코眞' 우지원, '아웃송' 댄스까지 화제만발[이슈S]",
-     "u": "https://v.daum.net/v/20260929174230456",
-     "press": "Daum"
-    },
-    {
-     "t": "'미코 진' 우서윤, 야구장서 춤 실력 공개",
-     "u": "https://www.newsis.com/view/NISX20260928_0003805031",
-     "press": "뉴시스"
-    },
-    {
-     "t": "‘성형 논란’ 우서윤, ‘미코 진’ 미모는 감탄인데…“춤엔 소질 없네”",
-     "u": "https://sports.khan.co.kr/article/202609271005003",
+     "t": "‘韓 축구 레전드’ 손흥민, 또 그 이름을 외쳤다···英 언론 “2년 동안 토트넘 떠난 선수 29명, SON은 ...",
+     "u": "https://sports.khan.co.kr/article/202610010707003",
      "press": "스포츠경향"
     }
    ]
   },
   {
-   "name": "สภาพอากาศ",
-   "idx": 5,
+   "name": "분리수거",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "น้ำท่วมในประเทศไทย: เสียชีวิต 23 ราย สนามบินกรุงเทพฯ เกิดความวุ่นวาย",
-     "u": "https://www.vietnam.vn/th/ngap-lut-thai-lan-23-nguoi-chet-san-bay-bangkok-hon-loan",
-     "press": "Vietnam.vn"
+     "t": "연내 폐가전 수거함 8천개 추가 설치…지도 앱에 위치 표시",
+     "u": "https://www.yna.co.kr/view/AKR20260930066600530",
+     "press": "연합뉴스"
     },
     {
-     "t": "โล่งอก! วันนี้ฝนเทแค่ 30% ส่วนภาคใต้หนัก 60%",
-     "u": "https://www.thaipost.net/general-news/1079163/",
-     "press": "Thaipost.net"
+     "t": "보조 배터리 그냥 버렸다간 ‘화재’…그럼 어떻게?",
+     "u": "https://v.daum.net/v/20260930152406934",
+     "press": "Daum"
     },
     {
-     "t": "ที’ ลมฟ้าอากาศ เผยละเอียดยิบ!! โพสต์เตือนช่วงระยะเวลาที่เหลือ ภายใน 120 ชั่วโมง ",
-     "u": "https://today.line.me/th/v3/article/2D9yzBX",
-     "press": "LINE TODAY"
+     "t": "\"보조배터리 종량제봉투에 버리지마세요\"…전용 수거함 8000개 확충",
+     "u": "https://www.newsis.com/view/NISX20260930_0003807995",
+     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "잠실주공5단지 아파트",
+   "name": "최유빈",
+   "idx": 20,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "이옥섭",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 구교환, ♥이옥섭 감독과 결혼…이미 4년전 혼인신고",
+     "u": "https://v.daum.net/v/20261001060611471",
+     "press": "Daum"
+    },
+    {
+     "t": "구교환 사실 유부남 이었다···이옥섭과 2022년 혼인신고",
+     "u": "https://sports.khan.co.kr/article/202610010817003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "구교환♥이옥섭, 4년 전 이미 법적 부부…\"결혼식 계획 없다\" - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/01/2026100108071484368",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "웨스팅하우스",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"韓기업, 웨스팅하우스 지분 5~10% 인수 추진\"…이사회 진입이 관건",
+     "u": "https://v.daum.net/v/20261001081358997",
+     "press": "Daum"
+    },
+    {
+     "t": "한미, 美원전 8기 짓는다…1200억弗 배정·연말 100억弗 선지급 추진",
+     "u": "https://www.newsis.com/view/NISX20261001_0003809742",
+     "press": "뉴시스"
+    },
+    {
+     "t": "대미투자 낙수효과 어디까지…엇갈린 한전 형제들",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437027",
+     "press": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "name": "인공지능",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "드디어 최상위 AI '제미나이4' 공개한 구글…일반 접근은 제한",
+     "u": "https://v.daum.net/v/20261001074959371",
+     "press": "Daum"
+    },
+    {
+     "t": "구글, '제미나이 4 아르곤' 공개…100만 토큰·사이버보안 강화",
+     "u": "https://www.etnews.com/20261001000025",
+     "press": "전자신문"
+    },
+    {
+     "t": "알파벳 주가, 제미나이 4 내부 회의론 보도에 하락",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2112262",
+     "press": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "name": "검사",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "같은 84㎡ 받는데 4억3000만원 더 낸다… 은마 재건축 분담금 또 뛰어 - 조선비즈",
-     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "잠실5단지도 평당 1000만원 넘나…공사비 줄다리기",
-     "u": "https://v.daum.net/v/20260929182817466",
+     "t": "李, 밤새 김지용 인선 놓고 SNS 설전…\"박은정·이성윤도 검사 출신인데\"",
+     "u": "https://v.daum.net/v/20261001080236697",
      "press": "Daum"
     },
     {
-     "t": "은마는 3억 내고, 잠실은 5억 받는다?...조합원 분담금 엇갈린 이유 - 머니투데이",
-     "u": "https://www.mt.co.kr/estate/2026/09/30/2026092919074265053",
+     "t": "이재명 대통령 \"김지용 중수청장 후보자, '친윤검사' 비난은 납득 어려워\"",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6855069_36911.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "이 대통령 “검찰 출신 못 쓰게 하면 중수청 망치자는 얘기”…김지용 재차 옹호",
+     "u": "https://www.hani.co.kr/arti/politics/bluehouse/1280298.html",
+     "press": "한겨레"
+    }
+   ]
+  },
+  {
+   "name": "이상순",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'건강 이상' 이상순, 한 달 만에 근황…정재형에 감사 선물 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/09/30/2026093017514016290",
      "press": "머니투데이"
+    },
+    {
+     "t": "이상순, ‘미주신경 기능 저하’ 후 한 달째 공백…♥이효리와 대타 DJ 챙겼다",
+     "u": "https://sports.donga.com/ent/article/all/20260930/134761703/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "‘건강 이상’ 이상순, 근황 전했다…대타 DJ 정재형에 선물 훈훈",
+     "u": "https://biz.heraldcorp.com/article/10889377",
+     "press": "헤럴드경제"
     }
    ]
   }
