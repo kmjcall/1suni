@@ -1,226 +1,221 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261003",
- "updated": "2026-10-03T09:09:26+09:00",
+ "targetDate": "20261004",
+ "updated": "2026-10-04T08:32:00+09:00",
  "list": [
   {
-   "name": "배당",
+   "name": "날씨",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "삼성카드 6.2%·NH證 5.0%…국고채 4%에도 배당주 뜨는 이유",
-     "u": "https://www.newspim.com/news/view/20261002001257",
-     "press": "뉴스핌"
-    },
-    {
-     "t": "‘찬바람 불면 역시 배당주’ 올해도 통할까…증권가 콕 찍은 종목은",
-     "u": "https://stock.mk.co.kr/news/view/1168395",
-     "press": "매일경제 마켓"
-    },
-    {
-     "t": "12화 이 배당, 내년에도 받을 수 있을까?",
-     "u": "https://brunch.co.kr/@5a98a065e32c41f/29",
-     "press": "브런치"
-    }
-   ]
-  },
-  {
-   "name": "경복궁",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘고궁박물관 결혼’ 1호는 에스토니아 출신 유튜버",
-     "u": "https://www.donga.com/news/People/article/all/20261002/134779105/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "퇴근길 산책에 결혼식까지…일상으로 스며든 K-유산",
-     "u": "https://v.daum.net/v/20261003071917326",
+     "t": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
+     "u": "https://v.daum.net/v/20261003214013432",
      "press": "Daum"
     },
     {
-     "t": "경복궁 마당서 결혼한 한-에스토니아 부부…\"한국 더 아낄게요\"(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261002041651005",
+     "t": "연휴 둘째 날 밤부터 곳곳에 비…수도권 대기 건조 주의",
+     "u": "https://www.yna.co.kr/view/AKR20261004002100034",
      "press": "연합뉴스"
+    },
+    {
+     "t": "밤부터 중부 비…내일 오전 대부분 그쳐",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8677312",
+     "press": "KBS 뉴스"
     }
    ]
   },
   {
-   "name": "김구라",
+   "name": "이동국",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'김구라 아들' 그리 \"아파트 하나 사놨다\" 재산 공개 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/10/02/2026100221410896812",
-     "press": "머니투데이"
-    },
-    {
-     "t": "'김구라 子' 그리, 20대에 구리 자가 아파트 마련…\"붕어빵 수익 덕분\"",
-     "u": "https://www.newsis.com/view/NISX20261002_0003813320",
-     "press": "뉴시스"
-    },
-    {
-     "t": "그리, ♥여친과 자녀 계획까지? “둘 셋 원해”…조혜련 “김구라 정자왕인데”",
-     "u": "https://sports.donga.com/ent/article/all/20261003/134779697/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "france national football team vs italy national football team standings",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "France 1-1 Italy: Michael Olise scores before Alessandro Bastoni equalises in Na",
-     "u": "https://www.bbc.com/sport/football/live/cqe8xr3lw0ret",
-     "press": "BBC"
-    },
-    {
-     "t": "Zidane reveals his weapons in Mbappé's absence: Italy gambles with an attacking ",
-     "u": "https://www.goal.com/en/news/zidane-reveals-his-weapons-in-mbappe-s-absence-italy-gambles-with-an-attacking-trio/bltb58367a1e3fd4b63",
-     "press": "Goal.com"
-    },
-    {
-     "t": "Nations League | France 1-1 Italy: Bastoni seals impressive result in Paris",
-     "u": "https://football-italia.net/nations-league-france-1-1-italy-bastoni-paris/",
-     "press": "Football Italia"
-    }
-   ]
-  },
-  {
-   "name": "한화 이글스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'불명예 2위' 한화 12패 외인 재계약 간절했나, 추가 등판 자청…김경문 \"화이트 한 번 더 보겠다\"",
-     "u": "https://v.daum.net/v/3AxRJjpXvF",
+     "t": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
+     "u": "https://v.daum.net/v/V3DxRWMVhA",
      "press": "Daum"
     },
     {
-     "t": "7승 화이트, 한화 재계약 불발되나?",
-     "u": "https://www.starnewskorea.com/player/shorts/22563",
-     "press": "스타뉴스"
+     "t": "이동국 셋째딸 설아, 장녀 뉴욕행 포기하자 美 유학 결정..\"덜컥 입학\"[핫피플]",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/03/GRRWGNJWHEYGIZJWMRRGMOJWMU/",
+     "press": "조선일보"
     },
     {
-     "t": "한화 이러면 재계약 못 하지…벌써 12패째→ERA 4점대 상승→화이트 어떻게 믿나",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010682",
-     "press": "SPOTV NEWS"
+     "t": "스타 가족 슬라이드",
+     "u": "https://m.news.nate.com/photoSlide/view?section=ent&clstId=1193922",
+     "press": "네이트"
     }
    ]
   },
   {
-   "name": "문가영",
+   "name": "연금 개혁",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "[포토] 문가영 '이기적인 미모'",
-     "u": "https://www.segye.com/newsView/20261002512006",
+     "t": "“부유한 노인도 받는다”…기초연금 ‘하위 70%’ 기준 개편 추진",
+     "u": "https://www.segye.com/newsView/20261002510945",
      "press": "세계일보"
     },
     {
-     "t": "\"'볼하트'는 안 할래요\"…이민정, 손하트로 보여준 사랑스러운 매력",
-     "u": "https://v.daum.net/v/20261002175959574",
-     "press": "Daum"
-    },
-    {
-     "t": "레이스카부터 전기 SUV까지…서울에 포르셰 70대가 모인 이유는?",
-     "u": "https://www.chosun.com/economy/auto/2026/10/02/QXNXMN5YTZGF3CSBKX4MSYT7WY/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "1박 2일",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "KBS 문세윤 “시청자 여러분 죄송합니다” 과일 한 상자 먹튀 소동",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16235760",
-     "press": "TopStarNews"
-    },
-    {
-     "t": "‘1박 2일’ 문세윤, 먹튀에 사과",
-     "u": "https://www.bntnews.co.kr/article/view/bnt202610030073",
-     "press": "BNT뉴스"
-    },
-    {
-     "t": "문세윤 ‘먹튀’ 논란에 김종민 “고소하겠습니다 (1박2일)",
-     "u": "https://www.newsen.com/news_view.php?uid=202610030845242410&code=100100",
-     "press": "뉴스엔"
-    }
-   ]
-  },
-  {
-   "name": "보그",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "가을 바지는 딱 다이애나 왕세자비처럼 입으면 됩니다",
-     "u": "https://www.vogue.co.kr/2026/09/30/%EA%B0%80%EC%9D%84-%EB%B0%94%EC%A7%80%EB%8A%94-%EB%94%B1-%EB%8B%A4%EC%9D%B4%EC%95%A0%EB%82%98-%EC%99%95%EC%84%B8%EC%9E%90%EB%B9%84%EC%B2%98%EB%9F%BC-%EC%9E%85%EC%9C%BC%EB%A9%B4-%EB%90%A9%EB%8B%88/",
-     "press": "Vogue korea"
-    },
-    {
-     "t": "박규영, 바쁜 뉴욕 일정에도 뮤지컬 향한 열정 \"5편 예약\"",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6308055",
+     "t": "기초연금 '소득 하위 70%' 기준 바꾼다…중위소득 연계 논의 나선다",
+     "u": "https://www.news1.kr/economy/trend/6308073",
      "press": "뉴스1"
     },
     {
-     "t": "앞은 미니멀 뒤는 과감하게…박규영, 뉴욕서 선택한 ‘오픈 백 드레스’",
-     "u": "https://www.kstarfashion.com/ko-kr/articles/255788",
-     "press": "스타패션"
+     "t": "\"국민연금 미적립부채 1450조…개혁 미루면 미래세대 부담\"",
+     "u": "https://www.hankyung.com/article/202610018162i",
+     "press": "한국경제"
     }
    ]
   },
   {
-   "name": "원자력",
+   "name": "기상",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "도쿄전력, 미국 PSEG 뉴클리어와 원자력 분야 정보교환 협정 체결",
-     "u": "https://www.2news.co.kr/news/articleView.html?idxno=27357",
-     "press": "https://www.2news.co.kr/"
+     "t": "베트남 지질학의 81년: 전통을 계승하고 새로운 발전 공간으로 나아가다.",
+     "u": "https://www.vietnam.vn/ko/81-nam-nganh-dia-chat-viet-nam-ke-thua-truyen-thong-vung-buoc-trong-khong-gian-phat-trien-moi",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "새울원자력, 원전소통위원회 개최…신규 위원 2명 위촉",
-     "u": "https://www.yna.co.kr/view/AKR20261002110600057",
-     "press": "연합뉴스"
+     "t": "기상 및 수문 정보 - 자연재해로 인한 피해를 사전에 예방하고 완화하기 위한 기반.",
+     "u": "https://www.vietnam.vn/ko/thong-tin-khi-tuong-thuy-van-co-so-de-chu-dong-phong-chong-va-giam-thieu-thiet-hai-do-thien-tai",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "새울원전, 2026년 제3차 원전소통위원회 개최",
-     "u": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065593637917360",
-     "press": "울산종합일보"
+     "t": "기상학 및 수문학 분야는 녹색 성장과 지속 가능한 개발이라는 목표 달성에 기여합니다.",
+     "u": "https://www.vietnam.vn/ko/nganh-khi-tuong-thuy-van-dong-gop-vao-muc-tieu-tang-truong-xanh-va-phat-trien-ben-vung",
+     "press": "Vietnam.vn"
     }
    ]
   },
   {
-   "name": "은행",
+   "name": "선물",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "시중은행 줄줄이 다 뚫렸다‥국민·하나도 유출",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6855531_37012.html",
-     "press": "MBC 뉴스"
+     "t": "\"학생, 부모님 선물 사가\" 추석 앞두고 용돈 준 집주인",
+     "u": "https://www.chosun.com/national/national_general/2026/10/03/KDBDYT67SFAQNLS3U2VFLFUCFQ/",
+     "press": "조선일보"
     },
     {
-     "t": "은행권 전방위 해킹 피해…AI시대 금융 보안 비상[오늘아침]",
-     "u": "https://v.daum.net/v/20261003073300446",
+     "t": "“학생, 부모님 선물이라도”…귀향 대학생 세입자에 용돈 준 집주인",
+     "u": "https://www.donga.com/news/Society/article/all/20261003/134780232/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "\"빈손으로 가지 마라\"…명절 앞두고 대학생 손에 돈 쥐여준 집주인",
+     "u": "https://www.newsis.com/view/NISX20261002_0003811830",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "하와이 화산 국립공원",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "550년 버틴 하와이 명물, 나흘 만에 '감쪽같이' 사라졌다",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=02266486645609312&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "“편히 잠드소서”…550년 버틴 하와이 명물 아치, 태평양으로 ‘와르르’",
+     "u": "https://v.daum.net/v/VYvaSl8BWf",
      "press": "Daum"
     },
     {
-     "t": "[속보] 합참 \"北, 동해상으로 미상 발사체 발사\"",
-     "u": "https://www.yna.co.kr/view/AKR20261003009500504",
-     "press": "연합뉴스"
+     "t": "\"어제 찍은 사진이 마지막일 줄이야\"…하룻밤 새 사라진 550년 하와이 명물",
+     "u": "https://view.asiae.co.kr/article/2026100309381962644",
+     "press": "아시아경제"
+    }
+   ]
+  },
+  {
+   "name": "해리 케인",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“통통하고 운동신경 없다”며 방출…오기 하나로 버텨 연 570억 슈퍼스타 됐다",
+     "u": "https://v.daum.net/v/20261004053637972",
+     "press": "Daum"
+    },
+    {
+     "t": "“자랑스럽고 정말 고맙다” SON ‘영혼단짝’ 케인, 발롱도르 응원 소식에 “너무 기쁘고, 감사하다는 말씀을 드...",
+     "u": "https://sports.khan.co.kr/article/202610020808003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "'발롱도르 투표 끝' 야말, 14살 차 케인 제치고 발롱도르 거머쥘까",
+     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1184233",
+     "press": "금강일보"
+    }
+   ]
+  },
+  {
+   "name": "편지",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "층간소음 걱정했는데…“다 이해하니 편하게 살아라” 아래층 이웃 손편지",
+     "u": "https://www.donga.com/news/Society/article/all/20261003/134780570/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "\"아이들 소음 이해, 편하게 사세요\"…멋진 이웃들의 손편지",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261001163420nW9",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "“나도 아이, 손자 키워봐…층간소음 신경쓰지마” 이웃의 배려",
+     "u": "https://www.munhwa.com/article/11621278",
+     "press": "문화일보"
+    }
+   ]
+  },
+  {
+   "name": "김상혁",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김상혁, ‘9살 연하’ 모델 출신 사업가에 ‘픽’ 당했다..“기분 좋아” (‘신랑수업2’)",
+     "u": "https://v.daum.net/v/biWwYgFYWH",
+     "press": "Daum"
+    },
+    {
+     "t": "사랑의 화살표는 어디로? 6인의 최종 선택!",
+     "u": "https://ichannela.com/program/clip/000000553409.do",
+     "press": "채널A 뉴스"
+    },
+    {
+     "t": "이정진·천명훈·김상혁, 유채련·구도경·유연희와 '단체 미팅' 커플 탄생 (신랑수업2) - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/tv/2026/10/02/GA4TQZLDG43GGZDBHE4GGOLDGQ/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "namibia vs uae",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "NAM vs UAE, 128th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+     "u": "https://m.cricbuzz.com/live-cricket-scores/174047/nam-vs-uae-128th-match-icc-cwc-league-two-2023-27",
+     "press": "Cricbuzz"
+    },
+    {
+     "t": "Match Predictions: ICC CWC League 2 2026 - Match 128 - Namibia vs UAE - October ",
+     "u": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-128-namibia-vs-uae-october-3rd/113618.htm",
+     "press": "Cricket World"
     }
    ]
   }
