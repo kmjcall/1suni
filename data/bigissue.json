@@ -1,221 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261004",
- "updated": "2026-10-04T08:32:00+09:00",
+ "targetDate": "20261005",
+ "updated": "2026-10-05T08:50:09+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "금",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
-     "u": "https://v.daum.net/v/20261003214013432",
+     "t": "13년만에 3400억원 금 매입한 韓銀, 그런데 금괴가 아니었다…미국 금 ETF 선택 이유",
+     "u": "https://v.daum.net/v/1oQdol8Bri?f=p",
      "press": "Daum"
     },
     {
-     "t": "연휴 둘째 날 밤부터 곳곳에 비…수도권 대기 건조 주의",
-     "u": "https://www.yna.co.kr/view/AKR20261004002100034",
-     "press": "연합뉴스"
+     "t": "한은 연말께 실물 금 1톤 매입 나선다",
+     "u": "https://www.asiatime.co.kr/article/20260930500404",
+     "press": "아시아타임즈"
     },
     {
-     "t": "밤부터 중부 비…내일 오전 대부분 그쳐",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8677312",
-     "press": "KBS 뉴스"
+     "t": "한 달 새 12% 떨어진 금값…한은, 13년 만에 실물 금 매입하기로",
+     "u": "https://www.mk.co.kr/news/economy/12165093",
+     "press": "매일경제"
     }
    ]
   },
   {
-   "name": "이동국",
-   "idx": 5,
+   "name": "삼전 닉스",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
-     "u": "https://v.daum.net/v/V3DxRWMVhA",
-     "press": "Daum"
+     "t": "\"삼전닉스 팔고 빠진 줄 알았는데\"…부자들 '뜻밖의 선택'",
+     "u": "https://www.hankyung.com/article/2026100426991",
+     "press": "한국경제"
     },
     {
-     "t": "이동국 셋째딸 설아, 장녀 뉴욕행 포기하자 美 유학 결정..\"덜컥 입학\"[핫피플]",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/03/GRRWGNJWHEYGIZJWMRRGMOJWMU/",
-     "press": "조선일보"
+     "t": "어제는 순매도 1위 삼성전기, 오늘은 순매수 1위 [주식 초고수는 지금]",
+     "u": "https://www.sedaily.com/article/20097529",
+     "press": "서울경제"
     },
     {
-     "t": "스타 가족 슬라이드",
-     "u": "https://m.news.nate.com/photoSlide/view?section=ent&clstId=1193922",
-     "press": "네이트"
+     "t": "초고수, 오후에는 삼전 팔고 삼전우 담았다 [주식 초고수는 지금]",
+     "u": "https://www.mk.co.kr/news/stock/12167215",
+     "press": "매일경제"
     }
    ]
   },
   {
-   "name": "연금 개혁",
-   "idx": 5,
+   "name": "나는 solo",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "“부유한 노인도 받는다”…기초연금 ‘하위 70%’ 기준 개편 추진",
-     "u": "https://www.segye.com/newsView/20261002510945",
-     "press": "세계일보"
-    },
-    {
-     "t": "기초연금 '소득 하위 70%' 기준 바꾼다…중위소득 연계 논의 나선다",
-     "u": "https://www.news1.kr/economy/trend/6308073",
+     "t": "'식탐' 지적받은 '나는 솔로' 33기 영수 \"부족한 모습…개선하도록 노력\"",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6309937",
      "press": "뉴스1"
     },
     {
-     "t": "\"국민연금 미적립부채 1450조…개혁 미루면 미래세대 부담\"",
-     "u": "https://www.hankyung.com/article/202610018162i",
-     "press": "한국경제"
-    }
-   ]
-  },
-  {
-   "name": "기상",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "베트남 지질학의 81년: 전통을 계승하고 새로운 발전 공간으로 나아가다.",
-     "u": "https://www.vietnam.vn/ko/81-nam-nganh-dia-chat-viet-nam-ke-thua-truyen-thong-vung-buoc-trong-khong-gian-phat-trien-moi",
-     "press": "Vietnam.vn"
+     "t": "\"라방 안 나왔는데 협찬 왜 받아\" 33기 영수, 불참 구설에 입 열었다…\"좋은 모습으로 인사 원해\"",
+     "u": "https://v.daum.net/v/20261004063146800",
+     "press": "Daum"
     },
     {
-     "t": "기상 및 수문 정보 - 자연재해로 인한 피해를 사전에 예방하고 완화하기 위한 기반.",
-     "u": "https://www.vietnam.vn/ko/thong-tin-khi-tuong-thuy-van-co-so-de-chu-dong-phong-chong-va-giam-thieu-thiet-hai-do-thien-tai",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "기상학 및 수문학 분야는 녹색 성장과 지속 가능한 개발이라는 목표 달성에 기여합니다.",
-     "u": "https://www.vietnam.vn/ko/nganh-khi-tuong-thuy-van-dong-gop-vao-muc-tieu-tang-truong-xanh-va-phat-trien-ben-vung",
-     "press": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "name": "선물",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"학생, 부모님 선물 사가\" 추석 앞두고 용돈 준 집주인",
-     "u": "https://www.chosun.com/national/national_general/2026/10/03/KDBDYT67SFAQNLS3U2VFLFUCFQ/",
-     "press": "조선일보"
-    },
-    {
-     "t": "“학생, 부모님 선물이라도”…귀향 대학생 세입자에 용돈 준 집주인",
-     "u": "https://www.donga.com/news/Society/article/all/20261003/134780232/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "\"빈손으로 가지 마라\"…명절 앞두고 대학생 손에 돈 쥐여준 집주인",
-     "u": "https://www.newsis.com/view/NISX20261002_0003811830",
+     "t": "오리탕 집착 33기 영수 \"부족하고 미흡한 모습 보였다\"",
+     "u": "https://www.newsis.com/view/NISX20261003_0003813438",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "하와이 화산 국립공원",
-   "idx": 5,
+   "name": "100일의 거짓말",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "550년 버틴 하와이 명물, 나흘 만에 '감쪽같이' 사라졌다",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=02266486645609312&mediaCodeNo=257",
-     "press": "이데일리"
-    },
-    {
-     "t": "“편히 잠드소서”…550년 버틴 하와이 명물 아치, 태평양으로 ‘와르르’",
-     "u": "https://v.daum.net/v/VYvaSl8BWf",
+     "t": "공들이는 '100일의 거짓말' 오늘(3일) 스페셜 예능 출격",
+     "u": "https://v.daum.net/v/20261003220504796",
      "press": "Daum"
     },
     {
-     "t": "\"어제 찍은 사진이 마지막일 줄이야\"…하룻밤 새 사라진 550년 하와이 명물",
-     "u": "https://view.asiae.co.kr/article/2026100309381962644",
-     "press": "아시아경제"
-    }
-   ]
-  },
-  {
-   "name": "해리 케인",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“통통하고 운동신경 없다”며 방출…오기 하나로 버텨 연 570억 슈퍼스타 됐다",
-     "u": "https://v.daum.net/v/20261004053637972",
-     "press": "Daum"
-    },
-    {
-     "t": "“자랑스럽고 정말 고맙다” SON ‘영혼단짝’ 케인, 발롱도르 응원 소식에 “너무 기쁘고, 감사하다는 말씀을 드...",
-     "u": "https://sports.khan.co.kr/article/202610020808003",
-     "press": "스포츠경향"
-    },
-    {
-     "t": "'발롱도르 투표 끝' 야말, 14살 차 케인 제치고 발롱도르 거머쥘까",
-     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1184233",
-     "press": "금강일보"
-    }
-   ]
-  },
-  {
-   "name": "편지",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "층간소음 걱정했는데…“다 이해하니 편하게 살아라” 아래층 이웃 손편지",
-     "u": "https://www.donga.com/news/Society/article/all/20261003/134780570/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "\"아이들 소음 이해, 편하게 사세요\"…멋진 이웃들의 손편지",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261001163420nW9",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "“나도 아이, 손자 키워봐…층간소음 신경쓰지마” 이웃의 배려",
-     "u": "https://www.munhwa.com/article/11621278",
-     "press": "문화일보"
-    }
-   ]
-  },
-  {
-   "name": "김상혁",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김상혁, ‘9살 연하’ 모델 출신 사업가에 ‘픽’ 당했다..“기분 좋아” (‘신랑수업2’)",
-     "u": "https://v.daum.net/v/biWwYgFYWH",
-     "press": "Daum"
-    },
-    {
-     "t": "사랑의 화살표는 어디로? 6인의 최종 선택!",
-     "u": "https://ichannela.com/program/clip/000000553409.do",
-     "press": "채널A 뉴스"
-    },
-    {
-     "t": "이정진·천명훈·김상혁, 유채련·구도경·유연희와 '단체 미팅' 커플 탄생 (신랑수업2) - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/tv/2026/10/02/GA4TQZLDG43GGZDBHE4GGOLDGQ/",
+     "t": "김유정 등장에 스태프들 주머니 간수..왜? \"생각보다 재능있다고\" ('100일의 거짓말') - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/04/GUYGGOLBHEZTOOJSG42WCYTEGY/",
      "press": "Chosunbiz"
+    },
+    {
+     "t": "'100일의 거짓말' 김현주X이무생X진선규, 진가 증명할 관록의 3인방 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/03/2026100316037242459",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "namibia vs uae",
+   "name": "조현아",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "조현아, 전남친 세금까지 내줬다더니 또 폭로 \"집착에 비혼까지\" - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/05/2026100501413890915",
+     "press": "머니투데이"
+    },
+    {
+     "t": "\"이미주, 예능하며 대시 많이 받아\" 절친 폭로 등장..현재는 솔로 [미우새] [★밤TView]",
+     "u": "https://v.daum.net/v/20261004223943588",
+     "press": "Daum"
+    },
+    {
+     "t": "“당연히 연락한 적 있다” 조현아, 방송 중 만난 연예인과 핑크빛 쿨 고백 (‘미우새’)",
+     "u": "https://www.mk.co.kr/news/broadcasting-service/12168226",
+     "press": "매일경제"
+    }
+   ]
+  },
+  {
+   "name": "임신",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'이긴자로'였던 배성재 \"아내 김다영 관리 덕에 100kg→85kg 감량\"",
+     "u": "https://v.daum.net/v/20261004112945293",
+     "press": "Daum"
+    },
+    {
+     "t": "배성재, 약 써도 안 빠지더니…결혼 후 15kg 감량 (옥문아)",
+     "u": "https://sports.donga.com/ent/article/all/20261004/134781158/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "'배성재♥' 김다영 \"사진 한 장 때문에 임신 공개…올 연말 출산 예정\"",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6309969",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "초과근무",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'가짜 야근' 5배 물려도 안 멈췄다…공무원 4년째 매년 300명 이상 적발",
+     "u": "https://v.daum.net/v/20261004105031701?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "[웹플만평] “5배 물려도 못막는다··· 공무원 초과근무수당 부정수령, 4년 연속 300명 넘어”",
+     "u": "http://www.webplusnews.kr/news/articleView.html?idxno=44849",
+     "press": "웹플러스뉴스"
+    },
+    {
+     "t": "초과근무 부정수급 울산 남부서 경찰관 소청 취하",
+     "u": "https://mobile.busan.com/view/busan/view.php?code=2026092914423616726",
+     "press": "부산일보"
+    }
+   ]
+  },
+  {
+   "name": "검사",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "NAM vs UAE, 128th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
-     "u": "https://m.cricbuzz.com/live-cricket-scores/174047/nam-vs-uae-128th-match-icc-cwc-league-two-2023-27",
-     "press": "Cricbuzz"
+     "t": "미래위 진상조사단 조사 '속도'...공소취소 분수령 되나",
+     "u": "https://www.ytn.co.kr/_ln/0103_202610050514434199",
+     "press": "YTN"
     },
     {
-     "t": "Match Predictions: ICC CWC League 2 2026 - Match 128 - Namibia vs UAE - October ",
-     "u": "https://www.cricketworld.com/match-predictions-icc-cwc-league-2-2026-match-128-namibia-vs-uae-october-3rd/113618.htm",
-     "press": "Cricket World"
+     "t": "공소청 감찰부장 “검사 독립성 위협”…쌍방울 사건 조사 검찰미래委 비판",
+     "u": "https://v.daum.net/v/20261004163543091?f=p",
+     "press": "Daum"
+    },
+    {
+     "t": "李대통령 사건 재조사 檢미래위에…감찰부장 \"검사 독립성 위협\"",
+     "u": "https://www.yna.co.kr/view/AKR20261003045300004",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "비트코인",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "기관 자금 들어온다…코인 시장 낙관론 '솔솔'",
+     "u": "https://v.daum.net/v/20261003110114101",
+     "press": "Daum"
+    },
+    {
+     "t": "비트코인 새 강세 사이클 시작됐나…피델리티, 2029년 30만 달러 전망",
+     "u": "https://www.coinreaders.com/261515",
+     "press": "코인리더스"
+    },
+    {
+     "t": "기관들 조용히 실탄 장전…'8만 2천불' 뚫리는 순간 개미는 못 탄다",
+     "u": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492523",
+     "press": "핀포인트뉴스"
+    }
+   ]
+  },
+  {
+   "name": "눈사태",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "남편과 함께 눈사태에 휩쓸려 홀로 사망…29세 스키 스타, 400m 밀려 1.5m 눈 속 매몰→끝내 목숨 잃었다",
+     "u": "https://v.daum.net/v/20261005020211616",
+     "press": "Daum"
+    },
+    {
+     "t": "엄홍길 “네팔 대홍수 한국인 실종자들 터널에 있지 않았고, 버스에 탑승한 상태였다”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8676756",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "무섭게 녹는 히말라야 빙하…930만 명 잠재 위험",
+     "u": "https://v.daum.net/v/20261003182002957",
+     "press": "Daum"
     }
    ]
   }
