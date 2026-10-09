@@ -1,172 +1,178 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261008",
- "updated": "2026-10-08T09:40:32+09:00",
+ "targetDate": "20261009",
+ "updated": "2026-10-09T09:56:15+09:00",
  "list": [
   {
-   "name": "성심당",
+   "name": "오윤아",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[빅데이터로본다] 제과제빵 전문점 2026년 10월 브랜드평판... 1위 성심당, 2위 뚜레쥬르, 3위 던킨도너츠",
-     "u": "https://www.dtoday.co.kr/news/articleView.html?idxno=795750",
-     "press": "일간투데이"
+     "t": "‘재혼’ 오윤아 아들, 살 더 빠졌다…반쪽 된 근황 - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/06/GEZWENJXGNQTKNJXGYYTAMDGMM/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "성심당, 제과제빵 브랜드평판 1위…뚜레쥬르·던킨도너츠 제쳤다",
-     "u": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493524",
-     "press": "핀포인트뉴스"
+     "t": "‘재혼’ 오윤아, 훌쩍 자란 발달장애 아들 근황 공개…취업 후 끝없는 도전 ‘화이팅’",
+     "u": "https://www.sedaily.com/article/20098808",
+     "press": "서울경제"
     },
     {
-     "t": "성심당, 제과제빵 전문점 브랜드평판 2026년 10월...1위",
-     "u": "https://www.beyondpost.co.kr/view.php?ud=20261008082303359946a9e4dd7f_30",
-     "press": "비욘드포스트"
+     "t": "\"턱선이 살아났다\"…오윤아, 취업 이어 폭풍 감량까지 성공한 아들 민이 '반쪽 근황' 깜짝 공개",
+     "u": "https://m.animalplanet.co.kr/contents/?artNo=61784",
+     "press": "애니멀플래닛"
     }
    ]
   },
   {
-   "name": "10 월 9 일",
-   "idx": 50,
+   "name": "가디언즈 대 화이트삭스",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "국군의 날과 개천절의 연원을 아시나요?",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272575",
-     "press": "OhmyNews"
+     "t": "‘와’ 韓 20승 MVP 자랑스럽다! ML 가을야구 1회 만루서 긴급 등판→삼진 잡고 포효하다 ‘투수 교체 대적중’ - 조선비즈",
+     "u": "https://biz.chosun.com/sports/baseball/2026/10/09/MVSWKZRTGU2DIOJRMMYTAYTFHE/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "한글날 대체공휴일 10월 11일 연휴…내년 언제 쉬나",
-     "u": "https://v.daum.net/v/4DSx6jztMs",
-     "press": "Daum"
+     "t": "'이대로 끝낼 순 없다' 클리블랜드 기사회생! 화이트삭스 9-3 대파…승부는 4차전으로 [ALDS3 리뷰]",
+     "u": "https://www.osen.co.kr/article/G1112889701",
+     "press": "OSEN"
     },
     {
-     "t": "한글날 국내 증시 휴장…우체국 창구도 쉰다",
-     "u": "https://www.jejutwn.com/news/article.html?no=462368",
-     "press": "제주교통복지신문"
+     "t": "‘라미레즈-콴의 3루타 대폭발’ CLE 기사회생→‘ALDS 2패 뒤 첫 승’",
+     "u": "https://sports.donga.com/sports/article/all/20261008/134806900/1",
+     "press": "스포츠동아"
     }
    ]
   },
   {
-   "name": "최순실",
-   "idx": 10,
+   "name": "한고은",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "구치소서 넘어진 최서원 병원비 3천900만원 회수하나…15일 선고",
-     "u": "https://www.yna.co.kr/view/AKR20261007153700004",
-     "press": "연합뉴스"
+     "t": "신영수, '♥한고은' 위해 7돈 금반지 선물···클래식 연주+꽃 선물까지('고은언니 한고은') - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/08/GUYTKODEGQZWGMRXGMYTMMDBGU/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "‘최순실 병원비’ 세금 대납 논란…국가가 3927만원 대신 내고 5년째 못 받아",
-     "u": "https://www.munhwa.com/article/11622111",
-     "press": "문화일보"
+     "t": "한고은, 방송 프러포즈는 멍청하다더니···'♥신영수' 재프러포즈에 오열('고은언니 한고은')",
+     "u": "https://www.osen.co.kr/article/G1112890280",
+     "press": "OSEN"
     },
     {
-     "t": "최순실 병원비 3천927만원 대신 낸 구치소…5년 묵혔다 뒤늦게 “돌려달라”",
-     "u": "https://www.kyeonggi.com/article/20261008580005",
-     "press": "경기일보"
+     "t": "신영수, \"'♥한고은'에 명품 귀걸이 선물했는데 조카가 착용···다이아몬드는 돌 취급\"('고은언니 한고은')",
+     "u": "https://www.koreadaily.com/article/20261008090025006",
+     "press": "미주중앙일보"
     }
    ]
   },
   {
-   "name": "트로트",
-   "idx": 10,
+   "name": "잠실 돔구장",
+   "idx": 20,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "류필립",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "트로트 가수 김다현, 조부모 사랑담은 '광양에서 만난 사랑' 발표",
-     "u": "https://www.news1.kr/local/gwangju-jeonnam/6312986",
-     "press": "뉴스1"
+     "t": "‘17세 연상 미나 남편’ 류필립, 홀로 미국행…“불안정한 미래 때문에”",
+     "u": "https://www.donga.com/news/Culture/article/all/20261008/134807208/1",
+     "press": "동아일보"
     },
     {
-     "t": "[사진]제31회 부산국제영화제 레드카펫 밟는 김동호 전 집행위원장",
-     "u": "https://www.chosun.com/entertainments/entertain_photo/2026/10/06/G4ZWKYZYMZTDCY3DGQZTCMTEG4/",
-     "press": "조선일보"
-    },
-    {
-     "t": "심수봉 실언 논란 털어낸 김다현, 신곡 낸다",
-     "u": "https://www.newsis.com/view/NISX20261007_0003816817",
+     "t": "'17세 연상 미나 남편' 류필립, 돌연 홀로 미국行 \"미래 불안해\"",
+     "u": "https://www.newsis.com/view/NISX20261008_0003818479",
      "press": "뉴시스"
+    },
+    {
+     "t": "\"스트레스 심해\"…류필립, '17세 연상' 미나 두고 미국행 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/08/2026100816242285120",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "한글날",
-   "idx": 10,
+   "name": "해피투게더",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "이디야커피, 한글날 제정 100주년 기념 고객 참여형 캠페인",
-     "u": "https://www.yna.co.kr/view/AKR20261008035000030",
+     "t": "리센느 원이X미나미 “해투 야호～” 스페셜 MC",
+     "u": "https://sports.khan.co.kr/article/202610080958003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "리센느 원이·미나미 ‘해피투게더’ 피날레 출격… 한강서 우승팀 탄생",
+     "u": "https://www.newscj.com/news/articleView.html?idxno=3438746",
+     "press": "천지일보"
+    },
+    {
+     "t": "해피투게더, 김범수의 후예들",
+     "u": "https://kstar.kbs.co.kr/list_view.html?idx=411615",
+     "press": "KBS연예"
+    }
+   ]
+  },
+  {
+   "name": "박현경",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김민솔, 여자골프 HJ중공업·동부건설 챔피언십 첫날 공동 3위",
+     "u": "https://www.yna.co.kr/view/AKR20261008181500007",
      "press": "연합뉴스"
     },
     {
-     "t": "이디야커피, 앱부터 컵홀더까지 한글 입힌다…한글날 기념 캠페인",
-     "u": "https://www.news1.kr/industry/distribution/6313836",
+     "t": "아이언샷 치는 이예원",
+     "u": "https://www.news1.kr/photos/8149999",
      "press": "뉴스1"
     },
     {
-     "t": "롯데GRS, 한글날 100주년 맞아 이주배경 아동에 '한글 교육' 지원",
-     "u": "https://v.daum.net/v/20261007083606198",
-     "press": "Daum"
+     "t": "어려움 극복하는 박현경 \"김주형 선수의 말이 큰 힘이 됐어요\" [KLPGA]",
+     "u": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022167",
+     "press": "골프한국"
     }
    ]
   },
   {
-   "name": "임윤찬",
+   "name": "정주영",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "임윤찬, 영국 그라모폰 어워즈 수상 불발",
-     "u": "https://www.yna.co.kr/view/AKR20261008004700085",
-     "press": "연합뉴스"
+     "t": "정주영 회장 말년 보낸 '북촌 한복판' 저택, 203억원에 낙찰 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/10/08/2026100819034397073",
+     "press": "머니투데이"
     },
     {
-     "t": "임윤찬, ’클래식계 오스카’ 그라모폰 어워즈 수상 불발",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261008064958Tei",
-     "press": "연합뉴스TV"
+     "t": "“400억 하던 곳인데”…명당 ‘고 정주영 자택’, 반값 된 이유",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=06845366645610952",
+     "press": "마켓인"
     },
     {
-     "t": "임윤찬, 英 그라모폰 2년 만의 탈환 불발…'카네기홀 바흐' 분전 : 문화",
-     "u": "https://news.jkn.co.kr/post/1011362",
-     "press": "재경일보"
-    }
-   ]
-  },
-  {
-   "name": "조두순",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "조두순, \"내 뇌에 전파\" 전자장치 부숴…보호관찰소 엿새만에 알아",
-     "u": "https://www.yna.co.kr/view/AKR20261007184500004",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "조두순, \"내 뇌에 전파가\" 전자장치 파손...법무부 6일간 '깜깜' [앵커리포트]",
-     "u": "https://www.ytn.co.kr/_ln/0103_202610080816112519",
-     "press": "YTN"
-    },
-    {
-     "t": "“내 뇌에 전파 쏜다”며 감시장치 부순 조두순, 보호관찰소는 6일 간 몰랐다",
-     "u": "https://www.munhwa.com/article/11622045",
-     "press": "문화일보"
+     "t": "[단독] '정주영 말년' 가회동 자택 203억 낙찰…감정가 392억의 반값",
+     "u": "https://www.news1.kr/realestate/general/6314345",
+     "press": "뉴스1"
     }
    ]
   },
   {
    "name": "금양",
-   "idx": 5,
-   "mv": "NEW",
+   "idx": 10,
+   "mv": -1,
    "news": [
     {
-     "t": "금융위, '회계기준 위반' 금양에 76억3천만원 과징금 의결",
-     "u": "https://www.yna.co.kr/view/AKR20261007173900002",
-     "press": "연합뉴스"
+     "t": "금융위, 금양에 과징금 76억 부과…“회계처리기준 위반”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8680155",
+     "press": "KBS 뉴스"
     },
     {
      "t": "상폐결정 금양, 회계위반으로 과징금 91억 ‘철퇴’",
@@ -174,53 +180,31 @@
      "press": "매일경제 마켓"
     },
     {
-     "t": "금융위, 금양에 76억 과징금…허위 매출 계상에 외부감사 방해 - 조선비즈",
-     "u": "https://biz.chosun.com/stock/stock_general/2026/10/07/A67G4NLQKREIRKON5QX2R35JCE/",
-     "press": "Chosunbiz"
+     "t": "금융위, '허위매출'로 실적 부풀린 금양에 과징금 76억 부과 - 머니투데이",
+     "u": "https://www.mt.co.kr/stock/2026/10/07/2026100718071943209",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "에페",
-   "idx": 5,
+   "name": "김승윤",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "돌아온 신약, 끝내 살아남았다… 한미약품 에페가 견딘 침묵의 시간",
-     "u": "https://www.hitnews.co.kr/news/articleView.html?idxno=79739",
-     "press": "히트뉴스"
+     "t": "배우 이유진·차경은 결혼…\"첫눈에 반해 교제 5개월 만에\"",
+     "u": "https://www.yna.co.kr/view/AKR20261006064700005",
+     "press": "연합뉴스"
     },
     {
-     "t": "식약처, 한미약품 ‘GLP-1’ 비만치료제 허가…국내 첫 비만 신약",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8680635",
-     "press": "KBS 뉴스"
+     "t": "이유진, 9일 백년가약 맺는다…동명이인 배우 이틀 연속 결혼 발표 눈길",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6313835",
+     "press": "뉴스1"
     },
     {
-     "t": "\"한 달 20만원에 맞는다\"…'한국판 위고비' 나온다 '들썩'",
-     "u": "https://www.hankyung.com/article/2026100794021",
-     "press": "한국경제"
-    }
-   ]
-  },
-  {
-   "name": "전북경찰청",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "금융권 해킹에 보이스피싱 우려 커지는데…'무과실 배상책임제' 도입은 언제?",
-     "u": "https://www.newsis.com/view/NISX20261007_0003817799",
-     "press": "뉴시스"
-    },
-    {
-     "t": "전주시의회·완산경찰서, 민생범죄 예방 '맞손'…안전한 전주 조성",
-     "u": "https://www.newspim.com/news/view/20261007000907",
-     "press": "뉴스핌"
-    },
-    {
-     "t": "연쇄 해킹 충격 지나고 ‘맞춤형 피싱’ 닥친다…‘직접 송금’ 땐 보상도 불분명",
-     "u": "https://www.koreadaily.com/article/20261007005556910",
-     "press": "미주중앙일보"
+     "t": "'이효정子' 이유진 이어 '연플리' 이유진도 결혼…동명이인 연속 '경사'",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011973",
+     "press": "SPOTV NEWS"
     }
    ]
   }
