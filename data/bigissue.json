@@ -1,210 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261009",
- "updated": "2026-10-09T09:56:15+09:00",
+ "targetDate": "20261010",
+ "updated": "2026-10-10T09:27:27+09:00",
  "list": [
   {
-   "name": "오윤아",
+   "name": "돈",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘재혼’ 오윤아 아들, 살 더 빠졌다…반쪽 된 근황 - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/06/GEZWENJXGNQTKNJXGYYTAMDGMM/",
-     "press": "Chosunbiz"
+     "t": "\"쌀 때 사야 돼\"…은행 골드바 300억 싹쓸이, 금값 떨어지자 무섭게 몰려든 개미들",
+     "u": "https://view.asiae.co.kr/article/2026100810510153701",
+     "press": "아시아경제"
     },
     {
-     "t": "‘재혼’ 오윤아, 훌쩍 자란 발달장애 아들 근황 공개…취업 후 끝없는 도전 ‘화이팅’",
-     "u": "https://www.sedaily.com/article/20098808",
-     "press": "서울경제"
+     "t": "고금리에 금값 올들어 27% 하락…\"이때다\" 골드바 수요 3배 증가",
+     "u": "https://www.news1.kr/finance/general-stock/6315066",
+     "press": "뉴스1"
     },
     {
-     "t": "\"턱선이 살아났다\"…오윤아, 취업 이어 폭풍 감량까지 성공한 아들 민이 '반쪽 근황' 깜짝 공개",
-     "u": "https://m.animalplanet.co.kr/contents/?artNo=61784",
-     "press": "애니멀플래닛"
+     "t": "금 한 돈 100만원→67만원, 금리 오를 때 살까요, 팔까요?",
+     "u": "https://www.ytn.co.kr/_ln/0102_202610081137415572",
+     "press": "YTN"
     }
    ]
   },
   {
-   "name": "가디언즈 대 화이트삭스",
-   "idx": 20,
+   "name": "대한민국 축구 국가대표팀",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘와’ 韓 20승 MVP 자랑스럽다! ML 가을야구 1회 만루서 긴급 등판→삼진 잡고 포효하다 ‘투수 교체 대적중’ - 조선비즈",
-     "u": "https://biz.chosun.com/sports/baseball/2026/10/09/MVSWKZRTGU2DIOJRMMYTAYTFHE/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "'이대로 끝낼 순 없다' 클리블랜드 기사회생! 화이트삭스 9-3 대파…승부는 4차전으로 [ALDS3 리뷰]",
-     "u": "https://www.osen.co.kr/article/G1112889701",
-     "press": "OSEN"
-    },
-    {
-     "t": "‘라미레즈-콴의 3루타 대폭발’ CLE 기사회생→‘ALDS 2패 뒤 첫 승’",
-     "u": "https://sports.donga.com/sports/article/all/20261008/134806900/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "한고은",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "신영수, '♥한고은' 위해 7돈 금반지 선물···클래식 연주+꽃 선물까지('고은언니 한고은') - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/08/GUYTKODEGQZWGMRXGMYTMMDBGU/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "한고은, 방송 프러포즈는 멍청하다더니···'♥신영수' 재프러포즈에 오열('고은언니 한고은')",
-     "u": "https://www.osen.co.kr/article/G1112890280",
-     "press": "OSEN"
-    },
-    {
-     "t": "신영수, \"'♥한고은'에 명품 귀걸이 선물했는데 조카가 착용···다이아몬드는 돌 취급\"('고은언니 한고은')",
-     "u": "https://www.koreadaily.com/article/20261008090025006",
-     "press": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "name": "잠실 돔구장",
-   "idx": 20,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "류필립",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘17세 연상 미나 남편’ 류필립, 홀로 미국행…“불안정한 미래 때문에”",
-     "u": "https://www.donga.com/news/Culture/article/all/20261008/134807208/1",
-     "press": "동아일보"
-    },
-    {
-     "t": "'17세 연상 미나 남편' 류필립, 돌연 홀로 미국行 \"미래 불안해\"",
-     "u": "https://www.newsis.com/view/NISX20261008_0003818479",
-     "press": "뉴시스"
-    },
-    {
-     "t": "\"스트레스 심해\"…류필립, '17세 연상' 미나 두고 미국행 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/10/08/2026100816242285120",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "해피투게더",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "리센느 원이X미나미 “해투 야호～” 스페셜 MC",
-     "u": "https://sports.khan.co.kr/article/202610080958003",
+     "t": "‘단독 1위’ 겨냥! 손흥민, 韓 축구 대역사 이어 메시·호날두 기록 눈앞···두 명의 ‘축구의 신’ 넘을 수 ...",
+     "u": "https://sports.khan.co.kr/article/202610100606003",
      "press": "스포츠경향"
     },
     {
-     "t": "리센느 원이·미나미 ‘해피투게더’ 피날레 출격… 한강서 우승팀 탄생",
-     "u": "https://www.newscj.com/news/articleView.html?idxno=3438746",
-     "press": "천지일보"
+     "t": "‘96라인’이 벌인 한밤의 ‘용인 은퇴 소동’, 모레노 감독의 “팀보다 위대한 선수는 없다”가 의미심장하게 들리는 이유",
+     "u": "https://www.segye.com/newsView/20261008500575",
+     "press": "세계일보"
     },
     {
-     "t": "해피투게더, 김범수의 후예들",
-     "u": "https://kstar.kbs.co.kr/list_view.html?idx=411615",
-     "press": "KBS연예"
+     "t": "“한국 GK 때문에 못 이겼다!” 칸나바로도 인정한 조현우 선방 “레전드 칭찬이니 기분 좋죠” [현장 인터뷰] - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/08/202610080058773090O",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "박현경",
-   "idx": 20,
+   "name": "서동주",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "김민솔, 여자골프 HJ중공업·동부건설 챔피언십 첫날 공동 3위",
-     "u": "https://www.yna.co.kr/view/AKR20261008181500007",
-     "press": "연합뉴스"
+     "t": "서동주, 절벽으로 추락해 죽을 뻔.. \"브레이크 대신 액셀 밟았다\"",
+     "u": "https://www.koreadaily.com/article/20261009031128121",
+     "press": "미주중앙일보"
     },
     {
-     "t": "아이언샷 치는 이예원",
-     "u": "https://www.news1.kr/photos/8149999",
-     "press": "뉴스1"
+     "t": "서동주 “엑셀 잘못 밟아 절벽으로 추락” 아찔한 사고 고백",
+     "u": "https://www.mk.co.kr/news/entertain/12172538",
+     "press": "매일경제"
     },
     {
-     "t": "어려움 극복하는 박현경 \"김주형 선수의 말이 큰 힘이 됐어요\" [KLPGA]",
-     "u": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022167",
-     "press": "골프한국"
+     "t": "서동주, 과거 운전 중 절벽 추락…“무서워서 액셀 밟았다”",
+     "u": "https://biz.heraldcorp.com/article/10897931",
+     "press": "헤럴드경제"
     }
    ]
   },
   {
-   "name": "정주영",
+   "name": "한혜연",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘20kg 감량’ 한혜연, 과감한 레깅스 패션..납작배 뽐내며 “연휴 시작” - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/09/MIZTGZBQHBRWKZDCMQ2WEOJWHE/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "한혜연, 이 정도면 ‘뼈말라’…위고비 의혹까지 부른 호피 패션 [IS하이컷]",
+     "u": "https://isplus.com/article/view/isp202610070234",
+     "press": "일간스포츠"
+    },
+    {
+     "t": "한혜연, 20kg 감량 후 이렇게 달라졌다…뼈만 남은 '극세사 각선미'",
+     "u": "https://www.osen.co.kr/article/G1112889402",
+     "press": "OSEN"
+    }
+   ]
+  },
+  {
+   "name": "나비 필라이",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "정주영 회장 말년 보낸 '북촌 한복판' 저택, 203억원에 낙찰 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/10/08/2026100819034397073",
+     "t": "노벨평화상 필라이, 나치 전범재판 법정서 “법 아닌 힘의 시대 막아야”",
+     "u": "https://www.hani.co.kr/arti/international/europe/1281723.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "노벨 평화상에 나비 필라이‥ICC 고강도 제재",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6856906_37012.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "유럽, 트럼프 ICC 제재에 우려…\"대화로 풀자\"",
+     "u": "https://www.yna.co.kr/view/AKR20261010002000082",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "여수세계박람회장",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 여수 세계 섬 박람회 84%가 무료 관람객",
+     "u": "https://www.chosun.com/national/national_general/2026/10/10/CJMBBNX77BGY7DJB6JSHKV5BKM/",
+     "press": "조선일보"
+    },
+    {
+     "t": "어촌-도시 연결 직거래 장터...\"남도 수산물 판매 촉진\"",
+     "u": "https://www.ytn.co.kr/_ln/0115_202610090431093147",
+     "press": "YTN"
+    },
+    {
+     "t": "[르포] 1850억 쏟은 '세계 최초' 섬박람회…\"정작 섬이 안 보인다\" [축제 공화국의 민낯 ④]",
+     "u": "https://news.nate.com/view/20261008n01675",
+     "press": "네이트"
+    }
+   ]
+  },
+  {
+   "name": "노윤서",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'산지직송3' 노윤서, 모두가 뺏고 싶어할 다 잘하는 '황금 막내' - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/09/2026100907007296379",
      "press": "머니투데이"
     },
     {
-     "t": "“400억 하던 곳인데”…명당 ‘고 정주영 자택’, 반값 된 이유",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=06845366645610952",
-     "press": "마켓인"
+     "t": "'산지직송3' 정상훈 \"염정아의 귀염둥이\"…메기남 출격 [RE:TV]",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6314917",
+     "press": "뉴스1"
     },
     {
-     "t": "[단독] '정주영 말년' 가회동 자택 203억 낙찰…감정가 392억의 반값",
-     "u": "https://www.news1.kr/realestate/general/6314345",
-     "press": "뉴스1"
+     "t": "‘언니네 산지직송3’ 강유석,가짜 깁스 깜짝 카메라부터 13m 대형 벽화 작업까지 예측불허",
+     "u": "https://sports.khan.co.kr/article/202610100226003",
+     "press": "스포츠경향"
     }
    ]
   },
   {
-   "name": "금양",
+   "name": "홍혜걸",
    "idx": 10,
-   "mv": -1,
+   "mv": "NEW",
    "news": [
     {
-     "t": "금융위, 금양에 과징금 76억 부과…“회계처리기준 위반”",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8680155",
+     "t": "여에스더, 홍혜걸 '암살자들' 저격 후폭풍에 분노 \"회사 안 해야겠다\"",
+     "u": "https://www.newsis.com/view/NISX20261009_0003820338",
+     "press": "뉴시스"
+    },
+    {
+     "t": "여에스더, 홍혜걸 SNS 논란에 회사까지 악플 세례…결국 '회사 매각'까지 선언 ('에스더TV') - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/10/MQ3WKNRYMNSTCNZYGRTDAYZSMY/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "“돈 그만 벌겠다” 여에스더 발언 왜?… “고인 모독” 홍혜걸 ‘암살자(들)’ 비판했다 악플러들 부부 공격",
+     "u": "https://www.seoul.co.kr/news/society/2026/10/10/20261010500004",
+     "press": "서울신문"
+    }
+   ]
+  },
+  {
+   "name": "조선민주주의인민공화국",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“지뢰 사과하라” 면전에서 요구하자, 北대사 “정동영도…”",
+     "u": "https://www.donga.com/news/Politics/article/all/20261009/134815008/1",
+     "press": "동아일보"
+    },
+    {
+     "t": "[이슈&한반도] 군, 북한 지뢰 제거 작전…북 “침범하면 무력 대응” 외",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8682227",
      "press": "KBS 뉴스"
     },
     {
-     "t": "상폐결정 금양, 회계위반으로 과징금 91억 ‘철퇴’",
-     "u": "https://stock.mk.co.kr/news/view/1171237",
-     "press": "매일경제 마켓"
-    },
-    {
-     "t": "금융위, '허위매출'로 실적 부풀린 금양에 과징금 76억 부과 - 머니투데이",
-     "u": "https://www.mt.co.kr/stock/2026/10/07/2026100718071943209",
-     "press": "머니투데이"
+     "t": "北 ’국경선 요새화’ 여전히 진행…사라지는 DMZ 완충지대",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261009095542o6W",
+     "press": "연합뉴스TV"
     }
    ]
   },
   {
-   "name": "김승윤",
-   "idx": 10,
+   "name": "al nassr",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "배우 이유진·차경은 결혼…\"첫눈에 반해 교제 5개월 만에\"",
-     "u": "https://www.yna.co.kr/view/AKR20261006064700005",
-     "press": "연합뉴스"
+     "t": "Licensable picture: Al Nassr v Al Draih - Saudi Pro League",
+     "u": "https://www.reutersconnect.com/item/al-nassr-v-al-draih-saudi-pro-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwSDlDMzJG",
+     "press": "Reuters Connect"
     },
     {
-     "t": "이유진, 9일 백년가약 맺는다…동명이인 배우 이틀 연속 결혼 발표 눈길",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6313835",
-     "press": "뉴스1"
+     "t": "Cristiano Ronaldon shënon golin e 980 në karrierë",
+     "u": "https://reporteri.net/en/sport/Cristiano-Ronaldo-scores-his-980th-career-goal/",
+     "press": "Reporteri.net"
     },
     {
-     "t": "'이효정子' 이유진 이어 '연플리' 이유진도 결혼…동명이인 연속 '경사'",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011973",
-     "press": "SPOTV NEWS"
+     "t": "Highlights: Al Nassr 3-0 Diriyah Club (Saudi Pro League)",
+     "u": "https://onefootball.com/en/video/highlights-al-nassr-3-0-diriyah-club-saudi-pro-league-43586399",
+     "press": "OneFootball"
     }
    ]
   }
