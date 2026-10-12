@@ -1,210 +1,206 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261011",
- "updated": "2026-10-11T09:06:49+09:00",
+ "targetDate": "20261012",
+ "updated": "2026-10-12T09:08:55+09:00",
  "list": [
   {
-   "name": "김사랑",
+   "name": "날씨",
    "idx": 100,
    "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "사관학교",
-   "idx": 20,
-   "mv": "NEW",
    "news": [
     {
-     "t": "[기고]北 MDL 지뢰도발로 안보가 매우 위중한데, 사관학교 통폐합이 그리도 급한가?",
-     "u": "https://www.munhwa.com/article/11622518",
-     "press": "문화일보"
+     "t": "13일 전국 가을비… 그친 뒤 아침 기온 ‘뚝’",
+     "u": "https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/",
+     "press": "조선일보"
     },
     {
-     "t": "'졸속통합 끝내 후폭풍' 2027사관학교 경쟁률 '함흥차사'..'정권이 무력화한 4년예고제'",
-     "u": "https://www.veritas-a.com/news/articleView.html?idxno=630902",
-     "press": "베리타스알파"
+     "t": "[날씨] 계절 역주행, 포근한 아침...한낮 늦더위 속 소나기",
+     "u": "https://www.ytn.co.kr/_ln/0108_202610120736027898",
+     "press": "YTN"
     },
     {
-     "t": "\"'합동성 강화' 국방부, 합동군사대 예산 26% 감액\"",
-     "u": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539553",
-     "press": "OBS경인TV"
+     "t": "서울 낮 27도…밤부터 전국 곳곳에 비 시작",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8682723",
+     "press": "KBS 뉴스"
     }
    ]
   },
   {
-   "name": "fc barcelona vs getafe cf standings",
-   "idx": 20,
+   "name": "이수만",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Barcelona 3-0 Getafe: Anthony Gordon scores first Barca goal as Catalan club equ",
-     "u": "https://www.bbc.com/sport/football/live/cm87zxxd55r3t",
-     "press": "BBC"
+     "t": "‘다들 헐값에 팔 때 사들였다’…이수만이 20억 던진 압구정 땅 1000억 반전",
+     "u": "https://www.segye.com/newsView/20260811520510",
+     "press": "세계일보"
     },
     {
-     "t": "Liga: Barça, the big 8",
-     "u": "https://frenchfootballweekly.com/2026/10/10/liga-barca-the-big-8/",
-     "press": "French Football Weekly"
+     "t": "20억 던진 땅이 1000억…이수만의 압구정 반전 : 부동산",
+     "u": "https://news.jkn.co.kr/post/1017359",
+     "press": "재경일보"
     },
     {
-     "t": "Post game reaction: Hansi Flick and Anthony Gordon",
-     "u": "https://www.fcbarcelona.com/en/barca-play/videos/4590269",
-     "press": "FC Barcelona"
+     "t": "돌아온 이수만, A2O 보이그룹-걸그룹 동시 론칭…13일 정식 데뷔",
+     "u": "https://www.nocutnews.co.kr/news/6589541",
+     "press": "노컷뉴스"
     }
    ]
   },
   {
-   "name": "real madrid vs villarreal cf standings",
-   "idx": 20,
+   "name": "세인트루이스 시티 sc 대 la 갤럭시",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Real Madrid 1-0 Villarreal: Vinicius Jr sent off for hair pull in win",
-     "u": "https://www.bbc.com/sport/football/live/cx30eppd991et",
-     "press": "BBC"
-    },
-    {
-     "t": "Diomande: \"I’m happy for my first goal and for the victory\"",
-     "u": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-jugador-1-post-real-madrid-villarreal-j8-liga-10-10-2026",
-     "press": "Real Madrid CF | Web Oficial"
-    },
-    {
-     "t": "Liga: Mbappé sterile, Real wins in pain",
-     "u": "https://frenchfootballweekly.com/2026/10/10/liga-mbappe-sterile-real-wins-in-pain/",
-     "press": "French Football Weekly"
+     "t": "세인트루이스 시티 vs 로스앤젤레스 갤럭시 예측: 선두 자리를 노릴 기회",
+     "u": "https://www.vietnam.vn/ko/nhan-dinh-st-louis-city-vs-los-angeles-galaxy-co-hoi-bam-duoi-ngoi-dau",
+     "press": "Vietnam.vn"
     }
    ]
   },
   {
-   "name": "월스트리트 저널",
-   "idx": 10,
+   "name": "젠데이아",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
-     "u": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2",
-     "press": "WSJ"
+     "t": "브리지트 영부인 왔는데 앉은 채 악수? 젠데이아 때 아닌 태도 논란 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/11/2026101113463769309",
+     "press": "머니투데이"
     },
     {
-     "t": "Walmart’s multibillion-dollar push to replace workers with robots hits snags on ",
-     "u": "https://nypost.com/2026/10/09/business/walmarts-multibillion-dollar-push-to-replace-workers-with-robots-hits-snags-on-dog-food-cardboard-boxes-report/",
-     "press": "New York Post"
-    },
-    {
-     "t": "Walmart Running Into Trouble as Its Super-Expensive Robots Can't Handle the Real",
-     "u": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
-     "press": "Futurism"
-    }
-   ]
-  },
-  {
-   "name": "원자력",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "원전 르네상스 왔는데…“일할 사람이 없다” 전문인력 부족에 발목",
-     "u": "https://www.electimes.com/news/articleView.html?idxno=373217",
-     "press": "전기신문"
-    },
-    {
-     "t": "캐나다와 갈등하는 미국…한국은 틈 비집고 원전 진출 돌파구",
-     "u": "https://www.yna.co.kr/view/AKR20261010033600003",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "'1200억달러' 한미 원전 프로젝트…2028년 승부수, K-원전 美시장 공략",
-     "u": "https://www.news1.kr/economy/trend/6314872",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "mls",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Breaking News, World News and Video from Al Jazeera",
-     "u": "https://www.aljazeera.com/sitemap.xml%3Fyyyy=2026/page/28217?dd=26&mm=02%3Fgb%3Dtrue%3Fgb%3Dtrue%3Fgb%3Dtrue",
-     "press": "Al Jazeera"
-    },
-    {
-     "t": "Inter Miami vs D.C. United line-ups confirmed for MLS Matchday 29",
-     "u": "https://onefootball.com/en/news/inter-miami-vs-dc-united-line-ups-confirmed-for-mls-matchday-29-43592431",
-     "press": "OneFootball"
-    },
-    {
-     "t": "Fresh off final game with Argentina, Messi leads Miami vs. D.C. United",
-     "u": "https://www.thenewstribune.com/sports/soccer/article317565841.html",
-     "press": "Tacoma News Tribune"
-    }
-   ]
-  },
-  {
-   "name": "hd현대",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "HD현대마린솔루션, 글로벌 엔진 MRO '골텐스' 3315억원에 인수",
-     "u": "https://www.investchosun.com/site/data/html_dir/2026/10/08/2026100880198.html",
-     "press": "인베스트조선"
-    },
-    {
-     "t": "HD현대마린솔루션, 美 엔진정비업체 인수",
-     "u": "https://www.donga.com/news/Economy/article/all/20261008/134812556/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "HD현대, 글로벌 선박엔진 MRO社 '골텐스' 3315억에 인수(상보)",
-     "u": "https://www.news1.kr/industry/general-industry/6314680",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "lafc",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Son Heung-min faces Müller as LAFC seeks rebound against Vancouver - CHOSUNBIZ",
-     "u": "https://biz.chosun.com/en/en-sports/2026/10/10/GOZ47BGCG5CEDP4P4O73LJRH7A/",
+     "t": "'톰 홀랜드♥︎' 젠데이아, 태도 논란..\"영부인이 인사해도 자리에서 까딱\" [Oh!llywood] - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/11/GZTGIZRSHAYDMZDDMUYTIOJTHA/",
      "press": "Chosunbiz"
     },
     {
-     "t": "LAFC vs Vancouver Whitecaps FC Predictions, Bet Builder Tips, Lineups, Odds",
-     "u": "https://www.whoscored.com/articles/6cJrCBdM_0SGLa0gs9CW7A/show/cng111-20261010-lafc-vs-vancouver-whitecaps-fc-prediction-1791657756",
-     "press": "WhoScored.com"
-    },
-    {
-     "t": "Where To Watch | LAFC vs. Vancouver Whitecaps - 2026 MLS Season",
-     "u": "https://www.lafc.com/news/where-to-watch-lafc-vs-vancouver-whitecaps-2026-mls-season-october-10",
-     "press": "Los Angeles Football Club"
+     "t": "‘스파이더맨’-‘오디세이’ 배우 젠데이아, 패션쇼에서 태도 논란?",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16243858",
+     "press": "톱스타뉴스"
     }
    ]
   },
   {
-   "name": "박유나",
-   "idx": 10,
+   "name": "이란",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘사랑이 온다’ 박유나, 시부 불륜→남편 불륜 충격 이어… 시모는 ‘호빠’까지?",
-     "u": "https://sports.khan.co.kr/article/202610102134003",
-     "press": "스포츠경향"
+     "t": "사우디 리야드공항 피격에 수백명 사상…美 \"개입 검토\"",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH202610120529171DV",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "[사랑이 온다] 남편 불륜 추궁하던 박유나, 콩가루 시댁 민낯 목격! “사기 결혼 당한 것 같다…”",
-     "u": "https://kstar.kbs.co.kr/list_view.html?idx=411811",
-     "press": "KBS연예"
+     "t": "사우디·이란 외무장관 긴급 통화…예멘 후티 반군의 공격 후 첫 접촉",
+     "u": "https://www.newspim.com/news/view/20261012000231",
+     "press": "뉴스핌"
     },
     {
-     "t": "‘사랑이 온다’ 박유나, 남편 고윤 불륜에 분노...“사기결혼 당한 것 같아”",
-     "u": "https://www.slist.kr/news/articleView.html?idxno=772388",
-     "press": "싱글리스트"
+     "t": "또 사우디 공항 피격‥\"사우디 전역 출국권고\"",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6857135_37012.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "국제선",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독]대한항공, 국제선 26개 노선중 20곳서 점유율 50% 훌쩍",
+     "u": "https://www.donga.com/news/Economy/article/all/20261011/134821457/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "손님 줄어도 운항 늘린다…진에어 ‘괌 증편’ 속사정",
+     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002919",
+     "press": "아시아투데이"
+    },
+    {
+     "t": "공정위 ‘괌 좌석 유지’ 기조에 사이판 투자 한국 기업들 ‘낙담’",
+     "u": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500496",
+     "press": "여행신문"
+    }
+   ]
+  },
+  {
+   "name": "네팔",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
+     "u": "https://www.khan.co.kr/article/202610112146001",
+     "press": "경향신문"
+    },
+    {
+     "t": "마을 덮친 흙탕물…네팔 또 '대홍수' 피해",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792264",
+     "press": "SBS 뉴스"
+    },
+    {
+     "t": "네팔, 실종자 5000여 명 곧 사망 처리…네팔 정부 법령 개정",
+     "u": "https://www.newsis.com/view/NISX20261010_0003820717",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "uae vs usa",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "USA vs UAE, 134th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+     "u": "https://www.cricbuzz.com/live-cricket-scores/174083/uae-vs-usa-134th-match-icc-cricket-world-cup-league-two-2023-27",
+     "press": "Cricbuzz"
+    },
+    {
+     "t": "Live Score: USA 59/1 (13.0), USA vs United Arab Emirates Match 134, 11 October 2",
+     "u": "https://thesportstak.com/cricket/match/usa-vs-uae-match-134-icc-cwc-league-2-11-october-2026-275015/live",
+     "press": "SportsTak"
+    },
+    {
+     "t": "USA vs United Arab Emirates Live Scorecard: Live Cricket Score USA vs UAE, Match",
+     "u": "https://www.indiatoday.in/live-score/cricket/usa-united-arab-emirates-live-cricket-scorecard-275015",
+     "press": "India Today"
+    }
+   ]
+  },
+  {
+   "name": "조지 클루니",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Cindy Crawford and Rande Gerber Hold Hands During First Public Outing Since Son ",
+     "u": "https://people.com/cindy-crawford-and-rande-gerber-hold-hands-in-first-public-outing-since-son-presley-s-death-12169188",
+     "press": "People.com"
+    },
+    {
+     "t": "George Clooney says family is still processing Presley Gerber's tragic death",
+     "u": "https://www.foxnews.com/entertainment/george-clooney-calls-presley-gerber-death-most-devastating-thing-happen-family",
+     "press": "Fox News"
+    },
+    {
+     "t": "Cindy Crawford, husband Rande Gerber hold hands in first public outing since son",
+     "u": "https://pagesix.com/2026/10/10/celebrity-news/cindy-crawford-husband-rande-gerber-hold-hands-on-beach-stroll/",
+     "press": "Page Six"
+    }
+   ]
+  },
+  {
+   "name": "klasemen liverpool vs man city",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Here are 13 statistics to know before Liverpool's Premier",
+     "u": "https://www.liverpoolfc.com/id/news/liverpool-v-man-city-stats-preview-tactics-goals-and-potential-iraola-feat",
+     "press": "Liverpool FC"
     }
    ]
   }
