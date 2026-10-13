@@ -1,206 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261012",
- "updated": "2026-10-12T09:08:55+09:00",
+ "targetDate": "20261013",
+ "updated": "2026-10-13T11:23:10+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "야마모토 요시노부",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "13일 전국 가을비… 그친 뒤 아침 기온 ‘뚝’",
-     "u": "https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/",
+     "t": "MLB 밀워키, 안방서 다저스에 NLCS 1·2차전 싹쓸이",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8684050",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "다저스 월드시리즈 3연패에 먹구름… 밀워키 브루어스, 안방서 2연승",
+     "u": "https://www.chosun.com/sports/world-baseball/2026/10/13/UZVASWBTZFGDROJYYIXIEO5OFI/",
      "press": "조선일보"
     },
     {
-     "t": "[날씨] 계절 역주행, 포근한 아침...한낮 늦더위 속 소나기",
-     "u": "https://www.ytn.co.kr/_ln/0108_202610120736027898",
-     "press": "YTN"
-    },
-    {
-     "t": "서울 낮 27도…밤부터 전국 곳곳에 비 시작",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8682723",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "이수만",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘다들 헐값에 팔 때 사들였다’…이수만이 20억 던진 압구정 땅 1000억 반전",
-     "u": "https://www.segye.com/newsView/20260811520510",
-     "press": "세계일보"
-    },
-    {
-     "t": "20억 던진 땅이 1000억…이수만의 압구정 반전 : 부동산",
-     "u": "https://news.jkn.co.kr/post/1017359",
-     "press": "재경일보"
-    },
-    {
-     "t": "돌아온 이수만, A2O 보이그룹-걸그룹 동시 론칭…13일 정식 데뷔",
-     "u": "https://www.nocutnews.co.kr/news/6589541",
-     "press": "노컷뉴스"
-    }
-   ]
-  },
-  {
-   "name": "세인트루이스 시티 sc 대 la 갤럭시",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "세인트루이스 시티 vs 로스앤젤레스 갤럭시 예측: 선두 자리를 노릴 기회",
-     "u": "https://www.vietnam.vn/ko/nhan-dinh-st-louis-city-vs-los-angeles-galaxy-co-hoi-bam-duoi-ngoi-dau",
-     "press": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "name": "젠데이아",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "브리지트 영부인 왔는데 앉은 채 악수? 젠데이아 때 아닌 태도 논란 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/10/11/2026101113463769309",
-     "press": "머니투데이"
-    },
-    {
-     "t": "'톰 홀랜드♥︎' 젠데이아, 태도 논란..\"영부인이 인사해도 자리에서 까딱\" [Oh!llywood] - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/11/GZTGIZRSHAYDMZDDMUYTIOJTHA/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "‘스파이더맨’-‘오디세이’ 배우 젠데이아, 패션쇼에서 태도 논란?",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16243858",
-     "press": "톱스타뉴스"
-    }
-   ]
-  },
-  {
-   "name": "이란",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "사우디 리야드공항 피격에 수백명 사상…美 \"개입 검토\"",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH202610120529171DV",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "사우디·이란 외무장관 긴급 통화…예멘 후티 반군의 공격 후 첫 접촉",
-     "u": "https://www.newspim.com/news/view/20261012000231",
-     "press": "뉴스핌"
-    },
-    {
-     "t": "또 사우디 공항 피격‥\"사우디 전역 출국권고\"",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6857135_37012.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "국제선",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[단독]대한항공, 국제선 26개 노선중 20곳서 점유율 50% 훌쩍",
-     "u": "https://www.donga.com/news/Economy/article/all/20261011/134821457/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "손님 줄어도 운항 늘린다…진에어 ‘괌 증편’ 속사정",
-     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261011010002919",
-     "press": "아시아투데이"
-    },
-    {
-     "t": "공정위 ‘괌 좌석 유지’ 기조에 사이판 투자 한국 기업들 ‘낙담’",
-     "u": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500496",
-     "press": "여행신문"
-    }
-   ]
-  },
-  {
-   "name": "네팔",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "네팔, 또 다시 산사태로 홍수 발생···최소 5명 실종",
-     "u": "https://www.khan.co.kr/article/202610112146001",
-     "press": "경향신문"
-    },
-    {
-     "t": "마을 덮친 흙탕물…네팔 또 '대홍수' 피해",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792264",
-     "press": "SBS 뉴스"
-    },
-    {
-     "t": "네팔, 실종자 5000여 명 곧 사망 처리…네팔 정부 법령 개정",
-     "u": "https://www.newsis.com/view/NISX20261010_0003820717",
+     "t": "NLCS 2차전, 담장 넘기는 콘트레라스",
+     "u": "https://mobile.newsis.com/photo/NISI20261013_0002261597",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "uae vs usa",
-   "idx": 5,
+   "name": "브레이킹 배드",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "USA vs UAE, 134th Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
-     "u": "https://www.cricbuzz.com/live-cricket-scores/174083/uae-vs-usa-134th-match-icc-cricket-world-cup-league-two-2023-27",
-     "press": "Cricbuzz"
+     "t": "RJ Mitte Dies: ‘Breaking Bad’ Actor Was 34",
+     "u": "https://deadline.com/2026/10/rj-mitte-dead-breaking-bad-actor-1237155037/",
+     "press": "Deadline"
     },
     {
-     "t": "Live Score: USA 59/1 (13.0), USA vs United Arab Emirates Match 134, 11 October 2",
-     "u": "https://thesportstak.com/cricket/match/usa-vs-uae-match-134-icc-cwc-league-2-11-october-2026-275015/live",
-     "press": "SportsTak"
+     "t": "'Breaking Bad' stars remember RJ Mitte after his death at 34",
+     "u": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/rj-mitte-death-tributes-breaking-bad-cast/92223441007/",
+     "press": "USA Today"
     },
     {
-     "t": "USA vs United Arab Emirates Live Scorecard: Live Cricket Score USA vs UAE, Match",
-     "u": "https://www.indiatoday.in/live-score/cricket/usa-united-arab-emirates-live-cricket-scorecard-275015",
-     "press": "India Today"
+     "t": "‘Breaking Bad’ Stars Pay Tribute to R.J. Mitte: “Sweetheart of a Young Man”",
+     "u": "https://www.hollywoodreporter.com/tv/tv-news/breaking-bad-stars-react-r-j-mitte-death-1236728237/",
+     "press": "The Hollywood Reporter"
     }
    ]
   },
   {
-   "name": "조지 클루니",
-   "idx": 5,
+   "name": "삼성전자 주가",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "Cindy Crawford and Rande Gerber Hold Hands During First Public Outing Since Son ",
-     "u": "https://people.com/cindy-crawford-and-rande-gerber-hold-hands-in-first-public-outing-since-son-presley-s-death-12169188",
-     "press": "People.com"
+     "t": "100조원 영업이익에도 삼성전자 주가 왜 안올라? “감동이 없어서” [반도체 투자 리포트]",
+     "u": "https://www.segye.com/newsView/20261012509557",
+     "press": "세계일보"
     },
     {
-     "t": "George Clooney says family is still processing Presley Gerber's tragic death",
-     "u": "https://www.foxnews.com/entertainment/george-clooney-calls-presley-gerber-death-most-devastating-thing-happen-family",
-     "press": "Fox News"
+     "t": "6,600대로 떨어진 코스피...오늘 증시는?",
+     "u": "https://www.ytn.co.kr/_ln/0102_202610120914435291",
+     "press": "YTN"
     },
     {
-     "t": "Cindy Crawford, husband Rande Gerber hold hands in first public outing since son",
-     "u": "https://pagesix.com/2026/10/10/celebrity-news/cindy-crawford-husband-rande-gerber-hold-hands-on-beach-stroll/",
-     "press": "Page Six"
+     "t": "“외국인 계속 팔더니”…삼성전자 外人 지분율, 17년 3개월 만에 최저수준 - 조선비즈",
+     "u": "https://biz.chosun.com/stock/stock_general/2026/10/11/Z5LYOIIDGFEHPO7RMEI2YINXUA/",
+     "press": "Chosunbiz"
     }
    ]
   },
   {
-   "name": "klasemen liverpool vs man city",
-   "idx": 5,
+   "name": "하이닉스 주가",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "Here are 13 statistics to know before Liverpool's Premier",
-     "u": "https://www.liverpoolfc.com/id/news/liverpool-v-man-city-stats-preview-tactics-goals-and-potential-iraola-feat",
-     "press": "Liverpool FC"
+     "t": "환율 부담에도 버틴 D램…“SK하이닉스, 3분기 실적 기대치 부합할 것”",
+     "u": "https://stock.mk.co.kr/news/view/1173236",
+     "press": "매일경제 마켓"
+    },
+    {
+     "t": "주가는 연일 떨어지는데…SK하이닉스 목표가 400만원 유지하는 이유",
+     "u": "https://stock.mk.co.kr/news/view/1173223",
+     "press": "매일경제 마켓"
+    },
+    {
+     "t": "SK Hynix 과매도 신호 속 강한 하락세 지속: 매시간 업데이트",
+     "u": "https://kr.investing.com/news/stock-market-news/article-93CH-2122848",
+     "press": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "name": "창신메모리",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "中 CXMT, 차세대 D램 기술 진전…\"삼전닉스에 도전\"(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261012142351089",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "亞반도체주, 中 경쟁심화 우려에 급락…키옥시아 장중 10%대 급락",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438926",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "中 창신메모리 기술 충격…美 반도체주 '주루룩', 마이크론 4% 하락 - 머니투데이",
+     "u": "https://www.mt.co.kr/world/2026/10/13/2026101308144117710",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "nol",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Dubai introduces digital Nol QR tickets for metro, buses and trams",
+     "u": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
+     "press": "The National"
+    },
+    {
+     "t": "Dubai Metro, bus and tram QR tickets: How to buy, use and how much they cost",
+     "u": "https://gulfnews.com/living-in-uae/transport/dubai-metro-nol-qr-tickets-how-to-buy-use-fares-1.500707666",
+     "press": "Gulf News"
+    },
+    {
+     "t": "Travel without Nol card: Commuters can now use QR codes on Dubai Metro, buses, t",
+     "u": "https://www.khaleejtimes.com/uae/transport/red-nol-ticket-holders-use-qr-codes-dubai-metro-buses-trams",
+     "press": "Khaleej Times"
+    }
+   ]
+  },
+  {
+   "name": "kospi",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "KRX activates sell-side sidecar for KOSPI on sharp fall",
+     "u": "https://en.yna.co.kr/view/AEN20261013002400320",
+     "press": "Yonhap News Agency"
+    },
+    {
+     "t": "Despite the strong performance of Samsung Electronics and SK Hynix, the domestic",
+     "u": "https://www.mk.co.kr/en/stock/12174133",
+     "press": "매일경제"
+    },
+    {
+     "t": "Seoul shares extend losses late Monday morning on tech sell-off",
+     "u": "https://www.koreatimes.co.kr/economy/20261012/seoul-shares-extend-losses-late-monday-morning-on-tech-sell-off",
+     "press": "The Korea Times"
+    }
+   ]
+  },
+  {
+   "name": "경기도교육청",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "CJ올리브네트웍스, 경기도교육청 ‘신나는공유학교’와 ‘AX창의캠프’ 개최 – CJ 뉴스룸",
+     "u": "https://cjnews.cj.net/cj%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%8B%A0%EB%82%98%EB%8A%94%EA%B3%B5%EC%9C%A0%ED%95%99%EA%B5%90/",
+     "press": "CJ 뉴스룸"
+    },
+    {
+     "t": "CJ올리브네트웍스, 초등학생 대상 AI·자율주행 코딩 교육",
+     "u": "https://www.dailian.co.kr/news/view/1700670/CJ%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D-%EB%8C%80%EC%83%81-AI-2026",
+     "press": "데일리안"
+    },
+    {
+     "t": "CJ올리브네트웍스 임직원, 초등생에 자율주행 코딩 교육…AX창의캠프 2회째",
+     "u": "https://www.ddaily.co.kr/page/view/2026101310300916799",
+     "press": "디지털데일리"
+    }
+   ]
+  },
+  {
+   "name": "삼전 주가",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘성과급 잔치’ 삼전 직원들 화색, ‘맥 못 추는 주가’에 국민 개미들 울상 [어떻게 생각하십니까]",
+     "u": "https://www.segye.com/newsView/20261012500926",
+     "press": "세계일보"
+    },
+    {
+     "t": "일 잘하는 메모리 부장은 14억?…삼성 성과급 잔치 뒤 받을 청구서 - 머니투데이",
+     "u": "https://www.mt.co.kr/industry/2026/10/13/2026101223012392108",
+     "press": "머니투데이"
+    },
+    {
+     "t": "내년 3월 반도체 벨트에 1인당 7억대 성과급 풀린다[간추린 주말 뉴스]",
+     "u": "https://www.newsis.com/view/NISX20261012_0003821228",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "국정감사",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'김지용 반대' 추미애 국감 출석...헌재서 '재제청' 재격돌",
+     "u": "https://www.ytn.co.kr/_ln/0101_202610130944240931",
+     "press": "YTN"
+    },
+    {
+     "t": "증인선서 하는 추미애 경기지사",
+     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261013_0021486562&provider_id=&cID=&type=photoMain&catg=&idx=2",
+     "press": "뉴시스"
+    },
+    {
+     "t": "도의회·정부와 대립, 민심도 싸늘… ‘세제개편 입법’ 속도 관건 [추미애호 100일·(下)]",
+     "u": "https://www.kyeongin.com/article/1772400",
+     "press": "경인일보"
     }
    ]
   }
