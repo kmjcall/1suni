@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261013",
- "updated": "2026-10-13T11:23:10+09:00",
+ "targetDate": "20261014",
+ "updated": "2026-10-14T09:04:40+09:00",
  "list": [
   {
-   "name": "야마모토 요시노부",
+   "name": "생계",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "MLB 밀워키, 안방서 다저스에 NLCS 1·2차전 싹쓸이",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8684050",
-     "press": "KBS 뉴스"
+     "t": "[단독]복지 담당 공무원이 보다 못해 나섰는데···생계급여 직권신청 5건 중 1건 ‘탈락’",
+     "u": "https://www.khan.co.kr/article/202610140600111",
+     "press": "경향신문"
     },
     {
-     "t": "다저스 월드시리즈 3연패에 먹구름… 밀워키 브루어스, 안방서 2연승",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/10/13/UZVASWBTZFGDROJYYIXIEO5OFI/",
-     "press": "조선일보"
+     "t": "“‘기초수급사’ 들어봤나”…수급 확대는 계산하고 자립 성과는 ‘깜깜이’",
+     "u": "https://medicalworldnews.co.kr/m/view.php?idx=1510977771&mcode=",
+     "press": "medicalworldnews.co.kr"
     },
     {
-     "t": "NLCS 2차전, 담장 넘기는 콘트레라스",
-     "u": "https://mobile.newsis.com/photo/NISI20261013_0002261597",
-     "press": "뉴시스"
+     "t": "[단독] 일하는 생계급여 수급자 57% 늘었는데…'탈수급'은 오히려 줄었다",
+     "u": "https://www.news1.kr/bio/welfare-medical/6310894",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "브레이킹 배드",
-   "idx": 50,
+   "name": "김영철",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "RJ Mitte Dies: ‘Breaking Bad’ Actor Was 34",
-     "u": "https://deadline.com/2026/10/rj-mitte-dead-breaking-bad-actor-1237155037/",
-     "press": "Deadline"
-    },
-    {
-     "t": "'Breaking Bad' stars remember RJ Mitte after his death at 34",
-     "u": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/rj-mitte-death-tributes-breaking-bad-cast/92223441007/",
-     "press": "USA Today"
-    },
-    {
-     "t": "‘Breaking Bad’ Stars Pay Tribute to R.J. Mitte: “Sweetheart of a Young Man”",
-     "u": "https://www.hollywoodreporter.com/tv/tv-news/breaking-bad-stars-react-r-j-mitte-death-1236728237/",
-     "press": "The Hollywood Reporter"
-    }
-   ]
-  },
-  {
-   "name": "삼성전자 주가",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "100조원 영업이익에도 삼성전자 주가 왜 안올라? “감동이 없어서” [반도체 투자 리포트]",
-     "u": "https://www.segye.com/newsView/20261012509557",
+     "t": "“웃기는 건 남이 결정하지만” 비웃음 견디며 28년 버틴 김영철의 비밀",
+     "u": "https://www.segye.com/newsView/20260714520749",
      "press": "세계일보"
     },
     {
-     "t": "6,600대로 떨어진 코스피...오늘 증시는?",
-     "u": "https://www.ytn.co.kr/_ln/0102_202610120914435291",
-     "press": "YTN"
+     "t": "김영철 \"ADHD 검사 후 강박 성향 알게 돼…스스로 돌아봐\"",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6318745",
+     "press": "뉴스1"
     },
     {
-     "t": "“외국인 계속 팔더니”…삼성전자 外人 지분율, 17년 3개월 만에 최저수준 - 조선비즈",
-     "u": "https://biz.chosun.com/stock/stock_general/2026/10/11/Z5LYOIIDGFEHPO7RMEI2YINXUA/",
+     "t": "김영철, '라스'서 김국진 섭외 총력전…강수지와 동반 출연까지 제안",
+     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/521110",
+     "press": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "name": "최지우",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'45세 출산' 최지우, 폭풍 성장한 딸 공개…어머니와 3대 여행 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/13/2026101313582498599",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'9세 연하♥' 최지우, 6살 된 붕어빵 딸 공개..리틀 지우히메 - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/13/GQZDSMRWMIYWCMBRMMZWIODFMI/",
      "press": "Chosunbiz"
+    },
+    {
+     "t": "`44세 출산` 최지우, 딸이 이렇게 컸어…3대 여행 떠났다",
+     "u": "https://mydaily.co.kr/page/view/2026101308421504525",
+     "press": "마이데일리"
     }
    ]
   },
   {
-   "name": "하이닉스 주가",
-   "idx": 50,
+   "name": "수학",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "환율 부담에도 버틴 D램…“SK하이닉스, 3분기 실적 기대치 부합할 것”",
-     "u": "https://stock.mk.co.kr/news/view/1173236",
-     "press": "매일경제 마켓"
+     "t": "AI’s mathematics blitz pushes science into strange new territory",
+     "u": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+     "press": "The Economist"
     },
     {
-     "t": "주가는 연일 떨어지는데…SK하이닉스 목표가 400만원 유지하는 이유",
-     "u": "https://stock.mk.co.kr/news/view/1173223",
-     "press": "매일경제 마켓"
+     "t": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was",
+     "u": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
+     "press": "Scientific American"
     },
     {
-     "t": "SK Hynix 과매도 신호 속 강한 하락세 지속: 매시간 업데이트",
-     "u": "https://kr.investing.com/news/stock-market-news/article-93CH-2122848",
+     "t": "Video: Why A.I. Has This Mathematician in Tears",
+     "u": "https://www.nytimes.com/video/podcasts/the-daily/100000011211514/why-ai-has-this-mathematician-in-tears.html",
+     "press": "The New York Times"
+    }
+   ]
+  },
+  {
+   "name": "김민석",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "지지율 비상인데 또 악재…민주, 신천지 집단가입 정황 확인",
+     "u": "https://www.hani.co.kr/arti/politics/politics_general/1282250.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "김민석 \"신천지, 상당한 정도로 집단적 가입...조직적 개입 증언 확보\" - 머니투데이",
+     "u": "https://www.mt.co.kr/politics/2026/10/14/2026101408031997518",
+     "press": "머니투데이"
+    },
+    {
+     "t": "與 “신천지 수만명 당원 가입 정황 확인” 정청래 “국물도 남김없이 밝히자”",
+     "u": "https://www.donga.com/news/Politics/article/all/20261014/134836893/2",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "오픈ai",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "TV 뒤에 이게 뭐지?...사우디 출신 오픈AI 직원, 임원 회의실 '도청' - 머니투데이",
+     "u": "https://www.mt.co.kr/world/2026/10/14/2026101406340420865",
+     "press": "머니투데이"
+    },
+    {
+     "t": "OpenAI, 자체 AI로 사무실 도청 장치 심은 직원 적발",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2125699",
      "press": "Investing.com 한국어"
+    },
+    {
+     "t": "오픈AI 임원회의실 TV 뒤에 도청기…사우디 국적 직원 기소",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02542006645612920",
+     "press": "마켓인"
     }
    ]
   },
   {
-   "name": "창신메모리",
-   "idx": 50,
+   "name": "폴 튜더 존스",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "中 CXMT, 차세대 D램 기술 진전…\"삼전닉스에 도전\"(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261012142351089",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "亞반도체주, 中 경쟁심화 우려에 급락…키옥시아 장중 10%대 급락",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438926",
+     "t": "폴 튜더 존스 \"내년 증시 정말로 어려울 것…1년 내내 매도 취할 것\"",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439071",
      "press": "연합인포맥스"
     },
     {
-     "t": "中 창신메모리 기술 충격…美 반도체주 '주루룩', 마이크론 4% 하락 - 머니투데이",
-     "u": "https://www.mt.co.kr/world/2026/10/13/2026101308144117710",
-     "press": "머니투데이"
+     "t": "급증하는 주식 공급이 미국 강세장을 무너뜨릴까? 골드만삭스의 분석",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2123195",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "\"내년 美 증시, 2002년 이후 최악의 수급\"…월가 전설의 경고",
+     "u": "https://www.newspim.com/news/view/20261013001328",
+     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "nol",
+   "name": "석탄",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "Dubai introduces digital Nol QR tickets for metro, buses and trams",
-     "u": "https://www.thenationalnews.com/news/uae/2026/10/10/dubai-digital-nol-qr-tickets-metro-bus-tram/",
-     "press": "The National"
+     "t": "9년째 야산에 버려진 50억 원어치 석탄 미스터리…누가? 주인은?",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8684741",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "Dubai Metro, bus and tram QR tickets: How to buy, use and how much they cost",
-     "u": "https://gulfnews.com/living-in-uae/transport/dubai-metro-nol-qr-tickets-how-to-buy-use-fares-1.500707666",
-     "press": "Gulf News"
+     "t": "철암저탄장 석탄 재고 의혹…산업부 늑장 대응·자료제공자 확인 논란",
+     "u": "https://www.energydaily.co.kr/news/articleView.html?idxno=203834",
+     "press": "에너지데일리"
     },
     {
-     "t": "Travel without Nol card: Commuters can now use QR codes on Dubai Metro, buses, t",
-     "u": "https://www.khaleejtimes.com/uae/transport/red-nol-ticket-holders-use-qr-codes-dubai-metro-buses-trams",
-     "press": "Khaleej Times"
-    }
-   ]
-  },
-  {
-   "name": "kospi",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "KRX activates sell-side sidecar for KOSPI on sharp fall",
-     "u": "https://en.yna.co.kr/view/AEN20261013002400320",
-     "press": "Yonhap News Agency"
-    },
-    {
-     "t": "Despite the strong performance of Samsung Electronics and SK Hynix, the domestic",
-     "u": "https://www.mk.co.kr/en/stock/12174133",
-     "press": "매일경제"
-    },
-    {
-     "t": "Seoul shares extend losses late Monday morning on tech sell-off",
-     "u": "https://www.koreatimes.co.kr/economy/20261012/seoul-shares-extend-losses-late-monday-morning-on-tech-sell-off",
-     "press": "The Korea Times"
-    }
-   ]
-  },
-  {
-   "name": "경기도교육청",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "CJ올리브네트웍스, 경기도교육청 ‘신나는공유학교’와 ‘AX창의캠프’ 개최 – CJ 뉴스룸",
-     "u": "https://cjnews.cj.net/cj%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-%EA%B2%BD%EA%B8%B0%EB%8F%84%EA%B5%90%EC%9C%A1%EC%B2%AD-%EC%8B%A0%EB%82%98%EB%8A%94%EA%B3%B5%EC%9C%A0%ED%95%99%EA%B5%90/",
-     "press": "CJ 뉴스룸"
-    },
-    {
-     "t": "CJ올리브네트웍스, 초등학생 대상 AI·자율주행 코딩 교육",
-     "u": "https://www.dailian.co.kr/news/view/1700670/CJ%EC%98%AC%EB%A6%AC%EB%B8%8C%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4-%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D-%EB%8C%80%EC%83%81-AI-2026",
-     "press": "데일리안"
-    },
-    {
-     "t": "CJ올리브네트웍스 임직원, 초등생에 자율주행 코딩 교육…AX창의캠프 2회째",
-     "u": "https://www.ddaily.co.kr/page/view/2026101310300916799",
-     "press": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "name": "삼전 주가",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘성과급 잔치’ 삼전 직원들 화색, ‘맥 못 추는 주가’에 국민 개미들 울상 [어떻게 생각하십니까]",
-     "u": "https://www.segye.com/newsView/20261012500926",
-     "press": "세계일보"
-    },
-    {
-     "t": "일 잘하는 메모리 부장은 14억?…삼성 성과급 잔치 뒤 받을 청구서 - 머니투데이",
-     "u": "https://www.mt.co.kr/industry/2026/10/13/2026101223012392108",
-     "press": "머니투데이"
-    },
-    {
-     "t": "내년 3월 반도체 벨트에 1인당 7억대 성과급 풀린다[간추린 주말 뉴스]",
-     "u": "https://www.newsis.com/view/NISX20261012_0003821228",
+     "t": "김정관 \"철암저탄장 폐기물 매립 깜짝 놀라…재발 방지할 것\"",
+     "u": "https://www.newsis.com/view/NISX20261006_0003815391",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "국정감사",
+   "name": "파기환송",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 최태원 지분 5440억 사들인 ‘전략적 투자자’는 마이클 델",
+     "u": "https://www.sedaily.com/article/20101220",
+     "press": "서울경제"
+    },
+    {
+     "t": "노소영, 재산분할 맞상고 안해…최태원은 2440억 다툼, 대법서 곧 심리",
+     "u": "https://www.donga.com/news/Society/article/all/20261014/134837512/1",
+     "press": "동아일보"
+    },
+    {
+     "t": "노소영, 재산분할 맞상고 안해…최태원 재상고로 대법 곧 심리",
+     "u": "https://www.yna.co.kr/view/AKR20261013186800004",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "식품의약품안전처장",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'김지용 반대' 추미애 국감 출석...헌재서 '재제청' 재격돌",
-     "u": "https://www.ytn.co.kr/_ln/0101_202610130944240931",
-     "press": "YTN"
+     "t": "식약처 비공개 임상시험 자료 2,672건 챗GPT에 '둥둥'",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6857659_36911.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "증인선서 하는 추미애 경기지사",
-     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261013_0021486562&provider_id=&cID=&type=photoMain&catg=&idx=2",
-     "press": "뉴시스"
+     "t": "복지위, '제넨셀 청탁 의혹' 공방…국힘 피켓시위에 30분만에 정회 - 머니투데이",
+     "u": "https://www.mt.co.kr/politics/2026/10/13/2026101310343565664",
+     "press": "머니투데이"
     },
     {
-     "t": "도의회·정부와 대립, 민심도 싸늘… ‘세제개편 입법’ 속도 관건 [추미애호 100일·(下)]",
-     "u": "https://www.kyeongin.com/article/1772400",
-     "press": "경인일보"
+     "t": "오유경 \"식약처 신뢰는 대한민국 바이오 신뢰…회복 방안 고민\"",
+     "u": "https://www.news1.kr/bio/general/6318629",
+     "press": "뉴스1"
     }
    ]
   }
