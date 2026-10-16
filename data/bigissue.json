@@ -1,210 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261016",
- "updated": "2026-10-16T08:31:05+09:00",
+ "targetDate": "20261017",
+ "updated": "2026-10-17T08:13:30+09:00",
  "list": [
   {
-   "name": "신지",
+   "name": "삼전 닉스",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "신지, 40㎏ 초반 몸매 유지…체크 원피스 소화",
-     "u": "https://www.newsis.com/view/NISX20261015_0003827825",
+     "t": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
+     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148973648",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "폭락장에 반대매매 속출...완충재 없는 코스피",
+     "u": "https://www.ytn.co.kr/_ln/0102_202610170528233107",
+     "press": "YTN"
+    },
+    {
+     "t": "\"이 정도면 사볼까?\" 폭락 하루 만에 반등했는데…아직 안심 이른 이유 - 머니투데이",
+     "u": "https://www.mt.co.kr/stock/2026/10/16/2026101616150420059",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "kia 타이거즈",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
+     "u": "https://www.yna.co.kr/view/AKR20261016119400007",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "\"좀 더 즐기는 것 같다\"…'언더독' LG, 오히려 편하다. KIA전 7연패 부담 잊고 '150km' 좌투수처럼 즐겨라",
+     "u": "https://www.chosun.com/sports/baseball/2026/10/17/G5STOYTCHA4WGYJYGBSDEMJQMQ/",
+     "press": "조선일보"
+    },
+    {
+     "t": "'내일 선발' 네일",
+     "u": "https://www.newsis.com/view/NISI20261016_0021491739",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "홍윤화",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "린, '슬로우 조깅' 유행 탑승 완료",
+     "u": "https://www.newsis.com/view/NISX20261016_0003828734",
      "press": "뉴시스"
     },
     {
-     "t": "'살이 쏘옥' 신지, 더 예뻐졌네..김종민 '예비 아빠' 근황 속 코요태도 공연 경사 - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/13/HBSWKYLEMZQTSOLDMM2WKMZRG4/",
+     "t": "홍윤화, 40kg 감량 후 영양 불균형…\"병원서 덤프트럭에 경차 기름 넣지 말라고\"",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6322844",
+     "press": "뉴스1"
+    },
+    {
+     "t": "'김민기♥' 홍윤화, 극단적 40kg 감량했더니..심한 부작용 왔다 \"병원서 경고\"(미우새)",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/16/G42TGMJZGJRTCYRXMYYTEZTDME/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "심형탁",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "심형탁♥사야, 훌쩍 큰 ‘19개월 子’ 하루에 깜짝..“꿈만 같아” (형탁사야의하루) - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MEYDENJVGYZDENZWMY2TQMLFME/",
      "press": "Chosunbiz"
     },
     {
-     "t": "`11kg 감량` 신지, 건강이상설 우려 속 \"얼굴에 광채\"",
-     "u": "https://mydaily.co.kr/page/view/2026101514034652683",
-     "press": "마이데일리"
+     "t": "‘사야♥’ 심형탁과 아들 하루, 인기 치솟더니 결국 日홍보대사 됐다",
+     "u": "https://www.sportschosun.com/entertainment/2026-10-10/202610100100063720004103",
+     "press": "스포츠조선"
+    },
+    {
+     "t": "‘슈돌’ 사랑둥이 하루·심형탁 부자, 日 홍보대사 됐다 “잠 덜 깬 모습도 심쿵”",
+     "u": "https://sports.khan.co.kr/article/202610101708003",
+     "press": "스포츠경향"
     }
    ]
   },
   {
-   "name": "xsmb",
-   "idx": 20,
+   "name": "류필립",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "XSMB 15/10 - Kết quả xổ số miền Bắc ngày 15/10/2026",
-     "u": "https://www.vietnam.vn/xsmb-15-10-ket-qua-xo-so-mien-bac-ngay-15-10-2026",
-     "press": "Vietnam.vn"
+     "t": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293",
+     "press": "머니투데이"
     },
     {
-     "t": "Southern lottery results today, October 15th",
-     "u": "https://news.laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-nam-hom-nay-1510-1783739.ldo",
-     "press": "Laodong.vn"
+     "t": "'미나♥' 류필립, 17살 연상 아내 떠나 美서 알바 중..\"울렁증 생겨\"[핫피플]",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/16/GBQWKZJRMM2GMMRXMZRGGYRZGA/",
+     "press": "조선일보"
     },
     {
-     "t": "Kết quả xổ số miền Bắc thứ 6 tuần trước",
-     "u": "https://hbcg.vn/web/K%E1%BA%BFt-qu%E1%BA%A3-x%E1%BB%95-s%E1%BB%91-mi%E1%BB%81n-B%E1%BA%AFc-th%E1%BB%A9-6-tu%E1%BA%A7n-tr%C6%B0%E1%BB%9Bc",
-     "press": "HOA BINH CONSTRUCTION GROUP"
+     "t": "'미나 17세 연하 남편' 류필립, 아내 두고 홀로 떠난 미국서 '캐셔 알바 중'",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6322745",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "다우 존스 산업평균지수",
-   "idx": 20,
+   "name": "soxl",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "美 국채금리 하락에 3대 지수 반등…다우 1.08% 상승 [뉴욕증시 브리핑]",
-     "u": "https://www.hankyung.com/article/2026101652966",
-     "press": "한국경제"
+     "t": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off ",
+     "u": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+     "press": "CNBC"
     },
     {
-     "t": "[뉴욕마켓워치] 시장이 온통 AI 눈치만 본다…주식·채권↑달러↓",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439538",
-     "press": "연합인포맥스"
+     "t": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
+     "u": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427",
+     "press": "WSJ"
     },
     {
-     "t": "[속보]국채금리 하락에 뉴욕증시 일제히 상승 마감…마이크론 1.87%↑",
-     "u": "https://www.munhwa.com/article/11623876",
+     "t": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+     "u": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+     "press": "CNN"
+    }
+   ]
+  },
+  {
+   "name": "백악관 대변인",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "백악관 대변인, 나흘 만에 초스피드 경질… ‘역대 최단명’ 기록",
+     "u": "https://www.chosun.com/international/us/2026/10/17/OKJUVSODUNHXXIUC5CEG65LXQM/",
+     "press": "조선일보"
+    },
+    {
+     "t": "백악관 대변인 나흘 만에 경질...허위경력·자질 논란에 하차",
+     "u": "https://www.ytn.co.kr/_ln/0104_202610170624313196",
+     "press": "YTN"
+    },
+    {
+     "t": "‘변호사’라더니 시험도 불합격…트럼프의 입, 거짓말 논란에 나흘 만에 경질",
+     "u": "https://www.munhwa.com/article/11624138",
      "press": "문화일보"
     }
    ]
   },
   {
-   "name": "극초음속 활공체",
-   "idx": 20,
+   "name": "베트남 축구 국가대표팀",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "北 \"韓극초음속, 비행 못했을수도\" 주장에 군 \"기술력\"",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH202610160555283r9",
-     "press": "연합뉴스TV"
+     "t": "올라하 만 득은 베트남 국가대표팀에서 뛸 자격이 충분하며, 김 감독의 부름만 기다리고 있습니다.",
+     "u": "https://www.vietnam.vn/ko/olaha-manh-duc-da-hoan-toan-du-dieu-kien-khoac-ao-doi-tuyen-viet-nam-chi-cho-thay-kim-goi",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "\"HGV 발사로 北방공망 돌파수단 확보…전력화까지 3∼4년 예상\"",
-     "u": "https://www.yna.co.kr/view/AKR20261014183300504",
-     "press": "연합뉴스"
+     "t": "태국 언론은 베트남의 새로운 귀화 선수에 대해 우려를 표명했다.",
+     "u": "https://www.vietnam.vn/ko/truyen-thong-thai-lan-lo-ngai-cau-thu-nhap-tich-moi-cua-tuyen-viet-nam",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "북 \"남측, 극초음속 미사일 시험발사 성공 믿을 수 없어\"",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6858264_36911.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "ionq",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Rosenblatt cuts IonQ stock price target on dilution concerns",
-     "u": "https://www.investing.com/news/analyst-ratings/rosenblatt-cuts-ionq-stock-price-target-on-dilution-concerns-93CH-4951468",
-     "press": "Investing.com"
-    },
-    {
-     "t": "Why Is IonQ (NYSE:IONQ) Worth Examining Against the S&P 500 Benchmark?",
-     "u": "https://kalkinemedia.com/us/stocks/artificial-intelligence/why-is-ionq-nyseionq-worth-examining-against-the-sp-500-benchmark",
-     "press": "Kalkine Media"
-    },
-    {
-     "t": "IonQ Lands $2.0 Billion To Expand Quantum Computing Reach",
-     "u": "https://quantumzeitgeist.com/ionq-2-lands-billion-quantum/",
-     "press": "Quantum Zeitgeist"
-    }
-   ]
-  },
-  {
-   "name": "의약품",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“데이터 쥐고도 깜깜이 행정”… 수술대 위 필수 의료기기, ‘공급중단’ 경고등",
-     "u": "https://www.viva100.com/article/20261015500625",
-     "press": "브릿지경제"
-    },
-    {
-     "t": "흔들리는 필수약 공급망…국가 차원 대책마련 시급",
-     "u": "https://view.asiae.co.kr/article/2026101508250449622",
-     "press": "아시아경제"
-    },
-    {
-     "t": "의료기기 공급중단 예고 166건…소병훈 \"정부 사전 대응체계 필요\"",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275538",
-     "press": "OhmyNews"
-    }
-   ]
-  },
-  {
-   "name": "압수수색",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "선관위 특검 \"전국 30곳 투표자 수 허위입력\"...독점계약 수사도 '속도'",
-     "u": "https://www.ytn.co.kr/_ln/0103_202610152150018415",
-     "press": "YTN"
-    },
-    {
-     "t": "[단독] 법원, 선관위 특검 통신 영장마저 기각…\"납득 어렵다·수사 차질\"",
-     "u": "https://www.news1.kr/society/court-prosecution/6321246",
-     "press": "뉴스1"
-    },
-    {
-     "t": "특검, '선거물품 독점 특혜' 부산 선관위 등 10곳 압수수색",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6858172_36918.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "수도권 광역급행철도 b노선",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "차예련",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[사진]오현경, 딸 홍채령과 함께",
-     "u": "https://www.osen.co.kr/article/G1112893434",
-     "press": "OSEN"
-    },
-    {
-     "t": "[포토] 한지혜 '컬렉션 런웨이 왔어요'",
-     "u": "https://www.newdaily.co.kr/site/data/html/2026/10/15/2026101500385.html",
-     "press": "뉴데일리"
-    },
-    {
-     "t": "[포토] 차시연, 설레는 첫 포토콜 나들이",
-     "u": "https://www.ajunews.com/view/20261015220504588",
+     "t": "박항서·김상식, 베트남 축구 우승 신화 뒤엔...베트남 축협 숨은 역할 재조명",
+     "u": "https://www.ajunews.com/view/20261016090958978",
      "press": "아주경제"
     }
    ]
   },
   {
-   "name": "현대",
-   "idx": 10,
+   "name": "장인화",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "현대해상, '월별 안전운전점수 할인 특약' 특허 취득 - 머니투데이",
-     "u": "https://www.mt.co.kr/finance/2026/10/15/2026101513545478139",
-     "press": "머니투데이"
+     "t": "글로벌 ‘철강 심장’에 미래를 심다…장인화와 포스코의 ‘꿈’",
+     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004480",
+     "press": "아시아투데이"
     },
     {
-     "t": "현대해상, 가입 후 안전운전 시 보험료 추가할인…특허 취득",
-     "u": "https://www.newsis.com/view/NISX20261015_0003827344",
-     "press": "뉴시스"
+     "t": "주말 그린피만 48만원 초호화 골프장 가진 포스코의 결단?",
+     "u": "https://realty.chosun.com/site/data/html_dir/2026/10/06/2026100602624.html",
+     "press": "땅집고"
     },
     {
-     "t": "현대해상, 꾸준히 안전운전하면 5% 추가 할인…핵심 기술 특허 취득",
-     "u": "https://www.newspim.com/news/view/20261015001125",
-     "press": "뉴스핌"
+     "t": "포스코그룹, 비핵심 자산 매각 속도…미래 투자 확대",
+     "u": "https://www.sentv.co.kr/article/view/sentv202610160153",
+     "press": "서울경제TV"
+    }
+   ]
+  },
+  {
+   "name": "ionq",
+   "idx": 5,
+   "mv": -5,
+   "news": [
+    {
+     "t": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Di",
+     "u": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/",
+     "press": "The Motley Fool"
+    },
+    {
+     "t": "Prediction: IonQ Will Cross $100 Per Share in 2027 (It's Less Than $40 Per Share",
+     "u": "https://www.aol.com/articles/prediction-ionq-cross-100-per-224500000.html",
+     "press": "AOL.com"
+    },
+    {
+     "t": "Investors Who Can Hold IonQ for a Year Should Know What to Do",
+     "u": "https://247wallst.com/investing/2026/10/15/investors-who-can-hold-ionq-for-a-year-should-know-what-to-do/",
+     "press": "24/7 Wall St."
     }
    ]
   }
