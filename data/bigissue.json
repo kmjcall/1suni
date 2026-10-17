@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261017",
- "updated": "2026-10-17T08:13:30+09:00",
+ "targetDate": "20261018",
+ "updated": "2026-10-18T07:49:44+09:00",
  "list": [
   {
-   "name": "삼전 닉스",
+   "name": "날씨",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "정부 \"우리 경제·증시 기초여건 견조\"…금융시장 위험요인 점검",
-     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148973648",
-     "press": "대한민국 정책브리핑"
-    },
-    {
-     "t": "폭락장에 반대매매 속출...완충재 없는 코스피",
-     "u": "https://www.ytn.co.kr/_ln/0102_202610170528233107",
-     "press": "YTN"
-    },
-    {
-     "t": "\"이 정도면 사볼까?\" 폭락 하루 만에 반등했는데…아직 안심 이른 이유 - 머니투데이",
-     "u": "https://www.mt.co.kr/stock/2026/10/16/2026101616150420059",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "kia 타이거즈",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "프로야구 준PO 1,2차전 시구자에 데이식스 원필·배우 김의성",
-     "u": "https://www.yna.co.kr/view/AKR20261016119400007",
+     "t": "[날씨] 흐리고 비오는 일요일…시간당 최대 30㎜ 강한 비",
+     "u": "https://www.yna.co.kr/view/AKR20261017042700004",
      "press": "연합뉴스"
     },
     {
-     "t": "\"좀 더 즐기는 것 같다\"…'언더독' LG, 오히려 편하다. KIA전 7연패 부담 잊고 '150km' 좌투수처럼 즐겨라",
-     "u": "https://www.chosun.com/sports/baseball/2026/10/17/G5STOYTCHA4WGYJYGBSDEMJQMQ/",
-     "press": "조선일보"
+     "t": "전국에 요란한 가을비‥이후 기온 '뚝'",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858729_37012.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "'내일 선발' 네일",
-     "u": "https://www.newsis.com/view/NISI20261016_0021491739",
-     "press": "뉴시스"
+     "t": "내일 요란한 가을비…강풍 동반 집중호우",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261017143133Cvn",
+     "press": "연합뉴스TV"
     }
    ]
   },
   {
-   "name": "홍윤화",
-   "idx": 25,
+   "name": "손흥민",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "린, '슬로우 조깅' 유행 탑승 완료",
-     "u": "https://www.newsis.com/view/NISX20261016_0003828734",
-     "press": "뉴시스"
+     "t": "AFC, 아시안컵 주목할 선수에 손흥민…\"마지막 우승 도전\"",
+     "u": "https://www.yna.co.kr/view/AKR20261017027700007",
+     "press": "연합뉴스"
     },
     {
-     "t": "홍윤화, 40kg 감량 후 영양 불균형…\"병원서 덤프트럭에 경차 기름 넣지 말라고\"",
-     "u": "https://www.news1.kr/entertain/broadcast-tv/6322844",
-     "press": "뉴스1"
+     "t": "\"한국 무려 66년간 아시안컵 무관이잖아!\" AFC도 주목한 한국축구…월클 손흥민, 아시안컵 우승할 마지막 기회 잡을까",
+     "u": "https://www.osen.co.kr/article/G1112894252",
+     "press": "OSEN"
     },
     {
-     "t": "'김민기♥' 홍윤화, 극단적 40kg 감량했더니..심한 부작용 왔다 \"병원서 경고\"(미우새)",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/16/G42TGMJZGJRTCYRXMYYTEZTDME/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "심형탁",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "심형탁♥사야, 훌쩍 큰 ‘19개월 子’ 하루에 깜짝..“꿈만 같아” (형탁사야의하루) - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/16/MEYDENJVGYZDENZWMY2TQMLFME/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "‘사야♥’ 심형탁과 아들 하루, 인기 치솟더니 결국 日홍보대사 됐다",
-     "u": "https://www.sportschosun.com/entertainment/2026-10-10/202610100100063720004103",
-     "press": "스포츠조선"
-    },
-    {
-     "t": "‘슈돌’ 사랑둥이 하루·심형탁 부자, 日 홍보대사 됐다 “잠 덜 깬 모습도 심쿵”",
-     "u": "https://sports.khan.co.kr/article/202610101708003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "류필립",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'17세 연상 아내' 미나 두고 미국 간 류필립…\"살려주세요\" - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/10/16/2026101618580681293",
+     "t": "'손흥민 라스트댄스 가능할까?' 전쟁포화 중인 사우디 \"아시안컵 강행하겠다…예정대로 준비 중\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/17/202610171204779779O",
      "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "weather",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Power outages ramp up as windstorm sweeps through Edmonton and area",
+     "u": "https://www.ctvnews.ca/edmonton/article/power-outages-ramp-up-as-windstorm-sweeps-through-edmonton-and-area-fortis-alberta/",
+     "press": "CTV News"
     },
     {
-     "t": "'미나♥' 류필립, 17살 연상 아내 떠나 美서 알바 중..\"울렁증 생겨\"[핫피플]",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/16/GBQWKZJRMM2GMMRXMZRGGYRZGA/",
+     "t": "Weather alert issued as gusts up to 100 km/h expected in parts of central, south",
+     "u": "https://www.cbc.ca/news/canada/edmonton/environment-canada-alberta-strong-wind-alert-warning-9.7385393",
+     "press": "CBC"
+    },
+    {
+     "t": "Strong winds to sweep Alberta this weekend",
+     "u": "https://ca.news.yahoo.com/strong-winds-sweep-alberta-weekend-124256256.html",
+     "press": "Yahoo News Canada"
+    }
+   ]
+  },
+  {
+   "name": "thời tiết",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Miền Bắc và miền Trung nắng oi nhiều ngày tới",
+     "u": "https://dantri.com.vn/thoi-tiet/mien-bac-va-mien-trung-nang-oi-nhieu-ngay-toi-20261017212048576.htm",
+     "press": "Báo Dân trí"
+    },
+    {
+     "t": "Dự báo thời tiết đêm 17 và ngày 18/10",
+     "u": "https://baolaocai.vn/du-bao-thoi-tiet-dem-17-va-ngay-1810-post912204.html",
+     "press": "Báo Lào Cai điện tử"
+    },
+    {
+     "t": "[Video] Dự báo thời tiết đêm nay và ngày mai 18/10/2026: Bắc Bộ giảm nắng, Nam B",
+     "u": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-18102026-bac-bo-giam-nang-nam-bo-mua-dong-gia-tang-post996103.html",
+     "press": "Báo Nhân Dân điện tử"
+    }
+   ]
+  },
+  {
+   "name": "天气",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "周末到周六白天多云天气,周日全国将下雨。 有些地方会出现阵风、雷电交加的强降雨,风力也会非常大。",
+     "u": "https://www.mk.co.kr/cn/society/12177765",
+     "press": "매일경제"
+    },
+    {
+     "t": "从30.1℃到18℃，首尔异常高温后迎来大幅降温",
+     "u": "http://korea.people.com.cn/n1/2026/1013/c407864-40813904.html",
+     "press": "人民网韩国频道"
+    },
+    {
+     "t": "秋雨中的首尔",
+     "u": "https://cn.yna.co.kr/view/PYH20261013029200881",
+     "press": "韩联社"
+    }
+   ]
+  },
+  {
+   "name": "부동산",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "2030 내 집 마련, 청약 어렵다면…부동산 전문가가 꼽은 서울 재개발 투자 지역",
+     "u": "https://www.newsis.com/view/NISX20261016_0003829374",
+     "press": "뉴시스"
+    },
+    {
+     "t": "“대출은 힘들고 아파트는 비싸졌네요”…다시 불붙기 시작한 빌라의 반전",
+     "u": "https://www.mk.co.kr/news/realestate/12177743",
+     "press": "매일경제"
+    },
+    {
+     "t": "\"지금 사면 대박\"...영끌족, 4억 들고 '이곳' 우르르 몰렸다",
+     "u": "https://www.fnnews.com/news/202610160902358924",
+     "press": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "name": "성과급",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "성과급은 직원에게, 주가 손실은 주주에게?…SK하이닉스 국회 청원",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=02778166645613904&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "세금 폭탄 피하자…SK하이닉스, 성과급 연금 적립 늘릴 듯",
+     "u": "https://biz.sbs.co.kr/article/20000339425",
+     "press": "SBS Biz"
+    },
+    {
+     "t": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6858663_36918.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "สภาพอากาศ",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "อุตุฯ เตือน! ภาคใต้ฝนตกหนัก - กทม. เตรียมรับฝนเพิ่ม 21-25 ต.ค. นี้",
+     "u": "https://www.nationtv.tv/news/social/378984973",
+     "press": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง"
+    },
+    {
+     "t": "เตือน 8 วันอันตราย! ฝนจ่อถล่มหนักยาวๆ ภาคไหนเสี่ยงบ้างเช็กเลย",
+     "u": "https://www.amarintv.com/video/news/%E0%B8%97%E0%B8%B8%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/556343",
+     "press": "อมรินทร์ทีวี ช่อง 34"
+    },
+    {
+     "t": "18–20 ต.ค. ฝนเน้นภาคใต้และภาคตะวันออก ก่อนเพิ่มขึ้นหลายพื้นที่ช่วง 21–25 ต.ค. 📢 ",
+     "u": "https://www.facebook.com/tmd.go.th/posts/1820-%E0%B8%95%E0%B8%84-%E0%B8%9D%E0%B8%99%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%83%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87-2125-%E0%B8%95%E0%B8%84-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3/1581847670654029/?locale=th_TH",
+     "press": "Facebook"
+    }
+   ]
+  },
+  {
+   "name": "적금",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "연 최고 19% '청년미래적금'…2차 가입신청 내일 마감",
+     "u": "https://www.newsis.com/view/NISX20261015_0003826786",
+     "press": "뉴시스"
+    },
+    {
+     "t": "(설명) 머니투데이, \"기업 40%, 노동위 원청 사용자성 판정 불만\" 기사 등 관련",
+     "u": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973594",
+     "press": "정책브리핑"
+    },
+    {
+     "t": "[알기 쉬운 금융·세금 이야기] (91) 청년우대 금융상품 ③ISA",
+     "u": "http://www.ihalla.com/article.php?aid=1792080000791659010",
+     "press": "한라일보"
+    }
+   ]
+  },
+  {
+   "name": "프랑스 시위",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "시청 불타고 백화점 털리고... 프랑스, 수십년만에 최악 폭동",
+     "u": "https://www.chosun.com/international/international_general/2026/10/18/UURHFAKQZFGFFGHDMRC3N42R4E/",
      "press": "조선일보"
     },
     {
-     "t": "'미나 17세 연하 남편' 류필립, 아내 두고 홀로 떠난 미국서 '캐셔 알바 중'",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6322745",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "soxl",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Nasdaq slides 2% Friday to post worst week since June, pressured by AI sell-off ",
-     "u": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-     "press": "CNBC"
+     "t": "'노란조끼'에 학생 합세…프랑스서 고물가 반발 시위 '활활'(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261017049251098",
+     "press": "연합뉴스"
     },
     {
-     "t": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
-     "u": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427",
-     "press": "WSJ"
-    },
-    {
-     "t": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-     "u": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
-     "press": "CNN"
-    }
-   ]
-  },
-  {
-   "name": "백악관 대변인",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "백악관 대변인, 나흘 만에 초스피드 경질… ‘역대 최단명’ 기록",
-     "u": "https://www.chosun.com/international/us/2026/10/17/OKJUVSODUNHXXIUC5CEG65LXQM/",
-     "press": "조선일보"
-    },
-    {
-     "t": "백악관 대변인 나흘 만에 경질...허위경력·자질 논란에 하차",
-     "u": "https://www.ytn.co.kr/_ln/0104_202610170624313196",
-     "press": "YTN"
-    },
-    {
-     "t": "‘변호사’라더니 시험도 불합격…트럼프의 입, 거짓말 논란에 나흘 만에 경질",
-     "u": "https://www.munhwa.com/article/11624138",
-     "press": "문화일보"
-    }
-   ]
-  },
-  {
-   "name": "베트남 축구 국가대표팀",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "올라하 만 득은 베트남 국가대표팀에서 뛸 자격이 충분하며, 김 감독의 부름만 기다리고 있습니다.",
-     "u": "https://www.vietnam.vn/ko/olaha-manh-duc-da-hoan-toan-du-dieu-kien-khoac-ao-doi-tuyen-viet-nam-chi-cho-thay-kim-goi",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "태국 언론은 베트남의 새로운 귀화 선수에 대해 우려를 표명했다.",
-     "u": "https://www.vietnam.vn/ko/truyen-thong-thai-lan-lo-ngai-cau-thu-nhap-tich-moi-cua-tuyen-viet-nam",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "박항서·김상식, 베트남 축구 우승 신화 뒤엔...베트남 축협 숨은 역할 재조명",
-     "u": "https://www.ajunews.com/view/20261016090958978",
-     "press": "아주경제"
-    }
-   ]
-  },
-  {
-   "name": "장인화",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "글로벌 ‘철강 심장’에 미래를 심다…장인화와 포스코의 ‘꿈’",
-     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004480",
-     "press": "아시아투데이"
-    },
-    {
-     "t": "주말 그린피만 48만원 초호화 골프장 가진 포스코의 결단?",
-     "u": "https://realty.chosun.com/site/data/html_dir/2026/10/06/2026100602624.html",
-     "press": "땅집고"
-    },
-    {
-     "t": "포스코그룹, 비핵심 자산 매각 속도…미래 투자 확대",
-     "u": "https://www.sentv.co.kr/article/view/sentv202610160153",
-     "press": "서울경제TV"
-    }
-   ]
-  },
-  {
-   "name": "ionq",
-   "idx": 5,
-   "mv": -5,
-   "news": [
-    {
-     "t": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Di",
-     "u": "https://www.fool.com/investing/2026/10/15/ionq-is-following-nvidias-playbook-why-the-stock-c/",
-     "press": "The Motley Fool"
-    },
-    {
-     "t": "Prediction: IonQ Will Cross $100 Per Share in 2027 (It's Less Than $40 Per Share",
-     "u": "https://www.aol.com/articles/prediction-ionq-cross-100-per-224500000.html",
-     "press": "AOL.com"
-    },
-    {
-     "t": "Investors Who Can Hold IonQ for a Year Should Know What to Do",
-     "u": "https://247wallst.com/investing/2026/10/15/investors-who-can-hold-ionq-for-a-year-should-know-what-to-do/",
-     "press": "24/7 Wall St."
+     "t": "\"교사 달랬더니 경찰 왔다\" 세계 곳곳 성난 청년들 거리로, 왜 - 머니투데이",
+     "u": "https://www.mt.co.kr/world/2026/10/18/2026101511310581011",
+     "press": "머니투데이"
     }
    ]
   }
