@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261018",
- "updated": "2026-10-18T07:49:44+09:00",
+ "targetDate": "20261019",
+ "updated": "2026-10-19T07:42:45+09:00",
  "list": [
   {
-   "name": "날씨",
+   "name": "신세계 백화점 강남점",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[날씨] 흐리고 비오는 일요일…시간당 최대 30㎜ 강한 비",
-     "u": "https://www.yna.co.kr/view/AKR20261017042700004",
-     "press": "연합뉴스"
+     "t": "강풍에 지붕 날아가고…폭우에 곳곳 도로 침수",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261018180444qH0",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "전국에 요란한 가을비‥이후 기온 '뚝'",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858729_37012.html",
+     "t": "미끄러지고 잠기고‥전국 호우·강풍 피해 7백 건",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858851_37012.html",
      "press": "MBC 뉴스"
     },
     {
-     "t": "내일 요란한 가을비…강풍 동반 집중호우",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261017143133Cvn",
-     "press": "연합뉴스TV"
+     "t": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
+     "u": "https://www.yna.co.kr/view/AKR20261018060200004",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "손흥민",
+   "name": "레이스 대 가디언즈",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "탬파베이, 클리블랜드에 짜릿한 역전승…ALCS 2승 2패 승부 원점",
+     "u": "https://www.yna.co.kr/view/AKR20261018025500007",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "“늦게 핀 꽃이 더 아름답다” 35살에 첫 올스타 선정된 탬파베이 닉 마르티네스, 위기에 빠진 팀을 구해내다 [ALCS 4차전]",
+     "u": "https://www.segye.com/newsView/20261018509579",
+     "press": "세계일보"
+    },
+    {
+     "t": "'추강대엽이 맞았다' CLE가 인정한 전설, 추신수 19일 ALCS 시구자 등판 \"PS서 날 떠올려줘 큰 영광\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/18/2026101718395454812",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "라리가",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "AFC, 아시안컵 주목할 선수에 손흥민…\"마지막 우승 도전\"",
-     "u": "https://www.yna.co.kr/view/AKR20261017027700007",
+     "t": "바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’",
+     "u": "https://www.khan.co.kr/article/202610182033005",
+     "press": "경향신문"
+    },
+    {
+     "t": "'야말 1골 1도움' 바르사, 라리가 개막 최다 연승 타이 '9연승'",
+     "u": "https://www.yna.co.kr/view/AKR20261018012900007",
      "press": "연합뉴스"
     },
     {
-     "t": "\"한국 무려 66년간 아시안컵 무관이잖아!\" AFC도 주목한 한국축구…월클 손흥민, 아시안컵 우승할 마지막 기회 잡을까",
-     "u": "https://www.osen.co.kr/article/G1112894252",
+     "t": "'충격, 이건 축구가 아니고 오락 게임이다' 9연승 39골 몰아쳤다, 바르셀로나 또 베티스 5-2 대파..'경기당 평균 4골 이상 폭발, 시즌 ",
+     "u": "https://www.chosun.com/sports/world-football/2026/10/18/MQ3TGMDDMY3GMYRVMM3TKN3BMY/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "로스앤젤레스 다저스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다",
+     "u": "https://www.osen.co.kr/article/G1112894789",
      "press": "OSEN"
     },
     {
-     "t": "'손흥민 라스트댄스 가능할까?' 전쟁포화 중인 사우디 \"아시안컵 강행하겠다…예정대로 준비 중\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/17/202610171204779779O",
+     "t": "\"로버츠보다 극한 직업 없다, 1년 전 다저스 축하 모습 보고…\" 밀워키 승자의 품격, MVP는 왜 자극받았나 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/18/202610171238774662O",
      "press": "머니투데이"
+    },
+    {
+     "t": "“건강보험이 필요했다” 2년 전 은퇴 결심했던 망한 유망주가 밀워키의 구세주가 됐다… NLCS MVP 제이크 바...",
+     "u": "https://sports.khan.co.kr/article/202610171203003",
+     "press": "스포츠경향"
     }
    ]
   },
   {
-   "name": "weather",
+   "name": "김희재",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Power outages ramp up as windstorm sweeps through Edmonton and area",
-     "u": "https://www.ctvnews.ca/edmonton/article/power-outages-ramp-up-as-windstorm-sweeps-through-edmonton-and-area-fortis-alberta/",
-     "press": "CTV News"
-    },
-    {
-     "t": "Weather alert issued as gusts up to 100 km/h expected in parts of central, south",
-     "u": "https://www.cbc.ca/news/canada/edmonton/environment-canada-alberta-strong-wind-alert-warning-9.7385393",
-     "press": "CBC"
-    },
-    {
-     "t": "Strong winds to sweep Alberta this weekend",
-     "u": "https://ca.news.yahoo.com/strong-winds-sweep-alberta-weekend-124256256.html",
-     "press": "Yahoo News Canada"
-    }
-   ]
-  },
-  {
-   "name": "thời tiết",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Miền Bắc và miền Trung nắng oi nhiều ngày tới",
-     "u": "https://dantri.com.vn/thoi-tiet/mien-bac-va-mien-trung-nang-oi-nhieu-ngay-toi-20261017212048576.htm",
-     "press": "Báo Dân trí"
-    },
-    {
-     "t": "Dự báo thời tiết đêm 17 và ngày 18/10",
-     "u": "https://baolaocai.vn/du-bao-thoi-tiet-dem-17-va-ngay-1810-post912204.html",
-     "press": "Báo Lào Cai điện tử"
-    },
-    {
-     "t": "[Video] Dự báo thời tiết đêm nay và ngày mai 18/10/2026: Bắc Bộ giảm nắng, Nam B",
-     "u": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-18102026-bac-bo-giam-nang-nam-bo-mua-dong-gia-tang-post996103.html",
-     "press": "Báo Nhân Dân điện tử"
-    }
-   ]
-  },
-  {
-   "name": "天气",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "周末到周六白天多云天气,周日全国将下雨。 有些地方会出现阵风、雷电交加的强降雨,风力也会非常大。",
-     "u": "https://www.mk.co.kr/cn/society/12177765",
-     "press": "매일경제"
-    },
-    {
-     "t": "从30.1℃到18℃，首尔异常高温后迎来大幅降温",
-     "u": "http://korea.people.com.cn/n1/2026/1013/c407864-40813904.html",
-     "press": "人民网韩国频道"
-    },
-    {
-     "t": "秋雨中的首尔",
-     "u": "https://cn.yna.co.kr/view/PYH20261013029200881",
-     "press": "韩联社"
-    }
-   ]
-  },
-  {
-   "name": "부동산",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "2030 내 집 마련, 청약 어렵다면…부동산 전문가가 꼽은 서울 재개발 투자 지역",
-     "u": "https://www.newsis.com/view/NISX20261016_0003829374",
-     "press": "뉴시스"
-    },
-    {
-     "t": "“대출은 힘들고 아파트는 비싸졌네요”…다시 불붙기 시작한 빌라의 반전",
-     "u": "https://www.mk.co.kr/news/realestate/12177743",
-     "press": "매일경제"
-    },
-    {
-     "t": "\"지금 사면 대박\"...영끌족, 4억 들고 '이곳' 우르르 몰렸다",
-     "u": "https://www.fnnews.com/news/202610160902358924",
-     "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "성과급",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "성과급은 직원에게, 주가 손실은 주주에게?…SK하이닉스 국회 청원",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=02778166645613904&mediaCodeNo=257",
-     "press": "이데일리"
-    },
-    {
-     "t": "세금 폭탄 피하자…SK하이닉스, 성과급 연금 적립 늘릴 듯",
-     "u": "https://biz.sbs.co.kr/article/20000339425",
-     "press": "SBS Biz"
-    },
-    {
-     "t": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6858663_36918.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "สภาพอากาศ",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "อุตุฯ เตือน! ภาคใต้ฝนตกหนัก - กทม. เตรียมรับฝนเพิ่ม 21-25 ต.ค. นี้",
-     "u": "https://www.nationtv.tv/news/social/378984973",
-     "press": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง"
-    },
-    {
-     "t": "เตือน 8 วันอันตราย! ฝนจ่อถล่มหนักยาวๆ ภาคไหนเสี่ยงบ้างเช็กเลย",
-     "u": "https://www.amarintv.com/video/news/%E0%B8%97%E0%B8%B8%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/556343",
-     "press": "อมรินทร์ทีวี ช่อง 34"
-    },
-    {
-     "t": "18–20 ต.ค. ฝนเน้นภาคใต้และภาคตะวันออก ก่อนเพิ่มขึ้นหลายพื้นที่ช่วง 21–25 ต.ค. 📢 ",
-     "u": "https://www.facebook.com/tmd.go.th/posts/1820-%E0%B8%95%E0%B8%84-%E0%B8%9D%E0%B8%99%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%83%E0%B8%95%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81-%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87-2125-%E0%B8%95%E0%B8%84-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3/1581847670654029/?locale=th_TH",
-     "press": "Facebook"
-    }
-   ]
-  },
-  {
-   "name": "적금",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "연 최고 19% '청년미래적금'…2차 가입신청 내일 마감",
-     "u": "https://www.newsis.com/view/NISX20261015_0003826786",
-     "press": "뉴시스"
-    },
-    {
-     "t": "(설명) 머니투데이, \"기업 40%, 노동위 원청 사용자성 판정 불만\" 기사 등 관련",
-     "u": "https://www.korea.kr/briefing/actuallyView.do?newsId=148973594",
-     "press": "정책브리핑"
-    },
-    {
-     "t": "[알기 쉬운 금융·세금 이야기] (91) 청년우대 금융상품 ③ISA",
-     "u": "http://www.ihalla.com/article.php?aid=1792080000791659010",
-     "press": "한라일보"
-    }
-   ]
-  },
-  {
-   "name": "프랑스 시위",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "시청 불타고 백화점 털리고... 프랑스, 수십년만에 최악 폭동",
-     "u": "https://www.chosun.com/international/international_general/2026/10/18/UURHFAKQZFGFFGHDMRC3N42R4E/",
+     "t": "에반, '불후'서 Y2K 감성 완벽 재현…박근태 작곡가 \"극찬\"",
+     "u": "https://www.chosun.com/entertainments/music/2026/10/18/ME4DIMDCMFRTONJXGNSTQMJUGM/",
      "press": "조선일보"
     },
     {
-     "t": "'노란조끼'에 학생 합세…프랑스서 고물가 반발 시위 '활활'(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261017049251098",
+     "t": "이찬원, 누가보면 성리 낳은 줄 알겠네..\"트로트 동료로서 뿌듯\"(불후)",
+     "u": "https://www.osen.co.kr/article/G1112894008",
+     "press": "OSEN"
+    },
+    {
+     "t": "‘불후의 명곡’ 김희재, 슬프도록 감미로운 ‘해바라기’ 선사",
+     "u": "https://sports.khan.co.kr/article/202610181110003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "고우석",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'가을야구 출전불가' 고우석, 광주에 나타난 이유? LG 마운드에 '힘' 보태고픈 진심 [광주현장]",
+     "u": "https://www.chosun.com/sports/baseball/2026/10/19/GUYDMMLCGNSTONZRMIYDIYJVGA/",
+     "press": "조선일보"
+    },
+    {
+     "t": "[스경x인터뷰] 마음만은 함께 던지는 고우석의 LG 응원 “우리 못했다지만 가을야구 중, 다 같이 이겨나가자”",
+     "u": "https://sports.khan.co.kr/article/202610181354013",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "[PS피플]원정까지 동행하는 LG 고우석 “당연히 함께 해야죠, 솔직히 뛰고 싶은 마음도 있어요”",
+     "u": "https://sports.donga.com/sports/article/all/20261018/134860633/1",
+     "press": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "name": "연합뉴스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803446",
+     "press": "SBS 뉴스"
+    },
+    {
+     "t": "Anthropic, 신규 공익기금에 지분 5% 출연",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2130664",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "앤트로픽, 지분 5% 공익기금에 출연…기업가치 오르면 추가 확대",
+     "u": "https://www.news1.kr/world/international-economy/6323843",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "реал мадрид – севилья",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "«Реал» — «Севилья»: Килиан Мбаппе обыграл вратаря и забил на 37-й минуте",
+     "u": "https://www.championat.ru/football/news-6662996-real-madrid-sevilya-kilian-mbappe-obygral-vratarya-i-zabil-na-37-j-minute-18-oktyabrya-2026.html",
+     "press": "https://www.championat.ru/"
+    },
+    {
+     "t": "«Реал» огласил стартовый состав на игру с «Севильей»",
+     "u": "https://sport24.ru/football/news-890802-real-oglasil-startovyy-sostav-na-igru-s-sevilyey",
+     "press": "Sport24.ru"
+    },
+    {
+     "t": "Лунин остался в резерве. Реал – Севилья: обнародованы стартовые составы",
+     "u": "https://sport.ua/news/916858-lunin-ostalsya-v-rezerve-real-sevilya-obnarodovany-startovye-sostavy",
+     "press": "Sport.ua"
+    }
+   ]
+  },
+  {
+   "name": "real madrid đấu với sevilla",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Video bóng đá Real Madrid - Sevilla: Thị uy trước Siêu kinh điển (La Liga)",
+     "u": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-sevilla-thi-uy-truoc-sieu-kinh-dien-la-liga-c48a1803814.html",
+     "press": "Tin tức 24h"
+    },
+    {
+     "t": "ריאל מדריד הבטיחה ניצחון מוחץ 4-1 על סביליה, ובכך ביססה את מקומה בין ארבע הראשונ",
+     "u": "https://www.vietnam.vn/he/thang-dam-sevilla-4-1-real-madrid-cung-co-top-4-la-liga",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "Trực tiếp Real Madrid vs Sevilla: Hết hiệp 1, Real Madrid dẫn 2-0",
+     "u": "https://baolamdong.vn/truc-tiep-real-madrid-vs-sevilla-het-hiep-1-real-madrid-dan-2-0-470078.html",
+     "press": "Báo Lâm Đồng"
+    }
+   ]
+  },
+  {
+   "name": "기상",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "경남 사천에 호우주의보",
+     "u": "https://www.yna.co.kr/view/AKR20261018062400527",
      "press": "연합뉴스"
     },
     {
-     "t": "\"교사 달랬더니 경찰 왔다\" 세계 곳곳 성난 청년들 거리로, 왜 - 머니투데이",
-     "u": "https://www.mt.co.kr/world/2026/10/18/2026101511310581011",
-     "press": "머니투데이"
+     "t": "비 그친 수도권, 아침엔 ‘선선’…남부·제주는 강한 비 [날씨]",
+     "u": "https://www.kyeonggi.com/article/20261018580277",
+     "press": "경기일보"
+    },
+    {
+     "t": "부산 오늘 밤부터 내일 새벽 '강한 비'…시간당 최대 30㎜ 폭우",
+     "u": "https://www.nocutnews.co.kr/news/6592955",
+     "press": "노컷뉴스"
     }
    ]
   }
