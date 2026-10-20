@@ -1,194 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261020",
- "updated": "2026-10-20T09:04:19+09:00",
+ "targetDate": "20261021",
+ "updated": "2026-10-21T08:35:31+09:00",
  "list": [
   {
-   "name": "크리스티안 로메로",
+   "name": "weather",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "韓 축구 에이스 날벼락! 이강인 또 '독박축구' 위기…크리스티안 로메로 OUT→'검사 결과 근육 부상 확인'",
-     "u": "https://www.chosun.com/sports/world-football/2026/10/19/G4ZTGZRVG42WEM3BMY2WMYZUGQ/",
+     "t": "Denver weather: More sunshine and mild temperatures Tuesday",
+     "u": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
+     "press": "Denver Gazette"
+    },
+    {
+     "t": "A warm week is on tap for southern Colorado with mountain shower chances",
+     "u": "https://www.koaa.com/weather/a-warm-week-is-on-tap-for-southern-colorado-with-mountain-shower-chances",
+     "press": "KOAA News 5"
+    },
+    {
+     "t": "Warmer rest of the week with mountain showers",
+     "u": "https://www.kktv.com/2026/10/19/warmer-rest-week-with-mountain-showers/",
+     "press": "KKTV"
+    }
+   ]
+  },
+  {
+   "name": "조혜련",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "조혜련, \"SK하이닉스, 20년 전 여걸식스때 300원..수익3배 놓쳐\" ('머니인더트랩')",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GNSDGZRTGNQTCOBTMM4DCNLCGQ/",
      "press": "조선일보"
     },
     {
-     "t": "'이강인 62분' 아틀레티코, 에스파뇰에 1-0 승…바에나 결승골",
-     "u": "https://www.yna.co.kr/view/AKR20261017048700007",
-     "press": "연합뉴스"
+     "t": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길",
+     "u": "https://www.osen.co.kr/article/G1112896033",
+     "press": "OSEN"
     },
     {
-     "t": "'그리즈만 후계자' 정말 이강인 말고 따로 있었나? 시메오네도 극찬 폭발...\"환상적인 능력 갖춘 바에나, 다른 레벨로 올라섰다\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/18/202610181326778208O",
-     "press": "머니투데이"
+     "t": "한 달 수입 16만원이었다..조혜련 \"공장에서 일하기도\" 회상 ('물린음악회')",
+     "u": "https://www.koreadaily.com/article/20261020091940116",
+     "press": "미주중앙일보"
     }
    ]
   },
   {
-   "name": "삼성",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "삼성전자, '아트 바젤 파리 2026' 출품작 19점 아트 스토어에 공개",
-     "u": "https://www.asiae.co.kr/article/2026102008255594467",
-     "press": "아시아경제"
-    },
-    {
-     "t": "\"집에서 명작 감상\"…삼성전자, 아트 스토어에 '아트 바젤 파리 2026' 컬렉션 공개",
-     "u": "https://www.newsis.com/view/NISX20261020_0003832668",
-     "press": "뉴시스"
-    },
-    {
-     "t": "삼성전자, '아트 바젤 파리' 미술 작품 19점 TV로 선보인다",
-     "u": "https://www.newspim.com/news/view/20261020000103",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "루이바오",
+   "name": "오늘날씨",
    "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…“중국 이송 준비”",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8689852",
-     "press": "KBS 뉴스"
+     "t": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
+     "u": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
+     "press": "YTN"
     },
     {
-     "t": "\"안녕, 쌍둥이 판다\" 中 이동 위해 내달 검역…12월11일 마지막 인사",
-     "u": "https://www.newsis.com/view/NISX20261019_0003832050",
+     "t": "전남광주, 찬공기에 한낮 18도…시속 55㎞ 강풍 '체감 뚝'",
+     "u": "https://www.newsis.com/view/NISX20261021_0003834210",
      "press": "뉴시스"
     },
     {
-     "t": "쌍둥이도 보내는 ‘판다 할아버지’… “이별은 학습되지 않네요”",
-     "u": "https://www.chosun.com/economy/2026/10/20/AILMNXKUPBE7BI2TNUGP7X3SZY/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "대전광역시",
-   "idx": 20,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "한화",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "DS증권, 한화에어로 목표가↓…\"4분기엔 호실적 기대\"",
-     "u": "https://www.yna.co.kr/view/AKR20261020026400008",
+     "t": "[날씨] 수요일 낮 쌀쌀하고 바람 강하게 불어…곳곳에 비 소식",
+     "u": "https://www.yna.co.kr/view/AKR20261020149500004",
      "press": "연합뉴스"
-    },
-    {
-     "t": "‘3분기 어닝 쇼크’ 방산주에도 반등…\"연말 대형 수주이벤트 집중”",
-     "u": "https://www.hankyung.com/article/202610190754i",
-     "press": "한국경제"
-    },
-    {
-     "t": "'3분기 실적 우려'에…방산株 일제히 하락 [종목 NOW]",
-     "u": "https://www.fnnews.com/news/202610190928246411",
-     "press": "파이낸셜뉴스"
     }
    ]
   },
   {
-   "name": "송영길",
-   "idx": 20,
+   "name": "일기예보",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "“서울 인근 뚫렸나?”…“미, 바보 같은 실수도”",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689443",
-     "press": "KBS 뉴스"
+     "t": "2026년 10월 21일 날씨 예보: 베트남 북부 지역에 \"이례적인\" 한랭 전선이 영향을 미칠 것으로 예상됩니다.",
+     "u": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "송영길 “미 정보 절대 전지전능 안해···바보같은 실수 많이 했다”",
-     "u": "https://weekly.khan.co.kr/article/202610191651001",
-     "press": "주간경향"
+     "t": "약한 찬 공기가 곧 유입될 예정이며, 내일 오후 지역에 뇌우가 예상됩니다",
+     "u": "https://ko.laodong.vn/moi-truong/sap-don-khong-khi-lanh-yeu-du-bao-khu-vuc-kha-nang-mua-dong-chieu-mai-1786442.ldo",
+     "press": "Laodong.vn"
     },
     {
-     "t": "“미 정보 잘못 많아”…육참총장은 다른 답변",
-     "u": "https://ichannela.com/news/detail/000000555836.do",
-     "press": "채널A"
+     "t": "한랭 전선의 영향으로 탄화에서 후에에 이르는 동북부 지역에 천둥번개가 예상됩니다.",
+     "u": "https://www.vietnam.vn/ko/anh-huong-khong-khi-lanh-dong-bac-bo-tu-thanh-hoa-den-hue-mua-dong",
+     "press": "Vietnam.vn"
     }
    ]
   },
   {
-   "name": "경제",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "정치에 가려진 민생...동력잃은 경제정책 입법 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/10/19/2026101511155323750",
-     "press": "머니투데이"
-    },
-    {
-     "t": "“주식계좌 보고 흐뭇하면 1번”…‘상전벽해 경제’에 與 ‘노심초사’",
-     "u": "https://www.sisajournal.com/news/articleView.html?idxno=390626",
-     "press": "시사저널"
-    },
-    {
-     "t": "\"물타기할 돈도 없어\" 폭락장에 비명 터졌다...국정지지율도 '부담' - 머니투데이",
-     "u": "https://www.mt.co.kr/index.php/politics/2026/10/20/2026101917465066616",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "스타뉴스",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[영웅신문] 임영웅 팬클럽 ‘라온’, 64번째 사랑의 밥상…65개월 나눔으로 쌓아 올린 2억4,680만원의 따뜻한 동행",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16251974",
-     "press": "톱스타뉴스"
-    },
-    {
-     "t": "임영웅 팬들, 5년 넘게 이어온 나눔…누적 후원금만 2억4680만원",
-     "u": "https://www.sportsseoul.com/news/read/1642548",
-     "press": "스포츠서울"
-    },
-    {
-     "t": "임영웅 팬클럽 '영웅시대 라온', 중증장애아동 위해 64번째 급식봉사…누적 후원 2억 4천만원 돌파",
-     "u": "https://www.segyenewsagency.com/news/articleView.html?idxno=643116",
-     "press": "세계뉴스통신"
-    }
-   ]
-  },
-  {
-   "name": "thứ hạng của tottenham gặp câu lạc bộ bóng đá coventry city",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "cj그룹",
+   "name": "외환시장",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "중앙일보 M&A 우선협상대상자에 ‘다우·CJ 컨소시엄’",
-     "u": "https://www.chosun.com/economy/stock-finance/2026/10/19/47JYD55ZGBEKTHUPLJ4FG4XGJA/",
+     "t": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
+     "u": "https://www.yna.co.kr/view/AKR20261020131100002",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "수출 호조에 원화값 1320원대…연말 1200원대 후반 전망도",
+     "u": "https://stock.mk.co.kr/news/view/1177722",
+     "press": "매일경제 마켓"
+    },
+    {
+     "t": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440216",
+     "press": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "name": "псж – барселона турнирная таблица",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Сафонов сделал сейв при выходе один на один в конце первого тайма в матче с «Бар",
+     "u": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
+     "press": "https://www.championat.ru/"
+    },
+    {
+     "t": "Сафонов вошел в стартовый состав «ПСЖ» на игру с «Барселоной»",
+     "u": "https://sportmail.ru/news/football-eurocups/72792948/",
+     "press": "Спорт Mail"
+    },
+    {
+     "t": "\"Барселона\" поразила ворота Сафонова",
+     "u": "https://www.sport.ru/football/barselona-porazila-vorota-safonova/article661715/",
+     "press": "Sport.ru"
+    }
+   ]
+  },
+  {
+   "name": "제1도련선",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
+     "u": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/",
      "press": "조선일보"
     },
     {
-     "t": "중앙일보 인수 우선협상대상자에 다우·CJ 컨소시엄",
-     "u": "https://www.newsis.com/view/NISX20261020_0003832541",
-     "press": "뉴시스"
+     "t": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
+     "u": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
+     "press": "동아일보"
     },
     {
-     "t": "중앙일보 매각 본입찰에 다우키움·오리온 등 6곳 참여",
-     "u": "https://www.yna.co.kr/view/AKR20261019144500008",
-     "press": "연합뉴스"
+     "t": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
+     "u": "https://www.munhwa.com/article/11624818",
+     "press": "문화일보"
+    }
+   ]
+  },
+  {
+   "name": "새만금",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
+     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
+     "press": "국제뉴스"
+    },
+    {
+     "t": "전주시, 2026년 전주시 수소산업 심포지엄 개최",
+     "u": "https://www.jnv.co.kr/news/articleView.html?idxno=15601",
+     "press": "전북엔비전"
+    },
+    {
+     "t": "전북테크노파크 에너지산업육성단장 김영권 ‘R&D 혁신을 통한 전주시 수소모빌리티 생태계 구축 방안’",
+     "u": "https://www.domin.co.kr/news/articleView.html?idxno=1571571&sc_section_code=S1N8",
+     "press": "전북도민일보"
+    }
+   ]
+  },
+  {
+   "name": "문재인",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "문재인 전 대통령 ‘뇌물 혐의’ 국민참여재판 내년 1월 진행...증인 18명 채택",
+     "u": "https://news.jtbc.co.kr/article/NB12323911",
+     "press": "JTBC"
+    },
+    {
+     "t": "문재인 전 대통령, 내년 1월 국민참여재판…딸·전 사위 등 18명 증인 출석",
+     "u": "http://weekly.chosun.com/news/articleView.html?idxno=56373",
+     "press": "주간조선"
+    },
+    {
+     "t": "文 '3자 뇌물' 국민참여재판 내년 1월 11일 시작‥증인 18명 소환",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6859388_36918.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "windy",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Cooler, windy day ahead Wednesday",
+     "u": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/",
+     "press": "WHDH"
+    },
+    {
+     "t": "Video: Sunny, but breezy day ahead",
+     "u": "https://www.wcvb.com/article/video-sunny-but-breezy-day-ahead/74189928",
+     "press": "WCVB"
+    },
+    {
+     "t": "Video: Gusty Tuesday, sunny weekend ahead",
+     "u": "https://www.yahoo.com/news/videos/video-gusty-tuesday-sunny-weekend-202523744.html",
+     "press": "Yahoo"
     }
    ]
   }
