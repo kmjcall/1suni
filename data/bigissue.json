@@ -1,226 +1,194 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261019",
- "updated": "2026-10-19T07:42:45+09:00",
+ "targetDate": "20261020",
+ "updated": "2026-10-20T09:04:19+09:00",
  "list": [
   {
-   "name": "신세계 백화점 강남점",
+   "name": "크리스티안 로메로",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "강풍에 지붕 날아가고…폭우에 곳곳 도로 침수",
-     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261018180444qH0",
-     "press": "연합뉴스TV"
+     "t": "韓 축구 에이스 날벼락! 이강인 또 '독박축구' 위기…크리스티안 로메로 OUT→'검사 결과 근육 부상 확인'",
+     "u": "https://www.chosun.com/sports/world-football/2026/10/19/G4ZTGZRVG42WEM3BMY2WMYZUGQ/",
+     "press": "조선일보"
     },
     {
-     "t": "미끄러지고 잠기고‥전국 호우·강풍 피해 7백 건",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6858851_37012.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "신세계백화점 강남점 출차 지연…\"5시간째 제자리, 지옥 같아\"",
-     "u": "https://www.yna.co.kr/view/AKR20261018060200004",
+     "t": "'이강인 62분' 아틀레티코, 에스파뇰에 1-0 승…바에나 결승골",
+     "u": "https://www.yna.co.kr/view/AKR20261017048700007",
      "press": "연합뉴스"
+    },
+    {
+     "t": "'그리즈만 후계자' 정말 이강인 말고 따로 있었나? 시메오네도 극찬 폭발...\"환상적인 능력 갖춘 바에나, 다른 레벨로 올라섰다\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/18/202610181326778208O",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "레이스 대 가디언즈",
+   "name": "삼성",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "삼성전자, '아트 바젤 파리 2026' 출품작 19점 아트 스토어에 공개",
+     "u": "https://www.asiae.co.kr/article/2026102008255594467",
+     "press": "아시아경제"
+    },
+    {
+     "t": "\"집에서 명작 감상\"…삼성전자, 아트 스토어에 '아트 바젤 파리 2026' 컬렉션 공개",
+     "u": "https://www.newsis.com/view/NISX20261020_0003832668",
+     "press": "뉴시스"
+    },
+    {
+     "t": "삼성전자, '아트 바젤 파리' 미술 작품 19점 TV로 선보인다",
+     "u": "https://www.newspim.com/news/view/20261020000103",
+     "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "루이바오",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…“중국 이송 준비”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8689852",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "\"안녕, 쌍둥이 판다\" 中 이동 위해 내달 검역…12월11일 마지막 인사",
+     "u": "https://www.newsis.com/view/NISX20261019_0003832050",
+     "press": "뉴시스"
+    },
+    {
+     "t": "쌍둥이도 보내는 ‘판다 할아버지’… “이별은 학습되지 않네요”",
+     "u": "https://www.chosun.com/economy/2026/10/20/AILMNXKUPBE7BI2TNUGP7X3SZY/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "대전광역시",
+   "idx": 20,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "한화",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "DS증권, 한화에어로 목표가↓…\"4분기엔 호실적 기대\"",
+     "u": "https://www.yna.co.kr/view/AKR20261020026400008",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "‘3분기 어닝 쇼크’ 방산주에도 반등…\"연말 대형 수주이벤트 집중”",
+     "u": "https://www.hankyung.com/article/202610190754i",
+     "press": "한국경제"
+    },
+    {
+     "t": "'3분기 실적 우려'에…방산株 일제히 하락 [종목 NOW]",
+     "u": "https://www.fnnews.com/news/202610190928246411",
+     "press": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "name": "송영길",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“서울 인근 뚫렸나?”…“미, 바보 같은 실수도”",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689443",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "송영길 “미 정보 절대 전지전능 안해···바보같은 실수 많이 했다”",
+     "u": "https://weekly.khan.co.kr/article/202610191651001",
+     "press": "주간경향"
+    },
+    {
+     "t": "“미 정보 잘못 많아”…육참총장은 다른 답변",
+     "u": "https://ichannela.com/news/detail/000000555836.do",
+     "press": "채널A"
+    }
+   ]
+  },
+  {
+   "name": "경제",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "정치에 가려진 민생...동력잃은 경제정책 입법 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/10/19/2026101511155323750",
+     "press": "머니투데이"
+    },
+    {
+     "t": "“주식계좌 보고 흐뭇하면 1번”…‘상전벽해 경제’에 與 ‘노심초사’",
+     "u": "https://www.sisajournal.com/news/articleView.html?idxno=390626",
+     "press": "시사저널"
+    },
+    {
+     "t": "\"물타기할 돈도 없어\" 폭락장에 비명 터졌다...국정지지율도 '부담' - 머니투데이",
+     "u": "https://www.mt.co.kr/index.php/politics/2026/10/20/2026101917465066616",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "스타뉴스",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[영웅신문] 임영웅 팬클럽 ‘라온’, 64번째 사랑의 밥상…65개월 나눔으로 쌓아 올린 2억4,680만원의 따뜻한 동행",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16251974",
+     "press": "톱스타뉴스"
+    },
+    {
+     "t": "임영웅 팬들, 5년 넘게 이어온 나눔…누적 후원금만 2억4680만원",
+     "u": "https://www.sportsseoul.com/news/read/1642548",
+     "press": "스포츠서울"
+    },
+    {
+     "t": "임영웅 팬클럽 '영웅시대 라온', 중증장애아동 위해 64번째 급식봉사…누적 후원 2억 4천만원 돌파",
+     "u": "https://www.segyenewsagency.com/news/articleView.html?idxno=643116",
+     "press": "세계뉴스통신"
+    }
+   ]
+  },
+  {
+   "name": "thứ hạng của tottenham gặp câu lạc bộ bóng đá coventry city",
+   "idx": 10,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "cj그룹",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "탬파베이, 클리블랜드에 짜릿한 역전승…ALCS 2승 2패 승부 원점",
-     "u": "https://www.yna.co.kr/view/AKR20261018025500007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "“늦게 핀 꽃이 더 아름답다” 35살에 첫 올스타 선정된 탬파베이 닉 마르티네스, 위기에 빠진 팀을 구해내다 [ALCS 4차전]",
-     "u": "https://www.segye.com/newsView/20261018509579",
-     "press": "세계일보"
-    },
-    {
-     "t": "'추강대엽이 맞았다' CLE가 인정한 전설, 추신수 19일 ALCS 시구자 등판 \"PS서 날 떠올려줘 큰 영광\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/18/2026101718395454812",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "라리가",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’",
-     "u": "https://www.khan.co.kr/article/202610182033005",
-     "press": "경향신문"
-    },
-    {
-     "t": "'야말 1골 1도움' 바르사, 라리가 개막 최다 연승 타이 '9연승'",
-     "u": "https://www.yna.co.kr/view/AKR20261018012900007",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "'충격, 이건 축구가 아니고 오락 게임이다' 9연승 39골 몰아쳤다, 바르셀로나 또 베티스 5-2 대파..'경기당 평균 4골 이상 폭발, 시즌 ",
-     "u": "https://www.chosun.com/sports/world-football/2026/10/18/MQ3TGMDDMY3GMYRVMM3TKN3BMY/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "로스앤젤레스 다저스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"내가 마법을 부렸어!\" 前 한화 외인 타자 감격, 밀워키 '우승 요정' 되나…끝내기 안타 3번 다 현장에 있었다",
-     "u": "https://www.osen.co.kr/article/G1112894789",
-     "press": "OSEN"
-    },
-    {
-     "t": "\"로버츠보다 극한 직업 없다, 1년 전 다저스 축하 모습 보고…\" 밀워키 승자의 품격, MVP는 왜 자극받았나 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/18/202610171238774662O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "“건강보험이 필요했다” 2년 전 은퇴 결심했던 망한 유망주가 밀워키의 구세주가 됐다… NLCS MVP 제이크 바...",
-     "u": "https://sports.khan.co.kr/article/202610171203003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "김희재",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "에반, '불후'서 Y2K 감성 완벽 재현…박근태 작곡가 \"극찬\"",
-     "u": "https://www.chosun.com/entertainments/music/2026/10/18/ME4DIMDCMFRTONJXGNSTQMJUGM/",
+     "t": "중앙일보 M&A 우선협상대상자에 ‘다우·CJ 컨소시엄’",
+     "u": "https://www.chosun.com/economy/stock-finance/2026/10/19/47JYD55ZGBEKTHUPLJ4FG4XGJA/",
      "press": "조선일보"
     },
     {
-     "t": "이찬원, 누가보면 성리 낳은 줄 알겠네..\"트로트 동료로서 뿌듯\"(불후)",
-     "u": "https://www.osen.co.kr/article/G1112894008",
-     "press": "OSEN"
+     "t": "중앙일보 인수 우선협상대상자에 다우·CJ 컨소시엄",
+     "u": "https://www.newsis.com/view/NISX20261020_0003832541",
+     "press": "뉴시스"
     },
     {
-     "t": "‘불후의 명곡’ 김희재, 슬프도록 감미로운 ‘해바라기’ 선사",
-     "u": "https://sports.khan.co.kr/article/202610181110003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "고우석",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'가을야구 출전불가' 고우석, 광주에 나타난 이유? LG 마운드에 '힘' 보태고픈 진심 [광주현장]",
-     "u": "https://www.chosun.com/sports/baseball/2026/10/19/GUYDMMLCGNSTONZRMIYDIYJVGA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "[스경x인터뷰] 마음만은 함께 던지는 고우석의 LG 응원 “우리 못했다지만 가을야구 중, 다 같이 이겨나가자”",
-     "u": "https://sports.khan.co.kr/article/202610181354013",
-     "press": "스포츠경향"
-    },
-    {
-     "t": "[PS피플]원정까지 동행하는 LG 고우석 “당연히 함께 해야죠, 솔직히 뛰고 싶은 마음도 있어요”",
-     "u": "https://sports.donga.com/sports/article/all/20261018/134860633/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "연합뉴스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "앤트로픽, 지분 5% 공익기금에 출연…\"AI 일자리 충격 대응\"",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803446",
-     "press": "SBS 뉴스"
-    },
-    {
-     "t": "Anthropic, 신규 공익기금에 지분 5% 출연",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2130664",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "앤트로픽, 지분 5% 공익기금에 출연…기업가치 오르면 추가 확대",
-     "u": "https://www.news1.kr/world/international-economy/6323843",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "реал мадрид – севилья",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "«Реал» — «Севилья»: Килиан Мбаппе обыграл вратаря и забил на 37-й минуте",
-     "u": "https://www.championat.ru/football/news-6662996-real-madrid-sevilya-kilian-mbappe-obygral-vratarya-i-zabil-na-37-j-minute-18-oktyabrya-2026.html",
-     "press": "https://www.championat.ru/"
-    },
-    {
-     "t": "«Реал» огласил стартовый состав на игру с «Севильей»",
-     "u": "https://sport24.ru/football/news-890802-real-oglasil-startovyy-sostav-na-igru-s-sevilyey",
-     "press": "Sport24.ru"
-    },
-    {
-     "t": "Лунин остался в резерве. Реал – Севилья: обнародованы стартовые составы",
-     "u": "https://sport.ua/news/916858-lunin-ostalsya-v-rezerve-real-sevilya-obnarodovany-startovye-sostavy",
-     "press": "Sport.ua"
-    }
-   ]
-  },
-  {
-   "name": "real madrid đấu với sevilla",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Video bóng đá Real Madrid - Sevilla: Thị uy trước Siêu kinh điển (La Liga)",
-     "u": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-sevilla-thi-uy-truoc-sieu-kinh-dien-la-liga-c48a1803814.html",
-     "press": "Tin tức 24h"
-    },
-    {
-     "t": "ריאל מדריד הבטיחה ניצחון מוחץ 4-1 על סביליה, ובכך ביססה את מקומה בין ארבע הראשונ",
-     "u": "https://www.vietnam.vn/he/thang-dam-sevilla-4-1-real-madrid-cung-co-top-4-la-liga",
-     "press": "Vietnam.vn"
-    },
-    {
-     "t": "Trực tiếp Real Madrid vs Sevilla: Hết hiệp 1, Real Madrid dẫn 2-0",
-     "u": "https://baolamdong.vn/truc-tiep-real-madrid-vs-sevilla-het-hiep-1-real-madrid-dan-2-0-470078.html",
-     "press": "Báo Lâm Đồng"
-    }
-   ]
-  },
-  {
-   "name": "기상",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "경남 사천에 호우주의보",
-     "u": "https://www.yna.co.kr/view/AKR20261018062400527",
+     "t": "중앙일보 매각 본입찰에 다우키움·오리온 등 6곳 참여",
+     "u": "https://www.yna.co.kr/view/AKR20261019144500008",
      "press": "연합뉴스"
-    },
-    {
-     "t": "비 그친 수도권, 아침엔 ‘선선’…남부·제주는 강한 비 [날씨]",
-     "u": "https://www.kyeonggi.com/article/20261018580277",
-     "press": "경기일보"
-    },
-    {
-     "t": "부산 오늘 밤부터 내일 새벽 '강한 비'…시간당 최대 30㎜ 폭우",
-     "u": "https://www.nocutnews.co.kr/news/6592955",
-     "press": "노컷뉴스"
     }
    ]
   }
