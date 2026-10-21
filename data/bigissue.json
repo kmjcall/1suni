@@ -1,226 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261021",
- "updated": "2026-10-21T08:35:31+09:00",
+ "targetDate": "20261022",
+ "updated": "2026-10-22T08:52:31+09:00",
  "list": [
   {
-   "name": "weather",
+   "name": "미스터트롯",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "Denver weather: More sunshine and mild temperatures Tuesday",
-     "u": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
-     "press": "Denver Gazette"
+     "t": "[미스터트롯4] 이찬원, 스페셜 마스터 합류! 역대 ′미스터트롯′ 선배들 총출동",
+     "u": "https://www.pressna.com/news/newsview.php?ncode=1065591978043965",
+     "press": "프레스뉴스"
     },
     {
-     "t": "A warm week is on tap for southern Colorado with mountain shower chances",
-     "u": "https://www.koaa.com/weather/a-warm-week-is-on-tap-for-southern-colorado-with-mountain-shower-chances",
-     "press": "KOAA News 5"
+     "t": "제2의 임영웅·이찬원 찾는다…‘미스터트롯4’, 더 강력해진 원조의 귀환",
+     "u": "https://sports.khan.co.kr/article/202610220814003",
+     "press": "스포츠경향"
     },
     {
-     "t": "Warmer rest of the week with mountain showers",
-     "u": "https://www.kktv.com/2026/10/19/warmer-rest-week-with-mountain-showers/",
-     "press": "KKTV"
+     "t": "이찬원·안성훈·박지현·김용빈 트로트 스타, ‘미스터트롯4’ 마스터로 뜬다",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/19/P5IZDIN2NJHGRGGX2NJAHQXW6A/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "조혜련",
+   "name": "박위",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "조혜련, \"SK하이닉스, 20년 전 여걸식스때 300원..수익3배 놓쳐\" ('머니인더트랩')",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GNSDGZRTGNQTCOBTMM4DCNLCGQ/",
-     "press": "조선일보"
+     "t": "[단독] 박위 침묵 속 영상 또 삭제···추락사고 회고도 내렸다",
+     "u": "https://sports.khan.co.kr/article/202610201005003",
+     "press": "스포츠경향"
     },
     {
-     "t": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길",
-     "u": "https://www.osen.co.kr/article/G1112896033",
-     "press": "OSEN"
+     "t": "'CCTV 논란' 박위, 감자튀김 짜증 영상까지 파묘..\"아 씨!\"[스타이슈]",
+     "u": "https://www.starnewskorea.com/star/2026/10/21/2026102115075676672",
+     "press": "스타뉴스"
     },
     {
-     "t": "한 달 수입 16만원이었다..조혜련 \"공장에서 일하기도\" 회상 ('물린음악회')",
-     "u": "https://www.koreadaily.com/article/20261020091940116",
-     "press": "미주중앙일보"
+     "t": "'CCTV 저격 논란' 박위, 조용히 유튜브 영상 삭제…잡음 계속 [종합]",
+     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/521849",
+     "press": "iMBC 연예"
     }
    ]
   },
   {
-   "name": "오늘날씨",
-   "idx": 50,
+   "name": "thứ hạng của real madrid gặp rb leipzig",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
-     "u": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
-     "press": "YTN"
+     "t": "Video bóng đá Real Madrid - Leipzig: Mbappe - Diomande rực rỡ (Cúp C1)",
+     "u": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-leipzig-mbappe-diomande-ruc-ro-cup-c1-c48a1804646.html",
+     "press": "Tin tức 24h"
     },
     {
-     "t": "전남광주, 찬공기에 한낮 18도…시속 55㎞ 강풍 '체감 뚝'",
-     "u": "https://www.newsis.com/view/NISX20261021_0003834210",
-     "press": "뉴시스"
+     "t": "Kết quả bóng đá hôm nay ngày 22/10: MU thua đậm, Real Madrid thắng lớn",
+     "u": "https://thethao247.vn/63-ket-qua-bong-da-hom-nay-ngay-22-10-mu-thua-dam-real-madrid-thang-lon-c2-d441490.html",
+     "press": "Thể Thao 247"
     },
     {
-     "t": "[날씨] 수요일 낮 쌀쌀하고 바람 강하게 불어…곳곳에 비 소식",
-     "u": "https://www.yna.co.kr/view/AKR20261020149500004",
-     "press": "연합뉴스"
+     "t": "Real thắng đậm trước El Clasico",
+     "u": "https://vnexpress.net/real-thang-dam-truoc-el-clasico-5135361.html",
+     "press": "VnExpress"
     }
    ]
   },
   {
-   "name": "일기예보",
-   "idx": 25,
+   "name": "thứ hạng của bayern gặp arsenal",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "2026년 10월 21일 날씨 예보: 베트남 북부 지역에 \"이례적인\" 한랭 전선이 영향을 미칠 것으로 예상됩니다.",
-     "u": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
-     "press": "Vietnam.vn"
+     "t": "Video bóng đá Bayern Munich - Arsenal: Đôi công ngang ngửa (Cúp C1)",
+     "u": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-arsenal-doi-cong-ngang-ngua-cup-c1-c48a1804643.html",
+     "press": "Tin tức 24h"
     },
     {
-     "t": "약한 찬 공기가 곧 유입될 예정이며, 내일 오후 지역에 뇌우가 예상됩니다",
-     "u": "https://ko.laodong.vn/moi-truong/sap-don-khong-khi-lanh-yeu-du-bao-khu-vuc-kha-nang-mua-dong-chieu-mai-1786442.ldo",
-     "press": "Laodong.vn"
+     "t": "\"Kim Min-jae, rời sân lúc hết hiệp 1 trong trận đấu lớn UCL\" Mùnchen, hòa 2-2 vớ",
+     "u": "https://www.starnewskorea.com/vi/sports/2026/10/22/2026102205555174555",
+     "press": "스타뉴스"
     },
     {
-     "t": "한랭 전선의 영향으로 탄화에서 후에에 이르는 동북부 지역에 천둥번개가 예상됩니다.",
-     "u": "https://www.vietnam.vn/ko/anh-huong-khong-khi-lanh-dong-bac-bo-tu-thanh-hoa-den-hue-mua-dong",
-     "press": "Vietnam.vn"
+     "t": "Arteta tuyên bố điều đặc biệt sau trận hòa nghẹt thở với Bayern Munich",
+     "u": "https://thethao247.vn/406-arteta-tuyen-bo-dieu-dac-biet-sau-tran-hoa-nghet-tho-voi-bayern-munich-c2-d441517.html",
+     "press": "Thể Thao 247"
     }
    ]
   },
   {
-   "name": "외환시장",
+   "name": "제너럴 모터스",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development",
+     "u": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/",
+     "press": "Car and Driver"
+    },
+    {
+     "t": "GM aims to develop vehicles in as little as two years with AI, software push",
+     "u": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+     "press": "CNBC"
+    },
+    {
+     "t": "GM Wants Your Car to Do Your Chores",
+     "u": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+     "press": "WIRED"
+    }
+   ]
+  },
+  {
+   "name": "klasemen real madrid vs rb leipzig",
+   "idx": 10,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "nvda",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
-     "u": "https://www.yna.co.kr/view/AKR20261020131100002",
-     "press": "연합뉴스"
+     "t": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
+     "u": "https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up",
+     "press": "Bloomberg.com"
     },
     {
-     "t": "수출 호조에 원화값 1320원대…연말 1200원대 후반 전망도",
-     "u": "https://stock.mk.co.kr/news/view/1177722",
-     "press": "매일경제 마켓"
+     "t": "Prediction: Nvidia’s Road to $1 Trillion in Annual Revenue Could Transform Its S",
+     "u": "https://247wallst.com/investing/2026/10/21/prediction-nvidias-road-to-1-trillion-in-annual-revenue-could-transform-its-stock/",
+     "press": "24/7 Wall St."
     },
     {
-     "t": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440216",
-     "press": "연합인포맥스"
+     "t": "NVDA Stock Rebounds Above $220 as Amazon Buys Billions in Nvidia Chips while Ele",
+     "u": "https://www.fxleaders.com/news/2026/10/21/nvda-stock-rebounds-above-220-as-amazon-buys-billions-in-nvidia-chips-while-electricity-constraints-threaten-returns/",
+     "press": "FXLeaders"
     }
    ]
   },
   {
-   "name": "псж – барселона турнирная таблица",
+   "name": "xrpn",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "Сафонов сделал сейв при выходе один на один в конце первого тайма в матче с «Бар",
-     "u": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
-     "press": "https://www.championat.ru/"
+     "t": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This M",
+     "u": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning",
+     "press": "U.Today"
     },
     {
-     "t": "Сафонов вошел в стартовый состав «ПСЖ» на игру с «Барселоной»",
-     "u": "https://sportmail.ru/news/football-eurocups/72792948/",
-     "press": "Спорт Mail"
+     "t": "Evernorth Warrants Carry $18 Share-Price Test for Redemption",
+     "u": "https://www.tokenpost.com/news/business/36923",
+     "press": "TOKENPOST"
     },
     {
-     "t": "\"Барселона\" поразила ворота Сафонова",
-     "u": "https://www.sport.ru/football/barselona-porazila-vorota-safonova/article661715/",
-     "press": "Sport.ru"
+     "t": "Uphold starts trading Evernode's XRPN stock, enabling exposure without direct XR",
+     "u": "https://www.digitaltoday.co.kr/en/view/117289/uphold-starts-trading-evernode-xrpn-stock-enabling-exposure-without-direct-xrp-purchases",
+     "press": "디지털투데이"
     }
    ]
   },
   {
-   "name": "제1도련선",
+   "name": "spch",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
-     "u": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/",
-     "press": "조선일보"
+     "t": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Traders After Sharp Swing",
+     "u": "https://stockstotrade.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21/",
+     "press": "StocksToTrade"
     },
     {
-     "t": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
-     "u": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
-     "press": "동아일보"
+     "t": "SPCH Stock Pulls Back As Volatility Grips Leveraged Trade",
+     "u": "https://www.timothysykes.com/news/leverage-shares-2x-long-spcx-daily-spch-news-2026_10_21-3/",
+     "press": "Timothy Sykes"
     },
     {
-     "t": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
-     "u": "https://www.munhwa.com/article/11624818",
-     "press": "문화일보"
+     "t": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Momentum Traders",
+     "u": "https://www.timothysykes.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21-3/",
+     "press": "Timothy Sykes"
     }
    ]
   },
   {
-   "name": "새만금",
+   "name": "이용규",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
-     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
-     "press": "국제뉴스"
+     "t": "‘음주 운전 사고’ 전 프로야구 선수 이용규 불구속 기소",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8691418",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "전주시, 2026년 전주시 수소산업 심포지엄 개최",
-     "u": "https://www.jnv.co.kr/news/articleView.html?idxno=15601",
-     "press": "전북엔비전"
+     "t": "유턴 차량 들이받고 경찰차까지 '쾅'…이용규, 음주운전 재판행 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/10/21/2026102117422380530",
+     "press": "머니투데이"
     },
     {
-     "t": "전북테크노파크 에너지산업육성단장 김영권 ‘R&D 혁신을 통한 전주시 수소모빌리티 생태계 구축 방안’",
-     "u": "https://www.domin.co.kr/news/articleView.html?idxno=1571571&sc_section_code=S1N8",
-     "press": "전북도민일보"
-    }
-   ]
-  },
-  {
-   "name": "문재인",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "문재인 전 대통령 ‘뇌물 혐의’ 국민참여재판 내년 1월 진행...증인 18명 채택",
-     "u": "https://news.jtbc.co.kr/article/NB12323911",
-     "press": "JTBC"
-    },
-    {
-     "t": "문재인 전 대통령, 내년 1월 국민참여재판…딸·전 사위 등 18명 증인 출석",
-     "u": "http://weekly.chosun.com/news/articleView.html?idxno=56373",
-     "press": "주간조선"
-    },
-    {
-     "t": "文 '3자 뇌물' 국민참여재판 내년 1월 11일 시작‥증인 18명 소환",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6859388_36918.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "windy",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Cooler, windy day ahead Wednesday",
-     "u": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/",
-     "press": "WHDH"
-    },
-    {
-     "t": "Video: Sunny, but breezy day ahead",
-     "u": "https://www.wcvb.com/article/video-sunny-but-breezy-day-ahead/74189928",
-     "press": "WCVB"
-    },
-    {
-     "t": "Video: Gusty Tuesday, sunny weekend ahead",
-     "u": "https://www.yahoo.com/news/videos/video-gusty-tuesday-sunny-weekend-202523744.html",
-     "press": "Yahoo"
+     "t": "만취 운전하다 순찰차까지 '쾅'…이용규, 음주운전으로 재판행",
+     "u": "https://www.fnnews.com/news/202610220704433378",
+     "press": "파이낸셜뉴스"
     }
    ]
   }
