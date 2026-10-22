@@ -1,210 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261022",
- "updated": "2026-10-22T08:52:31+09:00",
+ "targetDate": "20261023",
+ "updated": "2026-10-23T08:50:02+09:00",
  "list": [
   {
-   "name": "미스터트롯",
+   "name": "상속",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[미스터트롯4] 이찬원, 스페셜 마스터 합류! 역대 ′미스터트롯′ 선배들 총출동",
-     "u": "https://www.pressna.com/news/newsview.php?ncode=1065591978043965",
-     "press": "프레스뉴스"
+     "t": "이형일 \"내년까지 공적주택 10만 호 수도권 입주\"",
+     "u": "https://www.ytn.co.kr/_ln/0102_202610221824418332",
+     "press": "YTN"
     },
     {
-     "t": "제2의 임영웅·이찬원 찾는다…‘미스터트롯4’, 더 강력해진 원조의 귀환",
-     "u": "https://sports.khan.co.kr/article/202610220814003",
-     "press": "스포츠경향"
+     "t": "[2026 국감] 이형일 \"국민연금 단기 시장 등락 아닌 장기 수익률로 평가해야\"(종합)",
+     "u": "https://view.asiae.co.kr/article/2026102215145752818",
+     "press": "아시아경제"
     },
     {
-     "t": "이찬원·안성훈·박지현·김용빈 트로트 스타, ‘미스터트롯4’ 마스터로 뜬다",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/19/P5IZDIN2NJHGRGGX2NJAHQXW6A/",
-     "press": "조선일보"
+     "t": "유통기한 지난 세제…이형일 \"중기적인 시계에서 면밀히 짚어볼 것\" - 머니투데이",
+     "u": "https://www.mt.co.kr/economy/2026/10/22/2026102211273157742",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "박위",
+   "name": "연금",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] 박위 침묵 속 영상 또 삭제···추락사고 회고도 내렸다",
-     "u": "https://sports.khan.co.kr/article/202610201005003",
-     "press": "스포츠경향"
+     "t": "남편 소득 있다고 국민연금 못 들던 전업주부, 가입 길 열린다",
+     "u": "https://www.hani.co.kr/arti/society/rights/1283604.html",
+     "press": "한겨레"
     },
     {
-     "t": "'CCTV 논란' 박위, 감자튀김 짜증 영상까지 파묘..\"아 씨!\"[스타이슈]",
-     "u": "https://www.starnewskorea.com/star/2026/10/21/2026102115075676672",
-     "press": "스타뉴스"
+     "t": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
+     "u": "https://www.sedaily.com/article/20105127",
+     "press": "서울경제"
     },
     {
-     "t": "'CCTV 저격 논란' 박위, 조용히 유튜브 영상 삭제…잡음 계속 [종합]",
-     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/521849",
-     "press": "iMBC 연예"
+     "t": "결혼이 가른 55세 친구의 엇갈린 노후…국민연금의 낡은 구조",
+     "u": "https://www.yna.co.kr/view/AKR20261021128200530",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "thứ hạng của real madrid gặp rb leipzig",
-   "idx": 20,
+   "name": "파리",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "Video bóng đá Real Madrid - Leipzig: Mbappe - Diomande rực rỡ (Cúp C1)",
-     "u": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-leipzig-mbappe-diomande-ruc-ro-cup-c1-c48a1804646.html",
-     "press": "Tin tức 24h"
-    },
-    {
-     "t": "Kết quả bóng đá hôm nay ngày 22/10: MU thua đậm, Real Madrid thắng lớn",
-     "u": "https://thethao247.vn/63-ket-qua-bong-da-hom-nay-ngay-22-10-mu-thua-dam-real-madrid-thang-lon-c2-d441490.html",
-     "press": "Thể Thao 247"
-    },
-    {
-     "t": "Real thắng đậm trước El Clasico",
-     "u": "https://vnexpress.net/real-thang-dam-truoc-el-clasico-5135361.html",
-     "press": "VnExpress"
-    }
-   ]
-  },
-  {
-   "name": "thứ hạng của bayern gặp arsenal",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Video bóng đá Bayern Munich - Arsenal: Đôi công ngang ngửa (Cúp C1)",
-     "u": "https://www.24h.com.vn/bong-da/video-bong-da-bayern-munich-arsenal-doi-cong-ngang-ngua-cup-c1-c48a1804643.html",
-     "press": "Tin tức 24h"
-    },
-    {
-     "t": "\"Kim Min-jae, rời sân lúc hết hiệp 1 trong trận đấu lớn UCL\" Mùnchen, hòa 2-2 vớ",
-     "u": "https://www.starnewskorea.com/vi/sports/2026/10/22/2026102205555174555",
-     "press": "스타뉴스"
-    },
-    {
-     "t": "Arteta tuyên bố điều đặc biệt sau trận hòa nghẹt thở với Bayern Munich",
-     "u": "https://thethao247.vn/406-arteta-tuyen-bo-dieu-dac-biet-sau-tran-hoa-nghet-tho-voi-bayern-munich-c2-d441517.html",
-     "press": "Thể Thao 247"
-    }
-   ]
-  },
-  {
-   "name": "제너럴 모터스",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "GM Tech Day: Autonomous Driving, More Helpful OnStar, Faster Product Development",
-     "u": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/",
-     "press": "Car and Driver"
-    },
-    {
-     "t": "GM aims to develop vehicles in as little as two years with AI, software push",
-     "u": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
-     "press": "CNBC"
-    },
-    {
-     "t": "GM Wants Your Car to Do Your Chores",
-     "u": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
-     "press": "WIRED"
-    }
-   ]
-  },
-  {
-   "name": "klasemen real madrid vs rb leipzig",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "nvda",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
-     "u": "https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up",
-     "press": "Bloomberg.com"
-    },
-    {
-     "t": "Prediction: Nvidia’s Road to $1 Trillion in Annual Revenue Could Transform Its S",
-     "u": "https://247wallst.com/investing/2026/10/21/prediction-nvidias-road-to-1-trillion-in-annual-revenue-could-transform-its-stock/",
-     "press": "24/7 Wall St."
-    },
-    {
-     "t": "NVDA Stock Rebounds Above $220 as Amazon Buys Billions in Nvidia Chips while Ele",
-     "u": "https://www.fxleaders.com/news/2026/10/21/nvda-stock-rebounds-above-220-as-amazon-buys-billions-in-nvidia-chips-while-electricity-constraints-threaten-returns/",
-     "press": "FXLeaders"
-    }
-   ]
-  },
-  {
-   "name": "xrpn",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "XRP Treasury Wins Key SEC Approval to Raise New Capital: Main Crypto News This M",
-     "u": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning",
-     "press": "U.Today"
-    },
-    {
-     "t": "Evernorth Warrants Carry $18 Share-Price Test for Redemption",
-     "u": "https://www.tokenpost.com/news/business/36923",
-     "press": "TOKENPOST"
-    },
-    {
-     "t": "Uphold starts trading Evernode's XRPN stock, enabling exposure without direct XR",
-     "u": "https://www.digitaltoday.co.kr/en/view/117289/uphold-starts-trading-evernode-xrpn-stock-enabling-exposure-without-direct-xrp-purchases",
-     "press": "디지털투데이"
-    }
-   ]
-  },
-  {
-   "name": "spch",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Traders After Sharp Swing",
-     "u": "https://stockstotrade.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21/",
-     "press": "StocksToTrade"
-    },
-    {
-     "t": "SPCH Stock Pulls Back As Volatility Grips Leveraged Trade",
-     "u": "https://www.timothysykes.com/news/leverage-shares-2x-long-spcx-daily-spch-news-2026_10_21-3/",
-     "press": "Timothy Sykes"
-    },
-    {
-     "t": "SSPC Leverage Shares 2X Short SPCX Daily Draws Active Momentum Traders",
-     "u": "https://www.timothysykes.com/news/leverage-shares-2x-short-spcx-daily-sspc-news-2026_10_21-3/",
-     "press": "Timothy Sykes"
-    }
-   ]
-  },
-  {
-   "name": "이용규",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘음주 운전 사고’ 전 프로야구 선수 이용규 불구속 기소",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8691418",
+     "t": "프랑스 10여 개 도시 시위 금지령…파리는 장갑차 동원 예고",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8693159",
      "press": "KBS 뉴스"
     },
     {
-     "t": "유턴 차량 들이받고 경찰차까지 '쾅'…이용규, 음주운전 재판행 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/10/21/2026102117422380530",
+     "t": "시위·파업에 이탈리아 몸살…물류 차질에 사재기까지",
+     "u": "https://www.yna.co.kr/view/IPT20261022000017365?section=gallery/index",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "20명의 공격에도 안 뚫린 루이비통 유리… 파리 폭동에 드러난 명품의 역설",
+     "u": "https://www.munhwa.com/article/11625523",
+     "press": "문화일보"
+    }
+   ]
+  },
+  {
+   "name": "테오스카 에르난데스",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
+     "u": "https://sports.donga.com/sports/article/all/20261021/134884491/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O",
      "press": "머니투데이"
     },
     {
-     "t": "만취 운전하다 순찰차까지 '쾅'…이용규, 음주운전으로 재판행",
-     "u": "https://www.fnnews.com/news/202610220704433378",
-     "press": "파이낸셜뉴스"
+     "t": "김혜성 아니었다면 다저스 축복의 트레이드 없었다…떠난 선수는 야구인생 최대 위기 \"한번도 홈런 10개 넘어선적 없다\"",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014879",
+     "press": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "name": "아성다이소",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 4000억 투입 다이소 세종허브센터 시운전…내년 4월 가동",
+     "u": "https://www.news1.kr/industry/distribution/6329002",
+     "press": "뉴스1"
+    },
+    {
+     "t": "아성다이소, 2149억원 들여 양주 물류허브 구축... 2029년 초 가동 목표",
+     "u": "https://vop.co.kr/A00001697257.html",
+     "press": "민중의소리"
+    },
+    {
+     "t": "“다이소엔 없죠?” 1만원 에어프라이어 꺼낸 이마트…초저가 '빈틈' 찔렀다[르포]",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=04460806645615544&mediaCodeNo=257",
+     "press": "이데일리"
+    }
+   ]
+  },
+  {
+   "name": "록히드 마틴",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "록히드 마틴, 방산 매출 급증으로 실적 예상치 상회",
+     "u": "https://kr.investing.com/news/earnings/article-2136912",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "[미국 특징주] 록히드마틴 10% 급등…미사일 수요 폭발에 실적 전망 상향",
+     "u": "https://www.newspim.com/news/view/20261022001451",
+     "press": "뉴스핌"
+    },
+    {
+     "t": "록히드마틴, 수주 잔고 사상 최대…5%대 상승",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01334966645615872",
+     "press": "마켓인"
+    }
+   ]
+  },
+  {
+   "name": "금양",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결",
+     "u": "https://www.nocutnews.co.kr/news/6593849",
+     "press": "노컷뉴스"
+    },
+    {
+     "t": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시",
+     "u": "https://kpinews.kr/newsView/1065541083271784",
+     "press": "KPI뉴스"
+    },
+    {
+     "t": "[뭐라노] 금양 부활할까",
+     "u": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20261020.99099005519",
+     "press": "국제신문"
+    }
+   ]
+  },
+  {
+   "name": "주우재",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[한끗 차이]성시경처럼 날렵해졌는데, 내 옆엔 주우재가 없네…‘패알못’ 탈출 6가지 공식",
+     "u": "https://www.khan.co.kr/article/202610230700005",
+     "press": "경향신문"
+    },
+    {
+     "t": "주우재, 3년간 간직한 100만원 수표…유재석 또 미담?",
+     "u": "https://www.newsis.com/view/NISX20261022_0003836024",
+     "press": "뉴시스"
+    },
+    {
+     "t": "유재석 미담 또 나왔다..곽범 \"놀뭐 끝나고 먼저 연락와..내 번호 물어봤다\"(뭔데뭔데) - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GQYWEMBXGYZGGOBUGEYDAMRYHE/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "에어쇼",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "우주항공방위산업전으로 판 키운 2026 사천에어쇼 개막",
+     "u": "https://www.ytn.co.kr/_cs/_ln_0115_202610222109266840_005.html",
+     "press": "YTN"
+    },
+    {
+     "t": "사천에어쇼 국제에어쇼로 도약…개막식에 KF-21 등 국산 항공기 시범비행",
+     "u": "https://www.munhwa.com/article/11625618",
+     "press": "문화일보"
+    },
+    {
+     "t": "[포토뉴스]블랙이글스가 남긴 ‘사랑의 하트 핑~’",
+     "u": "https://www.khan.co.kr/article/20261022221300A",
+     "press": "경향신문"
+    }
+   ]
+  },
+  {
+   "name": "포스코퓨처엠",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "포스코퓨처엠, 팔란티어와 AX로 초격차 경쟁력 확보",
+     "u": "https://www.electimes.com/news/articleView.html?idxno=373769",
+     "press": "전기신문"
+    },
+    {
+     "t": "팔란티어 \"한국, 미국 밖 최강 시장\"…제조·국방 AI 공략(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261022095651017",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "美 국방부·CIA에 SW 공급하던 팔란티어, 서울 한남동서 옷 파는 이유",
+     "u": "https://www.newsis.com/view/NISX20261022_0003836710",
+     "press": "뉴시스"
     }
    ]
   }
