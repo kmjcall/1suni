@@ -1,226 +1,221 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261023",
- "updated": "2026-10-23T08:50:02+09:00",
+ "targetDate": "20261024",
+ "updated": "2026-10-24T08:43:35+09:00",
  "list": [
   {
-   "name": "상속",
+   "name": "스마트 폰",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "이형일 \"내년까지 공적주택 10만 호 수도권 입주\"",
-     "u": "https://www.ytn.co.kr/_ln/0102_202610221824418332",
-     "press": "YTN"
+     "t": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
+     "u": "https://story.pay.naver.com/content/3775_3_C1",
+     "press": "네이버페이 머니스토리"
     },
     {
-     "t": "[2026 국감] 이형일 \"국민연금 단기 시장 등락 아닌 장기 수익률로 평가해야\"(종합)",
-     "u": "https://view.asiae.co.kr/article/2026102215145752818",
-     "press": "아시아경제"
-    },
-    {
-     "t": "유통기한 지난 세제…이형일 \"중기적인 시계에서 면밀히 짚어볼 것\" - 머니투데이",
-     "u": "https://www.mt.co.kr/economy/2026/10/22/2026102211273157742",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "연금",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "남편 소득 있다고 국민연금 못 들던 전업주부, 가입 길 열린다",
-     "u": "https://www.hani.co.kr/arti/society/rights/1283604.html",
-     "press": "한겨레"
-    },
-    {
-     "t": "전업주부도 자기 이름으로 국민연금…무소득 배우자 가입 문 넓힌다[Pick코노미]",
-     "u": "https://www.sedaily.com/article/20105127",
-     "press": "서울경제"
-    },
-    {
-     "t": "결혼이 가른 55세 친구의 엇갈린 노후…국민연금의 낡은 구조",
-     "u": "https://www.yna.co.kr/view/AKR20261021128200530",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "파리",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "프랑스 10여 개 도시 시위 금지령…파리는 장갑차 동원 예고",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8693159",
+     "t": "아이폰 듀오, 출시 첫날부터 품귀…“공급망 준비 안 돼”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8694196",
      "press": "KBS 뉴스"
     },
     {
-     "t": "시위·파업에 이탈리아 몸살…물류 차질에 사재기까지",
-     "u": "https://www.yna.co.kr/view/IPT20261022000017365?section=gallery/index",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "20명의 공격에도 안 뚫린 루이비통 유리… 파리 폭동에 드러난 명품의 역설",
-     "u": "https://www.munhwa.com/article/11625523",
-     "press": "문화일보"
+     "t": "\"아이폰 듀오 구매하면 아이패드 또는 애플워치 무료\"",
+     "u": "https://www.koreadaily.com/article/20261023011632751",
+     "press": "미주중앙일보"
     }
    ]
   },
   {
-   "name": "테오스카 에르난데스",
-   "idx": 40,
+   "name": "당구",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "“다저스 노쇠화 모두 알고 있잖아”…특급 유망주 기용 절실! 그런데 오타니·테오스카·터커 있다",
-     "u": "https://sports.donga.com/sports/article/all/20261021/134884491/1",
-     "press": "스포츠동아"
+     "t": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
+     "u": "https://www.jemin.com/news/articleView.html?idxno=845158",
+     "press": "제민일보"
     },
     {
-     "t": "충격! “김혜성 결국 다저스 떠난다” 美 트레이드 방출 가능성 제기 왜? “다저스 좋아한다” 고백에도 불안한 입지 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/22/202610220730776386O",
+     "t": "'당구 여제' 김가영, LPBA 5차 투어 8강행…정수빈은 탈락",
+     "u": "https://www.newsis.com/view/NISX20261023_0003837849",
+     "press": "뉴시스"
+    },
+    {
+     "t": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520",
      "press": "머니투데이"
-    },
-    {
-     "t": "김혜성 아니었다면 다저스 축복의 트레이드 없었다…떠난 선수는 야구인생 최대 위기 \"한번도 홈런 10개 넘어선적 없다\"",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014879",
-     "press": "SPOTV NEWS"
     }
    ]
   },
   {
-   "name": "아성다이소",
-   "idx": 20,
+   "name": "태풍 경로",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] 4000억 투입 다이소 세종허브센터 시운전…내년 4월 가동",
-     "u": "https://www.news1.kr/industry/distribution/6329002",
-     "press": "뉴스1"
+     "t": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
+     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148974197&pWise=sub&pWiseSub=R1",
+     "press": "대한민국 정책브리핑"
     },
     {
-     "t": "아성다이소, 2149억원 들여 양주 물류허브 구축... 2029년 초 가동 목표",
-     "u": "https://vop.co.kr/A00001697257.html",
-     "press": "민중의소리"
+     "t": "‘10월 태풍’ 참피 북상…이 시각 제주는?",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8694174",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "“다이소엔 없죠?” 1만원 에어프라이어 꺼낸 이마트…초저가 '빈틈' 찔렀다[르포]",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=04460806645615544&mediaCodeNo=257",
-     "press": "이데일리"
+     "t": "태풍 참피, 대만 이어 日열도로…\"트럭 전복 수준 강풍\" 우려(종합2보)",
+     "u": "https://www.yna.co.kr/view/AKR20261023090952009",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "록히드 마틴",
-   "idx": 5,
+   "name": "신애라",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "록히드 마틴, 방산 매출 급증으로 실적 예상치 상회",
-     "u": "https://kr.investing.com/news/earnings/article-2136912",
-     "press": "Investing.com 한국어"
+     "t": "\"새 식구 생겨\"' 신애라♥차인표, 며느리 언급…\"가족 모습 달라져\" ('애라네')",
+     "u": "https://www.koreadaily.com/article/20261023091808265",
+     "press": "미주중앙일보"
     },
     {
-     "t": "[미국 특징주] 록히드마틴 10% 급등…미사일 수요 폭발에 실적 전망 상향",
-     "u": "https://www.newspim.com/news/view/20261022001451",
-     "press": "뉴스핌"
+     "t": "'차인표♥' 신애라, 아찔한 차량 '사고' 깜짝…\"정말 놀랐다\" ('애라네') - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/24/MI3TMYLBHFTDCY3GMVSWKNLGMU/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "록히드마틴, 수주 잔고 사상 최대…5%대 상승",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01334966645615872",
-     "press": "마켓인"
+     "t": "'차인표♥' 신애라, 다 큰 아들·입양 딸 성장에 울컥 \"너무 빨리 자라\" (신애라이프)",
+     "u": "https://www.xportsnews.com/article/2210881",
+     "press": "엑스포츠뉴스"
     }
    ]
   },
   {
-   "name": "금양",
-   "idx": 5,
+   "name": "선수",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'상폐 기로' 금양, 데이터센터 진출 위한 물적분할 안건 가결",
-     "u": "https://www.nocutnews.co.kr/news/6593849",
+     "t": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
+     "u": "https://www.joongang.co.kr/article/25471632",
+     "press": "중앙일보"
+    },
+    {
+     "t": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
+     "u": "https://www.nocutnews.co.kr/news/6594086",
      "press": "노컷뉴스"
     },
     {
-     "t": "금양 물적분할, 노르웨이 국부펀드 '반대'…주주수익·투명성 원칙 제시",
-     "u": "https://kpinews.kr/newsView/1065541083271784",
-     "press": "KPI뉴스"
-    },
-    {
-     "t": "[뭐라노] 금양 부활할까",
-     "u": "https://www.kookje.co.kr/contents/newsbody.asp?code=0200&key=20261020.99099005519",
-     "press": "국제신문"
+     "t": "'레이스 중 생리 터졌다!' 투혼으로 완주한 박서연…팬들 갑론을박 \"멋있다!\" VS \"큰일 당하면 어쩌려고\"",
+     "u": "https://www.osen.co.kr/article/G1112896184",
+     "press": "OSEN"
     }
    ]
   },
   {
-   "name": "주우재",
-   "idx": 5,
+   "name": "강예원",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "[한끗 차이]성시경처럼 날렵해졌는데, 내 옆엔 주우재가 없네…‘패알못’ 탈출 6가지 공식",
-     "u": "https://www.khan.co.kr/article/202610230700005",
-     "press": "경향신문"
+     "t": "강예원, 부친 빚 10억에 눈물…\"집 내놓고 엄마 집으로\"",
+     "u": "https://www.hankyung.com/article/2026102319377",
+     "press": "한국경제"
     },
     {
-     "t": "주우재, 3년간 간직한 100만원 수표…유재석 또 미담?",
-     "u": "https://www.newsis.com/view/NISX20261022_0003836024",
-     "press": "뉴시스"
+     "t": "강예원, 고인인 부친 빚 상환 위에 살던 집 처분한다",
+     "u": "https://sports.khan.co.kr/article/202610231750003",
+     "press": "스포츠경향"
     },
     {
-     "t": "유재석 미담 또 나왔다..곽범 \"놀뭐 끝나고 먼저 연락와..내 번호 물어봤다\"(뭔데뭔데) - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/22/GQYWEMBXGYZGGOBUGEYDAMRYHE/",
-     "press": "Chosunbiz"
+     "t": "강예원, 돌아가신 아버지 11억 빚 고백 후 집 내놨다…\"20년 만에 엄마 집으로\"",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16256197",
+     "press": "TopStarNews"
     }
    ]
   },
   {
-   "name": "에어쇼",
-   "idx": 5,
+   "name": "코어장전",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "우주항공방위산업전으로 판 키운 2026 사천에어쇼 개막",
-     "u": "https://www.ytn.co.kr/_cs/_ln_0115_202610222109266840_005.html",
-     "press": "YTN"
+     "t": "[롤드컵] '코어장전' 조용인, \"스위스 스테이지 벽 부수고 싶다\"",
+     "u": "https://www.dailyesports.com/view.php?ud=20261023014102731b91e133c1f_27",
+     "press": "데일리e스포츠"
     },
     {
-     "t": "사천에어쇼 국제에어쇼로 도약…개막식에 KF-21 등 국산 항공기 시범비행",
-     "u": "https://www.munhwa.com/article/11625618",
-     "press": "문화일보"
-    },
-    {
-     "t": "[포토뉴스]블랙이글스가 남긴 ‘사랑의 하트 핑~’",
-     "u": "https://www.khan.co.kr/article/20261022221300A",
-     "press": "경향신문"
+     "t": "‘코어장전’ 조용인 “올해 LCS 강해⋯8강 진출 자신”",
+     "u": "https://www.kmib.co.kr/article/20261023500007",
+     "press": "국민일보"
     }
    ]
   },
   {
-   "name": "포스코퓨처엠",
-   "idx": 5,
+   "name": "대전날씨",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "포스코퓨처엠, 팔란티어와 AX로 초격차 경쟁력 확보",
-     "u": "https://www.electimes.com/news/articleView.html?idxno=373769",
-     "press": "전기신문"
-    },
-    {
-     "t": "팔란티어 \"한국, 미국 밖 최강 시장\"…제조·국방 AI 공략(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261022095651017",
+     "t": "대전·세종·충남 곳에 따라 비…낮 최고 20도",
+     "u": "https://www.yna.co.kr/view/AKR20261024007000063",
      "press": "연합뉴스"
     },
     {
-     "t": "美 국방부·CIA에 SW 공급하던 팔란티어, 서울 한남동서 옷 파는 이유",
-     "u": "https://www.newsis.com/view/NISX20261022_0003836710",
+     "t": "충남권 대체로 흐리고 오후 곳에 따라 5~10㎜ 비",
+     "u": "https://www.newsis.com/view/NISX20261023_0003839276",
      "press": "뉴시스"
+    },
+    {
+     "t": "[오늘의 날씨] 충북·세종(24일, 토)…오후부터 5~10㎜ 비 소식",
+     "u": "https://www.news1.kr/local/sejong-chungbuk/6330351",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "다우 존스 산업평균지수",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "나스닥 급락했지만…위기의 코스피, 솔리다임이 살렸다",
+     "u": "https://www.hankyung.com/article/202610231404i",
+     "press": "한국경제"
+    },
+    {
+     "t": "뉴욕증시, 중동확전 우려·유가 급등에 하락…다우 1.2%↓(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261024005251072",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "뉴욕 증시, 메타 AI 투자 우려와 테슬라 로봇 지연 충격",
+     "u": "https://story.pay.naver.com/content/3769_39_C9",
+     "press": "네이버페이 머니스토리"
+    }
+   ]
+  },
+  {
+   "name": "국제선",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 10년 묵은 국제선 유류할증료 산정 기준 내년 3월부터 바뀐다",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8693778",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "[2026 국감] 홍지선 국토장관 \"항공 유류할증료, 내년 3월까지 개편 마무리\"",
+     "u": "https://www.newspim.com/news/view/20261023000837",
+     "press": "뉴스핌"
+    },
+    {
+     "t": "[친절한 경제] 유류할증료, 이만큼 안 내도 됐다?…후쿠오카 노선 반전",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809171",
+     "press": "SBS 뉴스"
     }
    ]
   }
