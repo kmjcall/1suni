@@ -1,221 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261024",
- "updated": "2026-10-24T08:43:35+09:00",
+ "targetDate": "20261025",
+ "updated": "2026-10-25T07:49:48+09:00",
  "list": [
   {
-   "name": "스마트 폰",
+   "name": "삼성전자",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "1분 만에 품절된 아이폰 듀오, 지금 주문해도 내년에 받는다고?",
-     "u": "https://story.pay.naver.com/content/3775_3_C1",
-     "press": "네이버페이 머니스토리"
+     "t": "'코스피 50%' 붕괴된 삼전닉스…대안 없는 코스피 '수급 공백' 비상",
+     "u": "https://www.news1.kr/finance/general-stock/6330538",
+     "press": "뉴스1"
     },
     {
-     "t": "아이폰 듀오, 출시 첫날부터 품귀…“공급망 준비 안 돼”",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8694196",
-     "press": "KBS 뉴스"
+     "t": "\"삼전닉스 해도 해도 너무해…지금 주가, 최악 시나리오까지 반영\"",
+     "u": "https://www.newsis.com/view/NISX20261023_0003837991",
+     "press": "뉴시스"
     },
     {
-     "t": "\"아이폰 듀오 구매하면 아이패드 또는 애플워치 무료\"",
-     "u": "https://www.koreadaily.com/article/20261023011632751",
-     "press": "미주중앙일보"
+     "t": "\"바닥 확인했다\" '금융위기급 저평가' 삼전닉스, W자 반등한다는데 언제쯤?[주末머니]",
+     "u": "https://core.asiae.co.kr/article/2026102210593709714",
+     "press": "아시아경제"
     }
    ]
   },
   {
-   "name": "당구",
-   "idx": 100,
+   "name": "이강인",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "조재호도 64강 문턱서 고배…PBA 5차 투어, 강호들 잇단 탈락에 이변 확산",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=845158",
+     "t": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전",
+     "u": "https://www.jemin.com/news/articleView.html?idxno=845223",
      "press": "제민일보"
     },
     {
-     "t": "'당구 여제' 김가영, LPBA 5차 투어 8강행…정수빈은 탈락",
-     "u": "https://www.newsis.com/view/NISX20261023_0003837849",
-     "press": "뉴시스"
+     "t": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694453",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "\"언니 잘 좀 해봐\" 자극 받았나, 김보미 극적 8강 진출... 정작 우승자 정수빈은 '승승패패패' 16강서 탈락 [PBA 투어] - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/23/2026102309452976520",
+     "t": "\"이강인, ATM서 돋보인 몇 안 되는 선수\" 스페인 현지도 인정... \"두 번이나 멋진 골에 가까웠다\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/25/2026102506433953233",
      "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "태풍 경로",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시",
-     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148974197&pWise=sub&pWiseSub=R1",
-     "press": "대한민국 정책브리핑"
-    },
-    {
-     "t": "‘10월 태풍’ 참피 북상…이 시각 제주는?",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8694174",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "태풍 참피, 대만 이어 日열도로…\"트럭 전복 수준 강풍\" 우려(종합2보)",
-     "u": "https://www.yna.co.kr/view/AKR20261023090952009",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "신애라",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"새 식구 생겨\"' 신애라♥차인표, 며느리 언급…\"가족 모습 달라져\" ('애라네')",
-     "u": "https://www.koreadaily.com/article/20261023091808265",
-     "press": "미주중앙일보"
-    },
-    {
-     "t": "'차인표♥' 신애라, 아찔한 차량 '사고' 깜짝…\"정말 놀랐다\" ('애라네') - 조선비즈",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/24/MI3TMYLBHFTDCY3GMVSWKNLGMU/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "'차인표♥' 신애라, 다 큰 아들·입양 딸 성장에 울컥 \"너무 빨리 자라\" (신애라이프)",
-     "u": "https://www.xportsnews.com/article/2210881",
-     "press": "엑스포츠뉴스"
-    }
-   ]
-  },
-  {
-   "name": "선수",
+   "name": "이다해",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
-     "u": "https://www.joongang.co.kr/article/25471632",
-     "press": "중앙일보"
-    },
-    {
-     "t": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
-     "u": "https://www.nocutnews.co.kr/news/6594086",
-     "press": "노컷뉴스"
-    },
-    {
-     "t": "'레이스 중 생리 터졌다!' 투혼으로 완주한 박서연…팬들 갑론을박 \"멋있다!\" VS \"큰일 당하면 어쩌려고\"",
-     "u": "https://www.osen.co.kr/article/G1112896184",
-     "press": "OSEN"
-    }
-   ]
-  },
-  {
-   "name": "강예원",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "강예원, 부친 빚 10억에 눈물…\"집 내놓고 엄마 집으로\"",
-     "u": "https://www.hankyung.com/article/2026102319377",
-     "press": "한국경제"
-    },
-    {
-     "t": "강예원, 고인인 부친 빚 상환 위에 살던 집 처분한다",
-     "u": "https://sports.khan.co.kr/article/202610231750003",
-     "press": "스포츠경향"
-    },
-    {
-     "t": "강예원, 돌아가신 아버지 11억 빚 고백 후 집 내놨다…\"20년 만에 엄마 집으로\"",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16256197",
-     "press": "TopStarNews"
-    }
-   ]
-  },
-  {
-   "name": "코어장전",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[롤드컵] '코어장전' 조용인, \"스위스 스테이지 벽 부수고 싶다\"",
-     "u": "https://www.dailyesports.com/view.php?ud=20261023014102731b91e133c1f_27",
-     "press": "데일리e스포츠"
-    },
-    {
-     "t": "‘코어장전’ 조용인 “올해 LCS 강해⋯8강 진출 자신”",
-     "u": "https://www.kmib.co.kr/article/20261023500007",
-     "press": "국민일보"
-    }
-   ]
-  },
-  {
-   "name": "대전날씨",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "대전·세종·충남 곳에 따라 비…낮 최고 20도",
-     "u": "https://www.yna.co.kr/view/AKR20261024007000063",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "충남권 대체로 흐리고 오후 곳에 따라 5~10㎜ 비",
-     "u": "https://www.newsis.com/view/NISX20261023_0003839276",
+     "t": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
+     "u": "https://www.newsis.com/view/NISX20261024_0003839708",
      "press": "뉴시스"
     },
     {
-     "t": "[오늘의 날씨] 충북·세종(24일, 토)…오후부터 5~10㎜ 비 소식",
-     "u": "https://www.news1.kr/local/sejong-chungbuk/6330351",
-     "press": "뉴스1"
+     "t": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/",
+     "press": "조선일보"
+    },
+    {
+     "t": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
+     "u": "https://www.asiae.co.kr/article/2026102008105864202",
+     "press": "아시아경제"
     }
    ]
   },
   {
-   "name": "다우 존스 산업평균지수",
+   "name": "박현호",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "나스닥 급락했지만…위기의 코스피, 솔리다임이 살렸다",
-     "u": "https://www.hankyung.com/article/202610231404i",
-     "press": "한국경제"
+     "t": "은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송",
+     "u": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026180240-01-000_MFSC3&program_code=T2016-0651&program_id=PS-2026180240-01-000&section_code=04&broadcast_complete_yn=N&section_id=10737",
+     "press": "대한민국 대표 공영미디어 KBS"
     },
     {
-     "t": "뉴욕증시, 중동확전 우려·유가 급등에 하락…다우 1.2%↓(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261024005251072",
+     "t": "은가은, 행사장서 헛구역질…박현호 임신테스트기 꺼냈다",
+     "u": "https://www.newsis.com/view/NISX20261024_0003839415",
+     "press": "뉴시스"
+    },
+    {
+     "t": "‘살림남’ 은가은, 엔믹스 설윤 실물에 감탄 “딸도 이렇게 얼굴 작았으면”",
+     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/522340",
+     "press": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "name": "포스코노동조합",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
+     "u": "https://www.yna.co.kr/view/AKR20261024019100053",
      "press": "연합뉴스"
     },
     {
-     "t": "뉴욕 증시, 메타 AI 투자 우려와 테슬라 로봇 지연 충격",
-     "u": "https://story.pay.naver.com/content/3769_39_C9",
-     "press": "네이버페이 머니스토리"
+     "t": "양측 대표 만났지만…포스코 노사 임단협 또 결렬",
+     "u": "https://www.namdonews.com/news/articleView.html?idxno=927066",
+     "press": "남도일보"
+    },
+    {
+     "t": "이희근 포스코 사장 나섰지만…노조, 11월2일부터 무기한 파업",
+     "u": "https://www.ddaily.co.kr/page/view/2026102321241916609",
+     "press": "디지털데일리"
     }
    ]
   },
   {
-   "name": "국제선",
+   "name": "로스앤젤레스 fc",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] 10년 묵은 국제선 유류할증료 산정 기준 내년 3월부터 바뀐다",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8693778",
+     "t": "“제가 그 누구보다 가장 열렬한 팬” 떠난 지 1년 반 지났음에도… 여전한 ‘토트넘 사랑’ 손흥민 ‘오피셜’ 공식입장 “아직도 그립습니다”",
+     "u": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8C%E1%85%A6%E1%84%80%E1%85%A1-%E1%84%80%E1%85%B3-%E1%84%82%E1%85%AE%E1%84%80%E1%85%AE%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%91%E1%85%A2%E1%86%AB-%E1%84%84%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5-1%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%87%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5%E1%84%82%E1%85%A1%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A9--%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1/blt6a6769789d0804f2",
+     "press": "Goal.com"
+    },
+    {
+     "t": "`메시와 리그 1위 경쟁` 손흥민, LAFC 역사 쓴다…`단일 시즌 최다 어시스트 눈앞`",
+     "u": "https://mydaily.co.kr/page/view/2026102122345748951",
+     "press": "마이데일리"
+    },
+    {
+     "t": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연",
+     "u": "https://www.yna.co.kr/view/AKR20261020034800371",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "메이저 리그 사커",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
+     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701",
+     "press": "포포투"
+    },
+    {
+     "t": "손흥민보다 대단했다…미국서 18경기 13골 6도움 “입단 3개월만 팀 송두리째 바꿔놔”",
+     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99696",
+     "press": "포포투"
+    },
+    {
+     "t": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
+     "u": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995",
+     "press": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "name": "대구날씨",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "대구·경북 흐리고 가끔 비…동해안 5∼40㎜",
+     "u": "https://www.yna.co.kr/view/AKR20261025002900053",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "대구·경북 내일까지 비 10~50mm…아침 최저 12~15도",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694388",
      "press": "KBS 뉴스"
     },
     {
-     "t": "[2026 국감] 홍지선 국토장관 \"항공 유류할증료, 내년 3월까지 개편 마무리\"",
-     "u": "https://www.newspim.com/news/view/20261023000837",
+     "t": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
+     "u": "https://www.newspim.com/news/view/20261024000014",
      "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "김장",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“김장 양념이 남았네”…재료별 사용량 적어 구매량 조절",
+     "u": "https://www.vegannews.co.kr/news/article.html?no=396589",
+     "press": "비건뉴스"
     },
     {
-     "t": "[친절한 경제] 유류할증료, 이만큼 안 내도 됐다?…후쿠오카 노선 반전",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809171",
-     "press": "SBS 뉴스"
+     "t": "괴산 절임배추 20㎏에 4만5000원…구로구에서 산다",
+     "u": "https://www.newsis.com/view/NISX20261023_0003839004",
+     "press": "뉴시스"
+    },
+    {
+     "t": "“김치냉장고 채우러 가볼까”...전국 곳곳 ‘김장 축제’ 잇따라",
+     "u": "https://www.nongmin.com/article/20261022500137",
+     "press": "농민신문"
+    }
+   ]
+  },
+  {
+   "name": "f1",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Kimi Antonelli wary of Red Bull threat as maiden F1 title chance intensifies",
+     "u": "https://racingnews365.com/kimi-antonelli-wary-of-red-bull-threat-as-maiden-f1-title-chance-intensifies",
+     "press": "RacingNews365"
+    },
+    {
+     "t": "Kimi Antonelli seals United States GP pole amid Russell and Hamilton blow",
+     "u": "https://www.planetf1.com/news/united-states-gp-antonelli-seals-pole-amid-russell-and-hamilton-setback",
+     "press": "PlanetF1"
+    },
+    {
+     "t": "Four Key Takeaways After Qualifying in America",
+     "u": "https://www.gpblog.com/en/analysis/the-four-key-takeaways-after-qualifying-for-the-united-states-grand-prix",
+     "press": "GPblog"
     }
    ]
   }
