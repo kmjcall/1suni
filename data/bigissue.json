@@ -1,57 +1,13 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261025",
- "updated": "2026-10-25T07:49:48+09:00",
+ "targetDate": "20261026",
+ "updated": "2026-10-26T08:02:21+09:00",
  "list": [
   {
-   "name": "삼성전자",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'코스피 50%' 붕괴된 삼전닉스…대안 없는 코스피 '수급 공백' 비상",
-     "u": "https://www.news1.kr/finance/general-stock/6330538",
-     "press": "뉴스1"
-    },
-    {
-     "t": "\"삼전닉스 해도 해도 너무해…지금 주가, 최악 시나리오까지 반영\"",
-     "u": "https://www.newsis.com/view/NISX20261023_0003837991",
-     "press": "뉴시스"
-    },
-    {
-     "t": "\"바닥 확인했다\" '금융위기급 저평가' 삼전닉스, W자 반등한다는데 언제쯤?[주末머니]",
-     "u": "https://core.asiae.co.kr/article/2026102210593709714",
-     "press": "아시아경제"
-    }
-   ]
-  },
-  {
-   "name": "이강인",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "이강인, 챔피언스리그 결장 후 라리가 선발 복귀…아틀레티코는 선두 추격 도전",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=845223",
-     "press": "제민일보"
-    },
-    {
-     "t": "이강인, 부상 우려 씻고 67분 활약…아틀레티코 라리가 6연승",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694453",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "\"이강인, ATM서 돋보인 몇 안 되는 선수\" 스페인 현지도 인정... \"두 번이나 멋진 골에 가까웠다\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/25/2026102506433953233",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
    "name": "이다해",
-   "idx": 10,
-   "mv": "NEW",
+   "idx": 100,
+   "mv": 2,
    "news": [
     {
      "t": "이다해, '중국풍' 외모 지적에 \"조금씩 달라지는 내 모습 즐겨\"",
@@ -59,168 +15,207 @@
      "press": "뉴시스"
     },
     {
-     "t": "이다해, 출산 앞두고 난데없는 성형설..'중국인' 스태프 때문이었다 [핫피플]",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/25/MU3TKMZYMJRGMM3FME2TCZRTME/",
-     "press": "조선일보"
+     "t": "이다해, 성형 의혹…\"中 스태프와 작업한 새로운 내 모습\" 직접 해명",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6330864",
+     "press": "뉴스1"
     },
     {
-     "t": "\"2시간 만에 200억\"…이다해 출연한 中 광군제 라이브커머스 '대박'",
-     "u": "https://www.asiae.co.kr/article/2026102008105864202",
-     "press": "아시아경제"
+     "t": "\"나에게도 낯선 모습\"…이다해, 성형설 직접 해명 나선 속사정 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/24/2026102421295420245",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "박현호",
-   "idx": 5,
+   "name": "天气",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "은가은♥박현호, 신나는 부부 동반 행사 | KBS 261024 방송",
-     "u": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026180240-01-000_MFSC3&program_code=T2016-0651&program_id=PS-2026180240-01-000&section_code=04&broadcast_complete_yn=N&section_id=10737",
-     "press": "대한민국 대표 공영미디어 KBS"
+     "t": "US south-west braces for more storms after enduring days of rain and flooding",
+     "u": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+     "press": "The Guardian"
     },
     {
-     "t": "은가은, 행사장서 헛구역질…박현호 임신테스트기 꺼냈다",
-     "u": "https://www.newsis.com/view/NISX20261024_0003839415",
+     "t": "More flooding possible in Four Corners region after days of heavy rain",
+     "u": "https://www.nbcnews.com/weather/storms/flooding-possible-four-corners-region-days-heavy-rain-rcna605577",
+     "press": "NBC News"
+    },
+    {
+     "t": "Flash-flood threat continues in the Southwest, but outlook is improving",
+     "u": "https://abcnews.com/US/flash-flood-threat-continues-southwest-midwest-outlook-improving/story?id=137550606",
+     "press": "ABC News - Breaking News, Latest News and Videos"
+    }
+   ]
+  },
+  {
+   "name": "이시영",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "이시영, 수영복 입고 수유…\"제일 중요한 일과\"",
+     "u": "https://www.newsis.com/view/NISX20261025_0003840220",
      "press": "뉴시스"
     },
     {
-     "t": "‘살림남’ 은가은, 엔믹스 설윤 실물에 감탄 “딸도 이렇게 얼굴 작았으면”",
-     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/522340",
-     "press": "iMBC 연예"
+     "t": "‘이혼’ 이시영, 전 남편 동의없이 임신한 둘째 딸 럭셔리 돌잔치…행복한 세 식구[핫피플] - 조선비즈",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/10/26/MQ2WKZTBG43DIY3DMY2TAZDBGA/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "이시영, 수영복 입고 딸 분유 수유…품에 안고 엄마 미소 [N샷]",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6331182",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "포스코노동조합",
-   "idx": 5,
+   "name": "손지창",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "포스코노사 임금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
-     "u": "https://www.yna.co.kr/view/AKR20261024019100053",
-     "press": "연합뉴스"
+     "t": "손지창, 26년째 이벤트 회사 운영…\"최대 연 매출 60억\"",
+     "u": "https://www.newsis.com/view/NISX20261025_0003840218",
+     "press": "뉴시스"
     },
     {
-     "t": "양측 대표 만났지만…포스코 노사 임단협 또 결렬",
-     "u": "https://www.namdonews.com/news/articleView.html?idxno=927066",
-     "press": "남도일보"
-    },
-    {
-     "t": "이희근 포스코 사장 나섰지만…노조, 11월2일부터 무기한 파업",
-     "u": "https://www.ddaily.co.kr/page/view/2026102321241916609",
-     "press": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "name": "로스앤젤레스 fc",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“제가 그 누구보다 가장 열렬한 팬” 떠난 지 1년 반 지났음에도… 여전한 ‘토트넘 사랑’ 손흥민 ‘오피셜’ 공식입장 “아직도 그립습니다”",
-     "u": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8C%E1%85%A6%E1%84%80%E1%85%A1-%E1%84%80%E1%85%B3-%E1%84%82%E1%85%AE%E1%84%80%E1%85%AE%E1%84%87%E1%85%A9%E1%84%83%E1%85%A1-%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%85%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%91%E1%85%A2%E1%86%AB-%E1%84%84%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5-1%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%87%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%B5%E1%84%82%E1%85%A1%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A9--%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%86%BC-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AF-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%8B%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A9-%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%89%E1%85%B3%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1/blt6a6769789d0804f2",
-     "press": "Goal.com"
-    },
-    {
-     "t": "`메시와 리그 1위 경쟁` 손흥민, LAFC 역사 쓴다…`단일 시즌 최다 어시스트 눈앞`",
-     "u": "https://mydaily.co.kr/page/view/2026102122345748951",
-     "press": "마이데일리"
-    },
-    {
-     "t": "[동포의 창] 한인청소년합창단, 손흥민 출전 경기서 美 국가 제창·K팝 공연",
-     "u": "https://www.yna.co.kr/view/AKR20261020034800371",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "메이저 리그 사커",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
-     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701",
-     "press": "포포투"
-    },
-    {
-     "t": "손흥민보다 대단했다…미국서 18경기 13골 6도움 “입단 3개월만 팀 송두리째 바꿔놔”",
-     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99696",
-     "press": "포포투"
-    },
-    {
-     "t": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
-     "u": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995",
+     "t": "\"연 매출 60억\" 손지창, 배우 활동 뜸하더니...26년째 이벤트 회사 운영",
+     "u": "https://www.sportschosun.com/entertainment/2026-10-25/202610250100157940010284",
      "press": "스포츠조선"
     }
    ]
   },
   {
-   "name": "대구날씨",
-   "idx": 5,
+   "name": "장례",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "대구·경북 흐리고 가끔 비…동해안 5∼40㎜",
-     "u": "https://www.yna.co.kr/view/AKR20261025002900053",
-     "press": "연합뉴스"
+     "t": "“지금 여야는 원수 중의 원수”…故최형우 빈소서 나온 정치권 자성",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=02368166645616528&mediaCodeNo=257",
+     "press": "이데일리"
     },
     {
-     "t": "대구·경북 내일까지 비 10~50mm…아침 최저 12~15도",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694388",
-     "press": "KBS 뉴스"
+     "t": "최형우가 남긴 ‘통합’ 메시지 [김태훈의 의미 또는 재미]",
+     "u": "https://m.segye.com/view/20261025502360",
+     "press": "세계일보"
     },
     {
-     "t": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
-     "u": "https://www.newspim.com/news/view/20261024000014",
-     "press": "뉴스핌"
+     "t": "\"자리 탐하지 마라, 돈은 흘려 보내라… 충고하던 모습이 아직도 아른거려\"",
+     "u": "https://www.chosun.com/politics/politics_general/2026/10/26/FOA7C5U35VB2DIAHTC54Y4OG3A/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "김장",
-   "idx": 5,
+   "name": "lcs",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "“김장 양념이 남았네”…재료별 사용량 적어 구매량 조절",
-     "u": "https://www.vegannews.co.kr/news/article.html?no=396589",
-     "press": "비건뉴스"
+     "t": "BB to run alternative to SWIFT for local LCs",
+     "u": "https://www.newagebd.net/post/banking/319567/bb-to-run-alternative-to-swift-for-local-lcs",
+     "press": "New Age BD"
     },
     {
-     "t": "괴산 절임배추 20㎏에 4만5000원…구로구에서 산다",
-     "u": "https://www.newsis.com/view/NISX20261023_0003839004",
-     "press": "뉴시스"
+     "t": "KC Canna on LEC teams’ chances: \"Reaching the semifinals or beyond is a realisti",
+     "u": "https://www.sheepesports.com/en/articles/kc-canna-reaching-the-semifinals-or-beyond-is-a-realistic-possibility/en",
+     "press": "Sheep Esports"
     },
     {
-     "t": "“김치냉장고 채우러 가볼까”...전국 곳곳 ‘김장 축제’ 잇따라",
-     "u": "https://www.nongmin.com/article/20261022500137",
-     "press": "농민신문"
+     "t": "TL Josedeodo On The Struggles Vs BLG: \"We Never Forced The Situations.\"",
+     "u": "https://www.hotspawn.com/league-of-legends/news/tl-josedeodo-worlds-2026-interview",
+     "press": "Hotspawn"
     }
    ]
   },
   {
-   "name": "f1",
+   "name": "บาร์ซา พบ เรอัลมาดริด",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Kimi Antonelli wary of Red Bull threat as maiden F1 title chance intensifies",
-     "u": "https://racingnews365.com/kimi-antonelli-wary-of-red-bull-threat-as-maiden-f1-title-chance-intensifies",
-     "press": "RacingNews365"
+     "t": "[สตรมความคมชดสง (HD)] บารเซโลนา พบ เรอล มาดรด",
+     "u": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-hd-newtv-03",
+     "press": "FC東京オフィシャルホームページ"
     },
     {
-     "t": "Kimi Antonelli seals United States GP pole amid Russell and Hamilton blow",
-     "u": "https://www.planetf1.com/news/united-states-gp-antonelli-seals-pole-amid-russell-and-hamilton-setback",
-     "press": "PlanetF1"
+     "t": "+![TOTAL SPORTEK]! บาร์เซโลน่า vs เรอัล มาดริด Barcelona vs Real Madrid ถ่ายทอดส",
+     "u": "https://fabrykanorblina.pl/wp-content/uploads/spacer/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-vs-barcelona-vs-real-madrid-lie-en-hijrkgv",
+     "press": "Fabryka Norblina"
     },
     {
-     "t": "Four Key Takeaways After Qualifying in America",
-     "u": "https://www.gpblog.com/en/analysis/the-four-key-takeaways-after-qualifying-for-the-united-states-grand-prix",
-     "press": "GPblog"
+     "t": "[ชมฟร] การแขงขนระหวาง บารเซโลนา พบ เรอล มาดรด",
+     "u": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9ib2thLyIvPjwva3JwYW5vPg==&id=video-%E0%B8%8A%E0%B8%A1%E0%B8%9F%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%87-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B9%82%E0%B8%A5%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%9A-%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%94-newtv",
+     "press": "FC東京オフィシャルホームページ"
+    }
+   ]
+  },
+  {
+   "name": "lyon",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Lorenzo Musetti, vainqueur de l'ATP 250 de Lyon après une belle semaine : « L'es",
+     "u": "https://www.lequipe.fr/Tennis/Actualites/Lorenzo-musetti-vainqueur-de-l-atp-250-de-lyon-apres-une-belle-semaine-l-esprit-de-combat-a-ete-la-clef/1738545",
+     "press": "L'Équipe"
+    },
+    {
+     "t": "Musetti – Fritz : heure, chaîne TV et analyse de la finale ATP 250 de Lyon",
+     "u": "https://www.universtennis.com/2026/10/24/atp-250-lyon-musetti-fritz-une-finale-de-haut-niveau-pour-la-premiere-du-tournoi/",
+     "press": "Univers Tennis"
+    },
+    {
+     "t": "Tennis : à Lyon, Musetti brise enfin sa malédiction",
+     "u": "https://pensebet.com/tennis-musetti-titre-atp-lyon-fritz/",
+     "press": "PenseBet"
+    }
+   ]
+  },
+  {
+   "name": "barca",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Partita di calcio in diretta: Barcellona 0-0 Real Madrid: Occhio per occhio (Pri",
+     "u": "https://www.vietnam.vn/it/truc-tiep-bong-da-barca-0-0-real-madrid-an-mieng-tra-mieng-h1",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "📸 Comiche al Clásico! Il Barça regala il vantaggio a Ginocchio-lian Mbappé",
+     "u": "https://onefootball.com/it/notizie/comiche-al-clasico-il-barca-regala-il-vantaggio-a-ginocchio-lian-mbappe-43671935",
+     "press": "OneFootball"
+    },
+    {
+     "t": "E' la notte di Mbappé, un Clasico da Pallone d'Oro: stende il Barcellona, fa 100",
+     "u": "https://www.calciomercato.com/liste/e-la-notte-di-mbappe-un-clasico-da-pallone-d-oro-stende-il-barcellona-fa-100-con-il-real-madrid-e-batte-benzema-e-cristiano-ronaldo/bltdb9af1935e4d108c",
+     "press": "Calciomercato"
+    }
+   ]
+  },
+  {
+   "name": "퇴직",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "입사 후도 퇴직 후도 차별? 도로공사 현장지원직 ‘이중고’",
+     "u": "https://www.labortoday.co.kr/news/articleView.html?idxno=237388",
+     "press": "매일노동뉴스"
+    },
+    {
+     "t": "“그대로 옮긴다더니 강제 매도?”…퇴직연금 실물이전의 함정 [머니 트레이스]",
+     "u": "https://www.sedaily.com/article/20105602",
+     "press": "서울경제"
+    },
+    {
+     "t": "\"돈 더 벌 줄 알았는데…\" 노후자금 성적표 받아보니 '의외네' [김연지의 연금빌드업]",
+     "u": "https://www.hankyung.com/article/2026102311016",
+     "press": "한국경제"
     }
    ]
   }
