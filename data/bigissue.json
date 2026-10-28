@@ -1,221 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261027",
- "updated": "2026-10-27T09:12:17+09:00",
+ "targetDate": "20261028",
+ "updated": "2026-10-28T09:12:58+09:00",
  "list": [
   {
-   "name": "광명시",
+   "name": "하이닉스 실적발표",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "은평구, 30일 산불·인파사고 가정 '재난대응 훈련'",
-     "u": "https://www.yna.co.kr/view/AKR20261026129000004",
-     "press": "연합뉴스"
+     "t": "SK하이닉스, 2026년 3분기 경영실적 발표",
+     "u": "https://news.skhynix.co.kr/q3-2026-business-results/",
+     "press": "SK hynix"
     },
     {
-     "t": "구조물 붕괴에서 전기차 화재까지…연쇄 재난 대응 훈련",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8692969",
+     "t": "[속보] SK하이닉스, 3분기 영업이익 83조원...60조원 추가 주주환원",
+     "u": "https://www.chosun.com/economy/tech_it/2026/10/28/YPLXTGY4P5GQRLQ5G7JCKRATZQ/",
+     "press": "조선일보"
+    },
+    {
+     "t": "[속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+     "u": "https://www.mk.co.kr/news/business/12188015",
+     "press": "매일경제"
+    }
+   ]
+  },
+  {
+   "name": "창신 메모리 테크놀로지",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
+     "u": "https://www.mk.co.kr/news/business/12187432",
+     "press": "매일경제"
+    },
+    {
+     "t": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
+     "u": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/",
+     "press": "조선일보"
+    },
+    {
+     "t": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026",
+     "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "기온",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "파주·철원 등 -2도...10월말 초겨울 추위 원인은?",
+     "u": "https://www.ytn.co.kr/_ln/0115_202610280700340616",
+     "press": "YTN"
+    },
+    {
+     "t": "[출근길 날씨] 출근길 서울 체감온도 0도…내륙 대부분 한파주의보",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8697173",
      "press": "KBS 뉴스"
     },
     {
-     "t": "중구, 2026년 재난대응 안전한국훈련 실시",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261026.99099007608",
+     "t": "출근길 곳곳 영하권‥올가을 들어 가장 춥다",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861228_37012.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "별자리",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[오늘의 운세] 2026년 10월 28일 띠별 운세",
+     "u": "https://www.ytn.co.kr/_ln/0121_202610280000000001",
+     "press": "YTN"
+    },
+    {
+     "t": "오늘의 운세 - 2026년 10월 28일 수요일(음력 9월 18일)",
+     "u": "https://ujnews.co.kr/news/newsview.php?ncode=1065584319528119",
+     "press": "울산종합일보"
+    },
+    {
+     "t": "[카드뉴스로 읽는 오늘의 운세] 10월 28일(수요일) 춘강 구박사가 알려주는 생년월일 금전운은?",
+     "u": "https://m.joongdo.co.kr/view.php?key=20261028010004378",
+     "press": "중도일보"
+    }
+   ]
+  },
+  {
+   "name": "수험",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1335097",
+     "press": "인천일보"
+    },
+    {
+     "t": "수능 끝나면 오세요…용인 포은아트홀서 ‘수험생 힐링 콘서트’",
+     "u": "https://www.munhwa.com/article/11626458",
+     "press": "문화일보"
+    },
+    {
+     "t": "용인시, 수능 마친 수험생에 쉼표…‘도서관서 재충전’ 프로그램",
+     "u": "https://view.asiae.co.kr/article/2026102609100406789",
+     "press": "아시아경제"
+    }
+   ]
+  },
+  {
+   "name": "공중강습",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "육군 제2신속대응사단, 공정·공중강습 훈련",
+     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261027_0021506435&pID=1&cID=&sID=1&type=photoMain&idx=5",
+     "press": "뉴시스"
+    },
+    {
+     "t": "낙하산으로 적 후방 침투…육군 공정·공중강습작전 훈련",
+     "u": "https://www.yna.co.kr/view/AKR20261027136300504",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "육군 2신속대응사단, 헬기 12대로 적 후방 침투…기계화부대 공격 길 연다",
+     "u": "https://www.newspim.com/news/view/20261027001516",
+     "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "묀헨글라트바흐 대 카를스루에",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Borussia M'gladbach vs Karlsruher SC: German DFB Pokal stats & head-to-head",
+     "u": "https://www.bbc.com/sport/football/live/cjqlnk3e6gp5t",
+     "press": "BBC"
+    },
+    {
+     "t": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruh",
+     "u": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html",
+     "press": "Yahoo Sports"
+    },
+    {
+     "t": "Licensable picture: DFB-Pokal, 2. Runde, Borussia Mönchengladbach - Karlsruher S",
+     "u": "https://www.reutersconnect.com/item/dfb-pokal-2-runde-borussia-monchengladbach-karlsruher-sc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMWkNYS04",
+     "press": "Reuters Connect"
+    }
+   ]
+  },
+  {
+   "name": "허문회",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독]이택근 롯데 신임 단장의 첫 승부수…허문회 전 감독 코치 영입·박승민 2군 감독 내정",
+     "u": "https://www.munhwa.com/article/11626742",
+     "press": "문화일보"
+    },
+    {
+     "t": "20년 만에 돌아온 롯데 이동욱 감독, 9년 '암흑기' 끝낼까",
+     "u": "https://www.newsis.com/view/NISX20261027_0003843269",
+     "press": "뉴시스"
+    },
+    {
+     "t": "[뭐라노]데이터 기반 똑똑한 야구·수비강화…롯데의 ‘새판 짜기’",
+     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.99099007594",
      "press": "국제신문"
     }
    ]
   },
   {
-   "name": "이차전지",
-   "idx": 100,
+   "name": "신상진",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "지아이텍, KCC글라스와 32억 규모 공급 계약 체결",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=03099606645616856",
-     "press": "마켓인"
+     "t": "신상진 성남시장 “국토부, 분당 재건축 발목 잡아…이율배반 행정” 강력 성토",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1335230",
+     "press": "인천일보"
     },
     {
-     "t": "지아이텍, 자동차 유리 검사장비 신규 수주…“전방산업 다변화 성과”",
-     "u": "https://www.munhwa.com/article/11626187",
-     "press": "문화일보"
+     "t": "정부, 분당재건축 교통영향평가 요구…성남시 “2차 특별정비구역 차질 우려”",
+     "u": "https://www.kyeonggi.com/article/20261027580154",
+     "press": "경기일보"
     },
     {
-     "t": "지아이텍, 32억 규모 원판 글래스 검사기 계약",
-     "u": "https://www.newsis.com/view/NISX20261026_0003840747",
-     "press": "뉴시스"
+     "t": "국토부 '뒷북 지침'에 뿔난 성남시…\"분당 재건축 1.3만가구 무산 위기\" - 머니투데이",
+     "u": "https://www.mt.co.kr/policy/2026/10/27/2026102711224187504",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "병역 기피",
-   "idx": 50,
+   "name": "브라질",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "유승준 비자발급 취소 소송 또 대법원 판단...LA 총영사 상고",
-     "u": "https://www.ytn.co.kr/_ln/0103_202610262315217323",
-     "press": "YTN"
-    },
-    {
-     "t": "'병역기피' 유승준 세번째 비자 소송 대법으로…LA총영사측 상고",
-     "u": "https://www.yna.co.kr/view/AKR20261026161500004",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "유승준 세 번째 비자소송도 대법 간다…주LA총영사관 상고",
-     "u": "https://www.newsis.com/view/NISX20261026_0003841399",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "제네시스 gv80",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "제네시스 GV80 Hybrid 후륜 기반 2.5 터보 하이브리드 시스템 주요 특징 인포그래픽",
-     "u": "https://newsroom.genesis.com/ko-ko/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%9B%84%EB%A5%9C-%EA%B8%B0%EB%B0%98-2-.5-%ED%84%B0%EB%B3%B4-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C/",
-     "press": "Genesis Newsroom"
-    },
-    {
-     "t": "주행거리 840㎞… 엔진 작동 뒤에도 매끄러운 승차감",
-     "u": "https://www.chosun.com/economy/auto/2026/10/27/5NSWWGTKXREJNAOIVDBXNGM2V4/",
+     "t": "브라질 룰라 당선되자... 보우소나루는 여권 뺏기고 출국금지",
+     "u": "https://www.chosun.com/international/international_general/2026/10/27/X46MBDQ2EZBGZGB7X5Z6E3R6SQ/",
      "press": "조선일보"
     },
     {
-     "t": "[시승기] 제네시스 첫 두 개의 심장 'GV80 하이브리드', 고성능에 연비도 잡았다",
-     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=450289",
-     "press": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "name": "욕망의 덫",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘욕망의 덫’ 장세현 죽음에 전혜원 오열…“나만 믿어라” 결국 복수 칼 뺐다",
-     "u": "https://www.wikitree.co.kr/articles/1169353",
-     "press": "위키트리"
+     "t": "바쁘다 바빠, 시진핑 中 주석 전보 외교",
+     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261028010009616",
+     "press": "아시아투데이"
     },
     {
-     "t": "'욕망의 덫' 장서희, 비밀 합의서 포착… 과거 교통사고 추적한다",
-     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3728551",
-     "press": "국제뉴스"
-    },
-    {
-     "t": "“남편 죽은 날 다 기억 나” 박소연, 유태웅 은폐 시도 폭로…’욕망의 덫’ 최고 긴장감",
-     "u": "https://mhnse.com/news/articleView.html?idxno=1603324",
-     "press": "MHN스포츠"
-    }
-   ]
-  },
-  {
-   "name": "체포",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "마크롱 “폭력 사태에 SNS 탓”…정부는 대입 제도 개편안",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8695877",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "\"교사 늘리고 대입 플랫폼 개선\"...핼러윈 시위 '강행'",
-     "u": "https://www.ytn.co.kr/_ln/0104_202610270801156017",
-     "press": "YTN"
-    },
-    {
-     "t": "佛 극우후보 르펜 ‘구국영웅 잔다르크’ 이미지로 대선 출정식",
-     "u": "https://www.donga.com/news/Inter/article/all/20261026/134909118/1",
-     "press": "동아일보"
-    }
-   ]
-  },
-  {
-   "name": "지게차",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[르포]\"시신 운구차에 남편 장화가…\" 지게차 참변에 유족들 울분",
-     "u": "https://www.nocutnews.co.kr/news/6596866",
-     "press": "노컷뉴스"
-    },
-    {
-     "t": "제주 축사서 숨진 40대도 지게차 무면허…경찰, 업체 과실 수사",
-     "u": "https://www.yna.co.kr/view/AKR20261026124200056",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "제주 구좌읍 지게차 사고 무면허 묵인 의혹",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=845394",
-     "press": "제민일보"
-    }
-   ]
-  },
-  {
-   "name": "psg vs olympique lyon standings",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Paris Saint-Germain vs Olympique Lyonnais: French Ligue 1 stats & head-to-head",
-     "u": "https://www.bbc.com/sport/football/live/ckpqg5048n7qt",
-     "press": "BBC"
-    },
-    {
-     "t": "How to watch PSG vs. Lyon online for free",
-     "u": "https://mashable.com/entertainment/psg-lyon-ligue-1-2026-live-stream-for-free",
-     "press": "Mashable"
-    },
-    {
-     "t": "Why is Ousmane Dembele Not Playing Today For PSG vs. Lyon?",
-     "u": "https://sports.yahoo.com/articles/why-ousmane-dembele-not-playing-191728030.html",
-     "press": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "name": "고현항",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "거제 고현항 재개발 4단계 중단에 기약없는 문화공원·주차장",
-     "u": "https://www.idomin.com/news/articleView.html?idxno=2017945",
-     "press": "경남도민일보"
-    },
-    {
-     "t": "고현항 문화공원·주차장, 누가 완성하나…기존 사업자 지정 취소 절차",
-     "u": "https://www.gjnewsplaza.com/news/articleView.html?idxno=33230",
-     "press": "거제뉴스광장"
-    }
-   ]
-  },
-  {
-   "name": "이스라엘 총선",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘나 안 뽑으면 핵폭발’ 경고…\"네타냐후 막자\" 귀국 행렬",
-     "u": "https://news.jtbc.co.kr/article/NB12324883",
-     "press": "JTBC"
-    },
-    {
-     "t": "이스라엘, 오늘 총선…‘전쟁 총리’ 네타냐후 운명은?",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8695913",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "\"접전 선거 앞둔 네타냐후, 트럼프에 추가 공개지지 요청\"",
-     "u": "https://www.yna.co.kr/view/AKR20261026028700009",
-     "press": "연합뉴스"
+     "t": "대선 패배 하루 만에‥브라질 대법원, 보우소나루 출국 금지",
+     "u": "https://imnews.imbc.com/news/2026/world/article/6860988_36925.html",
+     "press": "MBC 뉴스"
     }
    ]
   }
