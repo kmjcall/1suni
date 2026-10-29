@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261028",
- "updated": "2026-10-28T09:12:58+09:00",
+ "targetDate": "20261029",
+ "updated": "2026-10-29T09:33:46+09:00",
  "list": [
   {
-   "name": "하이닉스 실적발표",
+   "name": "삼성전자 실적발표",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "SK하이닉스, 2026년 3분기 경영실적 발표",
-     "u": "https://news.skhynix.co.kr/q3-2026-business-results/",
-     "press": "SK hynix"
-    },
-    {
-     "t": "[속보] SK하이닉스, 3분기 영업이익 83조원...60조원 추가 주주환원",
-     "u": "https://www.chosun.com/economy/tech_it/2026/10/28/YPLXTGY4P5GQRLQ5G7JCKRATZQ/",
-     "press": "조선일보"
-    },
-    {
-     "t": "[속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
-     "u": "https://www.mk.co.kr/news/business/12188015",
-     "press": "매일경제"
-    }
-   ]
-  },
-  {
-   "name": "창신 메모리 테크놀로지",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
-     "u": "https://www.mk.co.kr/news/business/12187432",
-     "press": "매일경제"
-    },
-    {
-     "t": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
-     "u": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/",
-     "press": "조선일보"
-    },
-    {
-     "t": "“CXMT, 애플의 공급 제안 거절”…중국 “메모리 자급자족”",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697026",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "기온",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "파주·철원 등 -2도...10월말 초겨울 추위 원인은?",
-     "u": "https://www.ytn.co.kr/_ln/0115_202610280700340616",
-     "press": "YTN"
-    },
-    {
-     "t": "[출근길 날씨] 출근길 서울 체감온도 0도…내륙 대부분 한파주의보",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8697173",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "출근길 곳곳 영하권‥올가을 들어 가장 춥다",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861228_37012.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "별자리",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[오늘의 운세] 2026년 10월 28일 띠별 운세",
-     "u": "https://www.ytn.co.kr/_ln/0121_202610280000000001",
-     "press": "YTN"
-    },
-    {
-     "t": "오늘의 운세 - 2026년 10월 28일 수요일(음력 9월 18일)",
-     "u": "https://ujnews.co.kr/news/newsview.php?ncode=1065584319528119",
-     "press": "울산종합일보"
-    },
-    {
-     "t": "[카드뉴스로 읽는 오늘의 운세] 10월 28일(수요일) 춘강 구박사가 알려주는 생년월일 금전운은?",
-     "u": "https://m.joongdo.co.kr/view.php?key=20261028010004378",
-     "press": "중도일보"
-    }
-   ]
-  },
-  {
-   "name": "수험",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "용인특례시, 수능 마친 수험생 위한 특별 프로그램 운영",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1335097",
-     "press": "인천일보"
-    },
-    {
-     "t": "수능 끝나면 오세요…용인 포은아트홀서 ‘수험생 힐링 콘서트’",
-     "u": "https://www.munhwa.com/article/11626458",
-     "press": "문화일보"
-    },
-    {
-     "t": "용인시, 수능 마친 수험생에 쉼표…‘도서관서 재충전’ 프로그램",
-     "u": "https://view.asiae.co.kr/article/2026102609100406789",
-     "press": "아시아경제"
-    }
-   ]
-  },
-  {
-   "name": "공중강습",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "육군 제2신속대응사단, 공정·공중강습 훈련",
-     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261027_0021506435&pID=1&cID=&sID=1&type=photoMain&idx=5",
+     "t": "삼성전자, 오늘 3Q 확정실적 발표…'HBM 공급 전략·30조 배당' 주목",
+     "u": "https://www.newsis.com/view/NISX20261028_0003845284",
      "press": "뉴시스"
     },
     {
-     "t": "낙하산으로 적 후방 침투…육군 공정·공중강습작전 훈련",
-     "u": "https://www.yna.co.kr/view/AKR20261027136300504",
+     "t": "삼성전자, 내일 3Q 확정 실적…반도체 초호황에 연간 영업익 370조원 ’청신호’ By EBN",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2144594",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "■10월 29일 목 경제 캘린더",
+     "u": "https://www.ytn.co.kr/_ln/0102_202610290508174900",
+     "press": "YTN"
+    }
+   ]
+  },
+  {
+   "name": "자산",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "금융권 전체로 번진 해킹…“북한 IP 다수 포착”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8698135",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "증권사까지 뚫렸다‥'북한 IP' 440만 건도 포착",
+     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861509_37012.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "정부, 통신3사 등 정보시설 172곳 보안 집중점검",
+     "u": "https://www.donga.com/news/Economy/article/all/20261029/134928953/2",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "호텔",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "한투증권, 호텔신라 목표가 11%↓…\"면세 업황 개선 안돼\"",
+     "u": "https://www.yna.co.kr/view/AKR20261029028600008",
      "press": "연합뉴스"
     },
     {
-     "t": "육군 2신속대응사단, 헬기 12대로 적 후방 침투…기계화부대 공격 길 연다",
-     "u": "https://www.newspim.com/news/view/20261027001516",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "묀헨글라트바흐 대 카를스루에",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Borussia M'gladbach vs Karlsruher SC: German DFB Pokal stats & head-to-head",
-     "u": "https://www.bbc.com/sport/football/live/cjqlnk3e6gp5t",
-     "press": "BBC"
+     "t": "한화투자 \"호텔신라 실적 개선에 면세점 외형성장 중요, 호텔사업 호조는 장기간 유지\"",
+     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=450583",
+     "press": "비즈니스포스트"
     },
     {
-     "t": "DFB-Pokal: Ten-man Gladbach advance after efficient performance against Karlsruh",
-     "u": "https://sports.yahoo.com/articles/dfb-pokal-ten-man-gladbach-214100742.html",
-     "press": "Yahoo Sports"
-    },
-    {
-     "t": "Licensable picture: DFB-Pokal, 2. Runde, Borussia Mönchengladbach - Karlsruher S",
-     "u": "https://www.reutersconnect.com/item/dfb-pokal-2-runde-borussia-monchengladbach-karlsruher-sc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMWkNYS04",
-     "press": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "name": "허문회",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[단독]이택근 롯데 신임 단장의 첫 승부수…허문회 전 감독 코치 영입·박승민 2군 감독 내정",
-     "u": "https://www.munhwa.com/article/11626742",
-     "press": "문화일보"
-    },
-    {
-     "t": "20년 만에 돌아온 롯데 이동욱 감독, 9년 '암흑기' 끝낼까",
-     "u": "https://www.newsis.com/view/NISX20261027_0003843269",
-     "press": "뉴시스"
-    },
-    {
-     "t": "[뭐라노]데이터 기반 똑똑한 야구·수비강화…롯데의 ‘새판 짜기’",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261027.99099007594",
-     "press": "국제신문"
-    }
-   ]
-  },
-  {
-   "name": "신상진",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "신상진 성남시장 “국토부, 분당 재건축 발목 잡아…이율배반 행정” 강력 성토",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1335230",
-     "press": "인천일보"
-    },
-    {
-     "t": "정부, 분당재건축 교통영향평가 요구…성남시 “2차 특별정비구역 차질 우려”",
-     "u": "https://www.kyeonggi.com/article/20261027580154",
-     "press": "경기일보"
-    },
-    {
-     "t": "국토부 '뒷북 지침'에 뿔난 성남시…\"분당 재건축 1.3만가구 무산 위기\" - 머니투데이",
-     "u": "https://www.mt.co.kr/policy/2026/10/27/2026102711224187504",
+     "t": "'수익성 개선' 호텔신라, 3분기 영업익 552억원…전년比 382.4%↑ - 머니투데이",
+     "u": "https://www.mt.co.kr/culture/2026/10/28/2026102816392153600",
      "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "브라질",
+   "name": "조상",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "작고한 부친 명의 땅 5만평…'조상땅찾기'로 뒤늦게 발견",
+     "u": "https://www.yna.co.kr/view/AKR20261028116200053",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "\"혹시 우리 집에도 물려받을 땅이?\"…구청 들렀다 5만7000평 횡재한 60대 남성",
+     "u": "https://www.asiae.co.kr/article/2026102908470878808",
+     "press": "아시아경제"
+    },
+    {
+     "t": "몰랐던 아버지 땅 18만㎡…대구 동구 '조상땅 찾기'로 찾았다",
+     "u": "https://www.newsis.com/view/NISX20261028_0003844707",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "우서윤",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "브라질 룰라 당선되자... 보우소나루는 여권 뺏기고 출국금지",
-     "u": "https://www.chosun.com/international/international_general/2026/10/27/X46MBDQ2EZBGZGB7X5Z6E3R6SQ/",
+     "t": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
+     "u": "https://www.newsis.com/view/NISX20261028_0003845283",
+     "press": "뉴시스"
+    },
+    {
+     "t": "우지원 딸 우서윤, '성형 논란' 속 라미네이트 시술 고백 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/28/2026102815052847972",
+     "press": "머니투데이"
+    },
+    {
+     "t": "‘미코 眞’ 우서윤 “아빠 우지원 이긴 듯…요즘엔 내게 사진 요청”",
+     "u": "https://sports.khan.co.kr/article/202610281523003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "이기혁",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"너무 죄송하다\" 이기혁, 고개 숙이며 재차 사과…\"그런 발언 하면 안 됐다→국가대표 무게감과 책임감 없는 것 NO\"",
+     "u": "https://www.chosun.com/sports/football/2026/10/28/MFRGCMZYMUZTEMRQGQ2DEZRXG4/",
      "press": "조선일보"
     },
     {
-     "t": "바쁘다 바빠, 시진핑 中 주석 전보 외교",
-     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261028010009616",
-     "press": "아시아투데이"
+     "t": "\"군대 안 갑니다\" 실언에 '인생역전' 스토리 꺾이나, 이기혁 대표팀 복귀 '불투명' - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/28/2026102722061461177",
+     "press": "머니투데이"
     },
     {
-     "t": "대선 패배 하루 만에‥브라질 대법원, 보우소나루 출국 금지",
-     "u": "https://imnews.imbc.com/news/2026/world/article/6860988_36925.html",
+     "t": "“저 군대 안갑니다!” 이기혁, 국가대표로서 품위 손상…징계받나? 아시안컵도 출전 불투명",
+     "u": "https://www.koreadaily.com/article/20261027035634762",
+     "press": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "성리",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "장한별, ‘환희’ 무대로 정수라·조항조 일으켜 세웠다…기립 환호",
+     "u": "https://sports.donga.com/ent/article/all/20261029/134929800/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "이루네, 배아현 폭로에 진땀…정수라 '난 너에게' 듀엣 열창",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6335462",
+     "press": "뉴스1"
+    },
+    {
+     "t": "‘전설의 사내’ 정수라X조항조, 최고 시청률 4.7%",
+     "u": "https://sports.khan.co.kr/article/202610290801003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "구글 실적발표",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘6만명 희망 퇴직’ 마이크로소프트 사상 최대 분기 실적...비용 부담은 여전",
+     "u": "https://www.chosun.com/economy/tech_it/2026/10/29/GZHYN577JRG5VNPFHGR7RSZBWM/",
+     "press": "조선일보"
+    },
+    {
+     "t": "AI로 웃은 MS, 투자 부담에 발목 잡힌 구글",
+     "u": "https://www.mk.co.kr/news/it/12189438",
+     "press": "매일경제"
+    },
+    {
+     "t": "마이크로소프트, 애저 매출 공개 확대… 인공지능 투자 성과 시험대 오른다.",
+     "u": "https://www.jemin.com/news/articleView.html?idxno=845580",
+     "press": "제민일보"
+    }
+   ]
+  },
+  {
+   "name": "백금",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "햇빛만으로 수소 만드는 유기 광전극‘세계 최고 효율 달성’",
+     "u": "https://www.electimes.com/news/articleView.html?idxno=373963",
+     "press": "전기신문"
+    },
+    {
+     "t": "\"귀금속 사용 줄여도 수소 생산효율 높아\"…고성능 수전해 촉매 개발",
+     "u": "https://view.asiae.co.kr/article/2026102808452606706",
+     "press": "아시아경제"
+    },
+    {
+     "t": "귀금속 75% 덜 쓰고 성능은 그대로…KIAST, 고성능 수전해 촉매 개발",
+     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1189704",
+     "press": "금강일보"
+    }
+   ]
+  },
+  {
+   "name": "담합",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
+     "u": "https://imnews.imbc.com/news/2026/econo/article/6861414_36932.html",
      "press": "MBC 뉴스"
+    },
+    {
+     "t": "[테헤란로] 식품업계 ‘담합 잣대’ 명확해야",
+     "u": "https://www.fnnews.com/news/202610281839220174",
+     "press": "파이낸셜뉴스"
+    },
+    {
+     "t": "[기자의 눈] 공정위의 ‘털고 보는 조사’에 발 묶인 기업들",
+     "u": "https://m.ekn.kr/view.php?key=20261028023481613",
+     "press": "에너지경제신문"
     }
    ]
   }

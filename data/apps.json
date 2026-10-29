@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-28T09:12:53+09:00",
+ "updated": "2026-10-29T09:33:39+09:00",
  "categories": {
   "은행 앱": {
    "source": "Apple App Store",
    "basis": "iOS 무료 앱 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
      "name": "하나원큐",
@@ -12,19 +12,24 @@
      "mv": 0
     },
     {
-     "name": "케이뱅크",
+     "name": "토스",
      "idx": 20,
-     "mv": 6
+     "mv": 5
+    },
+    {
+     "name": "케이뱅크",
+     "idx": 17,
+     "mv": -1
     },
     {
      "name": "NH올원",
-     "idx": 11,
+     "idx": 10,
      "mv": -1
     },
     {
      "name": "우리WON",
      "idx": 9,
-     "mv": 2
+     "mv": -1
     },
     {
      "name": "신한 SOL",
@@ -34,17 +39,12 @@
     {
      "name": "카카오뱅크",
      "idx": 7,
-     "mv": -3
-    },
-    {
-     "name": "토스",
-     "idx": 6,
-     "mv": -2
+     "mv": -1
     },
     {
      "name": "KB스타뱅킹",
      "idx": 4,
-     "mv": -1
+     "mv": 0
     },
     {
      "name": "IBK i-ONE",
@@ -56,31 +56,31 @@
   "증권 앱": {
    "source": "Apple App Store",
    "basis": "iOS 무료 앱 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
-     "name": "삼성증권 mPOP",
+     "name": "미래에셋 M-STOCK",
      "idx": 100,
      "mv": 1
     },
     {
-     "name": "미래에셋 M-STOCK",
-     "idx": 90,
-     "mv": -1
-    },
-    {
      "name": "한국투자 신한",
-     "idx": 87,
+     "idx": 96,
      "mv": 1
     },
     {
+     "name": "삼성증권 mPOP",
+     "idx": 87,
+     "mv": -2
+    },
+    {
      "name": "키움 영웅문",
-     "idx": 83,
-     "mv": -1
+     "idx": 71,
+     "mv": 0
     },
     {
      "name": "KB M-able",
-     "idx": 64,
+     "idx": 55,
      "mv": 0
     }
    ]
@@ -88,7 +88,7 @@
   "배달 앱": {
    "source": "Apple App Store",
    "basis": "iOS 무료 앱 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
      "name": "쿠팡이츠",
@@ -97,35 +97,35 @@
     },
     {
      "name": "땡겨요",
-     "idx": 20,
+     "idx": 25,
      "mv": 0
     },
     {
      "name": "배달의민족",
-     "idx": 15,
+     "idx": 19,
      "mv": 0
     },
     {
      "name": "요기요",
-     "idx": 7,
-     "mv": 0
-    },
-    {
-     "name": "배달특급",
-     "idx": 4,
+     "idx": 12,
      "mv": 0
     },
     {
      "name": "먹깨비",
-     "idx": 4,
-     "mv": 0
+     "idx": 5,
+     "mv": 1
+    },
+    {
+     "name": "배달특급",
+     "idx": 5,
+     "mv": -1
     }
    ]
   },
   "부동산 앱": {
    "source": "Apple App Store",
    "basis": "iOS 무료 앱 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
      "name": "직방",
@@ -134,12 +134,12 @@
     },
     {
      "name": "호갱노노",
-     "idx": 75,
+     "idx": 62,
      "mv": 0
     },
     {
      "name": "다방",
-     "idx": 38,
+     "idx": 36,
      "mv": 0
     }
    ]
@@ -147,7 +147,7 @@
   "음악 스트리밍": {
    "source": "Apple App Store",
    "basis": "iOS 무료 앱 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
      "name": "스포티파이",
@@ -156,37 +156,37 @@
     },
     {
      "name": "유튜브 뮤직",
-     "idx": 33,
+     "idx": 67,
      "mv": 0
     },
     {
      "name": "멜론",
-     "idx": 25,
+     "idx": 50,
      "mv": 0
     },
     {
      "name": "사운드클라우드",
-     "idx": 17,
+     "idx": 33,
      "mv": 0
     },
     {
      "name": "지니뮤직",
-     "idx": 12,
+     "idx": 29,
      "mv": 0
     },
     {
      "name": "플로",
-     "idx": 4,
+     "idx": 8,
      "mv": 0
     },
     {
      "name": "벅스",
-     "idx": 3,
+     "idx": 5,
      "mv": 0
     },
     {
      "name": "바이브",
-     "idx": 2,
+     "idx": 4,
      "mv": 0
     }
    ]
@@ -194,41 +194,41 @@
   "OTT": {
    "source": "Apple App Store",
    "basis": "iOS 무료 앱 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
-     "name": "티빙",
+     "name": "쿠팡플레이",
      "idx": 100,
      "mv": 1
     },
     {
-     "name": "쿠팡플레이",
-     "idx": 92,
+     "name": "티빙",
+     "idx": 88,
      "mv": -1
     },
     {
-     "name": "넷플릭스",
-     "idx": 69,
-     "mv": 2
+     "name": "디즈니+",
+     "idx": 78,
+     "mv": 1
     },
     {
-     "name": "디즈니+",
-     "idx": 65,
-     "mv": 0
+     "name": "넷플릭스",
+     "idx": 58,
+     "mv": -1
     },
     {
      "name": "웨이브",
-     "idx": 42,
-     "mv": -2
+     "idx": 44,
+     "mv": 0
     },
     {
      "name": "라프텔",
-     "idx": 24,
+     "idx": 33,
      "mv": 0
     },
     {
      "name": "왓챠",
-     "idx": 14,
+     "idx": 20,
      "mv": 0
     }
    ]
@@ -236,42 +236,42 @@
   "모바일 게임": {
    "source": "Apple App Store",
    "basis": "매출 순위",
-   "targetDate": "20261028",
+   "targetDate": "20261029",
    "list": [
     {
-     "name": "로블록스",
-     "idx": 100,
-     "mv": 0
-    },
-    {
      "name": "리니지M",
-     "idx": 90,
+     "idx": 100,
      "mv": 1
     },
     {
-     "name": "쿠키런",
-     "idx": 75,
+     "name": "로블록스",
+     "idx": 92,
      "mv": -1
     },
     {
-     "name": "브롤스타즈",
-     "idx": 30,
-     "mv": 0
-    },
-    {
-     "name": "전략적 팀 전투",
-     "idx": 15,
-     "mv": 0
-    },
-    {
-     "name": "메이플M",
-     "idx": 14,
+     "name": "쿠키런",
+     "idx": 48,
      "mv": 0
     },
     {
      "name": "오딘",
-     "idx": 9,
-     "mv": 1
+     "idx": 41,
+     "mv": 3
+    },
+    {
+     "name": "브롤스타즈",
+     "idx": 33,
+     "mv": -1
+    },
+    {
+     "name": "메이플M",
+     "idx": 15,
+     "mv": 0
+    },
+    {
+     "name": "전략적 팀 전투",
+     "idx": 14,
+     "mv": -2
     }
    ]
   }
