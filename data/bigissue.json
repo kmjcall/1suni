@@ -1,228 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261029",
- "updated": "2026-10-29T09:33:46+09:00",
+ "targetDate": "20261030",
+ "updated": "2026-10-30T09:33:01+09:00",
  "list": [
   {
-   "name": "삼성전자 실적발표",
+   "name": "도경완",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "삼성전자, 오늘 3Q 확정실적 발표…'HBM 공급 전략·30조 배당' 주목",
-     "u": "https://www.newsis.com/view/NISX20261028_0003845284",
-     "press": "뉴시스"
+     "t": "120억 집 살면서 \"통장에 25만원\"...도경완 '편스토랑' 결국 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/10/29/2026102921054052433",
+     "press": "머니투데이"
     },
     {
-     "t": "삼성전자, 내일 3Q 확정 실적…반도체 초호황에 연간 영업익 370조원 ’청신호’ By EBN",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2144594",
-     "press": "Investing.com 한국어"
+     "t": "′편스토랑′ 도경완, 생활고 코스프레 의혹에 KBS 제작진 입장은?",
+     "u": "https://siminilbo.co.kr/news/newsview.php?ncode=1160309116216139",
+     "press": "시민일보"
     },
     {
-     "t": "■10월 29일 목 경제 캘린더",
-     "u": "https://www.ytn.co.kr/_ln/0102_202610290508174900",
-     "press": "YTN"
+     "t": "'120억 펜트 家' 도경완 '궁상'에 민심 뿔났다…방송심의 민원까지 [Oh!쎈 이슈]",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/29/GRRDINTEGM4TEMRWGUYWKOJVME/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "자산",
+   "name": "메이저 리그 사커",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "금융권 전체로 번진 해킹…“북한 IP 다수 포착”",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8698135",
+     "t": "'충격 평가' 손흥민+메시+레반도프스키 사실상 K리그서 뛰는 수준...헝가리-키프로스-폴란드보다 낮은 MLS",
+     "u": "https://www.sportschosun.com/football/2026-10-29/202610290100186540012693",
+     "press": "스포츠조선"
+    },
+    {
+     "t": "손흥민 위상 새삼 실감 난다…MLS 도전한 레반돕 대굴욕 “15년 만 처음으로 8경기 연속 무득점”",
+     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100037",
+     "press": "포포투"
+    },
+    {
+     "t": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
+     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701",
+     "press": "포포투"
+    }
+   ]
+  },
+  {
+   "name": "인텔",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "인텔, 실적 호조에도 가이던스 실망…시간외서 주가 16% 폭락(상보)",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442052",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "인텔, AI부문 급성장에도…4분기 부정적 전망에 주가 20% 폭락",
+     "u": "https://www.yna.co.kr/view/AKR20261030013500091",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "메모리 품귀에 발목 잡힌 인텔…주가 17% 급락",
+     "u": "https://www.fnnews.com/news/202610300514093044",
+     "press": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "name": "압수수색",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
+     "u": "https://www.medigatenews.com/news/2021867961",
+     "press": "MEDI:GATE NEWS"
+    },
+    {
+     "t": "아주대병원 찾는 경찰 고위간부…소아응급 사태 수습될까",
+     "u": "https://www.bosa.co.kr/news/articleView.html?idxno=3015167",
+     "press": "의학신문"
+    },
+    {
+     "t": "[엠빅뉴스] \"응급실 압수수색 건국 이래 최초\"..아주대병원에서 무슨 일이",
+     "u": "https://imnews.imbc.com/original/mbig/6861709_29041.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "머스캣",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "귀한 몸에서 찬밥 신세로… 샤인머스캣의 씁쓸한 추락[이용재의 식사의 窓]",
+     "u": "https://www.donga.com/news/Opinion/article/all/20261029/134935966/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "팔수록 더 손해…샤인머스캣 폭락에 농가 ‘한숨’",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8696025",
      "press": "KBS 뉴스"
     },
     {
-     "t": "증권사까지 뚫렸다‥'북한 IP' 440만 건도 포착",
-     "u": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861509_37012.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "정부, 통신3사 등 정보시설 172곳 보안 집중점검",
-     "u": "https://www.donga.com/news/Economy/article/all/20261029/134928953/2",
-     "press": "동아일보"
-    }
-   ]
-  },
-  {
-   "name": "호텔",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "한투증권, 호텔신라 목표가 11%↓…\"면세 업황 개선 안돼\"",
-     "u": "https://www.yna.co.kr/view/AKR20261029028600008",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "한화투자 \"호텔신라 실적 개선에 면세점 외형성장 중요, 호텔사업 호조는 장기간 유지\"",
-     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=450583",
-     "press": "비즈니스포스트"
-    },
-    {
-     "t": "'수익성 개선' 호텔신라, 3분기 영업익 552억원…전년比 382.4%↑ - 머니투데이",
-     "u": "https://www.mt.co.kr/culture/2026/10/28/2026102816392153600",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "조상",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "작고한 부친 명의 땅 5만평…'조상땅찾기'로 뒤늦게 발견",
-     "u": "https://www.yna.co.kr/view/AKR20261028116200053",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "\"혹시 우리 집에도 물려받을 땅이?\"…구청 들렀다 5만7000평 횡재한 60대 남성",
-     "u": "https://www.asiae.co.kr/article/2026102908470878808",
-     "press": "아시아경제"
-    },
-    {
-     "t": "몰랐던 아버지 땅 18만㎡…대구 동구 '조상땅 찾기'로 찾았다",
-     "u": "https://www.newsis.com/view/NISX20261028_0003844707",
+     "t": "경북 샤인머스캣 대만 공략…언론·SNS 홍보·마케팅 협약",
+     "u": "https://www.newsis.com/view/NISX20261027_0003842987",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "우서윤",
-   "idx": 5,
+   "name": "폐기물",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
-     "u": "https://www.newsis.com/view/NISX20261028_0003845283",
+     "t": "천안 폐기물처리시설 화재…5시간여 만에 큰 불길 잡아",
+     "u": "https://www.yna.co.kr/view/AKR20261030011900063",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "천안 폐기물 재활용 시설 화재, 5시간여 만에 큰 불길 잡아",
+     "u": "https://www.newsis.com/view/NISX20261030_0003847521",
      "press": "뉴시스"
     },
     {
-     "t": "우지원 딸 우서윤, '성형 논란' 속 라미네이트 시술 고백 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/10/28/2026102815052847972",
-     "press": "머니투데이"
-    },
-    {
-     "t": "‘미코 眞’ 우서윤 “아빠 우지원 이긴 듯…요즘엔 내게 사진 요청”",
-     "u": "https://sports.khan.co.kr/article/202610281523003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "이기혁",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"너무 죄송하다\" 이기혁, 고개 숙이며 재차 사과…\"그런 발언 하면 안 됐다→국가대표 무게감과 책임감 없는 것 NO\"",
-     "u": "https://www.chosun.com/sports/football/2026/10/28/MFRGCMZYMUZTEMRQGQ2DEZRXG4/",
-     "press": "조선일보"
-    },
-    {
-     "t": "\"군대 안 갑니다\" 실언에 '인생역전' 스토리 꺾이나, 이기혁 대표팀 복귀 '불투명' - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/28/2026102722061461177",
-     "press": "머니투데이"
-    },
-    {
-     "t": "“저 군대 안갑니다!” 이기혁, 국가대표로서 품위 손상…징계받나? 아시안컵도 출전 불투명",
-     "u": "https://www.koreadaily.com/article/20261027035634762",
-     "press": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "name": "성리",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "장한별, ‘환희’ 무대로 정수라·조항조 일으켜 세웠다…기립 환호",
-     "u": "https://sports.donga.com/ent/article/all/20261029/134929800/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "이루네, 배아현 폭로에 진땀…정수라 '난 너에게' 듀엣 열창",
-     "u": "https://www.news1.kr/entertain/broadcast-tv/6335462",
+     "t": "예산 교차로서 신호 위반 1톤 트럭, 5톤 트럭과 '쾅'…2명 중상",
+     "u": "https://www.news1.kr/local/daejeon-chungnam/6336488",
      "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "이예원",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "정소이, KLPGA 투어 에쓰오일 챔피언십 1R 단독 1위…첫 승 도전(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261029187551007",
+     "press": "연합뉴스"
     },
     {
-     "t": "‘전설의 사내’ 정수라X조항조, 최고 시청률 4.7%",
-     "u": "https://sports.khan.co.kr/article/202610290801003",
+     "t": "서교림 빠지니 힘 빠진 김민솔?",
+     "u": "https://sports.khan.co.kr/article/202610300100006",
      "press": "스포츠경향"
+    },
+    {
+     "t": "[핌in제주] '마지막 6개 홀 버디 5개' 정소이, S-오일 1R 선두...이예원 1타 차 2위",
+     "u": "https://www.newspim.com/news/view/20261029001374",
+     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "구글 실적발표",
+   "name": "구자철",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘6만명 희망 퇴직’ 마이크로소프트 사상 최대 분기 실적...비용 부담은 여전",
-     "u": "https://www.chosun.com/economy/tech_it/2026/10/29/GZHYN577JRG5VNPFHGR7RSZBWM/",
-     "press": "조선일보"
+     "t": "K리그1 제주, 구자철 관련 의혹 부인…\"법적 검토 바탕 강경 대응할 것\"",
+     "u": "https://www.newsis.com/view/NISX20261029_0003847129",
+     "press": "뉴시스"
     },
     {
-     "t": "AI로 웃은 MS, 투자 부담에 발목 잡힌 구글",
-     "u": "https://www.mk.co.kr/news/it/12189438",
-     "press": "매일경제"
+     "t": "제주SK, 구자철 감독 선임 개입·부당 이익 의혹 정면 반박",
+     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010624",
+     "press": "아시아투데이"
     },
     {
-     "t": "마이크로소프트, 애저 매출 공개 확대… 인공지능 투자 성과 시험대 오른다.",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=845580",
-     "press": "제민일보"
+     "t": "[프로축구] 제주, 구자철 어드바이저 의혹 전면 부인…\"사실무근, 법적 대응 검토\"",
+     "u": "https://www.newspim.com/news/view/20261029001365",
+     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "백금",
+   "name": "브래드 갈링하우스",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "햇빛만으로 수소 만드는 유기 광전극‘세계 최고 효율 달성’",
-     "u": "https://www.electimes.com/news/articleView.html?idxno=373963",
-     "press": "전기신문"
+     "t": "XRP: 63조 달러 굴리는 ’월가 공룡’ 은행, 드디어 XRP 품었다",
+     "u": "https://kr.investing.com/news/cryptocurrency-news/article-2147324",
+     "press": "Investing.com 한국어"
     },
     {
-     "t": "\"귀금속 사용 줄여도 수소 생산효율 높아\"…고성능 수전해 촉매 개발",
-     "u": "https://view.asiae.co.kr/article/2026102808452606706",
-     "press": "아시아경제"
+     "t": "트리아, XRP 담보 대출·RLUSD 카드 정산 도입…2027년 서비스 확대",
+     "u": "https://www.etnews.com/20261029000318",
+     "press": "전자신문"
     },
     {
-     "t": "귀금속 75% 덜 쓰고 성능은 그대로…KIAST, 고성능 수전해 촉매 개발",
-     "u": "https://www.ggilbo.com/news/articleView.html?idxno=1189704",
-     "press": "금강일보"
+     "t": "리플, 美 연방 신탁은행 설립 최종 허가…스테이블코인 사업 기반 확대",
+     "u": "https://www.news1.kr/finance/blockchain-fintech/6334747",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "담합",
+   "name": "수도권 광역급행철도 c노선",
    "idx": 5,
    "mv": "NEW",
-   "news": [
-    {
-     "t": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
-     "u": "https://imnews.imbc.com/news/2026/econo/article/6861414_36932.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "[테헤란로] 식품업계 ‘담합 잣대’ 명확해야",
-     "u": "https://www.fnnews.com/news/202610281839220174",
-     "press": "파이낸셜뉴스"
-    },
-    {
-     "t": "[기자의 눈] 공정위의 ‘털고 보는 조사’에 발 묶인 기업들",
-     "u": "https://m.ekn.kr/view.php?key=20261028023481613",
-     "press": "에너지경제신문"
-    }
-   ]
+   "news": []
   }
  ]
 }
