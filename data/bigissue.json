@@ -1,212 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261030",
- "updated": "2026-10-30T09:33:01+09:00",
+ "targetDate": "20261031",
+ "updated": "2026-10-31T09:19:08+09:00",
  "list": [
   {
-   "name": "도경완",
+   "name": "이수현",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "120억 집 살면서 \"통장에 25만원\"...도경완 '편스토랑' 결국 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/10/29/2026102921054052433",
-     "press": "머니투데이"
+     "t": "악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')",
+     "u": "https://www.chosun.com/entertainments/2026/10/30/GY4TKNBRGA4TOMTEHBQTQODFGE/",
+     "press": "조선일보"
     },
     {
-     "t": "′편스토랑′ 도경완, 생활고 코스프레 의혹에 KBS 제작진 입장은?",
-     "u": "https://siminilbo.co.kr/news/newsview.php?ncode=1160309116216139",
-     "press": "시민일보"
+     "t": "‘소속사 대표’ 이찬혁, 직원 채용 조건도 독특 “성씨 겹치면 안 돼”",
+     "u": "https://sports.donga.com/ent/article/all/20261030/134937377/1",
+     "press": "스포츠동아"
     },
     {
-     "t": "'120억 펜트 家' 도경완 '궁상'에 민심 뿔났다…방송심의 민원까지 [Oh!쎈 이슈]",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/10/29/GRRDINTEGM4TEMRWGUYWKOJVME/",
+     "t": "이찬혁표 회사는 다르다…주 4일제+스윙댄스 파격 복지 (전참시)",
+     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/522977",
+     "press": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "name": "테슬라",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
+     "u": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html",
+     "press": "인베스트조선"
+    },
+    {
+     "t": "테슬라·스페이스X 합병 추진…머스크의 진짜 노림수와 최대 걸림돌",
+     "u": "https://www.newsis.com/view/NISX20261027_0003842966",
+     "press": "뉴시스"
+    },
+    {
+     "t": "베이징이 SpaceX-테슬라 합병을 막을 수 있는 이유",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2151560",
+     "press": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "name": "증여",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "[포커스] '주가 누르기' 끝낼 수 없나‥정부안 부족하다면 어떻게?",
+     "u": "https://imnews.imbc.com/replay/2026/nw1400/article/6861681_36974.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "[단독] ＇주가누르기 방지＇ 끝장토론 한다…＂11월말 처리＂",
+     "u": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290166",
+     "press": "한국경제TV"
+    }
+   ]
+  },
+  {
+   "name": "sk 사장단 인사",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "\"74년생 CEO 약진, 서울대 상대 강세\" SK 사장단 인사 '신구 조화' 면면은",
+     "u": "https://www.newsis.com/view/NISX20261030_0003848274",
+     "press": "뉴시스"
+    },
+    {
+     "t": "최태원의 '반도체 장자방' 곽노정 유임…그룹 내 입지 더 커졌다",
+     "u": "https://www.greened.kr/news/articleView.html?idxno=353465",
+     "press": "녹색경제신문"
+    }
+   ]
+  },
+  {
+   "name": "박서진",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
+     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16264049",
+     "press": "톱스타뉴스"
+    },
+    {
+     "t": "박서진, 황혜선 등장에 귀까지 빨개졌다…母 “우리 서진이 어떤지?”",
+     "u": "https://sports.donga.com/ent/article/all/20261030/134937739/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "박서진 첫 민화 전시회 썸녀 황혜선 깜짝 등장, 父도 “미래 며느리”(살림남)",
+     "u": "https://m.newsen.com/news_view.php?uid=202610300801061910",
+     "press": "뉴스엔"
+    }
+   ]
+  },
+  {
+   "name": "우주선",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
+     "u": "https://www.yna.co.kr/view/AKR20261030000200071",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
+     "u": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/",
+     "press": "조선일보"
+    },
+    {
+     "t": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
+     "u": "https://zdnet.co.kr/view/?no=20261030083348",
+     "press": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "name": "샌디스크",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "샌디스크, 분기 영업이익 49배 급증",
+     "u": "https://www.yna.co.kr/view/AKR20261030030500009",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "키옥시아 NAND 가격 경고에 샌디스크 주가 11% 급락",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2151922",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "샌디스크, AI 데이터센터 수요 급증에 실적 호조…매출 378% 증가",
+     "u": "https://biz.chosun.com/it-science/ict/2026/10/30/2GIME5GVQ5EWJKSOYBEHRNUQGU/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "lcs",
+   "idx": 5,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "직장폐쇄",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
+     "u": "https://www.munhwa.com/article/11627545",
+     "press": "문화일보"
+    },
+    {
+     "t": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
+     "u": "https://www.radiokorea.com/news/article.php?uid=508309",
+     "press": "라디오코리아"
+    },
+    {
+     "t": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
+     "u": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/",
      "press": "조선일보"
     }
    ]
   },
   {
-   "name": "메이저 리그 사커",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'충격 평가' 손흥민+메시+레반도프스키 사실상 K리그서 뛰는 수준...헝가리-키프로스-폴란드보다 낮은 MLS",
-     "u": "https://www.sportschosun.com/football/2026-10-29/202610290100186540012693",
-     "press": "스포츠조선"
-    },
-    {
-     "t": "손흥민 위상 새삼 실감 난다…MLS 도전한 레반돕 대굴욕 “15년 만 처음으로 8경기 연속 무득점”",
-     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100037",
-     "press": "포포투"
-    },
-    {
-     "t": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
-     "u": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701",
-     "press": "포포투"
-    }
-   ]
-  },
-  {
-   "name": "인텔",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "인텔, 실적 호조에도 가이던스 실망…시간외서 주가 16% 폭락(상보)",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442052",
-     "press": "연합인포맥스"
-    },
-    {
-     "t": "인텔, AI부문 급성장에도…4분기 부정적 전망에 주가 20% 폭락",
-     "u": "https://www.yna.co.kr/view/AKR20261030013500091",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "메모리 품귀에 발목 잡힌 인텔…주가 17% 급락",
-     "u": "https://www.fnnews.com/news/202610300514093044",
-     "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "압수수색",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
-     "u": "https://www.medigatenews.com/news/2021867961",
-     "press": "MEDI:GATE NEWS"
-    },
-    {
-     "t": "아주대병원 찾는 경찰 고위간부…소아응급 사태 수습될까",
-     "u": "https://www.bosa.co.kr/news/articleView.html?idxno=3015167",
-     "press": "의학신문"
-    },
-    {
-     "t": "[엠빅뉴스] \"응급실 압수수색 건국 이래 최초\"..아주대병원에서 무슨 일이",
-     "u": "https://imnews.imbc.com/original/mbig/6861709_29041.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "머스캣",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "귀한 몸에서 찬밥 신세로… 샤인머스캣의 씁쓸한 추락[이용재의 식사의 窓]",
-     "u": "https://www.donga.com/news/Opinion/article/all/20261029/134935966/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "팔수록 더 손해…샤인머스캣 폭락에 농가 ‘한숨’",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8696025",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "경북 샤인머스캣 대만 공략…언론·SNS 홍보·마케팅 협약",
-     "u": "https://www.newsis.com/view/NISX20261027_0003842987",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "폐기물",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "천안 폐기물처리시설 화재…5시간여 만에 큰 불길 잡아",
-     "u": "https://www.yna.co.kr/view/AKR20261030011900063",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "천안 폐기물 재활용 시설 화재, 5시간여 만에 큰 불길 잡아",
-     "u": "https://www.newsis.com/view/NISX20261030_0003847521",
-     "press": "뉴시스"
-    },
-    {
-     "t": "예산 교차로서 신호 위반 1톤 트럭, 5톤 트럭과 '쾅'…2명 중상",
-     "u": "https://www.news1.kr/local/daejeon-chungnam/6336488",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "이예원",
+   "name": "실업급여",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "정소이, KLPGA 투어 에쓰오일 챔피언십 1R 단독 1위…첫 승 도전(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261029187551007",
-     "press": "연합뉴스"
+     "t": "\"실업급여로 일본 놀러 왔어\"…강레오, 철없는 청년들에 폭발",
+     "u": "https://www.hankyung.com/article/202610292324H",
+     "press": "한국경제"
     },
     {
-     "t": "서교림 빠지니 힘 빠진 김민솔?",
-     "u": "https://sports.khan.co.kr/article/202610300100006",
-     "press": "스포츠경향"
+     "t": "\"세금으로 日여행 얌체 짓, 열 받아\"…강레오·박명수 화난 '실업급여' 얼마길래",
+     "u": "https://economist.co.kr/article/view/ecn202610290042",
+     "press": "이코노미스트"
     },
     {
-     "t": "[핌in제주] '마지막 6개 홀 버디 5개' 정소이, S-오일 1R 선두...이예원 1타 차 2위",
-     "u": "https://www.newspim.com/news/view/20261029001374",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "구자철",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "K리그1 제주, 구자철 관련 의혹 부인…\"법적 검토 바탕 강경 대응할 것\"",
-     "u": "https://www.newsis.com/view/NISX20261029_0003847129",
-     "press": "뉴시스"
-    },
-    {
-     "t": "제주SK, 구자철 감독 선임 개입·부당 이익 의혹 정면 반박",
-     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010624",
-     "press": "아시아투데이"
-    },
-    {
-     "t": "[프로축구] 제주, 구자철 어드바이저 의혹 전면 부인…\"사실무근, 법적 대응 검토\"",
-     "u": "https://www.newspim.com/news/view/20261029001365",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "브래드 갈링하우스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "XRP: 63조 달러 굴리는 ’월가 공룡’ 은행, 드디어 XRP 품었다",
-     "u": "https://kr.investing.com/news/cryptocurrency-news/article-2147324",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "트리아, XRP 담보 대출·RLUSD 카드 정산 도입…2027년 서비스 확대",
-     "u": "https://www.etnews.com/20261029000318",
+     "t": "“실업급여로 日 여행와놓고 일자리 없다?”…강레오 “감자탕집 가봐라 할 일이 천지”",
+     "u": "https://www.etnews.com/20261029000453",
      "press": "전자신문"
-    },
-    {
-     "t": "리플, 美 연방 신탁은행 설립 최종 허가…스테이블코인 사업 기반 확대",
-     "u": "https://www.news1.kr/finance/blockchain-fintech/6334747",
-     "press": "뉴스1"
     }
    ]
-  },
-  {
-   "name": "수도권 광역급행철도 c노선",
-   "idx": 5,
-   "mv": "NEW",
-   "news": []
   }
  ]
 }
