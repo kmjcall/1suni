@@ -1,210 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261031",
- "updated": "2026-10-31T09:19:08+09:00",
+ "targetDate": "20261101",
+ "updated": "2026-11-01T08:55:31+09:00",
  "list": [
   {
-   "name": "이수현",
+   "name": "드라마",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "악뮤 이찬혁 회사, 파격 입사조건 \"직원들 성씨 겹치면 안 돼\" ('전참시')",
-     "u": "https://www.chosun.com/entertainments/2026/10/30/GY4TKNBRGA4TOMTEHBQTQODFGE/",
-     "press": "조선일보"
+     "t": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의 K컬처인사이드]",
+     "u": "https://www.hankyung.com/article/202610306126H",
+     "press": "한국경제"
     },
     {
-     "t": "‘소속사 대표’ 이찬혁, 직원 채용 조건도 독특 “성씨 겹치면 안 돼”",
-     "u": "https://sports.donga.com/ent/article/all/20261030/134937377/1",
-     "press": "스포츠동아"
+     "t": "구작으로 광고 수익에 신작 홍보까지…CJ ENM 'FAST 활용법' [엔터코노미]",
+     "u": "https://news.mtn.co.kr/article/2026103009432641537",
+     "press": "MTN 머니투데이방송"
     },
     {
-     "t": "이찬혁표 회사는 다르다…주 4일제+스윙댄스 파격 복지 (전참시)",
-     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/522977",
-     "press": "iMBC 연예"
+     "t": "CJ ENM, 북미 LG채널 통해 ‘K-댄스 전용 FAST 채널’ 독점 론칭",
+     "u": "https://www.cjenm.com/ko/news/cj-enm-%EB%B6%81%EB%AF%B8-lg%EC%B1%84%EB%84%90-%ED%86%B5%ED%95%B4-k%EB%8C%84%EC%8A%A4-%EC%A0%84%EC%9A%A9-fast-%EC%B1%84%EB%84%90-%EB%8F%85%EC%A0%90-%EB%A1%A0%EC%B9%AD/",
+     "press": "CJ ENM"
     }
    ]
   },
   {
-   "name": "테슬라",
+   "name": "fc barcelona vs deportivo alavés standings",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Confirmed: Barcelona squad list to face Alaves – two new faces called up",
+     "u": "https://barcauniversal.com/confirmed-barcelona-squad-list-to-face-alaves-two-new-faces-called-up/",
+     "press": "Barca Universal"
+    },
+    {
+     "t": "Barcelona’s predicted lineup against Alavés in La Liga.. Flick looks to return t",
+     "u": "https://www.voiceofemirates.com/en/sport/2026/10/31/barcelonas-predicted-lineup-against-alaves-in-la-liga-flick-looks-to-return-to-winning-ways/",
+     "press": "صوت الإمارات"
+    },
+    {
+     "t": "Hansi Flick talks Brian Farinas and Frenkie de Jong in defence ahead of Barcelon",
+     "u": "https://sports.yahoo.com/articles/hansi-flick-talks-brian-farinas-194129848.html",
+     "press": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "name": "샬럿 대 필라데피아",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Sixers at Hornets: Game Preview, Injury Report and How to Watch 10/31/2026",
+     "u": "https://sixers.com/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026",
+     "press": "NBA.com"
+    },
+    {
+     "t": "Charlotte Hornets vs. Philadelphia 76ers Full Game Preview, Score Predictions",
+     "u": "https://www.si.com/nba/hornets/onsi/charlotte-hornets-vs-philadelphia-76ers-full-game-preview-score-predictions",
+     "press": "Sports Illustrated"
+    },
+    {
+     "t": "How to watch 76ers vs Hornets: NBA, live stream, TV channel",
+     "u": "https://sports.yahoo.com/articles/watch-76ers-vs-hornets-nba-210000986.html",
+     "press": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "name": "대한민국 축구 국가대표팀",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814",
+     "press": "머니투데이"
+    },
+    {
+     "t": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
+     "u": "https://weekly.khan.co.kr/article/202610311852001",
+     "press": "주간경향"
+    },
+    {
+     "t": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
+     "u": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "이정영",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
-     "u": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html",
-     "press": "인베스트조선"
+     "t": "\"나는 코리안 타이거, 증명하겠다\" 이정영 계체 통과, 美 파이터와 맞대결 '화끈 다짐' - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/10/31/2026103113024659616",
+     "press": "머니투데이"
     },
     {
-     "t": "테슬라·스페이스X 합병 추진…머스크의 진짜 노림수와 최대 걸림돌",
-     "u": "https://www.newsis.com/view/NISX20261027_0003842966",
-     "press": "뉴시스"
+     "t": "또 다시 쓰러진 코리안 타이거...이로사에 1라운드 KO패 [MK현장]",
+     "u": "https://www.mk.co.kr/news/sports/12192535",
+     "press": "매일경제"
     },
     {
-     "t": "베이징이 SpaceX-테슬라 합병을 막을 수 있는 이유",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2151560",
-     "press": "Investing.com 한국어"
+     "t": "[격투기] '코리안 타이거' 되찾을 이정영, 1년 반 만의 UFC 복귀 준비 완료",
+     "u": "https://www.newspim.com/news/view/20261031000056",
+     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "증여",
-   "idx": 5,
+   "name": "대구날씨",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "“내 아들 대신 네 딸에게”…수상한 증여의 반전[세금, 그 후]",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=01082406645618496&mediaCodeNo=257",
-     "press": "이데일리"
+     "t": "대구경북 대체로 흐리다가 낮부터 비…낮 최고 17도",
+     "u": "https://www.yna.co.kr/view/AKR20261101004400053",
+     "press": "연합뉴스"
     },
     {
-     "t": "[포커스] '주가 누르기' 끝낼 수 없나‥정부안 부족하다면 어떻게?",
-     "u": "https://imnews.imbc.com/replay/2026/nw1400/article/6861681_36974.html",
-     "press": "MBC 뉴스"
+     "t": "[날씨] 대구·경북 오늘 늦은 밤~내일 새벽 5mm 미만 비",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8699060",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "[단독] ＇주가누르기 방지＇ 끝장토론 한다…＂11월말 처리＂",
-     "u": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290166",
-     "press": "한국경제TV"
+     "t": "시월 마지막날 경북중·북부내륙 짙은 안개...큰 기온차 '건강 유의'",
+     "u": "https://www.newspim.com/news/view/20261030001316",
+     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "sk 사장단 인사",
-   "idx": 5,
+   "name": "눈 둘 데가 없네",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142",
-     "press": "연합인포맥스"
+     "t": "[TF씨네리뷰] '눈 둘 데가 없네' 속 오래 남는 김민희",
+     "u": "https://news.tf.co.kr/read/entertain/2383185.htm",
+     "press": "더팩트"
     },
     {
-     "t": "\"74년생 CEO 약진, 서울대 상대 강세\" SK 사장단 인사 '신구 조화' 면면은",
-     "u": "https://www.newsis.com/view/NISX20261030_0003848274",
-     "press": "뉴시스"
+     "t": "홍상수의 세상 인식법 '눈 둘 데가 없네'",
+     "u": "https://www.mindlenews.com/news/articleView.html?idxno=22991",
+     "press": "세상을 바꾸는 시민언론 민들레"
     },
     {
-     "t": "최태원의 '반도체 장자방' 곽노정 유임…그룹 내 입지 더 커졌다",
-     "u": "https://www.greened.kr/news/articleView.html?idxno=353465",
-     "press": "녹색경제신문"
+     "t": "[삶과문화] 메시지 없는 영화",
+     "u": "https://m.segye.com/view/20261029516443",
+     "press": "세계일보"
     }
    ]
   },
   {
    "name": "박서진",
-   "idx": 5,
-   "mv": "NEW",
+   "idx": 10,
+   "mv": -3,
    "news": [
     {
-     "t": "박서진, '세월이길 장사있나' 리메이크 이유? \"빛을 봤으면…그때와 다른 느낌 들지 않을까\"",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16264049",
-     "press": "톱스타뉴스"
-    },
-    {
-     "t": "박서진, 황혜선 등장에 귀까지 빨개졌다…母 “우리 서진이 어떤지?”",
-     "u": "https://sports.donga.com/ent/article/all/20261030/134937739/1",
+     "t": "박서진, 황혜선에 “누가 꽃인지”…부모님은 며느리 기대",
+     "u": "https://sports.donga.com/ent/article/all/20261101/134943083/1",
      "press": "스포츠동아"
     },
     {
-     "t": "박서진 첫 민화 전시회 썸녀 황혜선 깜짝 등장, 父도 “미래 며느리”(살림남)",
-     "u": "https://m.newsen.com/news_view.php?uid=202610300801061910",
-     "press": "뉴스엔"
-    }
-   ]
-  },
-  {
-   "name": "우주선",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
-     "u": "https://www.yna.co.kr/view/AKR20261030000200071",
-     "press": "연합뉴스"
+     "t": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
+     "u": "https://www.osen.co.kr/article/G1112902035",
+     "press": "OSEN"
     },
     {
-     "t": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
-     "u": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/",
-     "press": "조선일보"
-    },
-    {
-     "t": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
-     "u": "https://zdnet.co.kr/view/?no=20261030083348",
-     "press": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "name": "샌디스크",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "샌디스크, 분기 영업이익 49배 급증",
-     "u": "https://www.yna.co.kr/view/AKR20261030030500009",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "키옥시아 NAND 가격 경고에 샌디스크 주가 11% 급락",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2151922",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "샌디스크, AI 데이터센터 수요 급증에 실적 호조…매출 378% 증가",
-     "u": "https://biz.chosun.com/it-science/ict/2026/10/30/2GIME5GVQ5EWJKSOYBEHRNUQGU/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "lcs",
-   "idx": 5,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "직장폐쇄",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
-     "u": "https://www.munhwa.com/article/11627545",
-     "press": "문화일보"
-    },
-    {
-     "t": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
-     "u": "https://www.radiokorea.com/news/article.php?uid=508309",
-     "press": "라디오코리아"
-    },
-    {
-     "t": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/",
+     "t": "박서진, 은가은♥박현호 둘째 선물 공약···은가은, 바로 입덧?('살림남2')",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/01/HFSDANTEMY4WIMBXGQ4DAZRTHE/",
      "press": "조선일보"
     }
    ]
   },
   {
-   "name": "실업급여",
+   "name": "바이퍼",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"실업급여로 일본 놀러 왔어\"…강레오, 철없는 청년들에 폭발",
-     "u": "https://www.hankyung.com/article/202610292324H",
-     "press": "한국경제"
+     "t": "[롤드컵] '내전의 악마' TES, BLG 상대로 짜릿한 '패승승' 역전승… LPL 두 번째 8강 녹아웃行(종합)",
+     "u": "https://www.osen.co.kr/article/G1112901018",
+     "press": "OSEN"
     },
     {
-     "t": "\"세금으로 日여행 얌체 짓, 열 받아\"…강레오·박명수 화난 '실업급여' 얼마길래",
-     "u": "https://economist.co.kr/article/view/ecn202610290042",
-     "press": "이코노미스트"
+     "t": "‘999 is back!’…7개월 공백 지운 ‘369’ 바이자하오, TES의 8강을 이끌다",
+     "u": "https://sports.khan.co.kr/article/202610301439003",
+     "press": "스포츠경향"
     },
     {
-     "t": "“실업급여로 日 여행와놓고 일자리 없다?”…강레오 “감자탕집 가봐라 할 일이 천지”",
-     "u": "https://www.etnews.com/20261029000453",
-     "press": "전자신문"
+     "t": "[롤드컵] '체급 차이 증명' BLG, LPL 내전 TES에 27분만에 기선제압",
+     "u": "https://www.koreadaily.com/article/20261029165214863",
+     "press": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "노소영",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "9440억 중 2440억 남았다…최태원·노소영, 대법원서 다시 붙는다",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "최태원·노소영 재산분할 재상고심 심리 시작",
+     "u": "https://www.dt.co.kr/article/12091799",
+     "press": "www.dt.co.kr"
+    },
+    {
+     "t": "최태원·노소영, '재산분할' 재상고심 대법원 2부 배당",
+     "u": "https://www.slist.kr/news/articleView.html?idxno=777052",
+     "press": "싱글리스트"
     }
    ]
   }
