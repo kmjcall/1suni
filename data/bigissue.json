@@ -1,228 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261101",
- "updated": "2026-11-01T08:55:31+09:00",
+ "targetDate": "20261102",
+ "updated": "2026-11-02T09:10:48+09:00",
  "list": [
   {
-   "name": "드라마",
+   "name": "홍지선",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의 K컬처인사이드]",
-     "u": "https://www.hankyung.com/article/202610306126H",
-     "press": "한국경제"
+     "t": "“김포가 주택공급 호구냐”…3만7천 호 신규택지 발표에 SNS 민심 ‘부글부글’",
+     "u": "https://www.joongboo.com/news/articleView.html?idxno=363741088",
+     "press": "중부일보"
     },
     {
-     "t": "구작으로 광고 수익에 신작 홍보까지…CJ ENM 'FAST 활용법' [엔터코노미]",
-     "u": "https://news.mtn.co.kr/article/2026103009432641537",
-     "press": "MTN 머니투데이방송"
+     "t": "7.7만 가구 신규택지 '자족도시' 내걸었지만…일자리 계획 '빈칸'",
+     "u": "https://www.news1.kr/realestate/general/6338541",
+     "press": "뉴스1"
     },
     {
-     "t": "CJ ENM, 북미 LG채널 통해 ‘K-댄스 전용 FAST 채널’ 독점 론칭",
-     "u": "https://www.cjenm.com/ko/news/cj-enm-%EB%B6%81%EB%AF%B8-lg%EC%B1%84%EB%84%90-%ED%86%B5%ED%95%B4-k%EB%8C%84%EC%8A%A4-%EC%A0%84%EC%9A%A9-fast-%EC%B1%84%EB%84%90-%EB%8F%85%EC%A0%90-%EB%A1%A0%EC%B9%AD/",
-     "press": "CJ ENM"
-    }
-   ]
-  },
-  {
-   "name": "fc barcelona vs deportivo alavés standings",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Confirmed: Barcelona squad list to face Alaves – two new faces called up",
-     "u": "https://barcauniversal.com/confirmed-barcelona-squad-list-to-face-alaves-two-new-faces-called-up/",
-     "press": "Barca Universal"
-    },
-    {
-     "t": "Barcelona’s predicted lineup against Alavés in La Liga.. Flick looks to return t",
-     "u": "https://www.voiceofemirates.com/en/sport/2026/10/31/barcelonas-predicted-lineup-against-alaves-in-la-liga-flick-looks-to-return-to-winning-ways/",
-     "press": "صوت الإمارات"
-    },
-    {
-     "t": "Hansi Flick talks Brian Farinas and Frenkie de Jong in defence ahead of Barcelon",
-     "u": "https://sports.yahoo.com/articles/hansi-flick-talks-brian-farinas-194129848.html",
-     "press": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "name": "샬럿 대 필라데피아",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Sixers at Hornets: Game Preview, Injury Report and How to Watch 10/31/2026",
-     "u": "https://sixers.com/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026",
-     "press": "NBA.com"
-    },
-    {
-     "t": "Charlotte Hornets vs. Philadelphia 76ers Full Game Preview, Score Predictions",
-     "u": "https://www.si.com/nba/hornets/onsi/charlotte-hornets-vs-philadelphia-76ers-full-game-preview-score-predictions",
-     "press": "Sports Illustrated"
-    },
-    {
-     "t": "How to watch 76ers vs Hornets: NBA, live stream, TV channel",
-     "u": "https://sports.yahoo.com/articles/watch-76ers-vs-hornets-nba-210000986.html",
-     "press": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "name": "대한민국 축구 국가대표팀",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814",
-     "press": "머니투데이"
-    },
-    {
-     "t": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
-     "u": "https://weekly.khan.co.kr/article/202610311852001",
-     "press": "주간경향"
-    },
-    {
-     "t": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
-     "u": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "이정영",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"나는 코리안 타이거, 증명하겠다\" 이정영 계체 통과, 美 파이터와 맞대결 '화끈 다짐' - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/10/31/2026103113024659616",
-     "press": "머니투데이"
-    },
-    {
-     "t": "또 다시 쓰러진 코리안 타이거...이로사에 1라운드 KO패 [MK현장]",
-     "u": "https://www.mk.co.kr/news/sports/12192535",
+     "t": "“그린벨트 왕창 풀어 집짓는다는데”…실수요자 반기는데, 왜 시끄럽지?",
+     "u": "https://www.mk.co.kr/news/realestate/12192560",
      "press": "매일경제"
-    },
-    {
-     "t": "[격투기] '코리안 타이거' 되찾을 이정영, 1년 반 만의 UFC 복귀 준비 완료",
-     "u": "https://www.newspim.com/news/view/20261031000056",
-     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "대구날씨",
-   "idx": 10,
+   "name": "카를로스 알카라스",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "대구경북 대체로 흐리다가 낮부터 비…낮 최고 17도",
-     "u": "https://www.yna.co.kr/view/AKR20261101004400053",
+     "t": "알카라스, 드미노 꺾고 빈오픈 정상",
+     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261102_0002279834&pID=1&cID=&sID=1&type=photoMain&idx=7",
+     "press": "뉴시스"
+    },
+    {
+     "t": "'끈질긴 선수' 드미노, 세계 1위 즈베레프 꺾고 비엔나 결승 진출",
+     "u": "http://m.tennispeople.kr/news/articleView.html?idxno=19787",
+     "press": "테니스피플"
+    },
+    {
+     "t": "알카라스, 빈에서 폴 상대로 서브...ATP 500 8강전 현장",
+     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3738280",
+     "press": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "name": "2027년 afc 아시안컵",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931",
+     "press": "SPOTV NEWS"
+    },
+    {
+     "t": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
+     "u": "https://www.newspim.com/news/view/20261102000017",
+     "press": "뉴스핌"
+    },
+    {
+     "t": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
+     "u": "https://www.sportschosun.com/football/2026-11-01/202611010100006850000352",
+     "press": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "name": "중대범죄수사청",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[개정 형소법 한달]추미애는 보내고, 한동훈은 묵히고···중수청은 왜 한 달째 사건 뒤적이나",
+     "u": "https://www.khan.co.kr/article/202611020600121",
+     "press": "경향신문"
+    },
+    {
+     "t": "대혼란 없었지만… 중수청, 종이 수사기록 ‘배달’하고 구속 5건",
+     "u": "https://www.donga.com/news/Society/article/all/20261102/134946918/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "출범 1개월 부산중수청, 구속수사·송치 사건 아직 없어",
+     "u": "https://www.yna.co.kr/view/AKR20261030113300051",
      "press": "연합뉴스"
-    },
-    {
-     "t": "[날씨] 대구·경북 오늘 늦은 밤~내일 새벽 5mm 미만 비",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8699060",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "시월 마지막날 경북중·북부내륙 짙은 안개...큰 기온차 '건강 유의'",
-     "u": "https://www.newspim.com/news/view/20261030001316",
-     "press": "뉴스핌"
     }
    ]
   },
   {
-   "name": "눈 둘 데가 없네",
-   "idx": 10,
+   "name": "휴고 칼데라노",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "[TF씨네리뷰] '눈 둘 데가 없네' 속 오래 남는 김민희",
-     "u": "https://news.tf.co.kr/read/entertain/2383185.htm",
-     "press": "더팩트"
+     "t": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 -",
+     "u": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O",
+     "press": "머니투데이"
     },
     {
-     "t": "홍상수의 세상 인식법 '눈 둘 데가 없네'",
-     "u": "https://www.mindlenews.com/news/articleView.html?idxno=22991",
-     "press": "세상을 바꾸는 시민언론 민들레"
-    },
-    {
-     "t": "[삶과문화] 메시지 없는 영화",
-     "u": "https://m.segye.com/view/20261029516443",
-     "press": "세계일보"
-    }
-   ]
-  },
-  {
-   "name": "박서진",
-   "idx": 10,
-   "mv": -3,
-   "news": [
-    {
-     "t": "박서진, 황혜선에 “누가 꽃인지”…부모님은 며느리 기대",
-     "u": "https://sports.donga.com/ent/article/all/20261101/134943083/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
-     "u": "https://www.osen.co.kr/article/G1112902035",
-     "press": "OSEN"
-    },
-    {
-     "t": "박서진, 은가은♥박현호 둘째 선물 공약···은가은, 바로 입덧?('살림남2')",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/01/HFSDANTEMY4WIMBXGQ4DAZRTHE/",
+     "t": "'우승 확률 희박했던 1-3 열세' 장우진이 해냈다! 독일 프란치스카에 내리 3게임 따내며 4-3 대역전...몽펠리에의 기적",
+     "u": "https://www.chosun.com/sports/sports_general/2026/11/02/MU4DOOBTMFSTCZBSG42TQMJVGQ/",
      "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "바이퍼",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
+    },
     {
-     "t": "[롤드컵] '내전의 악마' TES, BLG 상대로 짜릿한 '패승승' 역전승… LPL 두 번째 8강 녹아웃行(종합)",
-     "u": "https://www.osen.co.kr/article/G1112901018",
+     "t": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
+     "u": "https://www.osen.co.kr/article/G1112902055",
      "press": "OSEN"
-    },
-    {
-     "t": "‘999 is back!’…7개월 공백 지운 ‘369’ 바이자하오, TES의 8강을 이끌다",
-     "u": "https://sports.khan.co.kr/article/202610301439003",
-     "press": "스포츠경향"
-    },
-    {
-     "t": "[롤드컵] '체급 차이 증명' BLG, LPL 내전 TES에 27분만에 기선제압",
-     "u": "https://www.koreadaily.com/article/20261029165214863",
-     "press": "미주중앙일보"
     }
    ]
   },
   {
-   "name": "노소영",
-   "idx": 5,
+   "name": "비트코인",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "9440억 중 2440억 남았다…최태원·노소영, 대법원서 다시 붙는다",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257",
-     "press": "이데일리"
+     "t": "北해커가 훔친 비트코인, 테슬라 보유량 추월…北연간 수출액 3배",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR202611020603292b0",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "최태원·노소영 재산분할 재상고심 심리 시작",
-     "u": "https://www.dt.co.kr/article/12091799",
-     "press": "www.dt.co.kr"
+     "t": "바이낸스 해킹 충격…가상자산 선물 16억달러 청산·美 관련주 급락",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442399",
+     "press": "연합인포맥스"
     },
     {
-     "t": "최태원·노소영, '재산분할' 재상고심 대법원 2부 배당",
-     "u": "https://www.slist.kr/news/articleView.html?idxno=777052",
-     "press": "싱글리스트"
+     "t": "\"눈 뜨고 8.4조 털렸다\"…20분 만에 세계 최대 코인거래소 뚫은 北 해커 - 머니투데이",
+     "u": "https://www.mt.co.kr/world/2026/11/02/2026110122225096026",
+     "press": "머니투데이"
     }
    ]
+  },
+  {
+   "name": "구미시",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
+     "u": "https://www.ajunews.com/view/20261101203439139",
+     "press": "아주경제"
+    },
+    {
+     "t": "구미 중소기업·소상공인 협업 지원 길 열렸다",
+     "u": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089130",
+     "press": "경북일보"
+    },
+    {
+     "t": "구미시, 기업지원 체계 바꾼다⋯AI·공급망 중심 전환",
+     "u": "https://www.kbsm.net/news/view.php?idx=539845",
+     "press": "경북신문"
+    }
+   ]
+  },
+  {
+   "name": "인베스팅닷컴",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[특파원 리포트] 판자촌이 된 파리에서",
+     "u": "https://www.chosun.com/opinion/correspondent_column/2026/11/01/YQ7YPXQWYFD3ZB7OQIDXF7UWDY/",
+     "press": "조선일보"
+    },
+    {
+     "t": "프랑스 국채 매도세가 전 세계 정부에 보내는 경고",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2152359",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "佛 신용전망 안정→부정…유럽 전역 '핼러윈 시위' 불길",
+     "u": "https://www.hankyung.com/article/2026110185351",
+     "press": "한국경제"
+    }
+   ]
+  },
+  {
+   "name": "지소연",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
+     "u": "https://www.xportsnews.com/article/2213907",
+     "press": "엑스포츠뉴스"
+    },
+    {
+     "t": "'A매치 200경기 앞둔' 지소연 \"국가대표 20년 차...대표팀 주장은 한 번도 안 했죠\"",
+     "u": "https://www.hankookilbo.com/news/article/A2026103014500000918",
+     "press": "한국일보"
+    },
+    {
+     "t": "“손흥민 안쓰러웠다”… 96라인 내분설에 입 연 ‘이 선수’, 작심하고 발언했다",
+     "u": "https://www.wikitree.co.kr/articles/1170829",
+     "press": "위키트리"
+    }
+   ]
+  },
+  {
+   "name": "klasemen liverpool vs arsenal",
+   "idx": 10,
+   "mv": "NEW",
+   "news": []
   }
  ]
 }
