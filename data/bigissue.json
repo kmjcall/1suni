@@ -1,212 +1,228 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261102",
- "updated": "2026-11-02T09:10:48+09:00",
+ "targetDate": "20261103",
+ "updated": "2026-11-03T11:44:37+09:00",
  "list": [
   {
-   "name": "홍지선",
+   "name": "비야 디",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "“김포가 주택공급 호구냐”…3만7천 호 신규택지 발표에 SNS 민심 ‘부글부글’",
-     "u": "https://www.joongboo.com/news/articleView.html?idxno=363741088",
-     "press": "중부일보"
+     "t": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+     "u": "https://www.hankyung.com/article/2026110210431",
+     "press": "한국경제"
     },
     {
-     "t": "7.7만 가구 신규택지 '자족도시' 내걸었지만…일자리 계획 '빈칸'",
-     "u": "https://www.news1.kr/realestate/general/6338541",
-     "press": "뉴스1"
+     "t": "[자막뉴스] \"팔면 끝?\" '가성비' 중국 전기차의 반전…광주서 부산까지 '수리 난민' 된 BYD 차주들",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827787&plink=RSSLINK&cooper=GSTAND",
+     "press": "SBS 뉴스"
     },
     {
-     "t": "“그린벨트 왕창 풀어 집짓는다는데”…실수요자 반기는데, 왜 시끄럽지?",
-     "u": "https://www.mk.co.kr/news/realestate/12192560",
-     "press": "매일경제"
+     "t": "중국산 전기차의 공습...흔들리는 안방 시장",
+     "u": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611021104314804",
+     "press": "YTN 사이언스"
     }
    ]
   },
   {
-   "name": "카를로스 알카라스",
-   "idx": 100,
+   "name": "상속세",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "알카라스, 드미노 꺾고 빈오픈 정상",
-     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261102_0002279834&pID=1&cID=&sID=1&type=photoMain&idx=7",
+     "t": "상속세 아끼려면? “집 팔아서 현금으로 주세요”",
+     "u": "https://www.munhwa.com/article/11628181",
+     "press": "문화일보"
+    },
+    {
+     "t": "\"집 팔아 금융재산 넘겨라\"…세무사가 밝힌 상속세 2억 절세법",
+     "u": "https://www.newsis.com/view/NISX20261029_0003847018",
      "press": "뉴시스"
     },
     {
-     "t": "'끈질긴 선수' 드미노, 세계 1위 즈베레프 꺾고 비엔나 결승 진출",
-     "u": "http://m.tennispeople.kr/news/articleView.html?idxno=19787",
-     "press": "테니스피플"
-    },
-    {
-     "t": "알카라스, 빈에서 폴 상대로 서브...ATP 500 8강전 현장",
-     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3738280",
-     "press": "국제뉴스"
+     "t": "부모에게 집 물려받았는데 오히려 골칫거리?…주택 상속의 숨겨진 비용 > 시애틀 뉴스/핫이슈",
+     "u": "https://www.seattlen.com/hot/69625",
+     "press": "SeattleN"
     }
    ]
   },
   {
-   "name": "2027년 afc 아시안컵",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931",
-     "press": "SPOTV NEWS"
-    },
-    {
-     "t": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
-     "u": "https://www.newspim.com/news/view/20261102000017",
-     "press": "뉴스핌"
-    },
-    {
-     "t": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
-     "u": "https://www.sportschosun.com/football/2026-11-01/202611010100006850000352",
-     "press": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "name": "중대범죄수사청",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[개정 형소법 한달]추미애는 보내고, 한동훈은 묵히고···중수청은 왜 한 달째 사건 뒤적이나",
-     "u": "https://www.khan.co.kr/article/202611020600121",
-     "press": "경향신문"
-    },
-    {
-     "t": "대혼란 없었지만… 중수청, 종이 수사기록 ‘배달’하고 구속 5건",
-     "u": "https://www.donga.com/news/Society/article/all/20261102/134946918/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "출범 1개월 부산중수청, 구속수사·송치 사건 아직 없어",
-     "u": "https://www.yna.co.kr/view/AKR20261030113300051",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "휴고 칼데라노",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 -",
-     "u": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "'우승 확률 희박했던 1-3 열세' 장우진이 해냈다! 독일 프란치스카에 내리 3게임 따내며 4-3 대역전...몽펠리에의 기적",
-     "u": "https://www.chosun.com/sports/sports_general/2026/11/02/MU4DOOBTMFSTCZBSG42TQMJVGQ/",
-     "press": "조선일보"
-    },
-    {
-     "t": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
-     "u": "https://www.osen.co.kr/article/G1112902055",
-     "press": "OSEN"
-    }
-   ]
-  },
-  {
-   "name": "비트코인",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "北해커가 훔친 비트코인, 테슬라 보유량 추월…北연간 수출액 3배",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR202611020603292b0",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "바이낸스 해킹 충격…가상자산 선물 16억달러 청산·美 관련주 급락",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442399",
-     "press": "연합인포맥스"
-    },
-    {
-     "t": "\"눈 뜨고 8.4조 털렸다\"…20분 만에 세계 최대 코인거래소 뚫은 北 해커 - 머니투데이",
-     "u": "https://www.mt.co.kr/world/2026/11/02/2026110122225096026",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "구미시",
+   "name": "지밀 레니 얼",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
-     "u": "https://www.ajunews.com/view/20261101203439139",
-     "press": "아주경제"
+     "t": "BTS 지민 부친 카페, 내년 영업 종료",
+     "u": "https://www.newsis.com/view/NISX20261103_0003851902",
+     "press": "뉴시스"
     },
     {
-     "t": "구미 중소기업·소상공인 협업 지원 길 열렸다",
-     "u": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089130",
-     "press": "경북일보"
+     "t": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
+     "u": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
+     "press": "동아일보"
     },
     {
-     "t": "구미시, 기업지원 체계 바꾼다⋯AI·공급망 중심 전환",
-     "u": "https://www.kbsm.net/news/view.php?idx=539845",
-     "press": "경북신문"
+     "t": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
+     "u": "https://www.munhwa.com/article/11628280",
+     "press": "문화일보"
     }
    ]
   },
   {
-   "name": "인베스팅닷컴",
-   "idx": 10,
+   "name": "띠별 운세",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "[특파원 리포트] 판자촌이 된 파리에서",
-     "u": "https://www.chosun.com/opinion/correspondent_column/2026/11/01/YQ7YPXQWYFD3ZB7OQIDXF7UWDY/",
+     "t": "[오늘의 운세] 2026년 11월 03일 별자리 운세",
+     "u": "https://www.ytn.co.kr/_ln/0121_202611030000000002",
+     "press": "YTN"
+    },
+    {
+     "t": "[오늘의 운세] 11월 3일 화요일 (음력 9월 24일) 띠별 운세",
+     "u": "https://www.kyeonggi.com/article/20261026580371",
+     "press": "경기일보"
+    },
+    {
+     "t": "[김동완의 오늘의 운세] 2026년 11월 3일",
+     "u": "https://m.go.seoul.co.kr/news/life/culture-news/fortune-today/2026/11/03/20261103500003?cp=go",
+     "press": "서울Pn"
+    }
+   ]
+  },
+  {
+   "name": "박지선",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "故박지선, 6주기에 동기들 모였다... 양상국 \"잘하고 있으니 응원 많이해줘\"",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/02/HA2WMZJZG44WGNTGMUYGCODEMM/",
      "press": "조선일보"
     },
     {
-     "t": "프랑스 국채 매도세가 전 세계 정부에 보내는 경고",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2152359",
-     "press": "Investing.com 한국어"
+     "t": "故박지선 6주기…양상국·조윤호·김지호, 납골당 모인 KBS 22기 동기들",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6340416",
+     "press": "뉴스1"
     },
     {
-     "t": "佛 신용전망 안정→부정…유럽 전역 '핼러윈 시위' 불길",
-     "u": "https://www.hankyung.com/article/2026110185351",
-     "press": "한국경제"
+     "t": "이종훈, 故 박지선 6주기에 애틋한 인사…“착하고 속 깊은 지선이 너무 보고싶다”",
+     "u": "https://www.sedaily.com/article/20109226",
+     "press": "서울경제"
     }
    ]
   },
   {
-   "name": "지소연",
-   "idx": 10,
+   "name": "말자쇼",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
-     "u": "https://www.xportsnews.com/article/2213907",
-     "press": "엑스포츠뉴스"
+     "t": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
+     "u": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
+     "press": "동아일보"
     },
     {
-     "t": "'A매치 200경기 앞둔' 지소연 \"국가대표 20년 차...대표팀 주장은 한 번도 안 했죠\"",
-     "u": "https://www.hankookilbo.com/news/article/A2026103014500000918",
-     "press": "한국일보"
+     "t": "정범균, 개그계 군기 폭로…\"김원효와 NG 냈는데 나만 뺨 맞아\"",
+     "u": "https://www.newsis.com/view/NISX20261103_0003852377",
+     "press": "뉴시스"
     },
     {
-     "t": "“손흥민 안쓰러웠다”… 96라인 내분설에 입 연 ‘이 선수’, 작심하고 발언했다",
-     "u": "https://www.wikitree.co.kr/articles/1170829",
-     "press": "위키트리"
+     "t": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
+     "press": "Chosunbiz"
     }
    ]
   },
   {
-   "name": "klasemen liverpool vs arsenal",
-   "idx": 10,
+   "name": "미스트롯4",
+   "idx": 5,
    "mv": "NEW",
-   "news": []
+   "news": [
+    {
+     "t": "'미스트롯4' 톱7, 서울 앙코르로 6개월 전국투어 마무리",
+     "u": "https://www.asiae.co.kr/article/2026110310272151628",
+     "press": "아시아경제"
+    },
+    {
+     "t": "[트롯돋보기] 왕관의 무게 견딘 ‘미스트롯4’ 톱7… 논란마저 잠재운 6개월의 눈물",
+     "u": "https://www.mk.co.kr/news/entertain/12193856",
+     "press": "매일경제"
+    },
+    {
+     "t": "‘미스트롯4’ 서울 앙코르 성료…허찬미 오열→TOP7 눈물바다",
+     "u": "https://sports.donga.com/ent/article/all/20261102/134947791/1",
+     "press": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "name": "래블업",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261102032651008",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
+     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=450999",
+     "press": "비즈니스포스트"
+    },
+    {
+     "t": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
+     "u": "https://zdnet.co.kr/view/?no=20261102120713",
+     "press": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "name": "리센느 컴백",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "리센느, 역주행 돌풍 이어갈까…오늘(3일) 신곡 'With' 발매",
+     "u": "https://www.ytn.co.kr/_ln/0117_202611030933266559",
+     "press": "YTN"
+    },
+    {
+     "t": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
+     "u": "https://sports.donga.com/ent/article/all/20261103/134954927/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
+     "u": "https://www.chosun.com/entertainments/music/2026/11/03/GU2WENRQMMYDKYZTGAYWKOBTGA/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "양주시",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "양주시, 초등학교 통학로 13곳 CCTV 확충…어린이 안전망 강화",
+     "u": "https://www.ppss.kr/news/articleView.html?idxno=318700",
+     "press": "https://www.ppss.kr/"
+    },
+    {
+     "t": "양주시, 초교 통학 취약지에 방범 CCTV 설치‧보강한다",
+     "u": "https://www.kgnews.co.kr/news/article.html?no=917891",
+     "press": "경기신문"
+    },
+    {
+     "t": "양주시, 2억 들여 초교 통학로 13개소 방범 CCTV 확충",
+     "u": "https://www.newsis.com/view/NISX20261103_0003852243",
+     "press": "뉴시스"
+    }
+   ]
   }
  ]
 }
