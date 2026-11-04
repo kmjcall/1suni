@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261103",
- "updated": "2026-11-03T11:44:37+09:00",
+ "targetDate": "20261104",
+ "updated": "2026-11-04T09:59:56+09:00",
  "list": [
   {
-   "name": "비야 디",
+   "name": "정년",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
-     "u": "https://www.hankyung.com/article/2026110210431",
-     "press": "한국경제"
+     "t": "정년연장 법안 곧 발의, ‘변곡점’ 맞은 연내 입법",
+     "u": "https://www.labortoday.co.kr/news/articleView.html?idxno=237549",
+     "press": "매일노동뉴스"
     },
     {
-     "t": "[자막뉴스] \"팔면 끝?\" '가성비' 중국 전기차의 반전…광주서 부산까지 '수리 난민' 된 BYD 차주들",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827787&plink=RSSLINK&cooper=GSTAND",
-     "press": "SBS 뉴스"
+     "t": "김동명 한국노총 위원장, 김민석 대표 만나 “집권당, 청와대 판단 없으면 아무 결정도 못해”",
+     "u": "https://www.khan.co.kr/article/202611031544001",
+     "press": "경향신문"
     },
     {
-     "t": "중국산 전기차의 공습...흔들리는 안방 시장",
-     "u": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611021104314804",
-     "press": "YTN 사이언스"
+     "t": "한국노총 \"민주, 靑판단 없이 아무것도 못해\"‥초광역특구법 성토",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6862836_36911.html",
+     "press": "MBC 뉴스"
     }
    ]
   },
   {
-   "name": "상속세",
+   "name": "권오중",
    "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "상속세 아끼려면? “집 팔아서 현금으로 주세요”",
-     "u": "https://www.munhwa.com/article/11628181",
-     "press": "문화일보"
+     "t": "아들은 세상 속 ‘홀로서기’, 아빠는 배우로 ‘다시 서기’",
+     "u": "https://www.chosun.com/national/people/2026/11/04/QGSN5KNR5ZCCNC4SPOKCY4TNEM/",
+     "press": "조선일보"
     },
     {
-     "t": "\"집 팔아 금융재산 넘겨라\"…세무사가 밝힌 상속세 2억 절세법",
-     "u": "https://www.newsis.com/view/NISX20261029_0003847018",
-     "press": "뉴시스"
+     "t": "'희귀병子' 권오중, 7년째 금주한 사연 \"술에 의존하던 아버지 닮아가\"",
+     "u": "https://www.sportschosun.com/entertainment/2026-11-03/202611030100015200001327",
+     "press": "스포츠조선"
     },
     {
-     "t": "부모에게 집 물려받았는데 오히려 골칫거리?…주택 상속의 숨겨진 비용 > 시애틀 뉴스/핫이슈",
-     "u": "https://www.seattlen.com/hot/69625",
-     "press": "SeattleN"
+     "t": "아들 희귀질환과 가족의 시간…배우 권오중의 첫 산문집",
+     "u": "https://www.news1.kr/life-culture/book/6329319",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "지밀 레니 얼",
+   "name": "atlético madrid vs bayern munich standings",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give vis",
+     "u": "https://www.bbc.com/sport/football/live/cmy0r2lw77r1t",
+     "press": "BBC"
+    },
+    {
+     "t": "Atlético 0-2 Bayern (Nov 3, 2026) Game Analysis",
+     "u": "https://www.espn.com/soccer/report/_/gameId/401915386",
+     "press": "ESPN"
+    },
+    {
+     "t": "Bayern skeleton crew sink Atletico in Champions League",
+     "u": "https://sports.yahoo.com/articles/bayern-skeleton-crew-sink-atletico-220810697.html",
+     "press": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "name": "외환시장",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "BTS 지민 부친 카페, 내년 영업 종료",
-     "u": "https://www.newsis.com/view/NISX20261103_0003851902",
-     "press": "뉴시스"
+     "t": "NDF, 1,344.00/ 1,344.40원…3.95원↑",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442895",
+     "press": "연합인포맥스"
     },
     {
-     "t": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
-     "u": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
-     "press": "동아일보"
+     "t": "美 중간선거 개표 앞두고 관망세…환율 1340원대 등락",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=03207846645642440",
+     "press": "마켓인"
     },
     {
-     "t": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
-     "u": "https://www.munhwa.com/article/11628280",
-     "press": "문화일보"
+     "t": "달러 당 원화값, 2.8원 오른 1,341원…중간선거 앞두고 관망세",
+     "u": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005954105",
+     "press": "매일경제TV"
     }
    ]
   },
   {
-   "name": "띠별 운세",
-   "idx": 5,
+   "name": "여객선",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "[오늘의 운세] 2026년 11월 03일 별자리 운세",
-     "u": "https://www.ytn.co.kr/_ln/0121_202611030000000002",
-     "press": "YTN"
-    },
-    {
-     "t": "[오늘의 운세] 11월 3일 화요일 (음력 9월 24일) 띠별 운세",
-     "u": "https://www.kyeonggi.com/article/20261026580371",
-     "press": "경기일보"
-    },
-    {
-     "t": "[김동완의 오늘의 운세] 2026년 11월 3일",
-     "u": "https://m.go.seoul.co.kr/news/life/culture-news/fortune-today/2026/11/03/20261103500003?cp=go",
-     "press": "서울Pn"
-    }
-   ]
-  },
-  {
-   "name": "박지선",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "故박지선, 6주기에 동기들 모였다... 양상국 \"잘하고 있으니 응원 많이해줘\"",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/02/HA2WMZJZG44WGNTGMUYGCODEMM/",
+     "t": "1500원에 가던 백령도, 내년부턴 1만5600원 내야 간다",
+     "u": "https://www.chosun.com/national/regional/2026/11/03/KQZIILYYVNDU7BEZJ2MXMA3LIA/",
      "press": "조선일보"
     },
     {
-     "t": "故박지선 6주기…양상국·조윤호·김지호, 납골당 모인 KBS 22기 동기들",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6340416",
-     "press": "뉴스1"
+     "t": "'편도 1500원' i-바다패스 후퇴…시민 부담 최대 10배",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1335894",
+     "press": "인천일보"
     },
     {
-     "t": "이종훈, 故 박지선 6주기에 애틋한 인사…“착하고 속 깊은 지선이 너무 보고싶다”",
-     "u": "https://www.sedaily.com/article/20109226",
-     "press": "서울경제"
+     "t": "인천시민, 내년부터 여객선 이용부담액 최고 10배 오른다",
+     "u": "https://www.yna.co.kr/view/AKR20261103082000065",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "말자쇼",
-   "idx": 5,
+   "name": "fc barcelona vs aston villa standings",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
-     "u": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
-     "press": "동아일보"
+     "t": "With Hamza Abdel Karim's participation: a crazy draw between Barcelona and Aston",
+     "u": "https://www.goal.com/en/news/with-hamza-abdelkrim-featuring-a-crazy-draw-between-barcelona-and-aston-villa-in-the-uefa-youth-league/bltcddcb7ed1b1facf4",
+     "press": "Goal.com"
     },
     {
-     "t": "정범균, 개그계 군기 폭로…\"김원효와 NG 냈는데 나만 뺨 맞아\"",
-     "u": "https://www.newsis.com/view/NISX20261103_0003852377",
-     "press": "뉴시스"
+     "t": "Ebrima Tunkara scores and assists as Barcelona rescue UEFA Youth League draw aga",
+     "u": "https://www.barcablaugranes.com/barca-atletic/136960/ebrima-tunkara-uefa-youth-league-aston-villa",
+     "press": "Barca Blaugranes"
     },
     {
-     "t": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
-     "press": "Chosunbiz"
+     "t": "Barcelona 3-0 Aston Villa: Lamine Yamal and Raphinha double sink Villa",
+     "u": "https://www.bbc.com/sport/football/live/c6gr8p0x118dt",
+     "press": "BBC"
     }
    ]
   },
   {
-   "name": "미스트롯4",
-   "idx": 5,
+   "name": "기상",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "'미스트롯4' 톱7, 서울 앙코르로 6개월 전국투어 마무리",
-     "u": "https://www.asiae.co.kr/article/2026110310272151628",
-     "press": "아시아경제"
+     "t": "[뉴스9 날씨] 내일까지 ‘가을 날씨’…목요일 전국에 비",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8703134",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "[트롯돋보기] 왕관의 무게 견딘 ‘미스트롯4’ 톱7… 논란마저 잠재운 6개월의 눈물",
-     "u": "https://www.mk.co.kr/news/entertain/12193856",
-     "press": "매일경제"
+     "t": "남서부부터 ‘비 소식’, 내일 전국 확대…토요일 아침 ‘영하’",
+     "u": "https://www.hani.co.kr/arti/society/environment/1285667.html",
+     "press": "한겨레"
     },
     {
-     "t": "‘미스트롯4’ 서울 앙코르 성료…허찬미 오열→TOP7 눈물바다",
-     "u": "https://sports.donga.com/ent/article/all/20261102/134947791/1",
-     "press": "스포츠동아"
+     "t": "부산, 울산, 경남 대체로 구름 많은 날씨…낮 기온 최대 19도",
+     "u": "https://www.yna.co.kr/view/AKR20261104008700052",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "래블업",
-   "idx": 5,
+   "name": "제민 일보",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261102032651008",
+     "t": "[제민탑] 제주 제2공항 건설 어디로 가고 있나",
+     "u": "https://www.jemin.com/news/articleView.html?idxno=846070",
+     "press": "제민일보"
+    },
+    {
+     "t": "‘우여곡절’ 2공항 갈등조정협의회 출범…찬성 단체 ‘반발’",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8702165",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "[한라일보 저녁잇슈] 2026년 11월 2일 제주뉴스",
+     "u": "http://www.ihalla.com/article.php?aid=1793608343792316121",
+     "press": "한라일보"
+    }
+   ]
+  },
+  {
+   "name": "정용진",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[MD 포커스] ‘같은 신세계, 다른 미래’…정용진·정유경이 꺼낸 대형 승부수",
+     "u": "https://mydaily.co.kr/page/view/2026110216014046688",
+     "press": "마이데일리"
+    },
+    {
+     "t": "[유통가 인사]① 'WB 투자부터 AI까지' 정용진이 그리는 신세계",
+     "u": "https://www.opinionnews.co.kr/news/articleView.html?idxno=146594",
+     "press": "오피니언뉴스"
+    },
+    {
+     "t": "[신(新)인물탐구(71)] 신세계그룹 정용진 회장① 성장 경력 - 28년의 경영수업, 준비된 후계자의 길",
+     "u": "https://www.news2day.co.kr/article/20261102500184",
+     "press": "뉴스투데이"
+    }
+   ]
+  },
+  {
+   "name": "비행기",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "대한항공, 4일부터 미국행 노선서 에볼라 서약서 제출 의무화",
+     "u": "https://www.yna.co.kr/view/AKR20261103045300003",
      "press": "연합뉴스"
     },
     {
-     "t": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
-     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=450999",
-     "press": "비즈니스포스트"
+     "t": "대한항공, 미국행 승객 대상 에볼라 관련 서약서 제출 의무화",
+     "u": "https://www.kyeonggi.com/article/20261103580227",
+     "press": "경기일보"
     },
     {
-     "t": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
-     "u": "https://zdnet.co.kr/view/?no=20261102120713",
-     "press": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "name": "리센느 컴백",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "리센느, 역주행 돌풍 이어갈까…오늘(3일) 신곡 'With' 발매",
-     "u": "https://www.ytn.co.kr/_ln/0117_202611030933266559",
-     "press": "YTN"
-    },
-    {
-     "t": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
-     "u": "https://sports.donga.com/ent/article/all/20261103/134954927/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
-     "u": "https://www.chosun.com/entertainments/music/2026/11/03/GU2WENRQMMYDKYZTGAYWKOBTGA/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "양주시",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "양주시, 초등학교 통학로 13곳 CCTV 확충…어린이 안전망 강화",
-     "u": "https://www.ppss.kr/news/articleView.html?idxno=318700",
-     "press": "https://www.ppss.kr/"
-    },
-    {
-     "t": "양주시, 초교 통학 취약지에 방범 CCTV 설치‧보강한다",
-     "u": "https://www.kgnews.co.kr/news/article.html?no=917891",
-     "press": "경기신문"
-    },
-    {
-     "t": "양주시, 2억 들여 초교 통학로 13개소 방범 CCTV 확충",
-     "u": "https://www.newsis.com/view/NISX20261103_0003852243",
-     "press": "뉴시스"
+     "t": "대한항공 \"미국행 항공편, 에볼라 서약서 제출해야\"",
+     "u": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005953735",
+     "press": "매일경제TV"
     }
    ]
   }
