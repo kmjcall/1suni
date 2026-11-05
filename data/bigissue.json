@@ -1,226 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261104",
- "updated": "2026-11-04T09:59:56+09:00",
+ "targetDate": "20261105",
+ "updated": "2026-11-05T10:14:47+09:00",
  "list": [
   {
-   "name": "정년",
+   "name": "kia 타이거즈",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "정년연장 법안 곧 발의, ‘변곡점’ 맞은 연내 입법",
-     "u": "https://www.labortoday.co.kr/news/articleView.html?idxno=237549",
-     "press": "매일노동뉴스"
-    },
-    {
-     "t": "김동명 한국노총 위원장, 김민석 대표 만나 “집권당, 청와대 판단 없으면 아무 결정도 못해”",
-     "u": "https://www.khan.co.kr/article/202611031544001",
-     "press": "경향신문"
-    },
-    {
-     "t": "한국노총 \"민주, 靑판단 없이 아무것도 못해\"‥초광역특구법 성토",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6862836_36911.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "권오중",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "아들은 세상 속 ‘홀로서기’, 아빠는 배우로 ‘다시 서기’",
-     "u": "https://www.chosun.com/national/people/2026/11/04/QGSN5KNR5ZCCNC4SPOKCY4TNEM/",
-     "press": "조선일보"
-    },
-    {
-     "t": "'희귀병子' 권오중, 7년째 금주한 사연 \"술에 의존하던 아버지 닮아가\"",
-     "u": "https://www.sportschosun.com/entertainment/2026-11-03/202611030100015200001327",
-     "press": "스포츠조선"
-    },
-    {
-     "t": "아들 희귀질환과 가족의 시간…배우 권오중의 첫 산문집",
-     "u": "https://www.news1.kr/life-culture/book/6329319",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "atlético madrid vs bayern munich standings",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give vis",
-     "u": "https://www.bbc.com/sport/football/live/cmy0r2lw77r1t",
-     "press": "BBC"
-    },
-    {
-     "t": "Atlético 0-2 Bayern (Nov 3, 2026) Game Analysis",
-     "u": "https://www.espn.com/soccer/report/_/gameId/401915386",
-     "press": "ESPN"
-    },
-    {
-     "t": "Bayern skeleton crew sink Atletico in Champions League",
-     "u": "https://sports.yahoo.com/articles/bayern-skeleton-crew-sink-atletico-220810697.html",
-     "press": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "name": "외환시장",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "NDF, 1,344.00/ 1,344.40원…3.95원↑",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442895",
-     "press": "연합인포맥스"
-    },
-    {
-     "t": "美 중간선거 개표 앞두고 관망세…환율 1340원대 등락",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=03207846645642440",
-     "press": "마켓인"
-    },
-    {
-     "t": "달러 당 원화값, 2.8원 오른 1,341원…중간선거 앞두고 관망세",
-     "u": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005954105",
-     "press": "매일경제TV"
-    }
-   ]
-  },
-  {
-   "name": "여객선",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "1500원에 가던 백령도, 내년부턴 1만5600원 내야 간다",
-     "u": "https://www.chosun.com/national/regional/2026/11/03/KQZIILYYVNDU7BEZJ2MXMA3LIA/",
-     "press": "조선일보"
-    },
-    {
-     "t": "'편도 1500원' i-바다패스 후퇴…시민 부담 최대 10배",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1335894",
-     "press": "인천일보"
-    },
-    {
-     "t": "인천시민, 내년부터 여객선 이용부담액 최고 10배 오른다",
-     "u": "https://www.yna.co.kr/view/AKR20261103082000065",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "fc barcelona vs aston villa standings",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "With Hamza Abdel Karim's participation: a crazy draw between Barcelona and Aston",
-     "u": "https://www.goal.com/en/news/with-hamza-abdelkrim-featuring-a-crazy-draw-between-barcelona-and-aston-villa-in-the-uefa-youth-league/bltcddcb7ed1b1facf4",
-     "press": "Goal.com"
-    },
-    {
-     "t": "Ebrima Tunkara scores and assists as Barcelona rescue UEFA Youth League draw aga",
-     "u": "https://www.barcablaugranes.com/barca-atletic/136960/ebrima-tunkara-uefa-youth-league-aston-villa",
-     "press": "Barca Blaugranes"
-    },
-    {
-     "t": "Barcelona 3-0 Aston Villa: Lamine Yamal and Raphinha double sink Villa",
-     "u": "https://www.bbc.com/sport/football/live/c6gr8p0x118dt",
-     "press": "BBC"
-    }
-   ]
-  },
-  {
-   "name": "기상",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[뉴스9 날씨] 내일까지 ‘가을 날씨’…목요일 전국에 비",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8703134",
+     "t": "[무등의 아침] “하위권이란 전문가들 전망 비웃은 KIA…붙박이 2번 타자·국내 선발진 정립은 과제”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8702495",
      "press": "KBS 뉴스"
     },
     {
-     "t": "남서부부터 ‘비 소식’, 내일 전국 확대…토요일 아침 ‘영하’",
-     "u": "https://www.hani.co.kr/arti/society/environment/1285667.html",
-     "press": "한겨레"
+     "t": "KS행 실패에서 얻은 과제, 정상급 테이블세터 필요하다...KIA, FA 시장에서 최지훈-홍창기 노릴까?",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/04/GEYDQZJWHBSDKMTFMJRDEYTFME/",
+     "press": "조선일보"
     },
     {
-     "t": "부산, 울산, 경남 대체로 구름 많은 날씨…낮 기온 최대 19도",
-     "u": "https://www.yna.co.kr/view/AKR20261104008700052",
-     "press": "연합뉴스"
+     "t": "[이슈포커스][KIA 타이거즈 결산](하) 투혼의 가을-이범호의 관리 야구, KIA 가을야구를 지탱했다",
+     "u": "https://www.namdonews.com/news/articleView.html?idxno=928193",
+     "press": "남도일보"
     }
    ]
   },
   {
-   "name": "제민 일보",
-   "idx": 20,
+   "name": "디트로이트 대 필라데피아",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "[제민탑] 제주 제2공항 건설 어디로 가고 있나",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=846070",
+     "t": "Sixers face Pistons with chance to avenge lone loss of the season",
+     "u": "https://www.libertyballers.com/76ers-game-previews/100969/philadelphia-sixers-detroit-pistons-nba-embiid-lebron-duren-reed",
+     "press": "Liberty Ballers"
+    },
+    {
+     "t": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on the NBA Tonight, 76ers-Pistons",
+     "u": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-nba-tonight-76ers-pistons-cavs-thunder",
+     "press": "Fox News"
+    },
+    {
+     "t": "Fanatics Sportsbook promo code CBSFAN350: Get $350 FanCash for Pistons-76ers, Bu",
+     "u": "https://www.cbssports.com/betting/news/fanatics-sportsbook-promo-code-cbsfan350-get-350-fancash-pistons-76ers-bulls-knicks-nba-wednesday/",
+     "press": "CBS Sports"
+    }
+   ]
+  },
+  {
+   "name": "보디빌더",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김민준 ‘세계최고 보디빌더’",
+     "u": "https://www.donga.com/news/Sports/article/all/20261105/134968751/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "제주 박선연, 한국 여자 피지크 최초 세계 정상",
+     "u": "https://www.jemin.com/news/articleView.html?idxno=846152",
      "press": "제민일보"
     },
     {
-     "t": "‘우여곡절’ 2공항 갈등조정협의회 출범…찬성 단체 ‘반발’",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8702165",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "[한라일보 저녁잇슈] 2026년 11월 2일 제주뉴스",
-     "u": "http://www.ihalla.com/article.php?aid=1793608343792316121",
-     "press": "한라일보"
+     "t": "김민준, 세계보디빌딩선수권 남자 보디빌딩 역대 최초 '오버롤'",
+     "u": "https://www.yna.co.kr/view/AKR20261104146300007",
+     "press": "연합뉴스"
     }
    ]
   },
   {
-   "name": "정용진",
-   "idx": 10,
+   "name": "lg그룹",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "[MD 포커스] ‘같은 신세계, 다른 미래’…정용진·정유경이 꺼낸 대형 승부수",
-     "u": "https://mydaily.co.kr/page/view/2026110216014046688",
-     "press": "마이데일리"
-    },
-    {
-     "t": "[유통가 인사]① 'WB 투자부터 AI까지' 정용진이 그리는 신세계",
-     "u": "https://www.opinionnews.co.kr/news/articleView.html?idxno=146594",
-     "press": "오피니언뉴스"
-    },
-    {
-     "t": "[신(新)인물탐구(71)] 신세계그룹 정용진 회장① 성장 경력 - 28년의 경영수업, 준비된 후계자의 길",
-     "u": "https://www.news2day.co.kr/article/20261102500184",
-     "press": "뉴스투데이"
-    }
-   ]
-  },
-  {
-   "name": "비행기",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "대한항공, 4일부터 미국행 노선서 에볼라 서약서 제출 의무화",
-     "u": "https://www.yna.co.kr/view/AKR20261103045300003",
+     "t": "AI로 안전 챙긴다…LG 그룹 안전환경 콘퍼런스",
+     "u": "https://www.yna.co.kr/view/AKR20261105028200003",
      "press": "연합뉴스"
     },
     {
-     "t": "대한항공, 미국행 승객 대상 에볼라 관련 서약서 제출 의무화",
-     "u": "https://www.kyeonggi.com/article/20261103580227",
-     "press": "경기일보"
+     "t": "LG, 16개 계열사 모여 'AI 안전 혁신' 공유…그룹 콘퍼런스 'LG 쉬크' 개최",
+     "u": "https://core.asiae.co.kr/article/2026110508155581251",
+     "press": "아시아경제"
     },
     {
-     "t": "대한항공 \"미국행 항공편, 에볼라 서약서 제출해야\"",
-     "u": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005953735",
-     "press": "매일경제TV"
+     "t": "LG, 마곡서 16개 계열사 AI 안전혁신사례 공유",
+     "u": "https://zdnet.co.kr/view/?no=20261105093209",
+     "press": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "name": "매일경제",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "서울 이어 분당 국평도 30억 턱밑…포모 확산 속 청약쏠림 뚜렷",
+     "u": "https://www.mk.co.kr/news/realestate/12197870",
+     "press": "매일경제"
+    },
+    {
+     "t": "인천도 국평 분양가 8억원 돌파…1년 새 1억6000만원 올라",
+     "u": "https://www.newsis.com/view/NISX20261105_0003855821",
+     "press": "뉴시스"
+    },
+    {
+     "t": "학세권 단지의 진화… 제일건설 '제일풍경채 광주 포에듀' 공급",
+     "u": "https://magazine.hankyung.com/business/article/202611045446b",
+     "press": "한경매거진"
+    }
+   ]
+  },
+  {
+   "name": "젠지",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "LCK 챔피언의 압도적 경기력…젠지, 라이언 꺾고 월즈 4강 진출",
+     "u": "https://www.yna.co.kr/view/AKR20261105048100017",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "[롤드컵] '캐니언-기인 활약' 젠지, 초반 위기 딛고 라이온 상대로 8강 기선제압",
+     "u": "https://www.osen.co.kr/article/G1112904589",
+     "press": "OSEN"
+    },
+    {
+     "t": "[롤드컵] '거침없는 호랑이' 젠지, 2세트도 26분대에 사자 사냥...2-0 리드 '4강 눈앞'",
+     "u": "https://www.koreadaily.com/article/20261104155555519",
+     "press": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "이혼 소송",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "장모 퇴직금 보태서 산 6억 집, 18억 되자…이혼 소송 남편 \"'옛 공시가'로 나누자\"",
+     "u": "https://www.news1.kr/society/general-society/6342295",
+     "press": "뉴스1"
+    },
+    {
+     "t": "양도세 빼고 공시가로 계산하자?…18억 아파트 앞 남편의 '황당' 셈법",
+     "u": "https://www.ytn.co.kr/_ln/0103_202611040027133077",
+     "press": "YTN"
+    },
+    {
+     "t": "분양가 6억 아파트, 18억 '껑충'…이혼소송 중 집값 뛰면 어떻게 나눌까 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/11/04/2026110409102562816",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "우주발사체",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "순천에 들어선 우주발사체 사업장",
+     "u": "https://www.yna.co.kr/view/PYH20261104154500054",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "한화에어로, 순천 우주발사체 공장 준공…제주 위성센터와 우주 밸류체인 구축",
+     "u": "https://www.greened.kr/news/articleView.html?idxno=353879",
+     "press": "녹색경제신문"
+    },
+    {
+     "t": "[무등의 아침] 손훈모 “한화에어로 순천 단 조립장 준공…동부권, 우주·방산 산업의 중심지로 도약”",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8703585",
+     "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "한국대학신문",
+   "idx": 5,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "엔씨",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "엔씨, '길드워' 20년 만의 신규 콘텐츠 '애프터라이프' 내년 1월 출시",
+     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=451198",
+     "press": "비즈니스포스트"
+    },
+    {
+     "t": "엔씨 ‘길드워’, 약 20년 만에 신규 DLC…‘애프터라이프’ 내년 1월 출시",
+     "u": "https://zdnet.co.kr/view/?no=20261104143713",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "[게임스테이션] '크오' 신규 보스 공개·'길드워' DLC·'도깨비~' 신규 서버·'어라이즈 오버드라이브' PS5-엑스박스 출시·'로드나인'-'",
+     "u": "https://www.newsworks.co.kr/news/articleView.html?idxno=901874",
+     "press": "뉴스웍스"
     }
    ]
   }
