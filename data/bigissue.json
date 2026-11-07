@@ -1,210 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261106",
- "updated": "2026-11-06T10:20:19+09:00",
+ "targetDate": "20261107",
+ "updated": "2026-11-07T09:37:23+09:00",
  "list": [
   {
-   "name": "삼성전자 주가",
+   "name": "아들",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "10% 가까이 급락한 삼성전자",
-     "u": "https://www.newsis.com/view/NISI20261106_0021521479",
+     "t": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
+     "u": "https://sports.khan.co.kr/article/202611060907003",
+     "press": "스포츠경향"
+    },
+    {
+     "t": "김구라, 아들 그리 결혼설에…\"살다가도 이혼하는 판\"",
+     "u": "https://www.newsis.com/view/NISX20261106_0003858616",
      "press": "뉴시스"
     },
     {
-     "t": "폭락한 삼성전자 주가",
-     "u": "https://www.news1.kr/photos/8200078",
-     "press": "뉴스1"
+     "t": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "공무원",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“날 쳐다봐서” 공무원 눈에 호신용 스프레이 쏜 40대",
+     "u": "https://www.kyeonggi.com/article/20261107580005",
+     "press": "경기일보"
     },
     {
-     "t": "\"삼성전자, 주가 대신 장부가치 봐야\"…전문가가 본 증시 반등 조건",
-     "u": "https://www.fnnews.com/news/202611030019265181",
+     "t": "“왜 쳐다봐” 공무원에 호신용 스프레이 뿌린 40대…법원 판단은",
+     "u": "https://www.khan.co.kr/article/202611070744001",
+     "press": "경향신문"
+    },
+    {
+     "t": "“뭘 쳐다봐” 다짜고짜 호신용 스프레이를…공무원 다치게 한 40대",
+     "u": "https://www.mk.co.kr/news/society/12201351",
+     "press": "매일경제"
+    }
+   ]
+  },
+  {
+   "name": "테슬라 사이버트럭",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "테슬라, 사이버트럭 생산 중단키로…머스크 \"한 시대의 끝\"",
+     "u": "https://www.yna.co.kr/view/AKR20261107003800075",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "테슬라, Cybertruck 생산 축소…머스크는 로보택시에 집중",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2164179",
+     "press": "Investing.com 한국어"
+    },
+    {
+     "t": "테슬라, 사이버트럭 내년 단종…로봇·AI에 집중",
+     "u": "https://www.fnnews.com/news/202611070448365844",
      "press": "파이낸셜뉴스"
     }
    ]
   },
   {
-   "name": "삼전주가",
-   "idx": 100,
+   "name": "요즘 남자 라이프 - 신랑수업",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "삼성전자 주주환원 유보에 증여세 논란…이사회 독립성 시험대",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443191",
-     "press": "연합인포맥스"
-    },
-    {
-     "t": "삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2160533",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "'소외된' 삼성전자 가전…신뢰도·이익 둘 다 놓쳐 : 네이버 블로그",
-     "u": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224466134542&redirect=Dlog",
-     "press": "Naver Blog"
-    }
-   ]
-  },
-  {
-   "name": "장윤정",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“벌써 이렇게 컸어” 장윤정, 연우·하영 남매 자랑에 ‘광대 승천’",
-     "u": "https://sports.khan.co.kr/article/202611052015013",
-     "press": "스포츠경향"
-    },
-    {
-     "t": "장윤정, 가족 위해 차린 특별한 집밥…건강 식단 공개하며 연말 신곡 예고",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=846288",
-     "press": "제민일보"
-    },
-    {
-     "t": "\"너무 행복해\" 장윤정, 쉬는 날 육아에도 결국 웃음···연우·하영, 엄마 껌딱지로 출연(‘장공장장윤정’)",
-     "u": "https://www.osen.co.kr/article/G1112905036",
-     "press": "OSEN"
-    }
-   ]
-  },
-  {
-   "name": "최원태",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“한국시리즈만 기다렸다” kt, 뜨거운 방망이로 기선제압",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8703094",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "'70억 투자' 이대로 퇴장하나…충격의 선발 박탈, 명예회복 기회 찾아올까 [KS]",
-     "u": "https://www.chosun.com/sports/baseball/2026/11/06/MU2TGNDDG5TGKYTCHFSGKODEMY/",
+     "t": "송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GYZDCYTFGQ4DMY3BME4TCMRYMY/",
      "press": "조선일보"
     },
     {
-     "t": "[KS2] '수원서 1승 1패' 박진만 감독의 목표 달성…살아난 삼성, 대구서 반격 노린다",
-     "u": "https://www.newspim.com/news/view/20261105000005",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "군함",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“전투기에 조기경보기·공중급유기까지 총동원”…대만 주변 하늘을 집어삼킨 중국의 무력시위 [밀리터리노트]",
-     "u": "https://www.seoul.co.kr/news/international/china/2026/11/05/20261105500075",
-     "press": "서울신문"
+     "t": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
+     "u": "https://ichannela.com/program/clip/000000558837.do",
+     "press": "채널A"
     },
     {
-     "t": "中군용기 14대 대만 주변 출현…12대 대만해협 중간선 넘어",
-     "u": "https://www.news1.kr/world/northeast-asia/6343813",
-     "press": "뉴스1"
-    },
-    {
-     "t": "\"中 육군병력 104만명, 해군작전함은 474척\"…대만 국방부 공개",
-     "u": "https://www.yna.co.kr/view/AKR20261104106400009",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "하이닉스 주가",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "SK하이닉스 주가가 오늘 급락한 이유는?",
-     "u": "https://kr.investing.com/news/stock-market-news/article-93CH-2160717",
-     "press": "Investing.com 한국어"
-    },
-    {
-     "t": "10% 폭락한 SK하이닉스",
-     "u": "https://www.newsis.com/view/NISI20261106_0021521477",
-     "press": "뉴시스"
-    },
-    {
-     "t": "폭락한 SK하이닉스 주가",
-     "u": "https://www.news1.kr/photos/8200079",
+     "t": "송해나, 6살 연하 변호사와 소개팅…이승철 주선",
+     "u": "https://www.news1.kr/entertain/broadcast-tv/6346170",
      "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "토스",
-   "idx": 10,
+   "name": "문화일보",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘파견 검사 20명’ 조작기소 특검에···검사들 “무조건 피해야”, “법왜곡죄 범할까 우려”",
+     "u": "https://www.khan.co.kr/article/202611061742001",
+     "press": "경향신문"
+    },
+    {
+     "t": "“李대통령 정치적 고향, 성남 아니라 베네수엘라” 무슨 뜻?…국힘 정점식 발언",
+     "u": "https://www.munhwa.com/article/11629492",
+     "press": "문화일보"
+    },
+    {
+     "t": "[사설]모순과 논란투성이 ‘조작 기소 특검법’… 후폭풍 감당하겠나",
+     "u": "https://www.donga.com/news/Opinion/article/all/20261106/134982418/2",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "대한민국 농림축산식품부 장관",
+   "idx": 5,
    "mv": "NEW",
    "news": []
   },
   {
-   "name": "달러 환율",
-   "idx": 10,
+   "name": "의약품",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "'블루쓰나미'에 외환시장도 요동…원/달러 환율, 15원가량 급등 - 머니투데이",
-     "u": "https://www.mt.co.kr/economy/2026/11/06/2026110608332315358",
-     "press": "머니투데이"
+     "t": "[보도참고] 식약처, 의약품 허가·심사 수수료 현실화 추진",
+     "u": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788186",
+     "press": "대한민국 정책브리핑"
     },
     {
-     "t": "[신윤우의 외환분석] '반도체 쇼크'에 감전된 원화",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443427",
-     "press": "연합인포맥스"
+     "t": "식약처, 의약품 허가 수수료 최대 6배 인상 추진… 제약사 비용 부담 전망",
+     "u": "https://it.chosun.com/news/articleView.html?idxno=3000000000429",
+     "press": "IT조선"
     },
     {
-     "t": "반도체 수출 호황이어도 다른 수출기업은 웃지 못하는 이유",
-     "u": "https://weekly.donga.com/List/article/all/11/6445999/1",
-     "press": "주간동아"
-    }
-   ]
-  },
-  {
-   "name": "금값",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'블루웨이브'에 금·은 가격 회복세…구리는 ‘AI 우려'에 주춤",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=03575206645643096",
-     "press": "마켓인"
-    },
-    {
-     "t": "[원자재 시황] 증시 폭락에 오르는 금값 By EBN",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2163142",
+     "t": "식약처, 의약품 허가·심사 수수료 인상…첨단바이오 부담 확대 By EBN",
+     "u": "https://kr.investing.com/news/stock-market-news/article-2163470",
      "press": "Investing.com 한국어"
-    },
-    {
-     "t": "[뉴욕 금가격] 美 AI 규제 우려 기술주 투매 속 1% 상승",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443337",
-     "press": "연합인포맥스"
     }
    ]
   },
   {
-   "name": "kospi",
-   "idx": 10,
+   "name": "노동자",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "KOSPI, KOSDAQ Trigger Circuit Breakers Amid U.S. Election AI Regulation Fears",
-     "u": "https://www.chosun.com/english/market-money-en/2026/11/05/7UVZ7O6FPBF4XLJN5XFH2PJTLQ/",
-     "press": "조선일보"
+     "t": "제주 노동존중사회 의원연구포럼, 공무직 노동자 근무환경 개선 방안 모색 간담회",
+     "u": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601745",
+     "press": "헤드라인제주"
     },
     {
-     "t": "[Photo] Floor Leader Jeong Jeomsik Speaks",
-     "u": "https://www.asiae.co.kr/en/article/2026110609162004790",
-     "press": "아시아경제"
+     "t": "양경호 제주도의원, ‘제주 노동존중사회 의원연구포럼 간담회’ 참석…노동 현장 목소리 청취",
+     "u": "https://newsnjeju.com/news/articleView.html?idxno=303858",
+     "press": "뉴스N제주"
     },
     {
-     "t": "Foreigners dump 20.6 trillion won in Samsung and SK hynix shares as 'blue wave' ",
-     "u": "https://www.mt.co.kr/en/stock/2026/11/05/2026110517110160047",
-     "press": "머니투데이"
+     "t": "제주도의회, 공무직 노동자 근무환경 개선 나선다…노조 현장 애로사항 청취",
+     "u": "https://www.jejunews.biz/news/articleView.html?idxno=107118",
+     "press": "제주뉴스"
+    }
+   ]
+  },
+  {
+   "name": "기초 연구",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
+     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
+     "u": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90",
+     "press": "BRIC"
+    },
+    {
+     "t": "내년부터 기초연구 성과 평가 바뀐다… 논문·특허 건수 제출 폐지",
+     "u": "https://biz.chosun.com/science-chosun/science/2026/11/05/OWXZFHF2EVD6ZHBYK3UL7VGHFY/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "아프리카",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "국회아프리카포럼, 문병준 前 사우디대사대리 초청 세미나",
+     "u": "http://www.jeonpa.co.kr/news/articleView.html?idxno=228027",
+     "press": "전파신문"
+    },
+    {
+     "t": "5,000km 로드트립으로 만나는, 나미비아| 디지털 KBS",
+     "u": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=magazine&contents_id=70000000404091",
+     "press": "MyloveKBS"
+    },
+    {
+     "t": "'걸어서 세계속으로' 사막과 대서양 사이 5,000km...나미비아 대자연을 달리다",
+     "u": "https://www.nc.press/news/articleView.html?idxno=630385",
+     "press": "뉴스컬처"
     }
    ]
   }
