@@ -1,194 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261109",
- "updated": "2026-11-09T09:26:21+09:00",
+ "targetDate": "20261110",
+ "updated": "2026-11-10T12:06:52+09:00",
  "list": [
   {
-   "name": "할증",
+   "name": "박진만",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
-     "u": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/",
-     "press": "조선일보"
-    },
-    {
-     "t": "택시비, 심야 이어 요일별 할증도 가능해진다…국토부 훈령 개정 추진",
-     "u": "https://www.news1.kr/realestate/general/6346045",
-     "press": "뉴스1"
-    },
-    {
-     "t": "“금요일에 타면 더 비싸다고?” 택시요금에 생기는 변화…심야 할증에 요일별 할증까지",
-     "u": "https://www.sedaily.com/article/20111715",
-     "press": "서울경제"
-    }
-   ]
-  },
-  {
-   "name": "t1",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[롤드컵] '첫 걸음부터 꼬인 T1' BLG 맞춤 설계에 4강 서전 30분만에 참패",
-     "u": "https://www.osen.co.kr/article/G1112907031",
-     "press": "OSEN"
-    },
-    {
-     "t": "[롤드컵] '페이커 노데스 캐리'…T1, BLG에 2세트 반격 성공 1-1 원점",
-     "u": "https://www.osen.co.kr/article/G1112907057",
-     "press": "OSEN"
-    },
-    {
-     "t": "\"T1답지 않은 경기력\"⋯BLG에 무너진 T1, 월즈 4강 1세트 패배",
-     "u": "https://www.etoday.co.kr/news/view/2645520",
-     "press": "이투데이"
-    }
-   ]
-  },
-  {
-   "name": "노동법",
-   "idx": 25,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "의약품",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
-     "u": "https://www.hkn24.com/news/articleView.html?idxno=351602",
-     "press": "헬스코리아뉴스"
-    },
-    {
-     "t": "희귀질환 신약 5종, 건보 신속 등재 시범사업 대상 선정",
-     "u": "https://biz.chosun.com/science-chosun/bio/2026/11/07/KKD5WKHFN5EV7I56KWCFFHGCWU/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "복지부, 루게릭병 '칼소디주' 등 희귀질환약 5종 신속등재 추진",
-     "u": "https://www.newsis.com/view/NISX20261106_0003857608",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "개발제한구역",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
-  },
-  {
-   "name": "마린 올솝",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "지휘자 마린 알솝 \"임윤찬은 우리 세기의 위대한 피아니스트 될 것\"",
-     "u": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/",
-     "press": "조선일보"
-    },
-    {
-     "t": "4년 전 눈물에서… 4년 후 눈맞춤으로",
-     "u": "https://www.donga.com/news/Culture/article/all/20261109/134988145/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "감동은 그대로… 임윤찬의 새로운 ‘라흐마니노프’",
-     "u": "https://www.seoul.co.kr/news/life/performance/2026/11/09/20261109018001",
-     "press": "서울신문"
-    }
-   ]
-  },
-  {
-   "name": "황유민",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
-     "u": "https://www.yna.co.kr/view/AKR20261108030300007",
+     "t": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
+     "u": "https://www.yna.co.kr/view/AKR20261109132200053",
      "press": "연합뉴스"
     },
     {
-     "t": "황유민, LPGA 토토 저팬 클래식 3R 공동 3위…선두에 2타 차",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8706681",
-     "press": "KBS 뉴스"
+     "t": "“편의점 67곳 돌았다“…삼성 팬들 ’우승 신문’ 구하기 열풍",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261110110222hry",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "'일본 여자골프 뒷심'…사쿠마 우승해 LPGA 투어 시즌 최다 8승",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=02364886645643752&mediaCodeNo=257",
-     "press": "이데일리"
+     "t": "삼성, 스포츠단 ‘흑역사’ 지우고 ‘명가’ 재건하나",
+     "u": "https://www.chosun.com/sports/sports_general/2026/11/10/AJRQCULD2BH2PHSN6ZXS6ALSFA/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "기영식",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
-     "u": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261",
-     "press": "데일리스포츠한국"
-    },
-    {
-     "t": "[사계 191회 예고] 백합에게 스킨십?! 14광수의 과감한 행동에 삐진 7영식 #나솔사계 EP.191ㅣSBS PLUS X ENAㅣ목요일 밤 1",
-     "u": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000639414",
-     "press": "programs.sbs.co.kr"
-    },
-    {
-     "t": "7기 영식, 백합 좋다고 오열까지 했는데…“이러다 뺏기겠는데” (나솔사계)",
-     "u": "https://sports.donga.com/ent/article/all/20261107/134983091/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "수능날",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
-     "u": "https://www.koreadaily.com/article/20261106130050591",
-     "press": "미주중앙일보"
-    },
-    {
-     "t": "[똑똑한교육] 재능교육, 리딩앤, 하모니힐스, 웅진씽크빅, 대교 눈높이, 소노아임레디, YBN인강, 천재교과서",
-     "u": "https://m.ekn.kr/view.php?key=20261031020183718",
-     "press": "에너지경제신문"
-    },
-    {
-     "t": "“공부는 재미없지만 해야 할 이유는 분명히 있어요”",
-     "u": "https://woman.donga.com/edu/article/all/12/6444559/1",
-     "press": "여성동아"
-    }
-   ]
-  },
-  {
-   "name": "bulls vs 76ers",
+   "name": "중대범죄 수사청",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Sixers starters put on a show in Chicago (Short Mix)",
-     "u": "https://www.nba.com/watch/video/sixers-starters-put-on-a-show-in-chicago",
-     "press": "NBA.com"
+     "t": "피해자가 새 증거 찾아도… 검사 \"직접 못 받아\" 경찰 \"손 떠난 사건\"",
+     "u": "https://www.chosun.com/national/court_law/2026/11/10/MNTQTB3TAZC7TBSLCRCGAXGEH4/",
+     "press": "조선일보"
     },
     {
-     "t": "How to watch 76ers vs. Bulls: TV channel and streaming options for November 8",
-     "u": "https://www.nytimes.com/athletic/7764966/2026/11/08/76ers-vs-bulls-stream-how-to-watch-nov-8/",
-     "press": "The New York Times"
+     "t": "[이달우의 신우시산국 (35)]사법부 두 기관의 대조적인 불빛",
+     "u": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071992",
+     "press": "경상일보"
     },
     {
-     "t": "Tyrese Maxey posts 27 points, seven assists",
-     "u": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-08/tyrese-maxey-posts-27-points-seven-assists",
-     "press": "NBC Sports"
+     "t": "윤상현 \"중수청 출범 한 달, 3288건 중 단 3건 이첩…형사사법 개혁 의문\"",
+     "u": "https://www.newspim.com/news/view/20261110000217",
+     "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "가수",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "임영웅, 293주째 변함없는 정상… 장기 집권 이어가는 팬덤 파워",
+     "u": "http://www.jemin.com/news/articleView.html?idxno=846679",
+     "press": "제민일보"
+    },
+    {
+     "t": "임영웅, 'K-브랜드지수' 1위...성리·박지현·김용빈·이찬원 TOP5",
+     "u": "https://www.nc.press/news/articleView.html?idxno=630614",
+     "press": "뉴스컬처"
+    },
+    {
+     "t": "역시 임영웅, 영웅시대와 함께 지킨 1위…이젠 극장에서 만나요",
+     "u": "https://www.fnnews.com/news/202611101123027679",
+     "press": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "name": "원태인",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "원태인 '오늘 끝낸다'",
+     "u": "https://www.yna.co.kr/view/PYH20261108101000053",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "\"우승시켜 드렸으니 좋은 계약서 주시겠죠?\" 12년 만의 왕조 재건 이끈 원태인, 이제 FA 대박 기대한다 [KS5]",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/09/GE2TSMBXGU4GGMZQHE4DQNLGGY/",
+     "press": "조선일보"
+    },
+    {
+     "t": "[KS5] 불펜에서 선발로 돌아온 삼성 원태인, 3일 휴식에도 5이닝 1실점 역투",
+     "u": "https://www.newspim.com/news/view/20261108000090",
+     "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "3 기 신도시 남양주 왕숙 지구",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "정부는 ‘앞당긴다’ 했는데… 3기 신도시 최대 사업지 또 입주 지연",
+     "u": "https://www.chosun.com/economy/real_estate/2026/11/10/HUUAKXSW6JEJ5JRRV3GTRG5UDY/",
+     "press": "조선일보"
+    },
+    {
+     "t": "3기 신도시 남양주 왕숙 공공주택 또 지연… 교통대책도 난항 - 머니투데이",
+     "u": "https://www.mt.co.kr/estate/2026/11/09/2026110615515640807",
+     "press": "머니투데이"
+    },
+    {
+     "t": "환매·이익공유 조건 없앤 일반 공공분양, ‘왕숙 한신더휴센텀’ 총 379세대 11월 분양 예정",
+     "u": "https://www.rcast.co.kr/news/articleView.html?idxno=31947",
+     "press": "리얼캐스트"
+    }
+   ]
+  },
+  {
+   "name": "인구",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "홍성군 인구 10만 2천 명 돌파…\"전입·정착 지원 강화\"",
+     "u": "https://cc.newdaily.co.kr/site/data/html/2026/11/10/2026111000021.html",
+     "press": "뉴데일리 충청세종"
+    },
+    {
+     "t": "홍성군 인구 10만 2000 명 돌파",
+     "u": "https://m.joongdo.co.kr/view.php?key=20261110010003218",
+     "press": "중도일보"
+    },
+    {
+     "t": "홍성 인구 10만 2천 명 돌파…\"유입책 강화\"",
+     "u": "https://news.lghellovision.net/news/articleView.html?idxno=561639",
+     "press": "LG헬로비전"
+    }
+   ]
+  },
+  {
+   "name": "병무청",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "전북병무청, 2026년 하반기 사회복무요원 복무기관담당자 교육",
+     "u": "https://www.gkg.co.kr/195121",
+     "press": "전북금강일보"
+    },
+    {
+     "t": "병무청, 복무기관 담당자 전문성 강화",
+     "u": "https://www.cctimes.kr/news/articleView.html?idxno=935951",
+     "press": "충청타임즈"
+    },
+    {
+     "t": "전북지방병무청, 2026년 하반기 사회복무요원 복무기관 담당자 교육 실시",
+     "u": "https://www.domin.co.kr/news/articleView.html?idxno=1574787&sc_section_code=S1N8",
+     "press": "전북도민일보"
+    }
+   ]
+  },
+  {
+   "name": "청약홈",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘반값 아파트’ 고덕강일3단지 청약에 2만5000명 넘게 몰려",
+     "u": "https://www.chosun.com/economy/real_estate/2026/11/10/AI2UOI6PTZBPXJT5L3TMECIPF4/",
+     "press": "조선일보"
+    },
+    {
+     "t": "공공분양, '청약홈'서만 신청? … SH 물량은 따로 접수",
+     "u": "https://www.hankyung.com/article/2026110832281",
+     "press": "한국경제"
+    },
+    {
+     "t": "\"아들이면 말린다\"...강동구 59㎡가 3억인데, 왜 ? [권준호의 요·아·정]",
+     "u": "https://www.fnnews.com/news/202611061638302655",
+     "press": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "name": "경기도의회",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "“실적보다 사람이 먼저”…김성기 경기도의원, 복지 행감서 쓴소리",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1336404",
+     "press": "인천일보"
+    },
+    {
+     "t": "방미숙 경기도의원 “어렵다고 보훈 깎나”…참전수당 감액·복지 중단 질타",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1336405",
+     "press": "인천일보"
+    },
+    {
+     "t": "경기도의회 기획재정위, 도비 보조율 조정에 시·군 재정 부담 우려",
+     "u": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040388",
+     "press": "기호일보"
+    }
+   ]
+  },
+  {
+   "name": "대구백화점 본점",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "방치된 옛 대구백화점 본점, 중구청사로?…공공활용 용역 시동",
+     "u": "https://www.yna.co.kr/view/AKR20261109135300053",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "[대백의 추락, 그리고 눈물] \"자산 매각에만 의존, 협상력 약화…재무구조 개선 활용 나서야\"",
+     "u": "https://www.imaeil.com/page/view/2026110314124800088",
+     "press": "매일신문"
+    },
+    {
+     "t": "대구백화점 본점 중도금 15억원 납입일 5일로 조정",
+     "u": "https://www.vegannews.co.kr/news/article.html?no=400671",
+     "press": "비건뉴스"
     }
    ]
   }
