@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261110",
- "updated": "2026-11-10T12:06:52+09:00",
+ "targetDate": "20261111",
+ "updated": "2026-11-11T09:58:26+09:00",
  "list": [
   {
-   "name": "박진만",
+   "name": "이효정",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
-     "u": "https://www.yna.co.kr/view/AKR20261109132200053",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "“편의점 67곳 돌았다“…삼성 팬들 ’우승 신문’ 구하기 열풍",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261110110222hry",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "삼성, 스포츠단 ‘흑역사’ 지우고 ‘명가’ 재건하나",
-     "u": "https://www.chosun.com/sports/sports_general/2026/11/10/AJRQCULD2BH2PHSN6ZXS6ALSFA/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "중대범죄 수사청",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "피해자가 새 증거 찾아도… 검사 \"직접 못 받아\" 경찰 \"손 떠난 사건\"",
-     "u": "https://www.chosun.com/national/court_law/2026/11/10/MNTQTB3TAZC7TBSLCRCGAXGEH4/",
-     "press": "조선일보"
-    },
-    {
-     "t": "[이달우의 신우시산국 (35)]사법부 두 기관의 대조적인 불빛",
-     "u": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071992",
-     "press": "경상일보"
-    },
-    {
-     "t": "윤상현 \"중수청 출범 한 달, 3288건 중 단 3건 이첩…형사사법 개혁 의문\"",
-     "u": "https://www.newspim.com/news/view/20261110000217",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "가수",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "임영웅, 293주째 변함없는 정상… 장기 집권 이어가는 팬덤 파워",
-     "u": "http://www.jemin.com/news/articleView.html?idxno=846679",
-     "press": "제민일보"
-    },
-    {
-     "t": "임영웅, 'K-브랜드지수' 1위...성리·박지현·김용빈·이찬원 TOP5",
-     "u": "https://www.nc.press/news/articleView.html?idxno=630614",
-     "press": "뉴스컬처"
-    },
-    {
-     "t": "역시 임영웅, 영웅시대와 함께 지킨 1위…이젠 극장에서 만나요",
-     "u": "https://www.fnnews.com/news/202611101123027679",
-     "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "원태인",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "원태인 '오늘 끝낸다'",
-     "u": "https://www.yna.co.kr/view/PYH20261108101000053",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "\"우승시켜 드렸으니 좋은 계약서 주시겠죠?\" 12년 만의 왕조 재건 이끈 원태인, 이제 FA 대박 기대한다 [KS5]",
-     "u": "https://www.chosun.com/sports/baseball/2026/11/09/GE2TSMBXGU4GGMZQHE4DQNLGGY/",
-     "press": "조선일보"
-    },
-    {
-     "t": "[KS5] 불펜에서 선발로 돌아온 삼성 원태인, 3일 휴식에도 5이닝 1실점 역투",
-     "u": "https://www.newspim.com/news/view/20261108000090",
-     "press": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "name": "3 기 신도시 남양주 왕숙 지구",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "정부는 ‘앞당긴다’ 했는데… 3기 신도시 최대 사업지 또 입주 지연",
-     "u": "https://www.chosun.com/economy/real_estate/2026/11/10/HUUAKXSW6JEJ5JRRV3GTRG5UDY/",
-     "press": "조선일보"
-    },
-    {
-     "t": "3기 신도시 남양주 왕숙 공공주택 또 지연… 교통대책도 난항 - 머니투데이",
-     "u": "https://www.mt.co.kr/estate/2026/11/09/2026110615515640807",
+     "t": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738",
      "press": "머니투데이"
     },
     {
-     "t": "환매·이익공유 조건 없앤 일반 공공분양, ‘왕숙 한신더휴센텀’ 총 379세대 11월 분양 예정",
-     "u": "https://www.rcast.co.kr/news/articleView.html?idxno=31947",
-     "press": "리얼캐스트"
+     "t": "동상이몽2_너는 내 운명 : 이유진, ‘아버지’ 이효정과 함께 가게 홍보용 릴스 촬영",
+     "u": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092133",
+     "press": "programs.sbs.co.kr"
+    },
+    {
+     "t": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
+     "u": "https://www.osen.co.kr/article/G1112908014",
+     "press": "OSEN"
     }
    ]
   },
   {
-   "name": "인구",
-   "idx": 5,
+   "name": "광주시",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "홍성군 인구 10만 2천 명 돌파…\"전입·정착 지원 강화\"",
-     "u": "https://cc.newdaily.co.kr/site/data/html/2026/11/10/2026111000021.html",
-     "press": "뉴데일리 충청세종"
+     "t": "\"경기도교육감 개표 결과 달라져\"...특검, 압수수색",
+     "u": "https://www.ytn.co.kr/_ln/0103_202611102211380963",
+     "press": "YTN"
     },
     {
-     "t": "홍성군 인구 10만 2000 명 돌파",
-     "u": "https://m.joongdo.co.kr/view.php?key=20261110010003218",
-     "press": "중도일보"
+     "t": "선관위 특검, '개표상황표 은닉·위조' 경기 광주시 선관위 압수수색",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6864505_36918.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "홍성 인구 10만 2천 명 돌파…\"유입책 강화\"",
-     "u": "https://news.lghellovision.net/news/articleView.html?idxno=561639",
-     "press": "LG헬로비전"
+     "t": "[단독] 특검, 개표상황표 ‘인장 위조’ 정황 포착…선관위 압수수색",
+     "u": "https://news.jtbc.co.kr/article/NB12327332",
+     "press": "JTBC"
     }
    ]
   },
   {
-   "name": "병무청",
-   "idx": 5,
+   "name": "훈련",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "전북병무청, 2026년 하반기 사회복무요원 복무기관담당자 교육",
-     "u": "https://www.gkg.co.kr/195121",
-     "press": "전북금강일보"
-    },
-    {
-     "t": "병무청, 복무기관 담당자 전문성 강화",
-     "u": "https://www.cctimes.kr/news/articleView.html?idxno=935951",
-     "press": "충청타임즈"
-    },
-    {
-     "t": "전북지방병무청, 2026년 하반기 사회복무요원 복무기관 담당자 교육 실시",
-     "u": "https://www.domin.co.kr/news/articleView.html?idxno=1574787&sc_section_code=S1N8",
-     "press": "전북도민일보"
-    }
-   ]
-  },
-  {
-   "name": "청약홈",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘반값 아파트’ 고덕강일3단지 청약에 2만5000명 넘게 몰려",
-     "u": "https://www.chosun.com/economy/real_estate/2026/11/10/AI2UOI6PTZBPXJT5L3TMECIPF4/",
-     "press": "조선일보"
-    },
-    {
-     "t": "공공분양, '청약홈'서만 신청? … SH 물량은 따로 접수",
-     "u": "https://www.hankyung.com/article/2026110832281",
-     "press": "한국경제"
-    },
-    {
-     "t": "\"아들이면 말린다\"...강동구 59㎡가 3억인데, 왜 ? [권준호의 요·아·정]",
-     "u": "https://www.fnnews.com/news/202611061638302655",
-     "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "경기도의회",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“실적보다 사람이 먼저”…김성기 경기도의원, 복지 행감서 쓴소리",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1336404",
-     "press": "인천일보"
-    },
-    {
-     "t": "방미숙 경기도의원 “어렵다고 보훈 깎나”…참전수당 감액·복지 중단 질타",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1336405",
-     "press": "인천일보"
-    },
-    {
-     "t": "경기도의회 기획재정위, 도비 보조율 조정에 시·군 재정 부담 우려",
-     "u": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040388",
-     "press": "기호일보"
-    }
-   ]
-  },
-  {
-   "name": "대구백화점 본점",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "방치된 옛 대구백화점 본점, 중구청사로?…공공활용 용역 시동",
-     "u": "https://www.yna.co.kr/view/AKR20261109135300053",
+     "t": "훈련장에서 쓰러졌던 콩파니 뮌헨 감독, 3주 만에 팀 복귀",
+     "u": "https://www.yna.co.kr/view/AKR20261111012200007",
      "press": "연합뉴스"
     },
     {
-     "t": "[대백의 추락, 그리고 눈물] \"자산 매각에만 의존, 협상력 약화…재무구조 개선 활용 나서야\"",
-     "u": "https://www.imaeil.com/page/view/2026110314124800088",
-     "press": "매일신문"
+     "t": "[공식발표] '충격의 실신→긴급 병원 이송' 콤파니 감독, 뇌·척수 둘러싼 수막에 이상 발견...11일 만에 전해진 복귀 소식 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/11/202611110747778970O",
+     "press": "머니투데이"
     },
     {
-     "t": "대구백화점 본점 중도금 15억원 납입일 5일로 조정",
-     "u": "https://www.vegannews.co.kr/news/article.html?no=400671",
-     "press": "비건뉴스"
+     "t": "'김민재 소속팀' 뮌헨 콩파니 감독, 수막염으로 쓰러진 지 3주 만에 현장 복귀",
+     "u": "https://www.newspim.com/news/view/20261111000092",
+     "press": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "name": "박신영 아나운서",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+     "u": "https://www.newsis.com/view/NISX20261110_0003862283",
+     "press": "뉴시스"
+    },
+    {
+     "t": "박신영, 사망사고 5년 만에 입 열었다…\"평생 안 잊어\" 문신까지 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/11/11/2026111106141849374",
+     "press": "머니투데이"
+    },
+    {
+     "t": "사망 교통사고 이후 틱톡커 변신 박신영 “버텨온 시간 억울해서라도 쉽게 무너지지 않을 것”",
+     "u": "https://sports.khan.co.kr/article/202611100805003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "대구교도소",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'3년 방치' 옛 교도소, 문화예술 공간으로 변신",
+     "u": "https://www.ytn.co.kr/_ln/0115_202611110331000220",
+     "press": "YTN"
+    },
+    {
+     "t": "‘7년 표류’ 옛 대구교도소 터 개발 본격화",
+     "u": "https://www.segye.com/newsView/20261109514586",
+     "press": "세계일보"
+    },
+    {
+     "t": "옛 대구교도소 떠난 자리에 3500억 투입…달성군 문화명소 만든다",
+     "u": "https://www.koreadaily.com/article/20261109071558241",
+     "press": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "ssg 랜더스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[김노천의 베쓰볼] 약속을 지킨 SSG, 가을야구보다 빛났던 '최광야구'의 감동",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1336448",
+     "press": "인천일보"
+    },
+    {
+     "t": "[IS 포커스] 최정·김광현에 해커·루친스키까지? 비시즌의 ‘이벤트 매치’…잡아라 팬심",
+     "u": "https://isplus.com/article/view/isp202611050060",
+     "press": "일간스포츠"
+    },
+    {
+     "t": "인천 문학경기장 일대, 'K-콘텐츠 공연 중심지' 탈바꿈 추진",
+     "u": "https://www.yna.co.kr/view/AKR20261111040200065",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "불",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "새벽 구룡마을 또 화재…소방 진화 작업 중",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR202611110707133b3",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "\"아들이 속옷차림에 맨발로 뛰쳐나와\" 새벽 구룡마을 또 화재(종합)",
+     "u": "https://www.news1.kr/society/incident-accident/6350052",
+     "press": "뉴스1"
+    },
+    {
+     "t": "구룡마을서 또 화재…2시간 만에 완진",
+     "u": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004027",
+     "press": "아시아투데이"
+    }
+   ]
+  },
+  {
+   "name": "시내버스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "경기 성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "경기 성남시 분당에서 출근길 버스 등 대형 추돌사고",
+     "u": "https://www.ytn.co.kr/_cs/_ln_0103_202611110851596668_005.html",
+     "press": "YTN"
+    },
+    {
+     "t": "[속보] 분당사거리서 시내버스가 차 10여대 추돌",
+     "u": "https://www.yonhapnewstv.co.kr/news/MYH20261111084505NpB",
+     "press": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "name": "빼난지원금",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+     "u": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "\"빼빼로 못 받았다면 신청하세요\"…어른들은 모르는 '빼난지원금' - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/11/10/2026111007574324321",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "노이 바이 국제 공항",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "베트남, 하노이 노이바이공항 ‘국제선 전노선’ 자빈공항 이전 추진…2029~2030년",
+     "u": "https://www.insidevina.com/news/articleView.html?idxno=44466",
+     "press": "인사이드비나"
+    },
+    {
+     "t": "지아빈 공항과 하노이 중심부를 연결하는 도시철도 건설 자금 지원에 우선순위를 두어야 합니다.",
+     "u": "https://www.vietnam.vn/ko/uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-trung-tam-ha-noi",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "이 제안은 자람 기차역을 자빈 공항과 연결되는 주요 허브로 활용할 것을 제안합니다.",
+     "u": "https://www.vietnam.vn/ko/de-xuat-lay-ga-gia-lam-lam-dau-moi-ket-noi-san-bay-gia-binh",
+     "press": "Vietnam.vn"
     }
    ]
   }
