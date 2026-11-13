@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261112",
- "updated": "2026-11-12T11:05:40+09:00",
+ "targetDate": "20261113",
+ "updated": "2026-11-13T10:37:50+09:00",
  "list": [
   {
-   "name": "이재 아",
+   "name": "두산에너빌리티",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "“은퇴 원치 않았다”…‘이동국 딸’ 이재아, 테니스 접고 골프 택한 이유",
-     "u": "https://www.mk.co.kr/news/hot-issues/12206026",
-     "press": "매일경제"
+     "t": "'DL이앤씨·두산 협력사' 엑스에너지 미국 SMR 건설 승인, \"실제 착공 여부는 미지수\"",
+     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=451730",
+     "press": "비즈니스포스트"
     },
     {
-     "t": "'전희철 딸' 전지우, 연예인급 미모 \"이대 무용과 수석\"",
-     "u": "https://www.newsis.com/view/NISX20261111_0003864567",
-     "press": "뉴시스"
+     "t": "두산에너빌리티, NuScale 원자로 계약 체결: 034020, 상승세 이어갈까?",
+     "u": "https://tradersunion.com/ko/news/stocks/show/4206554-doosan-enerbility-slides-0-21percent-today/",
+     "press": "Traders Union"
     },
     {
-     "t": "이종혁·전희철, 진짜 겹사돈 되나..이준수·전지우, 쌍방 호감→데이트 '핑크빛'[핫피플]",
-     "u": "https://www.koreadaily.com/article/20261111055418394",
-     "press": "미주중앙일보"
+     "t": "[두산에너빌리티의 2막②] 기술에 베팅한 두산…가스터빈에서 원전까지",
+     "u": "https://theviewers.co.kr/View.aspx?No=4306659",
+     "press": "뷰어스"
     }
    ]
   },
   {
-   "name": "교사",
-   "idx": 20,
+   "name": "아시아 프로야구 챔피언십",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
-     "u": "https://www.fnnews.com/news/202611120926304052",
-     "press": "파이낸셜뉴스"
-    },
-    {
-     "t": "부산교육청 '유치원 수업혁신사례 연구대회' 시상식 열려",
-     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3749756",
-     "press": "국제뉴스"
-    },
-    {
-     "t": "부산 유치원 교사 14명, 놀이 중심 수업으로 교육감상",
-     "u": "http://www.mhns.co.kr/news/articleView.html?idxno=768711",
-     "press": "더쎈뉴스"
-    }
-   ]
-  },
-  {
-   "name": "폭발",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "대구 아파트 보일러실서 폭발…원인 조사",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8710802",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "대구 아파트서 보일러실 폭발⋯깨진 유리창에 차량 10여대 파손",
-     "u": "https://www.kmib.co.kr/article/20261112500142",
-     "press": "국민일보"
-    },
-    {
-     "t": "대구 북구 아파트 13층서 보일러 폭발 추정 사고…80대 여성 이송",
-     "u": "https://www.news1.kr/local/daegu-gyeongbuk/6351270",
-     "press": "뉴스1"
-    }
-   ]
-  },
-  {
-   "name": "서울지하철",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "철도·지하철·학교 비정규직 등 공공부문 잇단 파업 예고",
-     "u": "https://www.khan.co.kr/article/202611111548001",
-     "press": "경향신문"
-    },
-    {
-     "t": "[연합뉴스 이 시각 헤드라인] - 14:30",
-     "u": "https://www.yna.co.kr/view/AKR20261111111400011",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "철도노조 “내달 10일 오전 9시부터 무기한 총파업”",
-     "u": "https://www.donga.com/news/Economy/article/all/20261111/135010293/2",
+     "t": "호주에도 지는 한국야구",
+     "u": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2",
      "press": "동아일보"
-    }
-   ]
-  },
-  {
-   "name": "물류",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "네이버, 물류 자회사 만든다…쿠팡 로켓배송에 도전장 [정지은의 테크킥]",
-     "u": "https://www.hankyung.com/article/202611111374i",
-     "press": "한국경제"
     },
     {
-     "t": "[컨콜] 네이버 \"물류 자회사 설립에 2030년까지 1조원 투자\" By EBN",
-     "u": "https://kr.investing.com/news/stock-market-news/article-2171648",
-     "press": "Investing.com 한국어"
+     "t": "‘호주전 7-8 충격패→결승 탈락 위기’ 한국, 日 11승 대형 좌완신인 만난다 “한국 좋은 타자 많아”",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/13/MQYDKOJTGMYDMNZYHFTDEOJWG4/",
+     "press": "조선일보"
     },
     {
-     "t": "[그래픽] 네이버 3분기 매출 10.7%↑…AI 투자에 영업익은 20.9%↓",
-     "u": "https://www.newsis.com/view/NISI20261112_0002289650",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "엔화",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "예금보다 낫네…日개인 투자자, 2% 금리에 국채 매수 열풍",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=05438246645644736",
-     "press": "마켓인"
-    },
-    {
-     "t": "엔화, 미일 금리차 확대 전망에 1달러=159엔대 후반 하락 출발",
-     "u": "https://www.newsis.com/view/NISX20261112_0003865073",
-     "press": "뉴시스"
-    },
-    {
-     "t": "0% 예금 대신 2% 국채로…일본 '와타나베 부인' 자금 대이동 - 머니투데이",
-     "u": "https://www.mt.co.kr/world/2026/11/11/2026111114410322360",
+     "t": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076",
      "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "장도연",
-   "idx": 5,
+   "name": "메르세데스-벤츠",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "장도연, 허경환에 20년만에 고백 \"설렌 적 있다..내년 결혼 할 듯\" ('유행쇼')",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/GJRGIY3EMFQWCNTGHE3GENBYHE/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "허경환 “개그맨 하기엔 부족함 느껴…시간 벌 건 유행어밖에” (‘유행쇼’)",
-     "u": "https://www.mk.co.kr/news/hot-issues/12206015",
-     "press": "매일경제"
-    },
-    {
-     "t": "장도연, 허경환에 심쿵한 적 있다? “20년 전 허경환, 얼마나 잘생겼었겠나”",
-     "u": "https://sports.khan.co.kr/article/202611120004003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "우스만",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "프로배구 한전, 외국인 용병 위력 ‘반색’… 우스만 활약에 웃음만 나와",
-     "u": "https://www.kyeongin.com/article/1774604",
-     "press": "경인일보"
-    },
-    {
-     "t": "득점 환호하는 한국전력 선수들",
-     "u": "https://www.yna.co.kr/view/PYH20261110192900013",
+     "t": "벤츠도 독일 공장 폐쇄 검토…\"국내 투자 중단\"",
+     "u": "https://www.yna.co.kr/view/AKR20261113005800082",
      "press": "연합뉴스"
     },
     {
-     "t": "33점 대폭발, 7을 사랑하는 한전 새 아쿼는 왜 기자회견에서 \"쏘리, 쏘리\" 외쳤을까",
-     "u": "https://www.chosun.com/sports/volleyball/2026/11/11/MY4WKMBSGFQTKZDCMNSTMZBSGU/",
+     "t": "벤츠마저 독일 공장 투자 중단…폐쇄 카드까지 꺼냈다",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02814246645645392",
+     "press": "마켓인"
+    },
+    {
+     "t": "BMW마저 휘청… 독일 자동차 3사에 무슨 일이?",
+     "u": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/11/11/F7KF6RXKHNDTNGLFL7RGBOCQXU/",
      "press": "조선일보"
     }
    ]
   },
   {
-   "name": "물류신문",
-   "idx": 5,
+   "name": "맨체스터 유나이티드 fc",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "출국 때 안 찾아간 면세품 113만건에 3000억 넘어…인천공항에 83% 집중",
-     "u": "https://www.khan.co.kr/article/202611050934001",
+     "t": "맨유 새 감독에 포체티노 유력",
+     "u": "https://www.khan.co.kr/article/202611122023005",
      "press": "경향신문"
     },
     {
-     "t": "[창간 29주년 기획3-3]물리적 공간의 덫… ‘단순 운송’에 갇혀 ‘통합 물류’ 놓친 면세산업",
-     "u": "https://www.klnews.co.kr/news/articleView.html?idxno=323488",
-     "press": "물류신문"
+     "t": "‘추락한 명가’ EPL 맨유, 캐릭 감독 경질…퍼거슨 이후 7번째",
+     "u": "https://www.donga.com/news/Sports/article/all/20261113/135018915/1",
+     "press": "동아일보"
     },
     {
-     "t": "2026년 11월 6일 항공리포트",
-     "u": "https://news.ifm.kr/news/articleView.html?idxno=483635",
-     "press": "경인방송 뉴스"
+     "t": "[오피셜]'40년만의 강등권' 맨유, 6개월만에 캐릭 '전격 경질'...훈련 중 포체티노 합의→'레전드' 향한 황당 대우에 \"역겹다\", \"소송감",
+     "u": "https://www.chosun.com/sports/world-football/2026/11/13/MQ3TCMJSGQ3GIMBVME2TKNDFMU/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "일타강사",
+   "name": "m365",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "강의까지 중단하고 출연했는데?…넷플릭스 나간 일타강사, ‘데블스 플랜3’ 첫 탈락",
-     "u": "https://biz.heraldcorp.com/article/10934198",
-     "press": "헤럴드경제"
+     "t": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
+     "u": "https://www.crn.com/news/ai/2026/microsoft-starts-limiting-copilot-chat-usage-for-users-without-paid-licenses",
+     "press": "CRN"
     },
     {
-     "t": "이도, 수능 3주 앞두고 강의 중단 사과 \"무책임했다…방송 활동 중단\"",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6349379",
+     "t": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise ",
+     "u": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
+     "press": "Computerworld"
+    },
+    {
+     "t": "Copilot Chat has usage caps, and Microsoft would rather you found them by hittin",
+     "u": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+     "press": "The Register"
+    }
+   ]
+  },
+  {
+   "name": "양승조",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "한국수자원공사 신임 사장에 양승조 전 충남지사",
+     "u": "https://www.yna.co.kr/view/AKR20261112179200063",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "수자원공사 17대 사장에 양승조 전 충남지사…13일 업무 시작",
+     "u": "https://www.news1.kr/local/daejeon-chungnam/6352895",
      "press": "뉴스1"
     },
     {
-     "t": "'강의 중단→예능 출연' 이도, 결국 손절 엔딩?…17개 강좌 통삭제 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/11/10/2026111013464561502",
-     "press": "머니투데이"
+     "t": "수자원공사 신임 사장에 양승조 전 충남지사 13일 취임",
+     "u": "https://www.newsis.com/view/NISX20261112_0003866325",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "김영훈",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "노동장관, 반도체 기업 간담회…초광역특구 사회적 대화에 참고",
+     "u": "https://www.yna.co.kr/view/AKR20261112178500530",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "김영훈, 삼성·SK 만나 반도체 근로시간 유연화 논의…메가특구 사회적대화 연계",
+     "u": "https://biz.heraldcorp.com/article/10935546",
+     "press": "헤럴드경제"
+    },
+    {
+     "t": "김영훈, '주52시간 예외' 반도체 업계 의견 청취…\"좋은 일자리서 혁신\"",
+     "u": "https://www.newsis.com/view/NISX20261113_0003866582",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "금융통화위원회",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444388",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
+     "u": "https://www.hankyung.com/article/2026111109361",
+     "press": "한국경제"
+    },
+    {
+     "t": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책",
+     "u": "https://m.ekn.kr/view.php?key=20261110022330363",
+     "press": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "name": "gemini 4 hydrogen",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "press": "blog.google"
+    },
+    {
+     "t": "Gemini 4 Carbon in GitHub Copilot",
+     "u": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
+     "press": "The GitHub Blog"
+    },
+    {
+     "t": "Google Search Evolves Into an AI Information Assistant... New AI Model 'Hydrogen",
+     "u": "https://en.fnnews.com/news/202611130802050898",
+     "press": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "name": "헤그세스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "헤그세스, 자기 꾸짖은 병사에 훈장 수여… \"잘했다, 상병\"",
+     "u": "https://www.chosun.com/international/us/2026/11/13/NXMEZQGXVZED5NNRARRJ42TEQ4/",
+     "press": "조선일보"
+    },
+    {
+     "t": "창피 뒤 반전 시도?…국립묘지서 떠든 미 국방, 꾸짖은 병사에 훈장",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261113083333TBx",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "국립묘지에서 웃고 떠들다 혼쭐난 '국방장관' 헤그세스",
+     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865260_37004.html",
+     "press": "MBC 뉴스"
     }
    ]
   }
