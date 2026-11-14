@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261113",
- "updated": "2026-11-13T10:37:50+09:00",
+ "targetDate": "20261114",
+ "updated": "2026-11-14T10:12:27+09:00",
  "list": [
   {
-   "name": "두산에너빌리티",
+   "name": "매일경제신문",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "'DL이앤씨·두산 협력사' 엑스에너지 미국 SMR 건설 승인, \"실제 착공 여부는 미지수\"",
-     "u": "https://www.businesspost.co.kr/BP?command=article_view&num=451730",
-     "press": "비즈니스포스트"
+     "t": "낮에 싸게 팔아도 … 기업들 전기 안쓰는 이유는",
+     "u": "https://stock.mk.co.kr/news/view/1197131",
+     "press": "매일경제 마켓"
     },
     {
-     "t": "두산에너빌리티, NuScale 원자로 계약 체결: 034020, 상승세 이어갈까?",
-     "u": "https://tradersunion.com/ko/news/stocks/show/4206554-doosan-enerbility-slides-0-21percent-today/",
-     "press": "Traders Union"
+     "t": "전기밥솥, 취사보다 ‘이것’에 전기 더 쓴다?…돈 아끼는 가전 습관",
+     "u": "https://www.nongmin.com/article/20261110500035",
+     "press": "농민신문"
     },
     {
-     "t": "[두산에너빌리티의 2막②] 기술에 베팅한 두산…가스터빈에서 원전까지",
-     "u": "https://theviewers.co.kr/View.aspx?No=4306659",
-     "press": "뷰어스"
+     "t": "하숙생의 생활비를 줄이는 데 도움이 되는 전기 절약 팁",
+     "u": "https://ko.laodong.vn/video/meo-tiet-kiem-dien-giup-nguoi-o-tro-giam-chi-phi-sinh-hoat-1798523.ldo",
+     "press": "Laodong.vn"
     }
    ]
   },
   {
-   "name": "아시아 프로야구 챔피언십",
-   "idx": 40,
+   "name": "lg 트윈스",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "호주에도 지는 한국야구",
-     "u": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2",
-     "press": "동아일보"
-    },
-    {
-     "t": "‘호주전 7-8 충격패→결승 탈락 위기’ 한국, 日 11승 대형 좌완신인 만난다 “한국 좋은 타자 많아”",
-     "u": "https://www.chosun.com/sports/baseball/2026/11/13/MQYDKOJTGMYDMNZYHFTDEOJWG4/",
+     "t": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/",
      "press": "조선일보"
     },
     {
-     "t": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076",
-     "press": "머니투데이"
+     "t": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
+     "u": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
+     "press": "기호일보"
+    },
+    {
+     "t": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
+     "u": "https://sports.khan.co.kr/article/202611131627013",
+     "press": "스포츠경향"
     }
    ]
   },
   {
-   "name": "메르세데스-벤츠",
-   "idx": 20,
+   "name": "대한민국의 특별검사제도",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "벤츠도 독일 공장 폐쇄 검토…\"국내 투자 중단\"",
-     "u": "https://www.yna.co.kr/view/AKR20261113005800082",
-     "press": "연합뉴스"
+     "t": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+     "u": "https://newstapa.org/article/iKKSJ",
+     "press": "뉴스타파"
     },
     {
-     "t": "벤츠마저 독일 공장 투자 중단…폐쇄 카드까지 꺼냈다",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=02814246645645392",
-     "press": "마켓인"
-    },
-    {
-     "t": "BMW마저 휘청… 독일 자동차 3사에 무슨 일이?",
-     "u": "https://www.chosun.com/kid/kid_nie/kid_upper-grades/2026/11/11/F7KF6RXKHNDTNGLFL7RGBOCQXU/",
-     "press": "조선일보"
-    }
-   ]
-  },
-  {
-   "name": "맨체스터 유나이티드 fc",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "맨유 새 감독에 포체티노 유력",
-     "u": "https://www.khan.co.kr/article/202611122023005",
+     "t": "국힘, 부산서 ‘조작기소 특검법’ 규탄 장외 집회",
+     "u": "https://www.khan.co.kr/article/202611140852001",
      "press": "경향신문"
     },
     {
-     "t": "‘추락한 명가’ EPL 맨유, 캐릭 감독 경질…퍼거슨 이후 7번째",
-     "u": "https://www.donga.com/news/Sports/article/all/20261113/135018915/1",
+     "t": "오세훈 \"정부가 법치주의 훼손하면 목소리 아끼지 않을 것\"",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6865482_36911.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "단풍",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "달랏의 가을 단풍은 관광객들을 매료시킨다.",
+     "u": "https://www.vietnam.vn/ko/sac-thu-da-lat-niu-chan-du-khach",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "\"애기단풍이 절정인데 5,000그루 천연 비자림까지?\"... 입장료 0원으로 숲길 걷는 천년 고찰",
+     "u": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21546",
+     "press": "아던트뉴스"
+    },
+    {
+     "t": "전국 천년 사찰에 붉은 단풍잎이 빚어낸 가을의 시간",
+     "u": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065578053755500",
+     "press": "울산종합일보"
+    }
+   ]
+  },
+  {
+   "name": "한국교원단체총연합회",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[오늘을 생각한다] 이게 법이냐?",
+     "u": "https://weekly.khan.co.kr/article/202611140600061",
+     "press": "주간경향"
+    },
+    {
+     "t": "조희주 참교육동지회 회장 \"교사의 정당 가입서 안 받아주면 우리가 정당 만들자\"",
+     "u": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116633",
+     "press": "OhmyNews"
+    },
+    {
+     "t": "교사에게 정치기본권을…더 이상 유예하지 말라",
+     "u": "https://www.hani.co.kr/arti/opinion/column/1287079.html",
+     "press": "한겨레"
+    }
+   ]
+  },
+  {
+   "name": "리그 오브 레전드",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "내년 롤드컵 결승전 서울에서 열린다···창동 서울아레나 개최",
+     "u": "https://www.khan.co.kr/article/202611140800021",
+     "press": "경향신문"
+    },
+    {
+     "t": "2027 LoL 월드 챔피언십, 서울서 결승... 수원 거쳐 '서울 아레나' 피날레",
+     "u": "https://www.etnews.com/20261114000011",
+     "press": "전자신문"
+    },
+    {
+     "t": "2027 LoL 월드 챔피언십, 서울 창동서 결승…일본도 공동개최",
+     "u": "https://www.yna.co.kr/view/AKR20261114020700017",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "여수세계박람회장",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[COP31 현장에서] 그레타 툰베리 “지구는 죽어가는 것이 아니라 살해당하고 있다”",
+     "u": "https://www.khan.co.kr/article/202611131001001",
+     "press": "경향신문"
+    },
+    {
+     "t": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설",
+     "u": "https://go.seoul.co.kr/news/prnewsView.php?id=456677",
+     "press": "서울Pn"
+    },
+    {
+     "t": "베네수 \"석유산업 강화할 주권적 권리\"…섬나라들 \"생존 문제\"",
+     "u": "https://www.yna.co.kr/view/AKR20261112177600109",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "보험계약",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘대체 누구야? 개인이 보장금액 4270억원짜리 생명보험 가입’…기네스 오른 세계 최고액 생명보험[아하 홍콩]",
+     "u": "https://www.munhwa.com/article/11630683",
+     "press": "문화일보"
+    },
+    {
+     "t": "뉴스후] 홍콩서 보도된 ‘생명보험 한 건 4,270억’의 의미와 파장",
+     "u": "https://dailyan.com/news/article.html?no=784157",
+     "press": "데일리연합"
+    },
+    {
+     "t": "생명보험 한 건에 4270억원…홍콩서 세계 최고액 기록",
+     "u": "https://view.asiae.co.kr/article/2026111208175372249",
+     "press": "아시아경제"
+    }
+   ]
+  },
+  {
+   "name": "윤아",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "윤아, 크롭 민소매 입고 뽐낸 한 줌 허리…비결은 공복 ‘이 운동’",
+     "u": "https://www.donga.com/news/Entertainment/article/all/20261114/135023540/1",
      "press": "동아일보"
     },
     {
-     "t": "[오피셜]'40년만의 강등권' 맨유, 6개월만에 캐릭 '전격 경질'...훈련 중 포체티노 합의→'레전드' 향한 황당 대우에 \"역겹다\", \"소송감",
-     "u": "https://www.chosun.com/sports/world-football/2026/11/13/MQ3TCMJSGQ3GIMBVME2TKNDFMU/",
-     "press": "조선일보"
+     "t": "드파운드, 임윤아 겨울 캠페인 이후 점퍼 판매 급증 - 머니투데이",
+     "u": "https://www.mt.co.kr/living/2026/11/13/2026111308220930807",
+     "press": "머니투데이"
+    },
+    {
+     "t": "임윤아, 민소매 톱 하나만 입어도 미모가 다하는 중…한결같은 슬렌더 여신",
+     "u": "https://biz.chosun.com/entertainment/tv/2026/11/13/MU3GMZBVME4TIYJSMQ3TOOBVMQ/",
+     "press": "Chosunbiz"
     }
    ]
   },
   {
-   "name": "m365",
+   "name": "방탄소년단",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
-     "u": "https://www.crn.com/news/ai/2026/microsoft-starts-limiting-copilot-chat-usage-for-users-without-paid-licenses",
-     "press": "CRN"
+     "t": "175억 펜트하우스 산 BTS 진…또 대출없이 '96억' 빌딩 매입 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/11/13/2026111309162236042",
+     "press": "머니투데이"
     },
     {
-     "t": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise ",
-     "u": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
-     "press": "Computerworld"
+     "t": "[단독] BTS 진, 구미현 전 아워홈 회장 일가 한남동 빌딩 96억에 매입",
+     "u": "https://bizhankook.com/articles/bts-jin-buys-building-9-6-billion-won.html",
+     "press": "비즈한국"
     },
     {
-     "t": "Copilot Chat has usage caps, and Microsoft would rather you found them by hittin",
-     "u": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
-     "press": "The Register"
-    }
-   ]
-  },
-  {
-   "name": "양승조",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "한국수자원공사 신임 사장에 양승조 전 충남지사",
-     "u": "https://www.yna.co.kr/view/AKR20261112179200063",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "수자원공사 17대 사장에 양승조 전 충남지사…13일 업무 시작",
-     "u": "https://www.news1.kr/local/daejeon-chungnam/6352895",
-     "press": "뉴스1"
-    },
-    {
-     "t": "수자원공사 신임 사장에 양승조 전 충남지사 13일 취임",
-     "u": "https://www.newsis.com/view/NISX20261112_0003866325",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "김영훈",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "노동장관, 반도체 기업 간담회…초광역특구 사회적 대화에 참고",
-     "u": "https://www.yna.co.kr/view/AKR20261112178500530",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "김영훈, 삼성·SK 만나 반도체 근로시간 유연화 논의…메가특구 사회적대화 연계",
-     "u": "https://biz.heraldcorp.com/article/10935546",
-     "press": "헤럴드경제"
-    },
-    {
-     "t": "김영훈, '주52시간 예외' 반도체 업계 의견 청취…\"좋은 일자리서 혁신\"",
-     "u": "https://www.newsis.com/view/NISX20261113_0003866582",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "금융통화위원회",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444388",
-     "press": "연합인포맥스"
-    },
-    {
-     "t": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
-     "u": "https://www.hankyung.com/article/2026111109361",
-     "press": "한국경제"
-    },
-    {
-     "t": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책",
-     "u": "https://m.ekn.kr/view.php?key=20261110022330363",
-     "press": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "name": "gemini 4 hydrogen",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
-     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "press": "blog.google"
-    },
-    {
-     "t": "Gemini 4 Carbon in GitHub Copilot",
-     "u": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
-     "press": "The GitHub Blog"
-    },
-    {
-     "t": "Google Search Evolves Into an AI Information Assistant... New AI Model 'Hydrogen",
-     "u": "https://en.fnnews.com/news/202611130802050898",
+     "t": "'한남동 부동산 재벌' BTS 진, 96억 한남동 빌딩까지 사들였다",
+     "u": "https://www.fnnews.com/news/202611130746194684",
      "press": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "name": "헤그세스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "헤그세스, 자기 꾸짖은 병사에 훈장 수여… \"잘했다, 상병\"",
-     "u": "https://www.chosun.com/international/us/2026/11/13/NXMEZQGXVZED5NNRARRJ42TEQ4/",
-     "press": "조선일보"
-    },
-    {
-     "t": "창피 뒤 반전 시도?…국립묘지서 떠든 미 국방, 꾸짖은 병사에 훈장",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261113083333TBx",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "국립묘지에서 웃고 떠들다 혼쭐난 '국방장관' 헤그세스",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865260_37004.html",
-     "press": "MBC 뉴스"
     }
    ]
   }
