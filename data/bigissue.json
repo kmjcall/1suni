@@ -1,228 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261114",
- "updated": "2026-11-14T10:12:27+09:00",
+ "targetDate": "20261115",
+ "updated": "2026-11-15T09:39:34+09:00",
  "list": [
   {
-   "name": "매일경제신문",
+   "name": "하리수",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "낮에 싸게 팔아도 … 기업들 전기 안쓰는 이유는",
-     "u": "https://stock.mk.co.kr/news/view/1197131",
-     "press": "매일경제 마켓"
-    },
-    {
-     "t": "전기밥솥, 취사보다 ‘이것’에 전기 더 쓴다?…돈 아끼는 가전 습관",
-     "u": "https://www.nongmin.com/article/20261110500035",
-     "press": "농민신문"
-    },
-    {
-     "t": "하숙생의 생활비를 줄이는 데 도움이 되는 전기 절약 팁",
-     "u": "https://ko.laodong.vn/video/meo-tiet-kiem-dien-giup-nguoi-o-tro-giam-chi-phi-sinh-hoat-1798523.ldo",
-     "press": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "name": "lg 트윈스",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
-     "u": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/",
+     "t": "\"여장으로 '풍기문란죄' 걸려\" 하리수, 모욕 겪은 母에 불효 고백",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GJQTGNJQGY2GKMBYG5SGMNBZGI/",
      "press": "조선일보"
     },
     {
-     "t": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
-     "u": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
-     "press": "기호일보"
+     "t": "김지선, 하리수 남학생 시절부터 알았다…“옛 모습, 지금 모습 다 알아”",
+     "u": "https://sports.donga.com/ent/article/all/20261115/135024938/1",
+     "press": "스포츠동아"
     },
     {
-     "t": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
-     "u": "https://sports.khan.co.kr/article/202611131627013",
-     "press": "스포츠경향"
+     "t": "하리수 \"중학생 때부터 父와 대화 단절…몰래 성전환 수술\"",
+     "u": "https://www.newsis.com/view/NISX20261115_0003868296",
+     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "대한민국의 특별검사제도",
+   "name": "볼로디미르 젤렌스키",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
-     "u": "https://newstapa.org/article/iKKSJ",
-     "press": "뉴스타파"
+     "t": "젤렌스키 \"美, '우크라 나토 가입 대가' 돈바스 양도안 질의\"(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261114045251109",
+     "press": "연합뉴스"
     },
     {
-     "t": "국힘, 부산서 ‘조작기소 특검법’ 규탄 장외 집회",
-     "u": "https://www.khan.co.kr/article/202611140852001",
-     "press": "경향신문"
+     "t": "젤렌스키, “미국, 우크라이나에 나토 가입 대가로 돈바스 양도안 제안”",
+     "u": "https://www.voakorea.com/a/8223723.html",
+     "press": "VOA 한국어 홈페이지"
     },
     {
-     "t": "오세훈 \"정부가 법치주의 훼손하면 목소리 아끼지 않을 것\"",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6865482_36911.html",
-     "press": "MBC 뉴스"
+     "t": "美, 우크라에 \"돈바스 영토-나토 맞교환\" 첫 타진",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01154566645646048",
+     "press": "마켓인"
     }
    ]
   },
   {
-   "name": "단풍",
+   "name": "육군사관학교",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
+     "u": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "빈총 경계·北지뢰 무대응 논란 속... 후반기 장성 인사도 ‘육사’ 배제?",
+     "u": "https://www.chosun.com/politics/2026/11/15/H4UB4LI7IFHKPGIUQILRP3QA5A/",
+     "press": "조선일보"
+    },
+    {
+     "t": "국방부, 육해공 사관생도 대상 국군사관학교 설문 착수",
+     "u": "https://www.yna.co.kr/view/MYH20261114003100038",
+     "press": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "name": "삼양식품",
    "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "달랏의 가을 단풍은 관광객들을 매료시킨다.",
-     "u": "https://www.vietnam.vn/ko/sac-thu-da-lat-niu-chan-du-khach",
-     "press": "Vietnam.vn"
+     "t": "\"새 공장서 쭉쭉 잘 뽑아낼테니 주가 190만원 거뜬\"…단순 유행 넘어섰다는 이 회사[주末머니]",
+     "u": "https://core.asiae.co.kr/article/2026111310555774285",
+     "press": "아시아경제"
     },
     {
-     "t": "\"애기단풍이 절정인데 5,000그루 천연 비자림까지?\"... 입장료 0원으로 숲길 걷는 천년 고찰",
-     "u": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21546",
-     "press": "아던트뉴스"
+     "t": "해외 매출 '8할' 넘긴 불닭…삼양식품, 韓·中·베트남 생산벨트 구축",
+     "u": "https://www.news1.kr/industry/distribution/6352296",
+     "press": "뉴스1"
     },
     {
-     "t": "전국 천년 사찰에 붉은 단풍잎이 빚어낸 가을의 시간",
-     "u": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065578053755500",
-     "press": "울산종합일보"
+     "t": "불닭으로 해외에서 더 번 삼양식품, 순이익은 왜 뒷걸음질했을까",
+     "u": "https://contents.premium.naver.com/greatescape/thegreatescape/contents/261114070152085fj",
+     "press": "네이버 프리미엄콘텐츠"
     }
    ]
   },
   {
-   "name": "한국교원단체총연합회",
-   "idx": 25,
+   "name": "함덕주",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "[오늘을 생각한다] 이게 법이냐?",
-     "u": "https://weekly.khan.co.kr/article/202611140600061",
-     "press": "주간경향"
+     "t": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
+     "u": "https://www.newsis.com/view/NISX20261114_0003868178",
+     "press": "뉴시스"
     },
     {
-     "t": "조희주 참교육동지회 회장 \"교사의 정당 가입서 안 받아주면 우리가 정당 만들자\"",
-     "u": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116633",
-     "press": "OhmyNews"
+     "t": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868",
+     "press": "SPOTV NEWS"
     },
     {
-     "t": "교사에게 정치기본권을…더 이상 유예하지 말라",
-     "u": "https://www.hani.co.kr/arti/opinion/column/1287079.html",
-     "press": "한겨레"
+     "t": "좌완 함덕주, LG와 남은 1년 계약 포기…9개 구단과 협상 가능",
+     "u": "https://www.news1.kr/sports/baseball/6354145",
+     "press": "뉴스1"
     }
    ]
   },
   {
-   "name": "리그 오브 레전드",
+   "name": "고현정",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "고현정, 공항에서 이렇게까지 예쁠 수가…뼈말라 늘씬 자태 뽐내며 \"제주 1일\"",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSDGMTBHE2DAZJWGVRGGYRQGU/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "'55세' 고현정, 나이 잊은 동안 비주얼…방부제 미모 [N샷]",
+     "u": "https://www.news1.kr/entertain/celebrity-topic/6354137",
+     "press": "뉴스1"
+    },
+    {
+     "t": "고현정, 제주 여행서 먹부림 근황..볼살 올랐나 “얼굴 더 좋아진 듯”",
+     "u": "https://www.osen.co.kr/article/G1112910250",
+     "press": "OSEN"
+    }
+   ]
+  },
+  {
+   "name": "진중권",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "국힘, 부산역서 ‘이재명 탈옥법’ 규탄…“죽은 법에 근거한 특검”",
+     "u": "https://www.hani.co.kr/arti/politics/politics_general/1287341.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "국힘, 부산서 조작기소 특검 규탄 집회...\"거부권 행사해야\"",
+     "u": "https://www.ytn.co.kr/_ln/0101_202611150838011540",
+     "press": "YTN"
+    },
+    {
+     "t": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+     "u": "https://newstapa.org/article/iKKSJ",
+     "press": "뉴스타파"
+    }
+   ]
+  },
+  {
+   "name": "롤 인벤",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "대격변급 업데이트, 리그 오브 레전드 '뉴 던' 예고",
+     "u": "https://www.gamemeca.com/view.php?gid=1783515",
+     "press": "게임메카"
+    },
+    {
+     "t": "LoL 신규 클라이언트 ‘아리’ 미쳤네",
+     "u": "https://www.gametoc.co.kr/news/articleView.html?idxno=113098",
+     "press": "게임톡"
+    },
+    {
+     "t": "라이엇게임즈, LoL 신규 클라이언트 '뉴 던' 공개… 2027년 1월 출시",
+     "u": "https://www.inven.co.kr/webzine/news/?news=323384&site=lol",
+     "press": "인벤"
+    }
+   ]
+  },
+  {
+   "name": "마우리시오 포체티노",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "내년 롤드컵 결승전 서울에서 열린다···창동 서울아레나 개최",
-     "u": "https://www.khan.co.kr/article/202611140800021",
-     "press": "경향신문"
+     "t": "눈물 흘린 포체티노 “맨유 같은 기회 거절하기 어려워”",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712851",
+     "press": "KBS 뉴스"
     },
     {
-     "t": "2027 LoL 월드 챔피언십, 서울서 결승... 수원 거쳐 '서울 아레나' 피날레",
-     "u": "https://www.etnews.com/20261114000011",
-     "press": "전자신문"
-    },
-    {
-     "t": "2027 LoL 월드 챔피언십, 서울 창동서 결승…일본도 공동개최",
-     "u": "https://www.yna.co.kr/view/AKR20261114020700017",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "여수세계박람회장",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[COP31 현장에서] 그레타 툰베리 “지구는 죽어가는 것이 아니라 살해당하고 있다”",
-     "u": "https://www.khan.co.kr/article/202611131001001",
-     "press": "경향신문"
-    },
-    {
-     "t": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설",
-     "u": "https://go.seoul.co.kr/news/prnewsView.php?id=456677",
-     "press": "서울Pn"
-    },
-    {
-     "t": "베네수 \"석유산업 강화할 주권적 권리\"…섬나라들 \"생존 문제\"",
-     "u": "https://www.yna.co.kr/view/AKR20261112177600109",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "보험계약",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "‘대체 누구야? 개인이 보장금액 4270억원짜리 생명보험 가입’…기네스 오른 세계 최고액 생명보험[아하 홍콩]",
-     "u": "https://www.munhwa.com/article/11630683",
-     "press": "문화일보"
-    },
-    {
-     "t": "뉴스후] 홍콩서 보도된 ‘생명보험 한 건 4,270억’의 의미와 파장",
-     "u": "https://dailyan.com/news/article.html?no=784157",
-     "press": "데일리연합"
-    },
-    {
-     "t": "생명보험 한 건에 4270억원…홍콩서 세계 최고액 기록",
-     "u": "https://view.asiae.co.kr/article/2026111208175372249",
-     "press": "아시아경제"
-    }
-   ]
-  },
-  {
-   "name": "윤아",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "윤아, 크롭 민소매 입고 뽐낸 한 줌 허리…비결은 공복 ‘이 운동’",
-     "u": "https://www.donga.com/news/Entertainment/article/all/20261114/135023540/1",
+     "t": "맨붕",
+     "u": "https://www.donga.com/news/Sports/article/all/20261114/135023023/2",
      "press": "동아일보"
     },
     {
-     "t": "드파운드, 임윤아 겨울 캠페인 이후 점퍼 판매 급증 - 머니투데이",
-     "u": "https://www.mt.co.kr/living/2026/11/13/2026111308220930807",
+     "t": "\"주장이 감독 저격, 선수단 내부 분열까지\" 결국 감독만 잘렸다...맨유의 충격적인 라커룸 내막 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/14/202611132020773554O",
      "press": "머니투데이"
-    },
-    {
-     "t": "임윤아, 민소매 톱 하나만 입어도 미모가 다하는 중…한결같은 슬렌더 여신",
-     "u": "https://biz.chosun.com/entertainment/tv/2026/11/13/MU3GMZBVME4TIYJSMQ3TOOBVMQ/",
-     "press": "Chosunbiz"
     }
    ]
   },
   {
-   "name": "방탄소년단",
-   "idx": 5,
+   "name": "fm",
+   "idx": 10,
    "mv": "NEW",
-   "news": [
-    {
-     "t": "175억 펜트하우스 산 BTS 진…또 대출없이 '96억' 빌딩 매입 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/11/13/2026111309162236042",
-     "press": "머니투데이"
-    },
-    {
-     "t": "[단독] BTS 진, 구미현 전 아워홈 회장 일가 한남동 빌딩 96억에 매입",
-     "u": "https://bizhankook.com/articles/bts-jin-buys-building-9-6-billion-won.html",
-     "press": "비즈한국"
-    },
-    {
-     "t": "'한남동 부동산 재벌' BTS 진, 96억 한남동 빌딩까지 사들였다",
-     "u": "https://www.fnnews.com/news/202611130746194684",
-     "press": "파이낸셜뉴스"
-    }
-   ]
+   "news": []
   }
  ]
 }
