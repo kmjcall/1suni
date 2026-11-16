@@ -1,212 +1,228 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261115",
- "updated": "2026-11-15T09:39:34+09:00",
+ "targetDate": "20261116",
+ "updated": "2026-11-16T09:42:31+09:00",
  "list": [
   {
-   "name": "하리수",
+   "name": "김승수",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"여장으로 '풍기문란죄' 걸려\" 하리수, 모욕 겪은 母에 불효 고백",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GJQTGNJQGY2GKMBYG5SGMNBZGI/",
+     "t": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
+     "u": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268",
+     "press": "programs.sbs.co.kr"
+    },
+    {
+     "t": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
+     "u": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
+     "press": "스포츠조선"
+    },
+    {
+     "t": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
+     "u": "https://www.mk.co.kr/news/entertain/12209562",
+     "press": "매일경제"
+    }
+   ]
+  },
+  {
+   "name": "thứ hạng của đội tuyển tây ban nha gặp đội tuyển bóng đá quốc gia anh",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Trực tiếp bóng đá Tây Ban Nha - Anh: Người nhện cứu thua xuất sắc (Nations Leagu",
+     "u": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-tay-ban-nha-anh-ap-luc-cua-cac-vi-khach-nations-league-c48a1811353.html",
+     "press": "Tin tức 24h"
+    },
+    {
+     "t": "Tuchel gạch tên Branthwaite và Garner ở trận gặp Tây Ban Nha",
+     "u": "https://yeuthethao.net.vn/tuchel-gach-ten-branthwaite-va-garner-o-tran-gap-tay-ban-nha-d902610.html",
+     "press": "yeuthethao.net.vn"
+    },
+    {
+     "t": "'Anh phiên bản 2.0' cắt chuỗi trận bất bại của Tây Ban Nha",
+     "u": "https://vnexpress.net/anh-phien-ban-2-0-cat-chuoi-tran-bat-bai-cua-tay-ban-nha-5145006.html",
+     "press": "VnExpress"
+    }
+   ]
+  },
+  {
+   "name": "주한 미군 사령관",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[취재수첩] 주한미군사령관이 밤잠을 설친 이유",
+     "u": "https://www.hankyung.com/article/2026111574971",
+     "press": "한국경제"
+    },
+    {
+     "t": "\"전작권 전환, 한국서 정치적 선언처럼 돼… 워싱턴이 걱정하는 건 군사적 동맹 약화\"",
+     "u": "https://www.chosun.com/international/us/2026/11/16/3TXYX5OJGVF6JKQ7BAQCHCGBNE/",
      "press": "조선일보"
     },
     {
-     "t": "김지선, 하리수 남학생 시절부터 알았다…“옛 모습, 지금 모습 다 알아”",
-     "u": "https://sports.donga.com/ent/article/all/20261115/135024938/1",
-     "press": "스포츠동아"
-    },
-    {
-     "t": "하리수 \"중학생 때부터 父와 대화 단절…몰래 성전환 수술\"",
-     "u": "https://www.newsis.com/view/NISX20261115_0003868296",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "볼로디미르 젤렌스키",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "젤렌스키 \"美, '우크라 나토 가입 대가' 돈바스 양도안 질의\"(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261114045251109",
+     "t": "美전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
+     "u": "https://www.yna.co.kr/view/AKR20261114002200071",
      "press": "연합뉴스"
-    },
-    {
-     "t": "젤렌스키, “미국, 우크라이나에 나토 가입 대가로 돈바스 양도안 제안”",
-     "u": "https://www.voakorea.com/a/8223723.html",
-     "press": "VOA 한국어 홈페이지"
-    },
-    {
-     "t": "美, 우크라에 \"돈바스 영토-나토 맞교환\" 첫 타진",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01154566645646048",
-     "press": "마켓인"
     }
    ]
   },
   {
-   "name": "육군사관학교",
+   "name": "양의지",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
-     "u": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
-     "press": "대한민국 정책브리핑"
-    },
-    {
-     "t": "빈총 경계·北지뢰 무대응 논란 속... 후반기 장성 인사도 ‘육사’ 배제?",
-     "u": "https://www.chosun.com/politics/2026/11/15/H4UB4LI7IFHKPGIUQILRP3QA5A/",
+     "t": "'초대박' 52억에 두산 잔류 확정→FA 선배들 향해 외쳤다 \"양의지-정수빈 형 없으면 우승 힘들어, 박치국은…\" [오!쎈 미야자키]",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/16/ME2WIZJSMJQTQYRYMRTGGYTFMI/",
      "press": "조선일보"
     },
     {
-     "t": "국방부, 육해공 사관생도 대상 국군사관학교 설문 착수",
-     "u": "https://www.yna.co.kr/view/MYH20261114003100038",
+     "t": "양의지 두산 떠난다고? 제2의 김재환 사태 막는다→잔류 협상 총력전 선언 “양의지는 우리 선수, 의견 조율 중” - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/15/202611150005772525O",
+     "press": "머니투데이"
+    },
+    {
+     "t": "[단독] 양의지, FA 신청서 냈다…사실상 두산 잔류 확정, 옵트아웃 이적 아닌 프랜차이즈 스타의 길 선택했다",
+     "u": "https://sports.khan.co.kr/article/202611160028003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "2027 수능",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "울산시, 수능일 시험장 교통관리 강화…수험생 긴급 수송도",
+     "u": "https://www.yna.co.kr/view/AKR20261116015200057",
      "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "삼양식품",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"새 공장서 쭉쭉 잘 뽑아낼테니 주가 190만원 거뜬\"…단순 유행 넘어섰다는 이 회사[주末머니]",
-     "u": "https://core.asiae.co.kr/article/2026111310555774285",
-     "press": "아시아경제"
     },
     {
-     "t": "해외 매출 '8할' 넘긴 불닭…삼양식품, 韓·中·베트남 생산벨트 구축",
-     "u": "https://www.news1.kr/industry/distribution/6352296",
-     "press": "뉴스1"
-    },
-    {
-     "t": "불닭으로 해외에서 더 번 삼양식품, 순이익은 왜 뒷걸음질했을까",
-     "u": "https://contents.premium.naver.com/greatescape/thegreatescape/contents/261114070152085fj",
-     "press": "네이버 프리미엄콘텐츠"
-    }
-   ]
-  },
-  {
-   "name": "함덕주",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
-     "u": "https://www.newsis.com/view/NISX20261114_0003868178",
+     "t": "수능 문제지 배부",
+     "u": "https://mobile.newsis.com/photo/NISI20261116_0021533585",
      "press": "뉴시스"
     },
     {
-     "t": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868",
-     "press": "SPOTV NEWS"
-    },
-    {
-     "t": "좌완 함덕주, LG와 남은 1년 계약 포기…9개 구단과 협상 가능",
-     "u": "https://www.news1.kr/sports/baseball/6354145",
-     "press": "뉴스1"
+     "t": "버스 집중 배차·장애인콜택시 무료···인천시, 19일 수능 특별수송 대책 시행",
+     "u": "https://www.khan.co.kr/article/202611151118001",
+     "press": "경향신문"
     }
    ]
   },
   {
-   "name": "고현정",
-   "idx": 20,
+   "name": "집",
+   "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "고현정, 공항에서 이렇게까지 예쁠 수가…뼈말라 늘씬 자태 뽐내며 \"제주 1일\"",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSDGMTBHE2DAZJWGVRGGYRQGU/",
+     "t": "8~10월, 전국 아파트 20년 초과 보유 매도인 11.9% 증가",
+     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/16/LTYYUI5WUNFBPPMPQJV463TZVM/",
      "press": "Chosunbiz"
     },
     {
-     "t": "'55세' 고현정, 나이 잊은 동안 비주얼…방부제 미모 [N샷]",
-     "u": "https://www.news1.kr/entertain/celebrity-topic/6354137",
-     "press": "뉴스1"
+     "t": "집 파는 사람 줄었는데…‘20년’ 장기보유 주인은 더 팔았다",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01367766645646376",
+     "press": "마켓인"
     },
     {
-     "t": "고현정, 제주 여행서 먹부림 근황..볼살 올랐나 “얼굴 더 좋아진 듯”",
-     "u": "https://www.osen.co.kr/article/G1112910250",
-     "press": "OSEN"
+     "t": "20년 초과 보유한 매도인 늘어…\"장기보유 차익 실현\"",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444866",
+     "press": "연합인포맥스"
     }
    ]
   },
   {
-   "name": "진중권",
+   "name": "고속도로 건설",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
+     "u": "https://www.kyeonggi.com/article/20261115580186",
+     "press": "경기일보"
+    },
+    {
+     "t": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
+     "u": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050",
+     "press": "서울Pn"
+    },
+    {
+     "t": "울산 동서 연결 ‘울산외곽순환고속도로’ 건설 공사 본격화",
+     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004282",
+     "press": "국제신문"
+    }
+   ]
+  },
+  {
+   "name": "미사일",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
+     "u": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/",
+     "press": "조선일보"
+    },
+    {
+     "t": "北 해커, 얼굴 도용해 가상자산 5천억원 탈취…피해 영상만 900개",
+     "u": "https://www.kyeonggi.com/article/20261115580035",
+     "press": "경기일보"
+    },
+    {
+     "t": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
+     "u": "https://www.voakorea.com/a/8223336.html",
+     "press": "VOA 한국어 홈페이지"
+    }
+   ]
+  },
+  {
+   "name": "사장님 귀는 당나귀 귀",
+   "idx": 40,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "정호영, 돈방석 앉겠네..’대기업과 계약’ 자랑 “들어가는 게 보통 아냐” (‘사당귀’)",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MQ2WMMBVMMZDCNTFHAYTEZBXGI/",
+     "press": "조선일보"
+    },
+    {
+     "t": "‘사당귀’ 양준혁, 정호영-양치승에 컵푸드 동업 제안",
+     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/524824",
+     "press": "iMBC 연예"
+    },
+    {
+     "t": "정호영, ‘연예대상’ 수상 욕심에 뇌물까지..“정지선, 그만 받아야” (‘사당귀’)",
+     "u": "https://www.koreadaily.com/article/20261115144010796",
+     "press": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "변상일",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "국힘, 부산역서 ‘이재명 탈옥법’ 규탄…“죽은 법에 근거한 특검”",
-     "u": "https://www.hani.co.kr/arti/politics/politics_general/1287341.html",
-     "press": "한겨레"
-    },
-    {
-     "t": "국힘, 부산서 조작기소 특검 규탄 집회...\"거부권 행사해야\"",
-     "u": "https://www.ytn.co.kr/_ln/0101_202611150838011540",
-     "press": "YTN"
-    },
-    {
-     "t": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
-     "u": "https://newstapa.org/article/iKKSJ",
-     "press": "뉴스타파"
-    }
-   ]
-  },
-  {
-   "name": "롤 인벤",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "대격변급 업데이트, 리그 오브 레전드 '뉴 던' 예고",
-     "u": "https://www.gamemeca.com/view.php?gid=1783515",
-     "press": "게임메카"
-    },
-    {
-     "t": "LoL 신규 클라이언트 ‘아리’ 미쳤네",
-     "u": "https://www.gametoc.co.kr/news/articleView.html?idxno=113098",
-     "press": "게임톡"
-    },
-    {
-     "t": "라이엇게임즈, LoL 신규 클라이언트 '뉴 던' 공개… 2027년 1월 출시",
-     "u": "https://www.inven.co.kr/webzine/news/?news=323384&site=lol",
-     "press": "인벤"
-    }
-   ]
-  },
-  {
-   "name": "마우리시오 포체티노",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "눈물 흘린 포체티노 “맨유 같은 기회 거절하기 어려워”",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712851",
+     "t": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
      "press": "KBS 뉴스"
     },
     {
-     "t": "맨붕",
-     "u": "https://www.donga.com/news/Sports/article/all/20261114/135023023/2",
-     "press": "동아일보"
+     "t": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+     "u": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
+     "press": "사이버오로"
     },
     {
-     "t": "\"주장이 감독 저격, 선수단 내부 분열까지\" 결국 감독만 잘렸다...맨유의 충격적인 라커룸 내막 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/14/202611132020773554O",
-     "press": "머니투데이"
+     "t": "변상일, 후쿠오카에 극적인 뒤집기…삼성화재배 4강 진출",
+     "u": "https://www.yna.co.kr/view/AKR20261115041700007",
+     "press": "연합뉴스"
     }
    ]
-  },
-  {
-   "name": "fm",
-   "idx": 10,
-   "mv": "NEW",
-   "news": []
   }
  ]
 }
