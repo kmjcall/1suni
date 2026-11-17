@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261116",
- "updated": "2026-11-16T09:42:31+09:00",
+ "targetDate": "20261117",
+ "updated": "2026-11-17T12:21:19+09:00",
  "list": [
   {
-   "name": "김승수",
+   "name": "피의자",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
-     "u": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268",
-     "press": "programs.sbs.co.kr"
+     "t": "[속보] 한 총리 \"수능서 스마트기기 원천 차단‥안경·시계 전수검사\"",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6866227_36911.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
-     "u": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
-     "press": "스포츠조선"
-    },
-    {
-     "t": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
-     "u": "https://www.mk.co.kr/news/entertain/12209562",
-     "press": "매일경제"
-    }
-   ]
-  },
-  {
-   "name": "thứ hạng của đội tuyển tây ban nha gặp đội tuyển bóng đá quốc gia anh",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Trực tiếp bóng đá Tây Ban Nha - Anh: Người nhện cứu thua xuất sắc (Nations Leagu",
-     "u": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-tay-ban-nha-anh-ap-luc-cua-cac-vi-khach-nations-league-c48a1811353.html",
-     "press": "Tin tức 24h"
-    },
-    {
-     "t": "Tuchel gạch tên Branthwaite và Garner ở trận gặp Tây Ban Nha",
-     "u": "https://yeuthethao.net.vn/tuchel-gach-ten-branthwaite-va-garner-o-tran-gap-tay-ban-nha-d902610.html",
-     "press": "yeuthethao.net.vn"
-    },
-    {
-     "t": "'Anh phiên bản 2.0' cắt chuỗi trận bất bại của Tây Ban Nha",
-     "u": "https://vnexpress.net/anh-phien-ban-2-0-cat-chuoi-tran-bat-bai-cua-tay-ban-nha-5145006.html",
-     "press": "VnExpress"
-    }
-   ]
-  },
-  {
-   "name": "주한 미군 사령관",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[취재수첩] 주한미군사령관이 밤잠을 설친 이유",
-     "u": "https://www.hankyung.com/article/2026111574971",
-     "press": "한국경제"
-    },
-    {
-     "t": "\"전작권 전환, 한국서 정치적 선언처럼 돼… 워싱턴이 걱정하는 건 군사적 동맹 약화\"",
-     "u": "https://www.chosun.com/international/us/2026/11/16/3TXYX5OJGVF6JKQ7BAQCHCGBNE/",
-     "press": "조선일보"
-    },
-    {
-     "t": "美전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-     "u": "https://www.yna.co.kr/view/AKR20261114002200071",
-     "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "양의지",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'초대박' 52억에 두산 잔류 확정→FA 선배들 향해 외쳤다 \"양의지-정수빈 형 없으면 우승 힘들어, 박치국은…\" [오!쎈 미야자키]",
-     "u": "https://www.chosun.com/sports/baseball/2026/11/16/ME2WIZJSMJQTQYRYMRTGGYTFMI/",
-     "press": "조선일보"
-    },
-    {
-     "t": "양의지 두산 떠난다고? 제2의 김재환 사태 막는다→잔류 협상 총력전 선언 “양의지는 우리 선수, 의견 조율 중” - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/15/202611150005772525O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "[단독] 양의지, FA 신청서 냈다…사실상 두산 잔류 확정, 옵트아웃 이적 아닌 프랜차이즈 스타의 길 선택했다",
-     "u": "https://sports.khan.co.kr/article/202611160028003",
-     "press": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "name": "2027 수능",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "울산시, 수능일 시험장 교통관리 강화…수험생 긴급 수송도",
-     "u": "https://www.yna.co.kr/view/AKR20261116015200057",
+     "t": "AI 커닝 장비 구매처까지 SNS 확산…정부, 유통 방지 나선다(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261116170051017",
      "press": "연합뉴스"
     },
     {
-     "t": "수능 문제지 배부",
-     "u": "https://mobile.newsis.com/photo/NISI20261116_0021533585",
+     "t": "[단독] “韓세무사시험 1등 우리 덕”…中업체 한국어로 ‘커닝 홍보’",
+     "u": "https://www.joongang.co.kr/article/25479289",
+     "press": "중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "미스터트롯4",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘미스터트롯4′ 12월 17일 첫 방송...김중연, 양지원, 박지후, 남궁진 등 티저로 베일 벗어",
+     "u": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/",
+     "press": "조선일보"
+    },
+    {
+     "t": "‘미스터트롯4’, 현역 vs 비현역 제대로 붙는다…12월 17일 첫 방송",
+     "u": "https://sports.donga.com/ent/article/all/20261117/135036727/1",
+     "press": "스포츠동아"
+    },
+    {
+     "t": "TV CHOSUN [미스터트롯4] 진성X김용임X박선주X이소나, 첫 녹화부터 감탄 폭발! “이 정도까지 잘한다고?”",
+     "u": "https://www.ggpyeonghwa.com/628474",
+     "press": "경기평화신문"
+    }
+   ]
+  },
+  {
+   "name": "너구리",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "농심, '볶음너구리' 정식 판매 전환…신제품 '매콤마요'도 출시",
+     "u": "https://www.yna.co.kr/view/AKR20261117045300030",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "너구리 변신 계속된다…농심, '매콤마요 볶음너구리' 등 라인업 확대",
+     "u": "https://www.newsis.com/view/NISX20261117_0003870880",
      "press": "뉴시스"
     },
     {
-     "t": "버스 집중 배차·장애인콜택시 무료···인천시, 19일 수능 특별수송 대책 시행",
-     "u": "https://www.khan.co.kr/article/202611151118001",
-     "press": "경향신문"
+     "t": "농심, '볶음너구리' 다시 정식 판매…매콤마요 신제품도 출시",
+     "u": "https://www.etnews.com/20261117000166",
+     "press": "전자신문"
     }
    ]
   },
   {
-   "name": "집",
-   "idx": 100,
+   "name": "서울고등법원",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "8~10월, 전국 아파트 20년 초과 보유 매도인 11.9% 증가",
-     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/16/LTYYUI5WUNFBPPMPQJV463TZVM/",
-     "press": "Chosunbiz"
+     "t": "'면허정지 수준' 음주운전 서울고법 판사에 감봉 1개월 징계",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6866211_36918.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "집 파는 사람 줄었는데…‘20년’ 장기보유 주인은 더 팔았다",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01367766645646376",
-     "press": "마켓인"
+     "t": "현직 판사가 500m 음주운전…대법원, 감봉 1개월 징계",
+     "u": "https://www.newsis.com/view/NISX20261117_0003870687",
+     "press": "뉴시스"
     },
     {
-     "t": "20년 초과 보유한 매도인 늘어…\"장기보유 차익 실현\"",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444866",
-     "press": "연합인포맥스"
+     "t": "법원 인근서 음주운전 적발된 서울고법 판사, 감봉 1개월 징계",
+     "u": "https://www.donga.com/news/Society/article/all/20261117/135037920/1",
+     "press": "동아일보"
     }
    ]
   },
   {
-   "name": "고속도로 건설",
-   "idx": 40,
+   "name": "풍자",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
-     "u": "https://www.kyeonggi.com/article/20261115580186",
-     "press": "경기일보"
+     "t": "풍자 맞아? 37kg 감량 효과 미쳤다…비주얼 난리 [DA★]",
+     "u": "https://sports.donga.com/ent/article/all/20261116/135035720/1",
+     "press": "스포츠동아"
     },
     {
-     "t": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
-     "u": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050",
-     "press": "서울Pn"
-    },
-    {
-     "t": "울산 동서 연결 ‘울산외곽순환고속도로’ 건설 공사 본격화",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004282",
-     "press": "국제신문"
-    }
-   ]
-  },
-  {
-   "name": "미사일",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
-     "u": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/",
+     "t": "\"소리지르고 삼단봉으로 때리려고 해\" 신기루, 中 입국하다 공안에 붙잡혀",
+     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GZTDGODDMIYDGZDGGBQTKMZXGI/",
      "press": "조선일보"
     },
     {
-     "t": "北 해커, 얼굴 도용해 가상자산 5천억원 탈취…피해 영상만 900개",
-     "u": "https://www.kyeonggi.com/article/20261115580035",
-     "press": "경기일보"
-    },
-    {
-     "t": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
-     "u": "https://www.voakorea.com/a/8223336.html",
-     "press": "VOA 한국어 홈페이지"
-    }
-   ]
-  },
-  {
-   "name": "사장님 귀는 당나귀 귀",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "정호영, 돈방석 앉겠네..’대기업과 계약’ 자랑 “들어가는 게 보통 아냐” (‘사당귀’)",
-     "u": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MQ2WMMBVMMZDCNTFHAYTEZBXGI/",
-     "press": "조선일보"
-    },
-    {
-     "t": "‘사당귀’ 양준혁, 정호영-양치승에 컵푸드 동업 제안",
-     "u": "https://enews.imbc.com/News/RetrieveNewsInfo/524824",
-     "press": "iMBC 연예"
-    },
-    {
-     "t": "정호영, ‘연예대상’ 수상 욕심에 뇌물까지..“정지선, 그만 받아야” (‘사당귀’)",
-     "u": "https://www.koreadaily.com/article/20261115144010796",
+     "t": "'왕홍 원조' 한가인 보고 있나?…풍자·신기루, 초호화 깜짝 변신",
+     "u": "https://www.koreadaily.com/article/20261116023352171",
      "press": "미주중앙일보"
     }
    ]
   },
   {
-   "name": "변상일",
-   "idx": 20,
+   "name": "장민기",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
-     "press": "KBS 뉴스"
+     "t": "'9위 추락' KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 \"인생에서 가장 빛나는 추억\"",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019982",
+     "press": "SPOTV NEWS"
     },
     {
-     "t": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
-     "u": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
-     "press": "사이버오로"
+     "t": "[오피셜] \"타이거즈라는 멋진 팀에서 야구를 할 수 있어 언제나 행복했습니다\" 국대 마무리 조병현보다 먼저 뽑혔던 2001년생 좌완 유망주 장민",
+     "u": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553702539",
+     "press": "스포탈코리아"
     },
     {
-     "t": "변상일, 후쿠오카에 극적인 뒤집기…삼성화재배 4강 진출",
-     "u": "https://www.yna.co.kr/view/AKR20261115041700007",
+     "t": "KIA 투수 장민기 타이거즈 선수여서 행복…평생 잊지 않겠다",
+     "u": "https://www.ajunews.com/view/20261116062601922",
+     "press": "아주경제"
+    }
+   ]
+  },
+  {
+   "name": "상장",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+]",
+     "u": "https://www.hankyung.com/article/2026111695036",
+     "press": "한국경제"
+    },
+    {
+     "t": "앤트로픽, 주요지수 편입 늦어질 듯…\"패시브 자금 25조 유입 추산\" - 머니투데이",
+     "u": "https://www.mt.co.kr/world/2026/11/17/2026111709444891073",
+     "press": "머니투데이"
+    },
+    {
+     "t": "AI칩 투자 줄이고 앤스로픽에 50억달러 청약…거스너 “젠슨 황 복귀 서두르지 말라”",
+     "u": "https://www.mk.co.kr/news/it/12210622",
+     "press": "매일경제"
+    }
+   ]
+  },
+  {
+   "name": "유학생",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] 트럼프 ‘유학생 체류 4년 제한’ 결국 무효…미 법원 “법률 취지에 어긋나”",
+     "u": "https://www.hani.co.kr/arti/international/america/1287644.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "美대학 외국인 신입 유학생 올해도 15%↓…'트럼프 반이민' 여파",
+     "u": "https://www.yna.co.kr/view/AKR20261117079300009",
      "press": "연합뉴스"
+    },
+    {
+     "t": "트럼프 비자 규제에 美대학 비상‥유학생 급감에 재정 압박도",
+     "u": "https://imnews.imbc.com/news/2026/world/article/6866012_36925.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "예비소집일",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
+     "u": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
+     "press": "대한민국 정책브리핑"
+    },
+    {
+     "t": "[지지대] 흔들리지 말고 당당하게",
+     "u": "https://www.kyeonggi.com/article/20261116580050",
+     "press": "경기일보"
+    },
+    {
+     "t": "N수생 최대·AI 안경까지···‘현행 마지막 시험’ 올 수능 변수는?",
+     "u": "https://www.khan.co.kr/article/202611151412011",
+     "press": "경향신문"
+    }
+   ]
+  },
+  {
+   "name": "2027",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+     "u": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
+     "press": "The New York Times"
+    },
+    {
+     "t": "Women lead Grammy nominations as Noah Kahan gets snubbed",
+     "u": "https://www.washingtonpost.com/entertainment/music/2026/11/16/young-women-lead-grammy-nominations-noah-kahan-snubbed/",
+     "press": "The Washington Post"
+    },
+    {
+     "t": "WA folk-rock hero gets 4 nominations for 2027 Grammy Awards",
+     "u": "https://www.seattletimes.com/entertainment/music/2027-grammys-brandi-carlile-foo-fighters-among-nominees-with-wa-ties/",
+     "press": "The Seattle Times"
     }
    ]
   }
