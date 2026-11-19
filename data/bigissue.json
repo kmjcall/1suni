@@ -1,228 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261118",
- "updated": "2026-11-18T11:41:46+09:00",
+ "targetDate": "20261119",
+ "updated": "2026-11-19T11:12:32+09:00",
  "list": [
   {
-   "name": "국제 a매치",
+   "name": "시즌2",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
-     "u": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/",
-     "press": "조선일보"
+     "t": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+     "u": "https://www.yna.co.kr/view/AKR20261119043100005",
+     "press": "연합뉴스"
     },
     {
-     "t": "[로드 투 아시안컵①] 최악의 1년 뒤 희망의 1년… 아시안컵·월드컵 향한 재건의 시간",
-     "u": "https://www.sportsworldi.com/newsView/20261112520068",
-     "press": "스포츠월드"
+     "t": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
+     "press": "머니투데이"
     },
     {
-     "t": "축구대표팀 인기 이 정도였나…손흥민∙이강인 출전 11월 중동 A매치, '10년 계약' TV조선 미중계→지상파가 나눠 맡는다",
-     "u": "https://www.xportsnews.com/article/2217893",
-     "press": "엑스포츠뉴스"
+     "t": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
+     "u": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
+     "press": "스포츠동아"
     }
    ]
   },
   {
-   "name": "음료",
-   "idx": 100,
+   "name": "이혼",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "이마트24, '옐로우' 차음료 2종 출시…헬시 플레저 수요 공략",
-     "u": "https://www.etnews.com/20261118000110",
-     "press": "전자신문"
+     "t": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
+     "press": "머니투데이"
     },
     {
-     "t": "이마트24, '옐로우' 차음료 2종 출시…기능성 차 매출 38.8%↑",
-     "u": "https://www.news1.kr/industry/distribution/6357583",
-     "press": "뉴스1"
+     "t": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
+     "u": "https://www.munhwa.com/article/11632371",
+     "press": "문화일보"
     },
     {
-     "t": "이마트24, 겨울 음료 1000원대로 즐긴다…자허블·배도라지로 상품군 확대",
-     "u": "https://www.newsis.com/view/NISX20261118_0003872444",
+     "t": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
+     "u": "https://www.newsis.com/view/NISX20261119_0003874235",
      "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "탄약",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "인니 방산 컨설턴트, KF-21 계약 지연과 풍산 탄약 미납이 양국 신뢰 흔든다고 진단",
-     "u": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180348057973fbbec65dfb_1",
-     "press": "글로벌이코노믹"
-    },
-    {
-     "t": "KAI, 민항기로 글로벌 시장 진출한다",
-     "u": "https://www.gnmaeil.com/news/articleView.html?idxno=598709",
-     "press": "경남매일"
-    },
-    {
-     "t": "[중화학 ON] KAI, 인니 PTDI와 항공산업협력 확대 外 : 네이버 블로그",
-     "u": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224478042568&redirect=Dlog",
-     "press": "Naver Blog"
-    }
-   ]
-  },
-  {
-   "name": "금양",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "금양, 분기보고서 미제출로 상장폐지 사유 추가…가처분 결과까지 절차 보류",
-     "u": "https://www.cbci.co.kr/news/articleView.html?idxno=627441",
-     "press": "CBC뉴스"
-    },
-    {
-     "t": "[상폐 호흡기] 120억 떼먹고 \"할말 없다\"…류광지 금양, 끝없는 추락",
-     "u": "https://www.hansbiz.co.kr/news/articleView.html?idxno=884225",
-     "press": "한스경제"
-    },
-    {
-     "t": "피씨엘, 정기보고서 잇단 미제출에도 상장폐지 절차 보류 상태 유지",
-     "u": "https://www.topstarnews.net/news/articleView.html?idxno=16278031",
-     "press": "톱스타뉴스"
-    }
-   ]
-  },
-  {
-   "name": "삼천당제약",
+   "name": "수능날 주식",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "[속보] 삼천당제약 주가 돌연 급락, 장초반 강세 어디로…18% 가까이 ‘뚝’",
-     "u": "https://www.cbci.co.kr/news/articleView.html?idxno=628089",
-     "press": "CBC뉴스"
+     "t": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+     "u": "https://www.mk.co.kr/news/business/12213210",
+     "press": "매일경제"
     },
     {
-     "t": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
-     "u": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html",
-     "press": "뉴데일리 경제"
+     "t": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
+     "u": "https://www.hankyung.com/article/202611185520i",
+     "press": "한국경제"
     },
     {
-     "t": "삼천당제약 2%대 하락…매출·이익 개선 뒤 임상 변수 주목",
-     "u": "https://www.job-post.co.kr/news/articleView.html?idxno=239027",
-     "press": "잡포스트"
+     "t": "오늘 수능시험으로 증시 1시간 늦게 개장",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
+     "press": "KBS 뉴스"
     }
    ]
   },
   {
-   "name": "변요한",
-   "idx": 20,
+   "name": "nginx",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "변요한·티파니 영, MMA 동반 참석…달달한 신혼부부",
-     "u": "https://www.ytn.co.kr/_ln/0117_202611160936386674",
-     "press": "YTN"
+     "t": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123",
+     "u": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+     "press": "wiz.io"
     },
     {
-     "t": "티파니 영♥변요한, 시상식서 애정 폭발…손 꼭 잡고 달달 [DA★]",
-     "u": "https://www.donga.com/SODA/article/0210/20261117/135038989/1",
-     "press": "동아일보"
+     "t": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+     "u": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+     "press": "Chosunbiz"
     },
     {
-     "t": "‘혼인신고만 한’ 변요한♥티파니, 시상식이 결혼식장인 줄…부부 첫 공식활동[Oh!쎈 이슈]",
-     "u": "https://www.koreadaily.com/article/20261115152613295",
+     "t": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
+     "u": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
+     "press": "Forbes"
+    }
+   ]
+  },
+  {
+   "name": "이적 시장",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "축구의 묘미는 역시 ‘바이시클킥’",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+     "u": "https://www.yna.co.kr/view/AKR20261119020100007",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
+     "press": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "네이버뉴스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+     "u": "https://www.journalist.or.kr/news/article.html?no=62103",
+     "press": "한국기자협회"
+    },
+    {
+     "t": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+     "u": "https://www.etnews.com/20261118000308",
+     "press": "전자신문"
+    },
+    {
+     "t": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
+     "u": "https://zdnet.co.kr/view/?no=20261118201654",
+     "press": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "name": "전도연",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+     "u": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+     "press": "조선일보"
+    },
+    {
+     "t": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+     "u": "https://www.koreadaily.com/article/20261118070139540",
      "press": "미주중앙일보"
+    },
+    {
+     "t": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
+     "u": "https://www.newsis.com/view/NISX20261118_0003873770",
+     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "argentina đấu với costa rica",
-   "idx": 10,
+   "name": "올랜도 대 필라데피아",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Pronostico Argentina-Costa Rica, ore 06:00 del 18 novembre: l'Albiceleste cerca ",
-     "u": "https://www.vietnam.vn/it/nhan-dinh-argentina-vs-costa-rica-06h00-ngay-18-11-albiceleste-tim-lai-nu-cuoi",
-     "press": "Vietnam.vn"
+     "t": "Houston 86-76 Florida (Nov 18, 2026) Final Score",
+     "u": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920514/houston-florida",
+     "press": "ESPN"
     },
     {
-     "t": "Emiliano Martinez bắt kịp kỷ lục lịch sử của Sergio Romero",
-     "u": "https://bongda.com.vn/emiliano-martinez-bat-kip-ky-luc-lich-su-cua-sergio-romero-d855437.html",
-     "press": "bongda.com.vn"
+     "t": "Kansas vs. West Virginia (Nov 18, 2026) Live Score",
+     "u": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920515/kansas-west-virginia",
+     "press": "ESPN"
     },
     {
-     "t": "Emi Martinez lần đầu ra sân sau chấn thương hàm",
-     "u": "https://bongda24h.vn/bong-da-the-gioi/emi-martinez-lan-dau-ra-san-sau-chan-thuong-ham-544-464944.html",
-     "press": "Bongda24h"
+     "t": "Notre Dame 110-100 Rutgers (Nov 18, 2026) Final Score",
+     "u": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920513/rutgers-notre-dame",
+     "press": "ESPN"
     }
    ]
   },
   {
-   "name": "argentina vs kosta rika",
-   "idx": 10,
+   "name": "gemini neon",
+   "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Argentina Crush Costa Rica 7-0 Without Messi",
-     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008851462",
-     "press": "news.sbs.co.kr"
+     "t": "Introducing Gemini 4 Neon",
+     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "press": "blog.google"
     },
     {
-     "t": "Licensable picture: International Friendly - Argentina v Costa Rica",
-     "u": "https://www.reutersconnect.com/item/international-friendly-argentina-v-costa-rica/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxUkZXVEQ",
-     "press": "Reuters Connect"
+     "t": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+     "u": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+     "press": "Google for Developers Blog"
     },
     {
-     "t": "[Soccer-Live]@!~Costa Rica vs ArgentinaIn Diretta Streaming",
-     "u": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=soccer-live-costa-rica-vs-argentinain-diretta-4gco7",
-     "press": "Comité Asesor de Vacunas de la AEP"
+     "t": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 S",
+     "u": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+     "press": "The Decoder"
     }
    ]
   },
   {
-   "name": "공무원연금공단",
-   "idx": 10,
+   "name": "test alert",
+   "idx": 5,
    "mv": "NEW",
-   "news": [
-    {
-     "t": "공무원연금공단, 제주 ‘런케이션’ 프로그램 운영",
-     "u": "https://www.jemin.com/news/articleView.html?idxno=847518",
-     "press": "제민일보"
-    },
-    {
-     "t": "공무원연금공단, 임직원 대상 제주4·3 역사·문화 교육 실시...\"지역상생 의식 강화\"",
-     "u": "https://www.thefirstmedia.net/news/articleView.html?idxno=213973",
-     "press": "더퍼스트미디어"
-    },
-    {
-     "t": "공무원 성공적 퇴직 준비·사회 참여 적극 지원",
-     "u": "https://www.jejumaeil.net/news/articleView.html?idxno=406794",
-     "press": "제주매일"
-    }
-   ]
-  },
-  {
-   "name": "카르다노",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"내년엔 모두 행복해질 것\"…ADA 95% 폭락에도 카르다노 창업자의 자신감",
-     "u": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715601",
-     "press": "디지털투데이"
-    },
-    {
-     "t": "에이다, 최고가 대비 95%↓…창립자는 \"가격 상승 보장한 적 없어\"",
-     "u": "https://bloomingbit.io/feed/news/124439",
-     "press": "블루밍비트"
-    },
-    {
-     "t": "카르다노(ADA) 0.153달러 지지선 지킬까…ETF 자금 유출·기술주 약세 부담",
-     "u": "https://www.coinreaders.com/270917",
-     "press": "코인리더스"
-    }
-   ]
+   "news": []
   }
  ]
 }
