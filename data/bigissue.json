@@ -1,212 +1,228 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261119",
- "updated": "2026-11-19T11:12:32+09:00",
+ "targetDate": "20261120",
+ "updated": "2026-11-20T10:59:16+09:00",
  "list": [
   {
-   "name": "시즌2",
+   "name": "논현동",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
-     "u": "https://www.yna.co.kr/view/AKR20261119043100005",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
-     "press": "머니투데이"
-    },
-    {
-     "t": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
-     "u": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
-     "press": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "name": "이혼",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
-     "press": "머니투데이"
-    },
-    {
-     "t": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
-     "u": "https://www.munhwa.com/article/11632371",
-     "press": "문화일보"
-    },
-    {
-     "t": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
-     "u": "https://www.newsis.com/view/NISX20261119_0003874235",
+     "t": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
+     "u": "https://www.newsis.com/view/NISX20261119_0003874712",
      "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "수능날 주식",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
-     "u": "https://www.mk.co.kr/news/business/12213210",
-     "press": "매일경제"
     },
     {
-     "t": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
-     "u": "https://www.hankyung.com/article/202611185520i",
-     "press": "한국경제"
-    },
-    {
-     "t": "오늘 수능시험으로 증시 1시간 늦게 개장",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "nginx",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123",
-     "u": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "press": "wiz.io"
-    },
-    {
-     "t": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
-     "u": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+     "t": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MIZWGOJWGU3GEZDGMJSTGYRRG4/",
      "press": "Chosunbiz"
     },
     {
-     "t": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
-     "u": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
-     "press": "Forbes"
+     "t": "유희열에 ‘연 4.4억’ 내는 안테나…2배 큰 ‘198억’ 유재석 건물로 이사가나?",
+     "u": "https://www.sportsseoul.com/news/read/1651112",
+     "press": "스포츠서울"
     }
    ]
   },
   {
-   "name": "이적 시장",
+   "name": "경기도교육청",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[수능] 전북 'AI부정행위' 없어…응시방법 위반 등은 적발(종합)",
+     "u": "https://www.yna.co.kr/view/AKR20261119068751055",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
+     "press": "MBC 뉴스"
+    },
+    {
+     "t": "2027 대입수능 이모저모, 모두가 한마음…올해 수능도 큰 사고없이 마무리",
+     "u": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073141",
+     "press": "경상일보"
+    }
+   ]
+  },
+  {
+   "name": "이의리",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
+     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
+     "press": "SPOTV NEWS"
+    },
+    {
+     "t": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'韓 팬들도 궁금' 대체 일본은 무엇이 다르길래, 이의리-김서현-김진욱이 효과를 봤나…한화 이 선수 솔직속내 \"日 투수 수준 더 높다\"",
+     "u": "https://mydaily.co.kr/page/view/2026111911120848723",
+     "press": "마이데일리"
+    }
+   ]
+  },
+  {
+   "name": "유니클로",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
+     "u": "https://www.hankyung.com/article/2026111982391",
+     "press": "한국경제"
+    },
+    {
+     "t": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
+     "u": "https://www.yna.co.kr/view/AKR20261119033100009",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "“아무것도 이룬 게 없다” 2주간 통곡한 손정의…“AI에 남은 인생 바친다”",
+     "u": "https://www.joongang.co.kr/article/25479855",
+     "press": "중앙일보"
+    }
+   ]
+  },
+  {
+   "name": "물수리",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "축구의 묘미는 역시 ‘바이시클킥’",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "t": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
      "press": "KBS 뉴스"
     },
     {
-     "t": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
-     "u": "https://www.yna.co.kr/view/AKR20261119020100007",
+     "t": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
+     "u": "https://www.khan.co.kr/article/202611191400001",
+     "press": "경향신문"
+    },
+    {
+     "t": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
+     "u": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
+     "press": "서울Pn"
+    }
+   ]
+  },
+  {
+   "name": "lpga",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
+     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+     "press": "news.sbs.co.kr"
+    },
+    {
+     "t": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
+     "u": "https://www.asiae.co.kr/en/article/2026112008090075847",
+     "press": "아시아경제"
+    },
+    {
+     "t": "Jeeno Thitikul Birdies the Last 5 holes to Share the Lead in LPGA Tour Season Fi",
+     "u": "https://www.lpga.com/news/2026/jeeno-thitikul-birdies-the-last-5-holes-to-share-the-lead-in-lpga-tour-season-finale",
+     "press": "LPGA"
+    }
+   ]
+  },
+  {
+   "name": "php 취약점",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
+     "u": "https://news.hada.io/topic?id=37452",
+     "press": "GeekNews"
+    },
+    {
+     "t": "PHP 치명적 결함 패치...특정 웹서버 설정 시 코드 실행 가능",
+     "u": "https://www.boannews.com/news/articleView.html?idxno=147402",
+     "press": "보안뉴스"
+    },
+    {
+     "t": "AI 해킹으로 불안한데…PHP서 또 치명적 취약점 발견",
+     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20261120.99099006370",
+     "press": "국제신문"
+    }
+   ]
+  },
+  {
+   "name": "2호선",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "서울 지하철 2호선 성수지선 양방향 운행 중지",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "서울지하철 노조 오늘부터 준법투쟁 돌입···출근길 시민들 “차이 모르겠어”",
+     "u": "https://www.khan.co.kr/article/202611201025011",
+     "press": "경향신문"
+    },
+    {
+     "t": "지하철 2호선 성수역-신설동역 양방향 운행 중단‥1호선 열차도 지연",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6867145_36918.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "h&m",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin,",
+     "u": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
+     "press": "Vogue"
+    },
+    {
+     "t": "MACY GRIMSHAW WINS THE H&M DESIGN AWARD 2026",
+     "u": "https://press.hm.com/newsroom/2026/macy-grimshaw-wins-the-hm-design-award-2026",
+     "press": "H&M"
+    },
+    {
+     "t": "Macy Grimshaw Takes Home This Year’s H&M Design Award",
+     "u": "https://sg.news.yahoo.com/macy-grimshaw-takes-home-h-200532580.html",
+     "press": "Yahoo News Singapore"
+    }
+   ]
+  },
+  {
+   "name": "전북특별자치도교육청",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "전주대·전북교육청 개인정보 대량 유출…“피해 우려”",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717588",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "부산 대학가, 해킹으로 개인정보 유출 잇따라…긴급 보안 조치",
+     "u": "https://www.yna.co.kr/view/AKR20261119069700051",
      "press": "연합뉴스"
     },
     {
-     "t": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
-     "press": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "네이버뉴스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
-     "u": "https://www.journalist.or.kr/news/article.html?no=62103",
-     "press": "한국기자협회"
-    },
-    {
-     "t": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
-     "u": "https://www.etnews.com/20261118000308",
-     "press": "전자신문"
-    },
-    {
-     "t": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
-     "u": "https://zdnet.co.kr/view/?no=20261118201654",
-     "press": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "name": "전도연",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-     "u": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
-     "press": "조선일보"
-    },
-    {
-     "t": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
-     "u": "https://www.koreadaily.com/article/20261118070139540",
-     "press": "미주중앙일보"
-    },
-    {
-     "t": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
-     "u": "https://www.newsis.com/view/NISX20261118_0003873770",
+     "t": "성적·출결에 교직원 메일까지…대학 해킹 유출 파일서 'AI 흔적' 발견",
+     "u": "https://www.newsis.com/view/NISX20261119_0003875508",
      "press": "뉴시스"
     }
    ]
-  },
-  {
-   "name": "올랜도 대 필라데피아",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Houston 86-76 Florida (Nov 18, 2026) Final Score",
-     "u": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920514/houston-florida",
-     "press": "ESPN"
-    },
-    {
-     "t": "Kansas vs. West Virginia (Nov 18, 2026) Live Score",
-     "u": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920515/kansas-west-virginia",
-     "press": "ESPN"
-    },
-    {
-     "t": "Notre Dame 110-100 Rutgers (Nov 18, 2026) Final Score",
-     "u": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920513/rutgers-notre-dame",
-     "press": "ESPN"
-    }
-   ]
-  },
-  {
-   "name": "gemini neon",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Introducing Gemini 4 Neon",
-     "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "press": "blog.google"
-    },
-    {
-     "t": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
-     "u": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
-     "press": "Google for Developers Blog"
-    },
-    {
-     "t": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 S",
-     "u": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-     "press": "The Decoder"
-    }
-   ]
-  },
-  {
-   "name": "test alert",
-   "idx": 5,
-   "mv": "NEW",
-   "news": []
   }
  ]
 }
