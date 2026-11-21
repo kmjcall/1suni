@@ -1,127 +1,89 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261120",
- "updated": "2026-11-20T10:59:16+09:00",
+ "targetDate": "20261121",
+ "updated": "2026-11-21T10:56:38+09:00",
  "list": [
   {
-   "name": "논현동",
+   "name": "패딩",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
-     "u": "https://www.newsis.com/view/NISX20261119_0003874712",
+     "t": "이번 주부터 영하 시작! 한겨울을 위한 ‘헤비 다운 패딩’ 6",
+     "u": "https://www.esquirekorea.co.kr/article/1913425",
+     "press": "에스콰이어 코리아"
+    },
+    {
+     "t": "롱패딩 대신 이것 사라?…‘초강력 엘니뇨’가 만든 겨울 유행템",
+     "u": "https://www.koreadaily.com/article/20261120130043864",
+     "press": "미주중앙일보"
+    },
+    {
+     "t": "겉과 속 모두 잡은 겨울 아우터 뜬다…아웃도어업계, 프리미엄 소재 주목",
+     "u": "https://www.newsis.com/view/NISX20261120_0003876379",
      "press": "뉴시스"
-    },
-    {
-     "t": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MIZWGOJWGU3GEZDGMJSTGYRRG4/",
-     "press": "Chosunbiz"
-    },
-    {
-     "t": "유희열에 ‘연 4.4억’ 내는 안테나…2배 큰 ‘198억’ 유재석 건물로 이사가나?",
-     "u": "https://www.sportsseoul.com/news/read/1651112",
-     "press": "스포츠서울"
     }
    ]
   },
   {
-   "name": "경기도교육청",
-   "idx": 20,
+   "name": "반도체",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "[수능] 전북 'AI부정행위' 없어…응시방법 위반 등은 적발(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261119068751055",
+     "t": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+     "u": "https://www.yna.co.kr/view/AKR20261120164900003",
      "press": "연합뉴스"
     },
     {
-     "t": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
-     "press": "MBC 뉴스"
+     "t": "4년 만에 대중 무역흑자라더니…반도체 빼면 415억 달러 ‘적자’",
+     "u": "https://www.sedaily.com/article/20117193",
+     "press": "서울경제"
     },
     {
-     "t": "2027 대입수능 이모저모, 모두가 한마음…올해 수능도 큰 사고없이 마무리",
-     "u": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073141",
-     "press": "경상일보"
+     "t": "10대 수출시장 중 8곳서 흑자…잘 팔고도 눈치 보는 한국",
+     "u": "https://www.newsis.com/view/NISX20261117_0003871235",
+     "press": "뉴시스"
     }
    ]
   },
   {
-   "name": "이의리",
+   "name": "두산베어스",
    "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
-     "u": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
-     "press": "SPOTV NEWS"
+     "t": "돈 못지않은 ‘진정성’… 프로야구 FA전쟁[소소한 복도통신]",
+     "u": "https://www.munhwa.com/article/11632753",
+     "press": "문화일보"
     },
     {
-     "t": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
-     "press": "머니투데이"
+     "t": "두산·SSG도 원한다구? 사연 좀 들어볼까",
+     "u": "https://sports.khan.co.kr/article/202611200600016",
+     "press": "스포츠경향"
     },
     {
-     "t": "'韓 팬들도 궁금' 대체 일본은 무엇이 다르길래, 이의리-김서현-김진욱이 효과를 봤나…한화 이 선수 솔직속내 \"日 투수 수준 더 높다\"",
-     "u": "https://mydaily.co.kr/page/view/2026111911120848723",
-     "press": "마이데일리"
+     "t": "'이틀간 173억 계약 터졌다' 역대급 스토브리그 시작인가, 변수는 12월 ML 직장폐쇄…원태인·구자욱은 어디로?",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/19/HAZDGNZTGBRWEYZVGA2GCNJWME/",
+     "press": "조선일보"
     }
    ]
   },
   {
-   "name": "유니클로",
+   "name": "동아일보",
    "idx": 20,
    "mv": "NEW",
-   "news": [
-    {
-     "t": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
-     "u": "https://www.hankyung.com/article/2026111982391",
-     "press": "한국경제"
-    },
-    {
-     "t": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
-     "u": "https://www.yna.co.kr/view/AKR20261119033100009",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "“아무것도 이룬 게 없다” 2주간 통곡한 손정의…“AI에 남은 인생 바친다”",
-     "u": "https://www.joongang.co.kr/article/25479855",
-     "press": "중앙일보"
-    }
-   ]
-  },
-  {
-   "name": "물수리",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
-     "u": "https://www.khan.co.kr/article/202611191400001",
-     "press": "경향신문"
-    },
-    {
-     "t": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
-     "u": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
-     "press": "서울Pn"
-    }
-   ]
+   "news": []
   },
   {
    "name": "lpga",
    "idx": 10,
-   "mv": "NEW",
+   "mv": 1,
    "news": [
     {
-     "t": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
-     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+     "t": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
+     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
      "press": "news.sbs.co.kr"
     },
     {
@@ -130,96 +92,118 @@
      "press": "아시아경제"
     },
     {
-     "t": "Jeeno Thitikul Birdies the Last 5 holes to Share the Lead in LPGA Tour Season Fi",
-     "u": "https://www.lpga.com/news/2026/jeeno-thitikul-birdies-the-last-5-holes-to-share-the-lead-in-lpga-tour-season-finale",
-     "press": "LPGA"
+     "t": "Thitikul talks spark on back nine during two rounds at CME",
+     "u": "https://www.golfchannel.com/watch/lpga/thitikul-talks-spark-on-back-nine-during-two-rounds-at-cme",
+     "press": "Golf Channel"
     }
    ]
   },
   {
-   "name": "php 취약점",
+   "name": "지스타",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
-     "u": "https://news.hada.io/topic?id=37452",
-     "press": "GeekNews"
-    },
-    {
-     "t": "PHP 치명적 결함 패치...특정 웹서버 설정 시 코드 실행 가능",
-     "u": "https://www.boannews.com/news/articleView.html?idxno=147402",
-     "press": "보안뉴스"
-    },
-    {
-     "t": "AI 해킹으로 불안한데…PHP서 또 치명적 취약점 발견",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20261120.99099006370",
-     "press": "국제신문"
-    }
-   ]
-  },
-  {
-   "name": "2호선",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "서울 지하철 2호선 성수지선 양방향 운행 중지",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "서울지하철 노조 오늘부터 준법투쟁 돌입···출근길 시민들 “차이 모르겠어”",
-     "u": "https://www.khan.co.kr/article/202611201025011",
-     "press": "경향신문"
-    },
-    {
-     "t": "지하철 2호선 성수역-신설동역 양방향 운행 중단‥1호선 열차도 지연",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6867145_36918.html",
-     "press": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "h&m",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin,",
-     "u": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
-     "press": "Vogue"
-    },
-    {
-     "t": "MACY GRIMSHAW WINS THE H&M DESIGN AWARD 2026",
-     "u": "https://press.hm.com/newsroom/2026/macy-grimshaw-wins-the-hm-design-award-2026",
-     "press": "H&M"
-    },
-    {
-     "t": "Macy Grimshaw Takes Home This Year’s H&M Design Award",
-     "u": "https://sg.news.yahoo.com/macy-grimshaw-takes-home-h-200532580.html",
-     "press": "Yahoo News Singapore"
-    }
-   ]
-  },
-  {
-   "name": "전북특별자치도교육청",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "전주대·전북교육청 개인정보 대량 유출…“피해 우려”",
-     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717588",
-     "press": "KBS 뉴스"
-    },
-    {
-     "t": "부산 대학가, 해킹으로 개인정보 유출 잇따라…긴급 보안 조치",
-     "u": "https://www.yna.co.kr/view/AKR20261119069700051",
+     "t": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
+     "u": "https://www.yna.co.kr/view/AKR20261120133000017",
      "press": "연합뉴스"
     },
     {
-     "t": "성적·출결에 교직원 메일까지…대학 해킹 유출 파일서 'AI 흔적' 발견",
-     "u": "https://www.newsis.com/view/NISX20261119_0003875508",
+     "t": "'지스타 2026' 첫 주말, 벡스코에 관람객 북적…게임 축제 열기 고조",
+     "u": "https://zdnet.co.kr/view/?no=20261121102326",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "도쿄게임쇼는 북적이는데… 게임사 빠지고 썰렁한 지스타, 이대로 괜찮나",
+     "u": "https://www.chosun.com/economy/tech_it/2026/11/20/KNQMUH46XFC3BDZOJMXEPXISUE/",
+     "press": "조선일보"
+    }
+   ]
+  },
+  {
+   "name": "브루노 마스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Bruno Mars remembers his late father and the musical lessons he passed down",
+     "u": "https://abcnews.com/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867",
+     "press": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "t": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
+     "u": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
+     "press": "Los Angeles Times"
+    },
+    {
+     "t": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Every",
+     "u": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
+     "press": "Billboard"
+    }
+   ]
+  },
+  {
+   "name": "공군사관학교",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
+     "u": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
+     "press": "한겨레"
+    },
+    {
+     "t": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+     "u": "https://www.kyeonggi.com/article/20261120580310",
+     "press": "경기일보"
+    },
+    {
+     "t": "사관학교에서도 전자기기 부정행위…공사, 생도 1명 퇴교 처분",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8718753",
+     "press": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "ราคาทองวันนี้",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "ราคาทองคำในตลาดโลกยังคงร่วงลงอย่างต่อเนื่อง โดยราคาทองคำแท่งของ SJC ลดลงมากถึง 4",
+     "u": "https://www.vietnam.vn/th/gia-vang-the-gioi-tiep-tuc-lao-doc-vang-mieng-sjc-giam-toi-4-trieu-dong-luong",
+     "press": "Vietnam.vn"
+    },
+    {
+     "t": "XAU/USD: การวิเคราะห์ตามทฤษฎีคลื่นเอลเลียตและการคาดการณ์สำหรับวันที่ 20.11.2569 ",
+     "u": "https://www.litefinance.org/th/blog/analysts-opinions/gold-price-prediction-forecast/xauusd-kar-wikheraah-tam-thvsdi-khlun-xel-leiy-t-laea-kar-khad-karn-sahrab-wan-thi-20112569-27112569/",
+     "press": "LiteFinance"
+    },
+    {
+     "t": "ทองดิ่งลงเหว แตะ $3,500 ลงต่อหรือกลับตัวขึ้นแรง?",
+     "u": "https://www.intergold.co.th/investor_core/gold-20-11-69/",
+     "press": "InterGold"
+    }
+   ]
+  },
+  {
+   "name": "안양시",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "남양주시, 내년도 예산안 2조5천868억 편성…10.3%↑",
+     "u": "https://www.yna.co.kr/view/AKR20261120123600060",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "최대호 안양시장, 2027년 시정운영방향 발표…‘안양의 완성’ 향한 본격 도약",
+     "u": "https://www.kyeonggi.com/article/20261120580236",
+     "press": "경기일보"
+    },
+    {
+     "t": "안양시의회, 정례회 개회…예산안심사·행감 착수",
+     "u": "https://www.newsis.com/view/NISX20261120_0003876940",
      "press": "뉴시스"
     }
    ]
