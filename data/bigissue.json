@@ -1,226 +1,226 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261122",
- "updated": "2026-11-22T09:52:11+09:00",
+ "targetDate": "20261123",
+ "updated": "2026-11-23T10:21:26+09:00",
  "list": [
   {
-   "name": "수험",
+   "name": "정유라",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
-     "u": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
+     "t": "정유라 “대통령 지지하다 장애인 된 엄마”…최순실 병원비 지원 호소",
+     "u": "https://www.kyeonggi.com/article/20261122580033",
+     "press": "경기일보"
+    },
+    {
+     "t": "‘국정농단 21년형’ 최서원 병원비 호소한 정유라…“이번 주까지 전액 납부”",
+     "u": "https://www.joongang.co.kr/article/25479983",
+     "press": "중앙일보"
+    },
+    {
+     "t": "\"마지막까지 박 대통령 편, 엄마 외면 말라\"…정유라 병원비 지원 또 호소",
+     "u": "https://www.news1.kr/society/general-society/6361093",
+     "press": "뉴스1"
+    }
+   ]
+  },
+  {
+   "name": "김하성",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘270억 먹튀’ 김하성에 얼마나 배신감 느꼈길래…美 애틀랜타에 강력 경고 “타율 0.116 KIM, 재계약 절대 안 돼” - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/23/202611221702777801O",
+     "press": "머니투데이"
+    },
+    {
+     "t": "김하성 재계약 배제한 애틀랜타…유격수 트레이드 모색 : 스포츠",
+     "u": "https://news.jkn.co.kr/post/1115225",
+     "press": "재경일보"
+    },
+    {
+     "t": "'인저리 프론' 김하성, 최악의 경우 FA 미아 위기, 직장폐쇄에 5등급 수모까지…보라스도 외면하나?",
+     "u": "https://www.maniareport.com/view.php?ud=20261120065124594291b55a0d56_19",
+     "press": "m.maniareport.com"
+    }
+   ]
+  },
+  {
+   "name": "대학",
+   "idx": 100,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "충남신보·천안아산 8개 대학, 청년 창업교육 공동 추진",
+     "u": "https://www.viva100.com/article/20261122500101",
+     "press": "브릿지경제"
+    },
+    {
+     "t": "충남신용보증재단, 천안·아산 소재 8개 대학과 청년 창업교육 업무협약 체결",
+     "u": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112538",
+     "press": "충청매일"
+    },
+    {
+     "t": "\"청년 아이디어가 창업으로\"…충남신보, 대학과 손잡고 실무교육 나선다",
+     "u": "https://www.econovill.com/news/articleView.html?idxno=758101",
+     "press": "ER 이코노믹리뷰"
+    }
+   ]
+  },
+  {
+   "name": "오지헌",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "오지헌·박상미 부부 \"없을 때 나누니 일 더 많이 들어와\" 청년 밥차 봉사 근황",
+     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3759791",
+     "press": "국제뉴스"
+    },
+    {
+     "t": "'박상미♥' 오지헌, 미모의 세 딸 공개…'174cm' 고2 장녀에 \"모델해도 되겠다\" 반응 (아침마당)",
+     "u": "https://www.xportsnews.com/article/2222061",
+     "press": "www.xportsnews.com"
+    },
+    {
+     "t": "오지헌 아내 “혼전순결 지켰다”‥상견례 반응은? “母, 오지헌 얼굴 보고 충격”(아침마당)",
+     "u": "https://m.newsen.com/news_view.php?uid=202611230919166710",
+     "press": "뉴스엔"
+    }
+   ]
+  },
+  {
+   "name": "강금실",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "이종석 국정원장 교체될 듯, 후임에 강금실 유력",
+     "u": "https://www.hankookilbo.com/news/article/A2026112215200000070",
+     "press": "한국일보"
+    },
+    {
+     "t": "\"이종석 국정원장 강금실로 교체\" 보도‥靑 \"확인 어렵다\"",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6867744_36911.html",
      "press": "MBC 뉴스"
     },
     {
-     "t": "'피의자 사망' 살충제사건 풀었던 경찰 '리트만점 수사' 시험대",
-     "u": "https://www.yna.co.kr/view/AKR20261120178000004",
+     "t": "靑, 국정원장 교체설에 \"인사 확인 어려워\"",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261123085356QAv",
+     "press": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "name": "스쿠발",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "스쿠발, 메츠와 6059억원 계약… 투수 역대 최고 몸값",
+     "u": "https://www.chosun.com/sports/world-baseball/2026/11/23/BESCBPSK7FHFVA7TMW26CJNTBY/",
+     "press": "조선일보"
+    },
+    {
+     "t": "\"코헨에게는 푼돈, 스쿠발 영입에 걸림돌 아냐\" 신인 외야수와 1280억 연장 계약? 스쿠발 영입전 시작도 안했다 - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/22/202611220954773835O",
+     "press": "머니투데이"
+    },
+    {
+     "t": "MLB 메츠, 외야수 유잉과 8년 9천500만달러 연장 계약 합의",
+     "u": "https://www.yna.co.kr/view/AKR20261122016600007",
      "press": "연합뉴스"
-    },
-    {
-     "t": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
-     "u": "https://www.kyeonggi.com/article/20261121580007",
-     "press": "경기일보"
     }
    ]
   },
   {
-   "name": "삼전 닉스",
-   "idx": 100,
+   "name": "조세호",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-     "u": "https://busan.fnnews.com/news/202611220802359845",
-     "press": "부산파이낸셜뉴스"
-    },
-    {
-     "t": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
-     "u": "https://www.yna.co.kr/view/AKR20261120066600008",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
-     "u": "https://www.hankyung.com/article/2026112113727",
-     "press": "한국경제"
-    }
-   ]
-  },
-  {
-   "name": "부동산",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"매매도 전세도 막히면 어디로 가나\"…향후 부동산 시장 판단 기준은",
-     "u": "https://www.newsis.com/view/NISX20261118_0003873204",
-     "press": "뉴시스"
-    },
-    {
-     "t": "\"무주택자 이제 정말 큰일이네\"…13년 만에 '최악의 상황'",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=01436646645646048&mediaCodeNo=257",
-     "press": "이데일리"
-    },
-    {
-     "t": "[친절한 경제] 월세 구하다 한숨만…13년 만에 최대 상승",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846890",
-     "press": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "수출규제",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
-     "u": "https://www.segye.com/newsView/20261120506261",
-     "press": "세계일보"
-    },
-    {
-     "t": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
-     "u": "https://www.yna.co.kr/view/AKR20261121001651071",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
-     "press": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "name": "알테오젠",
-   "idx": 50,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "알테오젠 파트너 MSD, 할로자임 美 특허심판 14건 모두 승리",
-     "u": "https://pharm.edaily.co.kr/news/read?newsId=02371446645647360",
-     "press": "팜이데일리"
-    },
-    {
-     "t": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
-     "u": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
+     "t": "'조폭 연루설' 조세호, 고정 0개..1년만 유튜브 복귀 갑론을박 “응원vs시기상조” [Oh!쎈 이슈]",
+     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWMYTFME4DKYLCMIYDQMRSGQ/",
      "press": "Chosunbiz"
     },
     {
-     "t": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
-     "u": "https://www.newsis.com/view/NISX20261120_0003876311",
-     "press": "뉴시스"
+     "t": "‘조폭 연루설’ 조세호, 유튜브 활동 재개 “시기상조 쓴소리도”",
+     "u": "https://www.joongang.co.kr/article/25480407",
+     "press": "중앙일보"
+    },
+    {
+     "t": "조세호, 하루 세 탕 뛴 영상 1.3만 뷰…아내 정수지는 “구독.. 제발..”",
+     "u": "https://www.mk.co.kr/news/entertain/12214924",
+     "press": "매일경제"
     }
    ]
   },
   {
-   "name": "인공지능",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
-     "u": "https://www.yna.co.kr/view/AKR20261120160100017",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
-     "u": "https://zdnet.co.kr/view/?no=20261122085359",
-     "press": "지디넷코리아"
-    },
-    {
-     "t": "LG유플러스, 부문장 전부 교체…AI 사업 실행력 높인다",
-     "u": "https://www.etnews.com/20261122000001",
-     "press": "전자신문"
-    }
-   ]
-  },
-  {
-   "name": "real madrid vs rc celta de vigo standings",
-   "idx": 25,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Real Madrid 2-1 Celta Vigo (Nov 21, 2026) Game Analysis",
-     "u": "https://www.espn.com/soccer/report/_/gameId/401882798",
-     "press": "ESPN"
-    },
-    {
-     "t": "Comeback and ninth consecutive victory",
-     "u": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-celta-j13-liga-21-11-2026",
-     "press": "Real Madrid CF | Web Oficial"
-    },
-    {
-     "t": "Real Madrid 2-1 Celta Vigo: Carlos Espi scores late winner in La Liga",
-     "u": "https://www.bbc.com/sport/football/live/c6205wg000g8t",
-     "press": "BBC"
-    }
-   ]
-  },
-  {
-   "name": "털",
+   "name": "나스닥 선물",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
-     "u": "https://www.khan.co.kr/article/202611202127001",
-     "press": "경향신문"
+     "t": "나스닥 선물 1.3% 상승…추수감사절 앞두고 저가 매수에 반등 시도",
+     "u": "https://www.news1.kr/world/usa-canada/6362254",
+     "press": "뉴스1"
     },
     {
-     "t": "구경꾼 던진 ‘털모자’에…‘희망 아이콘’ 피오나 끝내 죽었다 [W 언박싱]",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8718950",
-     "press": "KBS 뉴스"
+     "t": "[속보] 나스닥지수, 장중 낙폭 3%대로 확대",
+     "u": "https://www.newspim.com/news/view/20261121000009",
+     "press": "뉴스핌"
     },
     {
-     "t": "국민 하마 '피오나' 추모하는 손 편지",
-     "u": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261121_0002298595&provider_id=&cID=&type=photoMain&catg=&idx=7",
-     "press": "뉴시스"
+     "t": "나스닥100 선물 2% 넘게 하락…미국 증시 선물 약세 확대",
+     "u": "https://www.tokenpost.kr/news/breaking/441592",
+     "press": "토큰포스트"
     }
    ]
   },
   {
-   "name": "군인",
+   "name": "편지",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
-     "press": "SBS 뉴스"
+     "t": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "부정행위 막으려 세 차례 울린 경보음...시민 반응은? [자막뉴스]",
-     "u": "https://www.ytn.co.kr/_ln/0134_202611201616010571",
-     "press": "YTN"
+     "t": "선생님은 학생들에게 격려 편지를 썼고, 자신만의 독특한 방식으로 학생들의 마음을 움직였습니다.",
+     "u": "https://www.vietnam.vn/ko/co-giao-viet-thu-dong-vien-hoc-tro-gay-xuc-dong-voi-cach-nhac-nho-dac-biet",
+     "press": "Vietnam.vn"
     },
     {
-     "t": "'재난 문자' 무력화 초소형 커닝 장비, 해외서 9만 원에 판매",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286587",
-     "press": "OhmyNews"
+     "t": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+     "u": "https://busan.fnnews.com/news/202611201111489476?pg=mny",
+     "press": "부산파이낸셜뉴스"
     }
    ]
   },
   {
-   "name": "화석연료",
+   "name": "atalanta vs inter",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8719299",
-     "press": "KBS 뉴스"
+     "t": "Preview: Atalanta BC vs Inter Milan - prediction, team news, lineups",
+     "u": "https://www.sportsmole.co.uk/football/atalanta-bc/preview/atalanta-vs-inter-milan-prediction-team-news-lineups_609517.html",
+     "press": "Sports Mole"
     },
     {
-     "t": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
-     "u": "https://www.electimes.com/news/articleView.html?idxno=374992",
-     "press": "전기신문"
+     "t": "Licensable picture: Atalanta BC v FC Internazionale - Serie A Enilive",
+     "u": "https://www.reutersconnect.com/item/atalanta-bc-v-fc-internazionale-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFMyU1ZWVw",
+     "press": "Reuters Connect"
     },
     {
-     "t": "폐막일 넘긴 기후총회, 캄보디아 학교를 보라",
-     "u": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287058",
-     "press": "OhmyNews"
+     "t": "Chivu: ‘Inter failed the exam, too soft and shallow’ in wild 4-4 with Atalanta",
+     "u": "https://football-italia.net/chivu-inter-failed-the-exam-too-soft-shallow/",
+     "press": "Football Italia"
     }
    ]
   }
