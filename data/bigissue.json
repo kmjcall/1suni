@@ -1,228 +1,212 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261123",
- "updated": "2026-11-23T10:21:26+09:00",
+ "targetDate": "20261124",
+ "updated": "2026-11-24T14:06:36+09:00",
  "list": [
   {
-   "name": "정유라",
+   "name": "k9 자주포",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "정유라 “대통령 지지하다 장애인 된 엄마”…최순실 병원비 지원 호소",
-     "u": "https://www.kyeonggi.com/article/20261122580033",
-     "press": "경기일보"
+     "t": "[단독] K-9 자주포 베트남에 추가 수출",
+     "u": "https://view.asiae.co.kr/article/2026112408492883586",
+     "press": "아시아경제"
     },
     {
-     "t": "‘국정농단 21년형’ 최서원 병원비 호소한 정유라…“이번 주까지 전액 납부”",
-     "u": "https://www.joongang.co.kr/article/25479983",
-     "press": "중앙일보"
+     "t": "한화에어로, 베트남에 'K-9' 자주포 추가 수출 전망",
+     "u": "https://www.ngetnews.com/news/articleView.html?idxno=556249",
+     "press": "뉴스저널리즘"
     },
     {
-     "t": "\"마지막까지 박 대통령 편, 엄마 외면 말라\"…정유라 병원비 지원 또 호소",
-     "u": "https://www.news1.kr/society/general-society/6361093",
-     "press": "뉴스1"
+     "t": "[단독] K-9 자주포 베트남에 추가 수출된다",
+     "u": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026112408492883586",
+     "press": "아시아경제"
     }
    ]
   },
   {
-   "name": "김하성",
-   "idx": 100,
+   "name": "삼성전자 임원 인사",
+   "idx": 40,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘270억 먹튀’ 김하성에 얼마나 배신감 느꼈길래…美 애틀랜타에 강력 경고 “타율 0.116 KIM, 재계약 절대 안 돼” - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/23/202611221702777801O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "김하성 재계약 배제한 애틀랜타…유격수 트레이드 모색 : 스포츠",
-     "u": "https://news.jkn.co.kr/post/1115225",
-     "press": "재경일보"
-    },
-    {
-     "t": "'인저리 프론' 김하성, 최악의 경우 FA 미아 위기, 직장폐쇄에 5등급 수모까지…보라스도 외면하나?",
-     "u": "https://www.maniareport.com/view.php?ud=20261120065124594291b55a0d56_19",
-     "press": "m.maniareport.com"
-    }
-   ]
-  },
-  {
-   "name": "대학",
-   "idx": 100,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "충남신보·천안아산 8개 대학, 청년 창업교육 공동 추진",
-     "u": "https://www.viva100.com/article/20261122500101",
-     "press": "브릿지경제"
-    },
-    {
-     "t": "충남신용보증재단, 천안·아산 소재 8개 대학과 청년 창업교육 업무협약 체결",
-     "u": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112538",
-     "press": "충청매일"
-    },
-    {
-     "t": "\"청년 아이디어가 창업으로\"…충남신보, 대학과 손잡고 실무교육 나선다",
-     "u": "https://www.econovill.com/news/articleView.html?idxno=758101",
-     "press": "ER 이코노믹리뷰"
-    }
-   ]
-  },
-  {
-   "name": "오지헌",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "오지헌·박상미 부부 \"없을 때 나누니 일 더 많이 들어와\" 청년 밥차 봉사 근황",
-     "u": "https://www.gukjenews.com/news/articleView.html?idxno=3759791",
-     "press": "국제뉴스"
-    },
-    {
-     "t": "'박상미♥' 오지헌, 미모의 세 딸 공개…'174cm' 고2 장녀에 \"모델해도 되겠다\" 반응 (아침마당)",
-     "u": "https://www.xportsnews.com/article/2222061",
-     "press": "www.xportsnews.com"
-    },
-    {
-     "t": "오지헌 아내 “혼전순결 지켰다”‥상견례 반응은? “母, 오지헌 얼굴 보고 충격”(아침마당)",
-     "u": "https://m.newsen.com/news_view.php?uid=202611230919166710",
-     "press": "뉴스엔"
-    }
-   ]
-  },
-  {
-   "name": "강금실",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "이종석 국정원장 교체될 듯, 후임에 강금실 유력",
-     "u": "https://www.hankookilbo.com/news/article/A2026112215200000070",
-     "press": "한국일보"
-    },
-    {
-     "t": "\"이종석 국정원장 강금실로 교체\" 보도‥靑 \"확인 어렵다\"",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6867744_36911.html",
-     "press": "MBC 뉴스"
-    },
-    {
-     "t": "靑, 국정원장 교체설에 \"인사 확인 어려워\"",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261123085356QAv",
-     "press": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "name": "스쿠발",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "스쿠발, 메츠와 6059억원 계약… 투수 역대 최고 몸값",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/11/23/BESCBPSK7FHFVA7TMW26CJNTBY/",
+     "t": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
+     "u": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
      "press": "조선일보"
     },
     {
-     "t": "\"코헨에게는 푼돈, 스쿠발 영입에 걸림돌 아냐\" 신인 외야수와 1280억 연장 계약? 스쿠발 영입전 시작도 안했다 - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/22/202611220954773835O",
-     "press": "머니투데이"
+     "t": "'갤럭시 사령탑 7년' 내려놓은 노태문…\"부품값 폭등 위기도 뚫은 저력\"",
+     "u": "https://www.newsis.com/view/NISX20261124_0003880254",
+     "press": "뉴시스"
     },
     {
-     "t": "MLB 메츠, 외야수 유잉과 8년 9천500만달러 연장 계약 합의",
-     "u": "https://www.yna.co.kr/view/AKR20261122016600007",
+     "t": "삼성전자, 부사장 39명 등 131명 승진 인사(종합)",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446185",
+     "press": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "name": "그랜드 테프트 오토 vi",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "GTA 6가 증명한 30프레임의 가치",
+     "u": "https://www.itworld.co.kr/article/4251830/gta-6%EA%B0%80-%EC%A6%9D%EB%AA%85%ED%95%9C-30%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EA%B0%80%EC%B9%98.html",
+     "press": "www.itworld.co.kr"
+    },
+    {
+     "t": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
+     "u": "https://zdnet.co.kr/view/?no=20261124092222",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "[동영상] \"내가 콘솔로 나온 걸 감사히 여겨라\" GTA6 돌풍에 잠잠한 모바일과 PC",
+     "u": "https://game.donga.com/125242/",
+     "press": "게임동아"
+    }
+   ]
+  },
+  {
+   "name": "미사일",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
+     "u": "https://www.yna.co.kr/view/AKR20261124083900009",
      "press": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "name": "조세호",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'조폭 연루설' 조세호, 고정 0개..1년만 유튜브 복귀 갑론을박 “응원vs시기상조” [Oh!쎈 이슈]",
-     "u": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWMYTFME4DKYLCMIYDQMRSGQ/",
-     "press": "Chosunbiz"
     },
     {
-     "t": "‘조폭 연루설’ 조세호, 유튜브 활동 재개 “시기상조 쓴소리도”",
-     "u": "https://www.joongang.co.kr/article/25480407",
-     "press": "중앙일보"
-    },
-    {
-     "t": "조세호, 하루 세 탕 뛴 영상 1.3만 뷰…아내 정수지는 “구독.. 제발..”",
-     "u": "https://www.mk.co.kr/news/entertain/12214924",
-     "press": "매일경제"
-    }
-   ]
-  },
-  {
-   "name": "나스닥 선물",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "나스닥 선물 1.3% 상승…추수감사절 앞두고 저가 매수에 반등 시도",
-     "u": "https://www.news1.kr/world/usa-canada/6362254",
+     "t": "러 미사일·드론 추락에 폴란드 발칵…트럼프는 \"실수일 뿐\"",
+     "u": "https://www.news1.kr/videos/25453",
      "press": "뉴스1"
     },
     {
-     "t": "[속보] 나스닥지수, 장중 낙폭 3%대로 확대",
-     "u": "https://www.newspim.com/news/view/20261121000009",
-     "press": "뉴스핌"
-    },
-    {
-     "t": "나스닥100 선물 2% 넘게 하락…미국 증시 선물 약세 확대",
-     "u": "https://www.tokenpost.kr/news/breaking/441592",
-     "press": "토큰포스트"
+     "t": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착",
+     "u": "https://www.bbc.com/korean/articles/cw143j3mek85o",
+     "press": "BBC"
     }
    ]
   },
   {
-   "name": "편지",
+   "name": "중고",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
-     "press": "연합뉴스TV"
+     "t": "중고나라, '지도 기반 상품 탐색' 기능 도입",
+     "u": "https://zdnet.co.kr/view/?no=20261124132656",
+     "press": "지디넷코리아"
     },
     {
-     "t": "선생님은 학생들에게 격려 편지를 썼고, 자신만의 독특한 방식으로 학생들의 마음을 움직였습니다.",
-     "u": "https://www.vietnam.vn/ko/co-giao-viet-thu-dong-vien-hoc-tro-gay-xuc-dong-voi-cach-nhac-nho-dac-biet",
-     "press": "Vietnam.vn"
+     "t": "중고나라, 지도 기반 상품 탐색 기능 도입",
+     "u": "https://www.etnews.com/20261124000048",
+     "press": "전자신문"
     },
     {
-     "t": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
-     "u": "https://busan.fnnews.com/news/202611201111489476?pg=mny",
-     "press": "부산파이낸셜뉴스"
+     "t": "중고나라, 지도 기반 검색 도입⋯ 고가 시계 거래 편의성 강화",
+     "u": "https://www.viva100.com/article/20261124500349",
+     "press": "브릿지경제"
     }
    ]
   },
   {
-   "name": "atalanta vs inter",
+   "name": "농업",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
+     "u": "https://www.kyeonggi.com/article/20261124580108",
+     "press": "경기일보"
+    },
+    {
+     "t": "파주시, 미래농업 혁신타운 조성 연구용역 착수보고회 개최",
+     "u": "https://www.joongdo.co.kr/web/view.php?key=20261124010008190",
+     "press": "중도일보"
+    },
+    {
+     "t": "파주시, 미래농업 혁신타운 조성 본격 추진",
+     "u": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315245",
+     "press": "전국매일신문"
+    }
+   ]
+  },
+  {
+   "name": "대전 서남부 종합스포츠타운",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "Preview: Atalanta BC vs Inter Milan - prediction, team news, lineups",
-     "u": "https://www.sportsmole.co.uk/football/atalanta-bc/preview/atalanta-vs-inter-milan-prediction-team-news-lineups_609517.html",
-     "press": "Sports Mole"
+     "t": "'대전 새 랜드마크' 서남부종합스포츠타운 실시설계 착수",
+     "u": "https://www.yna.co.kr/view/AKR20261124044400063",
+     "press": "연합뉴스"
     },
     {
-     "t": "Licensable picture: Atalanta BC v FC Internazionale - Serie A Enilive",
-     "u": "https://www.reutersconnect.com/item/atalanta-bc-v-fc-internazionale-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFMyU1ZWVw",
-     "press": "Reuters Connect"
+     "t": "대전서남부스포츠타운 체육시설 건립 속도…설계 적격자에 계룡건설",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261124100820Z7y",
+     "press": "연합뉴스TV"
     },
     {
-     "t": "Chivu: ‘Inter failed the exam, too soft and shallow’ in wild 4-4 with Atalanta",
-     "u": "https://football-italia.net/chivu-inter-failed-the-exam-too-soft-shallow/",
-     "press": "Football Italia"
+     "t": "대전 서남부종합스포츠타운 시공사에 계룡컨소 선정",
+     "u": "https://www.newsis.com/view/NISX20261124_0003880757",
+     "press": "뉴시스"
     }
    ]
+  },
+  {
+   "name": "12월 3일",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "12월 3일 국가기념일 된다… 李 “계엄군 맞선 위대한 국민 승리 기려야”",
+     "u": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
+     "press": "동아일보"
+    },
+    {
+     "t": "[속보]李대통령 \"12월3일, 국가기념일 '국민주권의 날' 지정 안건 처리 예정\" - 머니투데이",
+     "u": "https://www.mt.co.kr/politics/2026/11/24/2026112410082482330",
+     "press": "머니투데이"
+    },
+    {
+     "t": "'12·3 그날' 정부기념일로‥\"헌법 수호 국민 기념\"",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6868128_36918.html",
+     "press": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "name": "반포자이",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "반포자이 보유세, 올해 1809만원→내년 2641만원",
+     "u": "https://www.donga.com/news/Economy/article/all/20261123/135076417/2",
+     "press": "동아일보"
+    },
+    {
+     "t": "이헌욱 부동산원장, 공시가격 조사 현장 방문… 정확성·객관성 당부",
+     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/23/VSJL6CEGMJDQBEM5PXBL5NUUMQ/",
+     "press": "Chosunbiz"
+    },
+    {
+     "t": "2027년 보유세 계산서 — 공시가격 69% 유지와 종부세 개편 첫해, 서울 30단지 84㎡의 실거주·비거주 세금",
+     "u": "https://contents.premium.naver.com/plaform/bg/contents/261124001433004tm",
+     "press": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
+  {
+   "name": "윤하정",
+   "idx": 5,
+   "mv": "NEW",
+   "news": []
   }
  ]
 }
