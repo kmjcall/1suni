@@ -1,212 +1,228 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261124",
- "updated": "2026-11-24T14:06:36+09:00",
+ "targetDate": "20261125",
+ "updated": "2026-11-25T12:55:22+09:00",
  "list": [
   {
-   "name": "k9 자주포",
+   "name": "반도체",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] K-9 자주포 베트남에 추가 수출",
-     "u": "https://view.asiae.co.kr/article/2026112408492883586",
-     "press": "아시아경제"
+     "t": "코스피 5% 급락하며 '매도 사이드카'‥5천 선 반납",
+     "u": "https://imnews.imbc.com/news/2026/econo/article/6868374_36932.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "한화에어로, 베트남에 'K-9' 자주포 추가 수출 전망",
-     "u": "https://www.ngetnews.com/news/articleView.html?idxno=556249",
-     "press": "뉴스저널리즘"
-    },
-    {
-     "t": "[단독] K-9 자주포 베트남에 추가 수출된다",
-     "u": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026112408492883586",
-     "press": "아시아경제"
-    }
-   ]
-  },
-  {
-   "name": "삼성전자 임원 인사",
-   "idx": 40,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
-     "u": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
-     "press": "조선일보"
-    },
-    {
-     "t": "'갤럭시 사령탑 7년' 내려놓은 노태문…\"부품값 폭등 위기도 뚫은 저력\"",
-     "u": "https://www.newsis.com/view/NISX20261124_0003880254",
-     "press": "뉴시스"
-    },
-    {
-     "t": "삼성전자, 부사장 39명 등 131명 승진 인사(종합)",
-     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446185",
-     "press": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "name": "그랜드 테프트 오토 vi",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "GTA 6가 증명한 30프레임의 가치",
-     "u": "https://www.itworld.co.kr/article/4251830/gta-6%EA%B0%80-%EC%A6%9D%EB%AA%85%ED%95%9C-30%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EA%B0%80%EC%B9%98.html",
-     "press": "www.itworld.co.kr"
-    },
-    {
-     "t": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
-     "u": "https://zdnet.co.kr/view/?no=20261124092222",
-     "press": "지디넷코리아"
-    },
-    {
-     "t": "[동영상] \"내가 콘솔로 나온 걸 감사히 여겨라\" GTA6 돌풍에 잠잠한 모바일과 PC",
-     "u": "https://game.donga.com/125242/",
-     "press": "게임동아"
-    }
-   ]
-  },
-  {
-   "name": "미사일",
-   "idx": 20,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
-     "u": "https://www.yna.co.kr/view/AKR20261124083900009",
+     "t": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
+     "u": "https://www.yna.co.kr/view/AKR20261125066900008",
      "press": "연합뉴스"
     },
     {
-     "t": "러 미사일·드론 추락에 폴란드 발칵…트럼프는 \"실수일 뿐\"",
-     "u": "https://www.news1.kr/videos/25453",
-     "press": "뉴스1"
-    },
-    {
-     "t": "폴란드 '러시아 미사일이 영공 침범'…폭발 순간 CCTV에 포착",
-     "u": "https://www.bbc.com/korean/articles/cw143j3mek85o",
-     "press": "BBC"
+     "t": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다 - 머니투데이",
+     "u": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "중고",
+   "name": "연금 개혁",
+   "idx": 50,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+     "u": "https://weekly.khan.co.kr/article/202611250802011",
+     "press": "주간경향"
+    },
+    {
+     "t": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
+     "u": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
+     "press": "이데일리"
+    },
+    {
+     "t": "정은경 복지장관 “국민연금 68세부터 수령 사실 아냐…정부 검토 안 해”",
+     "u": "https://www.segye.com/newsView/20261125504579",
+     "press": "세계일보"
+    }
+   ]
+  },
+  {
+   "name": "디에고 시메오네",
    "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "중고나라, '지도 기반 상품 탐색' 기능 도입",
-     "u": "https://zdnet.co.kr/view/?no=20261124132656",
-     "press": "지디넷코리아"
-    },
-    {
-     "t": "중고나라, 지도 기반 상품 탐색 기능 도입",
-     "u": "https://www.etnews.com/20261124000048",
-     "press": "전자신문"
-    },
-    {
-     "t": "중고나라, 지도 기반 검색 도입⋯ 고가 시계 거래 편의성 강화",
-     "u": "https://www.viva100.com/article/20261124500349",
-     "press": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "name": "농업",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
-     "u": "https://www.kyeonggi.com/article/20261124580108",
-     "press": "경기일보"
-    },
-    {
-     "t": "파주시, 미래농업 혁신타운 조성 연구용역 착수보고회 개최",
-     "u": "https://www.joongdo.co.kr/web/view.php?key=20261124010008190",
-     "press": "중도일보"
-    },
-    {
-     "t": "파주시, 미래농업 혁신타운 조성 본격 추진",
-     "u": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315245",
-     "press": "전국매일신문"
-    }
-   ]
-  },
-  {
-   "name": "대전 서남부 종합스포츠타운",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'대전 새 랜드마크' 서남부종합스포츠타운 실시설계 착수",
-     "u": "https://www.yna.co.kr/view/AKR20261124044400063",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "대전서남부스포츠타운 체육시설 건립 속도…설계 적격자에 계룡건설",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261124100820Z7y",
-     "press": "연합뉴스TV"
-    },
-    {
-     "t": "대전 서남부종합스포츠타운 시공사에 계룡컨소 선정",
-     "u": "https://www.newsis.com/view/NISX20261124_0003880757",
-     "press": "뉴시스"
-    }
-   ]
-  },
-  {
-   "name": "12월 3일",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "12월 3일 국가기념일 된다… 李 “계엄군 맞선 위대한 국민 승리 기려야”",
-     "u": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
-     "press": "동아일보"
-    },
-    {
-     "t": "[속보]李대통령 \"12월3일, 국가기념일 '국민주권의 날' 지정 안건 처리 예정\" - 머니투데이",
-     "u": "https://www.mt.co.kr/politics/2026/11/24/2026112410082482330",
+     "t": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
      "press": "머니투데이"
     },
     {
-     "t": "'12·3 그날' 정부기념일로‥\"헌법 수호 국민 기념\"",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6868128_36918.html",
-     "press": "MBC 뉴스"
+     "t": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "시메오네 ATM 감독, 라리가 역대 '최다승' 신기록 … '345승'",
+     "u": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450020.html",
+     "press": "뉴데일리"
     }
    ]
   },
   {
-   "name": "반포자이",
+   "name": "서훈",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "반포자이 보유세, 올해 1809만원→내년 2641만원",
-     "u": "https://www.donga.com/news/Economy/article/all/20261123/135076417/2",
-     "press": "동아일보"
+     "t": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+     "u": "https://news.jtbc.co.kr/article/NB12329695",
+     "press": "JTBC"
     },
     {
-     "t": "이헌욱 부동산원장, 공시가격 조사 현장 방문… 정확성·객관성 당부",
-     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/23/VSJL6CEGMJDQBEM5PXBL5NUUMQ/",
-     "press": "Chosunbiz"
+     "t": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+     "u": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "2027년 보유세 계산서 — 공시가격 69% 유지와 종부세 개편 첫해, 서울 30단지 84㎡의 실거주·비거주 세금",
-     "u": "https://contents.premium.naver.com/plaform/bg/contents/261124001433004tm",
-     "press": "네이버 프리미엄콘텐츠"
+     "t": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
+     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&pWise=sub&pWiseSub=R4",
+     "press": "대한민국 정책브리핑"
     }
    ]
   },
   {
-   "name": "윤하정",
+   "name": "폭설",
    "idx": 5,
    "mv": "NEW",
-   "news": []
+   "news": [
+    {
+     "t": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
+     "u": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
+     "press": "조선일보"
+    },
+    {
+     "t": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
+     "u": "https://news.tf.co.kr/read/entertain/2393030.htm",
+     "press": "더팩트"
+    },
+    {
+     "t": "'폭설', 7일 연속 1위...임영웅 영화 5일 연속 TOP 5 [박스오피스] - 머니투데이",
+     "u": "https://www.mt.co.kr/entertainment/2026/11/25/2026112510157272732",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "3기 신도시",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
+     "u": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
+     "press": "네이버 프리미엄콘텐츠"
+    },
+    {
+     "t": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
+     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
+     "press": "마켓인"
+    },
+    {
+     "t": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
+     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/",
+     "press": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "name": "디트로이트 타이거스",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
+     "u": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
+     "press": "조선일보"
+    },
+    {
+     "t": "'268억→80억' 사라진 188억... DET행 김하성 향한 싸늘한 시선 \"공격력 메우기엔 역부족, 스스로 증명해야 해\" - 머니투데이",
+     "u": "https://www.mt.co.kr/sports/2026/11/25/2026112511084645242",
+     "press": "머니투데이"
+    },
+    {
+     "t": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
+     "u": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
+     "press": "동아일보"
+    }
+   ]
+  },
+  {
+   "name": "южная корея",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из ",
+     "u": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
+     "press": "Meduza"
+    },
+    {
+     "t": "Южная Корея поднимает истребители и велит жителям острова укрыться из‑за российс",
+     "u": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
+     "press": "Euronews.com"
+    },
+    {
+     "t": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
+     "u": "https://www.interfax.ru/world/1130910",
+     "press": "Интерфакс"
+    }
+   ]
+  },
+  {
+   "name": "한국대학신문",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
+     "u": "https://sjbnews.com/news/news.php?number=893393&year=2026",
+     "press": "새전북신문"
+    },
+    {
+     "t": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
+     "u": "https://news.unn.net/news/articleView.html?idxno=600953",
+     "press": "한국대학신문"
+    },
+    {
+     "t": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
+     "u": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
+     "press": "중도일보"
+    }
+   ]
+  },
+  {
+   "name": "김천(구미)",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
+     "u": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
+     "press": "대전일보"
+    },
+    {
+     "t": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
+     "u": "https://www.news1.kr/local/busan-gyeongnam/6364768",
+     "press": "뉴스1"
+    },
+    {
+     "t": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
+     "u": "https://www.newsis.com/view/NISX20261124_0003881691",
+     "press": "뉴시스"
+    }
+   ]
   }
  ]
 }
