@@ -1,226 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261125",
- "updated": "2026-11-25T12:55:22+09:00",
+ "targetDate": "20261126",
+ "updated": "2026-11-26T12:20:48+09:00",
  "list": [
   {
-   "name": "반도체",
+   "name": "수험",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "코스피 5% 급락하며 '매도 사이드카'‥5천 선 반납",
-     "u": "https://imnews.imbc.com/news/2026/econo/article/6868374_36932.html",
-     "press": "MBC 뉴스"
+     "t": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
+     "u": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
+     "press": "주간한국"
     },
     {
-     "t": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
-     "u": "https://www.yna.co.kr/view/AKR20261125066900008",
-     "press": "연합뉴스"
+     "t": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
+     "u": "https://www.hksisaeconomy.com/news/article.html?no=1304357",
+     "press": "한국시사경제"
     },
     {
-     "t": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다 - 머니투데이",
-     "u": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
-     "press": "머니투데이"
+     "t": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
+     "u": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516",
+     "press": "전국매일신문"
     }
    ]
   },
   {
-   "name": "연금 개혁",
-   "idx": 50,
+   "name": "삼성",
+   "idx": 20,
    "mv": "NEW",
    "news": [
     {
-     "t": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
-     "u": "https://weekly.khan.co.kr/article/202611250802011",
-     "press": "주간경향"
-    },
-    {
-     "t": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
-     "u": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
-     "press": "이데일리"
-    },
-    {
-     "t": "정은경 복지장관 “국민연금 68세부터 수령 사실 아냐…정부 검토 안 해”",
-     "u": "https://www.segye.com/newsView/20261125504579",
-     "press": "세계일보"
-    }
-   ]
-  },
-  {
-   "name": "디에고 시메오네",
-   "idx": 10,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
-     "press": "머니투데이"
-    },
-    {
-     "t": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
+     "t": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8723040",
      "press": "KBS 뉴스"
     },
     {
-     "t": "시메오네 ATM 감독, 라리가 역대 '최다승' 신기록 … '345승'",
-     "u": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450020.html",
-     "press": "뉴데일리"
+     "t": "[특징주] 삼성전자, 장 초반 1.6% 상승…SK하이닉스는 3.9%↑",
+     "u": "https://www.yna.co.kr/view/AKR20261126044200008",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "금리 올린 날 코스피 1%대 반등…점도표 상단 3.75%, 금리 고점에 신중론도 - 머니투데이",
+     "u": "https://www.mt.co.kr/stock/2026/11/26/2026112611054337104",
+     "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "서훈",
+   "name": "호랑이",
+   "idx": 20,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
+     "u": "https://www.hankookilbo.com/news/article/A2026112410080002933",
+     "press": "한국일보"
+    },
+    {
+     "t": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
+     "u": "https://news.kbs.co.kr/news/view.do?ncd=8722621",
+     "press": "KBS 뉴스"
+    },
+    {
+     "t": "“한 마디로 도살장” 호랑이 농장의 참혹한 현실, 남아공 출신 기자의 ‘비통한 외침’ 뒤에는 ‘밀매 조직’이? ...",
+     "u": "https://sports.khan.co.kr/article/202611251814003",
+     "press": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "name": "학교 폭력",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
-     "u": "https://news.jtbc.co.kr/article/NB12329695",
-     "press": "JTBC"
+     "t": "제주 해안가서 중학생 숨진채 발견...학교폭력 의혹 경찰 수사",
+     "u": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602666",
+     "press": "헤드라인제주"
     },
     {
-     "t": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
-     "u": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+     "t": "제주 중학생 사망…학교폭력 의혹 경찰 조사",
+     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261126103213wcw",
+     "press": "연합뉴스TV"
+    },
+    {
+     "t": "앞바다서 숨진 채 발견된 제주 중학생...유족 \"학폭 피해\" 의혹 제기 - 머니투데이",
+     "u": "https://www.mt.co.kr/society/2026/11/26/2026112608144396376",
+     "press": "머니투데이"
+    }
+   ]
+  },
+  {
+   "name": "육아휴직",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "\"직원 출산하면 1000만원\"…파격 복지 내걸자 '놀라운 결과'",
+     "u": "https://www.hankyung.com/article/202611261128g",
+     "press": "한국경제"
+    },
+    {
+     "t": "[게시판] NS홈쇼핑, '일·생활 균형 우수기업' 선정",
+     "u": "https://www.yna.co.kr/view/AKR20261126034100030",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "쿠도커뮤니케이션, '2026년 대한민국 일·생활균형 우수기업' 선정",
+     "u": "https://www.etnews.com/20261126000136",
+     "press": "전자신문"
+    }
+   ]
+  },
+  {
+   "name": "안민석",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
+     "u": "https://www.yna.co.kr/view/AKR20261125141000061",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
+     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
+     "press": "인천일보"
+    },
+    {
+     "t": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
+     "u": "https://www.kyeonggi.com/article/20261125580166",
+     "press": "경기일보"
+    }
+   ]
+  },
+  {
+   "name": "에어부산",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
+     "u": "https://www.yna.co.kr/view/AKR20261125113300051",
+     "press": "연합뉴스"
+    },
+    {
+     "t": "트리니티항공, 국제선 탑승률 90%… SNS 팔로워 확대에 최대 10만 원 할인",
+     "u": "https://www.hankookilbo.com/news/article/A2026112516420004191",
+     "press": "한국일보"
+    },
+    {
+     "t": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
+     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261125.99099007927",
+     "press": "국제신문"
+    }
+   ]
+  },
+  {
+   "name": "민원24",
+   "idx": 5,
+   "mv": "NEW",
+   "news": []
+  },
+  {
+   "name": "전기자동차 배터리",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+     "u": "https://www.hankyung.com/article/2026112502651",
+     "press": "한국경제"
+    },
+    {
+     "t": "전기차, 반값에 구매?…'배터리 리스제' 검토",
+     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
+     "press": "SBS 뉴스"
+    },
+    {
+     "t": "\"중국차보다 더 싸다\" 아이오닉5, 내년부터 반값에 살 수 있는 '전기차 혜택' 전망",
+     "u": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53429",
+     "press": "나남뉴스"
+    }
+   ]
+  },
+  {
+   "name": "초전마을",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
      "press": "MBC 뉴스"
     },
     {
-     "t": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
-     "u": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&pWise=sub&pWiseSub=R4",
-     "press": "대한민국 정책브리핑"
-    }
-   ]
-  },
-  {
-   "name": "폭설",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
-     "u": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
-     "press": "조선일보"
+     "t": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
+     "u": "https://www.yna.co.kr/view/AKR20261126082700052",
+     "press": "연합뉴스"
     },
     {
-     "t": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
-     "u": "https://news.tf.co.kr/read/entertain/2393030.htm",
-     "press": "더팩트"
-    },
-    {
-     "t": "'폭설', 7일 연속 1위...임영웅 영화 5일 연속 TOP 5 [박스오피스] - 머니투데이",
-     "u": "https://www.mt.co.kr/entertainment/2026/11/25/2026112510157272732",
-     "press": "머니투데이"
-    }
-   ]
-  },
-  {
-   "name": "3기 신도시",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
-     "u": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
-     "press": "네이버 프리미엄콘텐츠"
-    },
-    {
-     "t": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
-     "u": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
-     "press": "마켓인"
-    },
-    {
-     "t": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
-     "u": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/",
-     "press": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "name": "디트로이트 타이거스",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
-     "u": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
-     "press": "조선일보"
-    },
-    {
-     "t": "'268억→80억' 사라진 188억... DET행 김하성 향한 싸늘한 시선 \"공격력 메우기엔 역부족, 스스로 증명해야 해\" - 머니투데이",
-     "u": "https://www.mt.co.kr/sports/2026/11/25/2026112511084645242",
-     "press": "머니투데이"
-    },
-    {
-     "t": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
-     "u": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
-     "press": "동아일보"
-    }
-   ]
-  },
-  {
-   "name": "южная корея",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из ",
-     "u": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
-     "press": "Meduza"
-    },
-    {
-     "t": "Южная Корея поднимает истребители и велит жителям острова укрыться из‑за российс",
-     "u": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
-     "press": "Euronews.com"
-    },
-    {
-     "t": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
-     "u": "https://www.interfax.ru/world/1130910",
-     "press": "Интерфакс"
-    }
-   ]
-  },
-  {
-   "name": "한국대학신문",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
-     "u": "https://sjbnews.com/news/news.php?number=893393&year=2026",
-     "press": "새전북신문"
-    },
-    {
-     "t": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
-     "u": "https://news.unn.net/news/articleView.html?idxno=600953",
-     "press": "한국대학신문"
-    },
-    {
-     "t": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
-     "u": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
-     "press": "중도일보"
-    }
-   ]
-  },
-  {
-   "name": "김천(구미)",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
-     "u": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
-     "press": "대전일보"
-    },
-    {
-     "t": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
-     "u": "https://www.news1.kr/local/busan-gyeongnam/6364768",
+     "t": "수도권대기환경청, 재생에너지 확대·우수사례 공유 '민·관 성과보고회'",
+     "u": "https://www.news1.kr/local/gyeonggi/6365890",
      "press": "뉴스1"
-    },
-    {
-     "t": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
-     "u": "https://www.newsis.com/view/NISX20261124_0003881691",
-     "press": "뉴시스"
     }
    ]
   }
