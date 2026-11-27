@@ -1,210 +1,210 @@
 {
  "source": "구글 트렌드",
  "basis": "구글 급상승 검색어",
- "targetDate": "20261126",
- "updated": "2026-11-26T12:20:48+09:00",
+ "targetDate": "20261127",
+ "updated": "2026-11-27T12:26:42+09:00",
  "list": [
   {
-   "name": "수험",
+   "name": "한동훈",
    "idx": 100,
    "mv": "NEW",
    "news": [
     {
-     "t": "서울 자치구들, 수능 끝나도 분주...정시지원 전략 등 교육지원",
-     "u": "https://weekly.hankooki.com/news/articleView.html?idxno=7195145",
-     "press": "주간한국"
+     "t": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+     "u": "https://imnews.imbc.com/news/2026/society/article/6869010_36918.html",
+     "press": "MBC 뉴스"
     },
     {
-     "t": "논산시지속가능발전협의회, 수험생 위한 휴식 선물",
-     "u": "https://www.hksisaeconomy.com/news/article.html?no=1304357",
-     "press": "한국시사경제"
+     "t": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색",
+     "u": "https://news.jtbc.co.kr/article/NB12330116",
+     "press": "JTBC"
     },
     {
-     "t": "서대문구, 백련산서 겨울 산림치유 첫 운영…생애주기별 쉼 제공",
-     "u": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314516",
-     "press": "전국매일신문"
+     "t": "[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+     "u": "https://www.khan.co.kr/article/202611270947011",
+     "press": "경향신문"
     }
    ]
   },
   {
-   "name": "삼성",
-   "idx": 20,
+   "name": "ai 에이전트",
+   "idx": 50,
    "mv": "NEW",
    "news": [
     {
-     "t": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8723040",
+     "t": "'피클'이 촉발한 AI 비서 규율 논의…정부, 법 개정 만지작",
+     "u": "https://zdnet.co.kr/view/?no=20261125140053",
+     "press": "지디넷코리아"
+    },
+    {
+     "t": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
+     "u": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446918",
+     "press": "연합인포맥스"
+    },
+    {
+     "t": "나 대신 쇼핑·상담하는 AI '피클'이 던진 숙제…\"AI가 한 일, 누구 책임?\"",
+     "u": "https://www.newsis.com/view/NISX20261125_0003883342",
+     "press": "뉴시스"
+    }
+   ]
+  },
+  {
+   "name": "죽도시장",
+   "idx": 25,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "[여기는 포항] 포항 죽도시장 상인, 골목형 상가 해법 찾아 외",
+     "u": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723692",
      "press": "KBS 뉴스"
     },
     {
-     "t": "[특징주] 삼성전자, 장 초반 1.6% 상승…SK하이닉스는 3.9%↑",
-     "u": "https://www.yna.co.kr/view/AKR20261126044200008",
+     "t": "증평군, 골목형상점가 3곳 신규 지정…\"상권 활성화 기대\"",
+     "u": "https://www.yna.co.kr/view/AKR20261127017000064",
      "press": "연합뉴스"
     },
     {
-     "t": "금리 올린 날 코스피 1%대 반등…점도표 상단 3.75%, 금리 고점에 신중론도 - 머니투데이",
-     "u": "https://www.mt.co.kr/stock/2026/11/26/2026112611054337104",
-     "press": "머니투데이"
+     "t": "수성택지 먹자골목·미소거리·초산아우름 추가 지정…정읍 골목형상점가 4곳으로",
+     "u": "https://sjbnews.com/news/news.php?number=893685&year=2026",
+     "press": "새전북신문"
     }
    ]
   },
   {
-   "name": "호랑이",
-   "idx": 20,
+   "name": "국시원",
+   "idx": 25,
    "mv": "NEW",
    "news": [
     {
-     "t": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
-     "u": "https://www.hankookilbo.com/news/article/A2026112410080002933",
-     "press": "한국일보"
+     "t": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
+     "u": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573",
+     "press": "대한민국 정책브리핑"
     },
     {
-     "t": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
-     "u": "https://news.kbs.co.kr/news/view.do?ncd=8722621",
-     "press": "KBS 뉴스"
+     "t": "\"이례적인 수치\"...7배 늘어난 의사 국가시험 일부 과목 '만점자' [Y녹취록]",
+     "u": "https://www.ytn.co.kr/_ln/0134_202611270951249146",
+     "press": "YTN"
     },
     {
-     "t": "“한 마디로 도살장” 호랑이 농장의 참혹한 현실, 남아공 출신 기자의 ‘비통한 외침’ 뒤에는 ‘밀매 조직’이? ...",
-     "u": "https://sports.khan.co.kr/article/202611251814003",
+     "t": "\"설마 의사·간호사도 ‘냥이’가?\"…2년 전 만점 82명, 올해는 581명",
+     "u": "https://news.jtbc.co.kr/article/NB12329903",
+     "press": "JTBC"
+    }
+   ]
+  },
+  {
+   "name": "모리야스 하지메",
+   "idx": 10,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "前 일본 대표팀 감독 모리야스, K리그 올까",
+     "u": "https://www.chosun.com/sports/world-football/2026/11/27/4MZ2IJTV5RB6DHAVJY7DHDM4HA/",
+     "press": "조선일보"
+    },
+    {
+     "t": "모리야스, 일본 대표팀 8년 마무리…다음 행선지로 유럽 거론",
+     "u": "https://sports.khan.co.kr/article/202611261316003",
      "press": "스포츠경향"
+    },
+    {
+     "t": "브라질 잡았던 일본, '모리야스 고별전'서 파라과이에 덜미",
+     "u": "https://www.fnnews.com/news/202611180128047163",
+     "press": "파이낸셜뉴스"
     }
    ]
   },
   {
-   "name": "학교 폭력",
-   "idx": 5,
+   "name": "이동욱",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "제주 해안가서 중학생 숨진채 발견...학교폭력 의혹 경찰 수사",
-     "u": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602666",
-     "press": "헤드라인제주"
+     "t": "시상식 참석 위해 일본서 날아온 스기모토 \"열심히 노력했던 선수로 기억되고파\"",
+     "u": "https://www.newsis.com/view/NISX20261126_0003885243",
+     "press": "뉴시스"
     },
     {
-     "t": "제주 중학생 사망…학교폭력 의혹 경찰 조사",
-     "u": "https://www.yonhapnewstv.co.kr/news/AKR20261126103213wcw",
-     "press": "연합뉴스TV"
+     "t": "KIA-NC 왜 '이 선수' 안 잡았나 논란→48억 혜자 FA, 솔직 속내 밝혔다 \"10년 응원에도 늦게 꽃핀 거 같아, 감사했다\"",
+     "u": "https://www.chosun.com/sports/baseball/2026/11/26/GMZWKYTFGNQWGY3EHA4WCNBWMQ/",
+     "press": "조선일보"
     },
     {
-     "t": "앞바다서 숨진 채 발견된 제주 중학생...유족 \"학폭 피해\" 의혹 제기 - 머니투데이",
-     "u": "https://www.mt.co.kr/society/2026/11/26/2026112608144396376",
+     "t": "\"피네스 피처들이여, 매 경기 증명하라\" SNS 댓글이 현실로! LG 임찬규·KT 고영표, '끝내' 약속 지켜냈다! 공동 다승왕으로 낭만 실현 ",
+     "u": "https://www.mt.co.kr/sports/2026/11/27/2026112700001029512",
      "press": "머니투데이"
     }
    ]
   },
   {
-   "name": "육아휴직",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "\"직원 출산하면 1000만원\"…파격 복지 내걸자 '놀라운 결과'",
-     "u": "https://www.hankyung.com/article/202611261128g",
-     "press": "한국경제"
-    },
-    {
-     "t": "[게시판] NS홈쇼핑, '일·생활 균형 우수기업' 선정",
-     "u": "https://www.yna.co.kr/view/AKR20261126034100030",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "쿠도커뮤니케이션, '2026년 대한민국 일·생활균형 우수기업' 선정",
-     "u": "https://www.etnews.com/20261126000136",
-     "press": "전자신문"
-    }
-   ]
-  },
-  {
-   "name": "안민석",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
-     "u": "https://www.yna.co.kr/view/AKR20261125141000061",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
-     "u": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
-     "press": "인천일보"
-    },
-    {
-     "t": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
-     "u": "https://www.kyeonggi.com/article/20261125580166",
-     "press": "경기일보"
-    }
-   ]
-  },
-  {
-   "name": "에어부산",
-   "idx": 5,
-   "mv": "NEW",
-   "news": [
-    {
-     "t": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
-     "u": "https://www.yna.co.kr/view/AKR20261125113300051",
-     "press": "연합뉴스"
-    },
-    {
-     "t": "트리니티항공, 국제선 탑승률 90%… SNS 팔로워 확대에 최대 10만 원 할인",
-     "u": "https://www.hankookilbo.com/news/article/A2026112516420004191",
-     "press": "한국일보"
-    },
-    {
-     "t": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
-     "u": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261125.99099007927",
-     "press": "국제신문"
-    }
-   ]
-  },
-  {
-   "name": "민원24",
-   "idx": 5,
+   "name": "대한민국의 중앙행정기관",
+   "idx": 10,
    "mv": "NEW",
    "news": []
   },
   {
-   "name": "전기자동차 배터리",
-   "idx": 5,
+   "name": "sema",
+   "idx": 10,
    "mv": "NEW",
    "news": [
     {
-     "t": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
-     "u": "https://www.hankyung.com/article/2026112502651",
-     "press": "한국경제"
+     "t": "SEMA’s wildest builds show where car customization is heading",
+     "u": "https://www.wsav.com/news/semas-wildest-builds-show-where-car-customization-is-heading/",
+     "press": "WSAV-TV"
     },
     {
-     "t": "전기차, 반값에 구매?…'배터리 리스제' 검토",
-     "u": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
-     "press": "SBS 뉴스"
+     "t": "Editorial: Notes From the SEMA Show",
+     "u": "https://www.moderntiredealer.com/suppliers/news/55421356/editorial-notes-from-the-sema-show",
+     "press": "Modern Tire Dealer"
     },
     {
-     "t": "\"중국차보다 더 싸다\" 아이오닉5, 내년부터 반값에 살 수 있는 '전기차 혜택' 전망",
-     "u": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53429",
-     "press": "나남뉴스"
+     "t": "Beyond the Show Cars: 10 New SEMA Products That Stood Out",
+     "u": "https://www.hotrod.com/events/hot-rod-top-new-products-2026-sema-show",
+     "press": "HOT ROD Network"
     }
    ]
   },
   {
-   "name": "초전마을",
+   "name": "2026",
    "idx": 5,
    "mv": "NEW",
    "news": [
     {
-     "t": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
-     "u": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
+     "t": "Global Digital Health Forum 2026",
+     "u": "https://www.who.int/news-room/events/detail/2026/12/02/default-calendar/global-digital-health-forum-2026",
+     "press": "World Health Organization (WHO)"
+    },
+    {
+     "t": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was t",
+     "u": "https://www.mlb.com/news/things-to-be-thankful-for-from-2026-mlb-season",
+     "press": "MLB.com"
+    },
+    {
+     "t": "3 Things From 2026 Blue Jays Fans Can Be Thankful for on This American Holiday",
+     "u": "https://sports.yahoo.com/mlb/articles/3-things-2026-blue-jays-191551996.html",
+     "press": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "name": "코스닥",
+   "idx": 5,
+   "mv": "NEW",
+   "news": [
+    {
+     "t": "코스닥 장중 5% 급등‥'매수 사이드카' 발동",
+     "u": "https://imnews.imbc.com/news/2026/econo/article/6869030_36932.html",
      "press": "MBC 뉴스"
     },
     {
-     "t": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
-     "u": "https://www.yna.co.kr/view/AKR20261126082700052",
-     "press": "연합뉴스"
+     "t": "코스닥 5% 급등에 ‘매수 사이드카’...코스피도 1.7% 상승세",
+     "u": "https://www.chosun.com/economy/money/2026/11/27/ZRXWI6FSPFCXBPIF4THL4E5KKU/",
+     "press": "조선일보"
     },
     {
-     "t": "수도권대기환경청, 재생에너지 확대·우수사례 공유 '민·관 성과보고회'",
-     "u": "https://www.news1.kr/local/gyeonggi/6365890",
-     "press": "뉴스1"
+     "t": "국내 증시, 외국인 매수에 상승 전환…장중 4780선 넘어서",
+     "u": "http://www.jemin.com/news/articleView.html?idxno=848637",
+     "press": "제민일보"
     }
    ]
   }
